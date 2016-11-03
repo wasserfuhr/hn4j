@@ -1,4 +1,6 @@
-import java.net.*;
+import java.net.DatagramPacket;
+import java.net.DatagramSocket;
+import java.util.Date;
 //https://systembash.com/a-simple-java-udp-server-and-udp-client/
 public class Net{
  public static void main(String[]a)throws Exception{
@@ -12,5 +14,6 @@ public class Net{
    System.out.println("IN: "+sen);
    System.out.println(" "+rp.getLength());
    sd=sen.toUpperCase().getBytes();
+   System.out.println(" "+new Date().getTime());
    DatagramPacket sp=new DatagramPacket(sd,sd.length,rp.getAddress(),rp.getPort());
    s.send(sp);}}}
