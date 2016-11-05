@@ -13,6 +13,5 @@ public final class App{
  public static void main(final String... a) throws Exception{
   new FtBasic(new TkFork(new FkRegex("/",
    new TkRegex(){@Override public Response act(final RqRegex rq) throws IOException{
-    return new RsHtml("Hello"+ new RqForm(req).param("msg"););}})),2805).start(Exit.NEVER);}
-    //https://systembash.com/a-simple-java-udp-server-and-udp-client/
-}
+    return new RsHtml("Hello"+new RqForm(req).param("msg"));}})),2805).start(Exit.NEVER);}}
+  //https://systembash.com/a-simple-java-udp-server-and-udp-client/
