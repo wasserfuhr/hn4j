@@ -1,6 +1,7 @@
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.security.MessageDigest;
+import java.util.Arrays;
 import java.util.Scanner;
 import javax.xml.bind.DatatypeConverter;
 //https://systembash.com/a-simple-java-udp-server-and-udp-client/
@@ -13,10 +14,11 @@ public class Net{
   while(true){
    DatagramPacket rp=new DatagramPacket(rd,rd.length);
    s.receive(rp);
+   byte n[]=Arrays.copyOf(rp.getData(),rp.getLength();
    System.out.print(
     String.format("%x",
      System.currentTimeMillis()/1000-0x5608aa2b));
-   for(byte b:rp.getData())
+   for(byte b:n)
     System.out.print(String.format("%02x", b & 0xff));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
    byte[] hash = digest.digest(rp.getData());
