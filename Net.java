@@ -18,9 +18,11 @@ public class Net{
    byte n[]=Arrays.copyOf(rp.getData(),rp.getLength());
    System.out.print(String.format("7%x",System.currentTimeMillis()/1000-0x5608aa2b));
    System.out.print(String.format("%x",ct));
-   System.out.print(rp.getAddress().getHostAddress());
    String i[]=rp.getAddress().getHostAddress().substring(1).split("\\.");
    System.out.print(String.format("%2x",new Integer(i[0])));
+   System.out.print(String.format("%2x",new Integer(i[1])));
+   System.out.print(String.format("%2x",new Integer(i[2])));
+   System.out.print(String.format("%2x",new Integer(i[3])));
    for(byte b:n)System.out.print(String.format("%02x",b&0xff));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
    byte[] hash = digest.digest(n);
