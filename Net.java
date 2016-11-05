@@ -10,7 +10,9 @@ public class Net{
   while(true){
    DatagramPacket rp=new DatagramPacket(rd,rd.length);
    s.receive(rp);
-   System.out.print(System.currentTimeMillis()-0x5608aa2b*1000);
+   System.out.print(
+		    String.format("%x",
+				  System.currentTimeMillis()-0x5608aa2b*1000));
    String sen=new String(rp.getData());
    System.out.println("IN: "+sen);
    System.out.println(" "+rp.getLength());
