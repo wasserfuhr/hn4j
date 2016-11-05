@@ -19,7 +19,9 @@ public class Net{
    System.out.print(
     String.format("%x",
      System.currentTimeMillis()/1000-0x5608aa2b));
-   System.out.print(rp.getAddress());
+   String ip[]=rp.getAddress().split(".");   
+   System.out.print(" ");
+   System.out.print(String.format("%x",ip[0]));
    for(byte b:n)
     System.out.print(String.format("%02x", b & 0xff));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
