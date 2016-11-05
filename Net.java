@@ -26,7 +26,7 @@ public class Net{
    String hh=DatatypeConverter.printHexBinary(hash).toLowerCase();
    System.out.println(hh);
    String sen=new String(rp.getData());
-   sd=sen.toUpperCase().getBytes();
+   sd=(ct+sen).getBytes();
    DatagramPacket sp=new DatagramPacket(sd,sd.length,rp.getAddress(),rp.getPort());
    s.send(sp);
    ct++;}}}
