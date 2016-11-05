@@ -7,7 +7,7 @@ import javax.xml.bind.DatatypeConverter;
 public class Net{
  public static void main(String[]a)throws Exception{
   DatagramSocket s=new DatagramSocket(1337);
-  byte[] rd=new byte[0x10000];
+  byte[] rd=new byte[0x100];
   byte[] sd=new byte[1024];
   int ct=0;
   while(true){
