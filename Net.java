@@ -21,7 +21,7 @@ public class Net{
    String i[]=rp.getAddress().getHostAddress().substring(1).split("\\.");
    for(int j=0;j<4;j++)
     System.out.print(String.format("%2x ",new Integer(i[j])));
-   System.out.print(String.format("%4x ",rp.getPort());
+   System.out.print(String.format("%4x ",rp.getPort()));
    for(byte b:n)System.out.print(String.format("%02x",b&0xff));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
    byte[] hash = digest.digest(n);
