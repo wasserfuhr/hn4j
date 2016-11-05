@@ -11,7 +11,7 @@ public class Net{
   byte[] rd=new byte[0x100];
   byte[] sd=new byte[1024];
   int ct=0;
-  if(a.length>0)ct=new Integer(a[0]);
+  if(a.length>0)ct=Long.parseLong(a[0],16);
   while(true){
    System.out.print(String.format("%x ",ct));
    DatagramPacket rp=new DatagramPacket(rd,rd.length);
