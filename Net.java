@@ -18,7 +18,7 @@ public class Net{
    byte n[]=Arrays.copyOf(rp.getData(),rp.getLength());
    System.out.print(String.format("7%x",System.currentTimeMillis()/1000-0x5608aa2b));
    System.out.print(String.format("%x",ct));
-   System.out.print(rp.getAddress());
+   System.out.print(rp.getAddress().getHostAddress());
    String i[]=rp.getAddress().getHostAddress().substring(1).split("\\.");
    System.out.print(String.format("%02x",i[0]));
    System.out.print(String.format("%02x",i[1]));
