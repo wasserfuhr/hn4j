@@ -6,10 +6,8 @@ import clojure.lang.LispReader;
 import clojure.lang.RT;
 public class Clj{
  public static void exec(byte b[])throws Exception{
-  RT.loadResourceScript("hiccup/core.clj");
-  RT.loadResourceScript("clojure/data/json.clj");
-  String c="(fn [rq rs] ((eval (read-string (slurp \"https://dresdenlabs.appspot.com/boot\"))) rq rs))";
+  String c=new String(b);
   PushbackReader pr = new PushbackReader(new StringReader(c));
-  Object rootHandlerExpr=LispReader.read( pr, true, null, false);
-  IFn rootHandlerFn=(IFn) Compiler.eval( rootHandlerExpr);
-  rootHandlerFn.invoke(request,response);}}
+  Object expr=LispReader.read(pr,true,null,false);
+  IFn fn=(IFn) Compiler.eval(expr);
+  fn.invoke();}}
