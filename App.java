@@ -4,6 +4,7 @@ import org.takes.Request;
 import org.takes.Response;
 import org.takes.http.Exit;
 import org.takes.http.FtBasic;
+import org.takes.rq.form.RqFormBase;
 import org.takes.rq.form.RqFormSmart;
 import org.takes.rs.RsHtml;
 import org.takes.facets.fork.FkRegex;
