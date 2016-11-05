@@ -12,23 +12,23 @@ public class Net{
   byte[] rd=new byte[0x100];
   byte[] sd=new byte[1024];
   int ct=0;
-  System.out.println(a.length);
+  if(a.length>0)ct=new Integer(a[0]);
   while(true){
    System.out.print(String.format("%x ",ct));
    DatagramPacket rp=new DatagramPacket(rd,rd.length);
    s.receive(rp);
    byte n[]=Arrays.copyOf(rp.getData(),rp.getLength());
-   System.out.print(String.format("7%x ",System.currentTimeMillis()/1000-0x5608aa2b));
-
+   System.out.print(String.format("%x ",System.currentTimeMillis()/1000-0x5608aa2b));
    String i[]=rp.getAddress().getHostAddress().substring(1).split("\\.");
    for(int j=0;j<4;j++)
-    System.out.print(String.format("%2x ",new Integer(i[j])));
-   System.out.print(String.format("%4x ",rp.getPort()));
-   for(byte b:n)System.out.print(String.format("%02x",b&0xff));
+    System.out.print(String.format("%2x",new Integer(i[j])));
+   System.out.print(String.format(" %4x ",rp.getPort()));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
    byte[] hash = digest.digest(n);
    String hh=DatatypeConverter.printHexBinary(hash).toLowerCase();
-   System.out.println(hh);
+   System.out.print(hh+" ");
+   for(byte b:n)System.out.print(String.format("%02x",b&0xff));
+   System.out.println();
    String sen=new String(rp.getData());
    sd=(ct+sen).getBytes();
    DatagramPacket sp=new DatagramPacket(sd,sd.length,rp.getAddress(),rp.getPort());
