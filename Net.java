@@ -1,12 +1,8 @@
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.security.MessageDigest;
-
-    import java.util.Scanner;
-
-    import javax.xml.bind.DatatypeConverter;
-
-    
+import java.util.Scanner;
+import javax.xml.bind.DatatypeConverter;
 //https://systembash.com/a-simple-java-udp-server-and-udp-client/
 public class Net{
  public static void main(String[]a)throws Exception{
@@ -22,16 +18,9 @@ public class Net{
      System.currentTimeMillis()/1000-0x5608aa2b));
    for(byte b:rp.getData())
     System.out.print(String.format("%02x", b & 0xff));
-
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
-   
-   byte[] hash = digest.digest(data.getBytes("UTF-8"));
-   31
-       DatatypeConverter.printHexBinary(hash)
-       return bytesToHex(hash); // make it printable
-   32
-
-       
+   byte[] hash = digest.digest(rp.getData().getBytes("UTF-8"));
+   System.out.println(DatatypeConverter.printHexBinary(hash));
    String sen=new String(rp.getData());
    System.out.println("IN: "+sen);
    System.out.println(" "+rp.getLength());
