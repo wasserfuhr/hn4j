@@ -21,7 +21,7 @@ public class Net{
      System.currentTimeMillis()/1000-0x5608aa2b));
    //String ip[]=rp.getAddress().getHostAddress().split(".");
    //      String ip[]=rp.getAddress().getHostAddress().split(".");   
-   System.out.print(" "rp.getAddress());
+   System.out.print(" "+rp.getAddress());
    // System.out.print(String.format("%x",ip[0]));
    for(byte b:n)
     System.out.print(String.format("%02x", b & 0xff));
