@@ -8,7 +8,7 @@ import javax.xml.bind.DatatypeConverter;
 public class Net{
  public static void main(String[]a)throws Exception{
   DatagramSocket s=new DatagramSocket(1337);
-  byte[] rd=new byte[0x100];
+  byte[] rd=new byte[0x1000];
   byte[] sd=new byte[1024];
   long ct=0;
   if(a.length>0)ct=Long.parseLong(a[0],16);
@@ -24,13 +24,14 @@ public class Net{
     System.out.print(String.format("%2x",new Integer(i[j])));
    System.out.print(String.format(" %x ",p));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
-   byte[] hash = digest.digest(n);
-   String hh=DatatypeConverter.printHexBinary(hash).toLowerCase();
+   byte[] hash = 
+   String hh=DatatypeConverter.printHexBinary(digest.digest(n)).toLowerCase();
    System.out.print(hh+" ");
    for(byte b:n)System.out.print(String.format("%02x",b&0xff));
    System.out.println();
-   String sen=new String(rp.getData());
-   sd=(ct+sen).getBytes();
-   DatagramPacket sp=new DatagramPacket(sd,sd.length,rp.getAddress(),p==0?1337:p);
-   s.send(sp);
+   Clj.exec(n);
+   //   String sen=new String(rp.getData());
+   //sd=(ct+sen).getBytes();
+   //DatagramPacket sp=new DatagramPacket(sd,sd.length,rp.getAddress(),p==0?1337:p);
+   //s.send(sp);
    ct++;}}}
