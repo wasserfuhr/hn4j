@@ -19,7 +19,7 @@ public class Net{
    for(byte b:rp.getData())
     System.out.print(String.format("%02x", b & 0xff));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
-   byte[] hash = digest.digest(rp.getData().getBytes("UTF-8"));
+   byte[] hash = digest.digest(rp.getData());
    System.out.println(DatatypeConverter.printHexBinary(hash));
    String sen=new String(rp.getData());
    System.out.println("IN: "+sen);
