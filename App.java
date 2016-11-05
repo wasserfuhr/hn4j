@@ -14,5 +14,5 @@ public final class App{
  public static void main(final String... a) throws Exception{
   new FtBasic(new TkFork(new FkRegex("/",
    new TkRegex(){@Override public Response act(final RqRegex rq) throws IOException{
-       return new RsHtml("Hello"+new RqFormSmart(rq).single("msg"));}})),2805).start(Exit.NEVER);}}
+       return new RsHtml("Hello"+new RqFormSmart(new RqFormBase(rq)).single("msg"));}})),2805).start(Exit.NEVER);}}
   //https://systembash.com/a-simple-java-udp-server-and-udp-client/
