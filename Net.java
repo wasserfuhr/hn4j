@@ -12,7 +12,7 @@ public class Net{
    System.out.print(
     String.format("%x",
      System.currentTimeMillis()/1000-0x5608aa2b));
-   for(byte b:rp)
+   for(byte b:rp.getData())
     System.out.print(String.format("%02x", b & 0xff));
       
    String sen=new String(rp.getData());
