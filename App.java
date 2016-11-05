@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import org.takes.http.Exit;
 import org.takes.http.FtBasic;
-import org.takes.rs.RsHTML;
+import org.takes.rs.RsHtml;
 import org.takes.facets.fork.FkRegex;
 import org.takes.facets.fork.TkRegex;
 import org.takes.facets.fork.TkFork;
