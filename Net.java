@@ -14,7 +14,7 @@ public class Net{
   while(true){
    DatagramPacket rp=new DatagramPacket(rd,rd.length);
    s.receive(rp);
-   byte n[]=Arrays.copyOf(rp.getData(),rp.getLength();
+   byte n[]=Arrays.copyOf(rp.getData(),rp.getLength());
    System.out.print(
     String.format("%x",
      System.currentTimeMillis()/1000-0x5608aa2b));
