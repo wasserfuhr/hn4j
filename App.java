@@ -3,7 +3,7 @@ import java.net.*;
 import org.takes.Response;
 import org.takes.http.Exit;
 import org.takes.http.FtBasic;
-import org.takes.rq.RsForm;
+import org.takes.rq.RqForm;
 import org.takes.rs.RsHtml;
 import org.takes.facets.fork.FkRegex;
 import org.takes.facets.fork.RqRegex;
