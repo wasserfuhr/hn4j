@@ -12,12 +12,14 @@ public class Net{
   byte[] rd=new byte[0x100];
   byte[] sd=new byte[1024];
   int ct=0;
+  System.out.println(a.length);
   while(true){
+   System.out.print(String.format("%x ",ct));
    DatagramPacket rp=new DatagramPacket(rd,rd.length);
    s.receive(rp);
    byte n[]=Arrays.copyOf(rp.getData(),rp.getLength());
    System.out.print(String.format("7%x ",System.currentTimeMillis()/1000-0x5608aa2b));
-   System.out.print(String.format("%x ",ct));
+
    String i[]=rp.getAddress().getHostAddress().substring(1).split("\\.");
    for(int j=0;j<4;j++)
     System.out.print(String.format("%2x ",new Integer(i[j])));
