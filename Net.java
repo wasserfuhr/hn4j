@@ -20,7 +20,8 @@ public class Net{
     System.out.print(String.format("%02x", b & 0xff));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
    byte[] hash = digest.digest(rp.getData());
-   System.out.println(DatatypeConverter.printHexBinary(hash));
+   System.out.println();
+   System.out.println(DatatypeConverter.printHexBinary(hash).toLowerCase());
    String sen=new String(rp.getData());
    System.out.println("IN: "+sen);
    System.out.println(" "+rp.getLength());
