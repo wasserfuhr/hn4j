@@ -17,12 +17,13 @@ public class Net{
    System.out.print(String.format("%x ",ct));
    DatagramPacket rp=new DatagramPacket(rd,rd.length);
    s.receive(rp);
+   int p=rp.getPort();
    byte n[]=Arrays.copyOf(rp.getData(),rp.getLength());
    System.out.print(String.format("%x ",System.currentTimeMillis()/1000-0x5608aa2b));
    String i[]=rp.getAddress().getHostAddress().substring(1).split("\\.");
    for(int j=0;j<4;j++)
     System.out.print(String.format("%2x",new Integer(i[j])));
-   System.out.print(String.format(" %4x ",rp.getPort()));
+   System.out.print(String.format(" %4x ",p));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
    byte[] hash = digest.digest(n);
    String hh=DatatypeConverter.printHexBinary(hash).toLowerCase();
@@ -31,6 +32,6 @@ public class Net{
    System.out.println();
    String sen=new String(rp.getData());
    sd=(ct+sen).getBytes();
-   DatagramPacket sp=new DatagramPacket(sd,sd.length,rp.getAddress(),rp.getPort());
+   DatagramPacket sp=new DatagramPacket(sd,sd.length,rp.getAddress(),p==0?1337:p);
    s.send(sp);
    ct++;}}}
