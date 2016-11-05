@@ -21,7 +21,7 @@ public class Net{
    for(byte b:n)
     System.out.print(String.format("%02x", b & 0xff));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
-   byte[] hash = digest.digest(rp.getData());
+   byte[] hash = digest.digest(n);
    System.out.println();
    System.out.println(DatatypeConverter.printHexBinary(hash).toLowerCase());
    String sen=new String(rp.getData());
