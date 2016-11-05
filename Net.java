@@ -2,7 +2,6 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.security.MessageDigest;
 import java.util.Arrays;
-import java.util.Scanner;
 import javax.xml.bind.DatatypeConverter;
 //https://systembash.com/a-simple-java-udp-server-and-udp-client/
 //http://www.quickprogrammingtips.com/java/how-to-generate-sha256-hash-in-java.html
@@ -23,7 +22,7 @@ public class Net{
    String i[]=rp.getAddress().getHostAddress().substring(1).split("\\.");
    for(int j=0;j<4;j++)
     System.out.print(String.format("%2x",new Integer(i[j])));
-   System.out.print(String.format(" %4x ",p));
+   System.out.print(String.format(" %x ",p));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
    byte[] hash = digest.digest(n);
    String hh=DatatypeConverter.printHexBinary(hash).toLowerCase();
