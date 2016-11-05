@@ -16,11 +16,8 @@ public class Net{
    DatagramPacket rp=new DatagramPacket(rd,rd.length);
    s.receive(rp);
    byte n[]=Arrays.copyOf(rp.getData(),rp.getLength());
-   System.out.print(String.format("%x",ct);
-   System.out.print(String.format("%x",
-     System.currentTimeMillis()/1000-0x5608aa2b));
-   //String ip[]=rp.getAddress().getHostAddress().split(".");
-   //      String ip[]=rp.getAddress().getHostAddress().split(".");   
+   System.out.print(String.format("%x",ct));
+   System.out.print(String.format("%x",System.currentTimeMillis()/1000-0x5608aa2b));
    System.out.print(rp.getAddress());
    for(byte b:n)System.out.print(String.format("%02x",b&0xff));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
