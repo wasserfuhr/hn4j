@@ -19,8 +19,8 @@ public class Net{
    System.out.print(String.format("7%x",System.currentTimeMillis()/1000-0x5608aa2b));
    System.out.print(String.format("%x",ct));
    String i[]=rp.getAddress().getHostAddress().substring(1).split("\\.");
-   for(int i=0;i<4;i++)
-    System.out.print(String.format("%2x",new Integer(i[i])));
+   for(int j=0;j<4;j++)
+    System.out.print(String.format("%2x",new Integer(i[j])));
    for(byte b:n)System.out.print(String.format("%02x",b&0xff));
    MessageDigest digest = MessageDigest.getInstance("SHA-256");
    byte[] hash = digest.digest(n);
