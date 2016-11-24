@@ -1,0 +1,568 @@
+    1  java
+    2  tshark
+    3  do-release-upgrade
+    4  df
+    5  docker
+    6  docker stats
+    7  docker info
+    8  docker create wildfly
+    9  docker create maven
+   10  docker help
+   11  docker help create
+   12  docker
+   13  docker info
+   14  docker events
+   15  docker ps
+   16  docker pull maven
+   17  docker ps
+   18  docker top
+   19  docker images
+   20  docker maven:alpine
+   21  docker pull maven:alpine
+   22  docker ps
+   23  docker images
+   24  docker run 8d
+   25  docker start 8d
+   26  docker start 8daab30ef7d0
+   27  docker start maven
+   28  docker
+   29  docker stats
+   30  history
+   31  docker start 8daab30ef7d0
+   32  docker help start
+   33  docker
+   34  docker help create
+   35  docker create maven
+   36  docker ps
+   37  docker list
+   38  docker images
+   39  docker create 8daab30ef7d0
+   40  docker ps
+   41  history 
+   42  #a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.SbOneHist.txt
+   43  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.OvhOneHist.txt
+   44  ls
+   45  df
+   46  df -?
+   47  df --help
+   48  df -B
+   49  df -B=1
+   50  df -B1
+   51  history
+   52  ls
+   53  ls -al
+   54  df
+   55  history
+   56  df -B1
+   57  du
+   58  pwd
+   59  du -?
+   60  du --help
+   61  du -d2
+   62  du -d3
+   63  du -d3 /
+   64  du -d2 /
+   65  du -d2 /|sort -n
+   66  du -d2 /var|sort -n
+   67  du -d2 /var/lib/docker|sort -n
+   68  du -d2 /var/lib/docker/devicemapper/|sort -n
+   69  du -d2 /var/lib/docker/devicemapper/devicemapper/|sort -n
+   70  ls -l /var/lib/docker/devicemapper/devicemapper/
+   71  du -d2 /var/lib/docker/devicemapper/devicemapper/|sort -n
+   72  ls -l /var/lib/docker/devicemapper/devicemapper/
+   73  ls -l /mnt/
+   74  ls -l /var/lib/
+   75  ls -l /var/lib/docker/
+   76  ls -l /var/lib/docker/devicemapper/
+   77  ls -l /var/lib/docker/devicemapper/devicemapper/
+   78  docker info
+   79  sha256sum 
+   80  curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml |sha256sum 
+   81  history 
+   82  curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml |sha256sum 
+   83  curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml > 2c.sd
+   84  sha256sum *sd
+   85  passwd
+   86  curl http://download.jboss.org/wildfly/10.1.0.Final/wildfly-10.1.0.Final.zip > wf.zip
+   87  #unzip wf.zip 
+   88  mkdir wf
+   89  cd wf
+   90  unzip ../wf.zip 
+   91  apt-get install unzip
+   92  unzip ../wf.zip 
+   93  ls
+   94  mv wildfly-10.1.0.Final/ ..
+   95  cd ..
+   96  rmdir wf/
+   97  rm wf.zip
+   98  history 
+   99  ls
+  100  curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml |sha256sum 
+  101  curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml>d76.sd
+  102  sha256sum *sd
+  103  more d76.sd 
+  104  #curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml>d76.sd
+  105  java -v
+  106  apt-get install openjdk-8-jre-headless
+  107  java -v
+  108  java -version
+  109  ls
+  110  ./wildfly-10.1.0.Final/bin/standalone.sh 
+  111  ./wildfly-10.1.0.Final/bin/standalone.sh -b 164.132.52.81
+  112  mv soap-0.5.war wildfly-10.1.0.Final/standalone/deployments/
+  113  ./wildfly-10.1.0.Final/bin/standalone.sh -b 164.132.52.81
+  114  wget https://hyper-install.s3.amazonaws.com/hyper-linux-x86_64.tar.gz
+  115  gunzip hyper-linux-x86_64.tar.gz 
+  116  tar xf hyper-linux-x86_64.tar 
+  117  ./hyper 
+  118  hyper
+  119  ./hyper
+  120  ./hyper config
+  121  cat .hyper/config.json 
+  122  ls
+  123  .hyper pull nginx
+  124  ./hyper pull nginx
+  125  ./hyper fip alloc 1
+  126  ./hyper fip allocate 1
+  127  ./hyper run nginx
+  128  ./hyper help
+  129  ls
+  130  ./hyper stats
+  131  history 
+  132  ./hyper pull alpine
+  133  ./hyper run alpine
+  134  ./hyper run --help
+  135  .hyper pull sickp/alpine-sshd
+  136  ./hyper pull sickp/alpine-sshd
+  137  ./hyper run sickp/alpine-sshd
+  138  history 
+  139  ./hyper help run
+  140  history 
+  141  ./hyper run --size=s4 sickp/alpine-sshd
+  142  ##nohup/hyper run --size=s1 sickp/alpine-sshd
+  143  nohup/hyper run --size=s1 sickp/alpine-sshd &
+  144  history 
+  145  nohup ./hyper run --size=s1 sickp/alpine-sshd &
+  146  kill -9 965
+  147  ps aux
+  148  ls
+  149  history 
+  150  nohup ./hyper run --size=s1 sickp/alpine-sshd > hy.out &
+  151  tail hy.out 
+  152  ./hyper 
+  153  ./hyper ps
+  154  ./hyper stop lovin*
+  155  ./hyper stop loving-engelbart
+  156  ./hyper fip
+  157  ./hyper help fip
+  158  ./hyper help fip attach
+  159  ./hyper fip ls
+  160  ./hyper fip attach 209.177.91.170 672d443c49af2a5e485c2dbd7ee45a45cbb8d756b7c26c669ae7b471f8691570
+  161  tail hy.out 
+  162  ./hyper ps
+  163  ./hyper 
+  164  ./hyper port
+  165  ./hyper port --help
+  166  ./hyper stats
+  167  ls
+  168  javac
+  169  sendip -p ipv4 -is 192.168.1.81 -p udp -us 5070 -ud 5060 -d "Hello" -v 192.168.1.81
+  170  apt-get install sendip
+  171  sendip -p ipv4 -is 192.168.1.81 -p udp -us 5070 -ud 5060 -d "Hello" -v 192.168.1.81
+  172  sendip -?
+  173  sendip -p ipv4 -is 192.168.1.81 -p udp -us 5070 -ud 9876 -d "Hello" -v s.sl4.eu
+  174  ping s.sl4.eu
+  175  sendip -p ipv4 -is 192.168.1.81 -p udp -us 5070 -ud 9876 -d "Hello" -v 185.32.124.153
+  176  sendip -p ipv4 -is 127.0.0.1 -p udp -us 5070 -ud 9876 -d "Hello" -v 185.32.124.153
+  177  sendip -p ipv4 -is164.132.52.81 -p udp -us 5070 -ud 9876 -d "Hello" -v 185.32.124.153
+  178  sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 9876 -d "Hello" -v 185.32.124.153
+  179  #https://moythreads.com/wordpress/2012/03/15/sending-udp-packets-from-the-command-line/
+  180  sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "Hello" -v 185.32.124.153
+  181  sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 185.32.124.153
+  182  docker
+  183  docker pull thetallgrassnet/alpine-java
+  184  docker
+  185  docker images
+  186  docker run thetallgrassnet/alpine-java
+  187  docker run 
+  188  docker run 647e310fca29
+  189  docker run 647e310fca29 java
+  190  docker run 647e310fca29 java -version
+  191  git
+  192  git clone https://github.com/wasserfuhr/hn4j.git
+  193  javac
+  194  apt-get install openjdk-6-jdk
+  195  history|grep hi
+  196  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.OvhOneHist.txt
+  197  ls
+  198  ls -l
+  199  rm hyper-linux-x86_64.tar soap-0.5.war 
+  200  date
+  201  #
+  202  #Thu Nov  3 22:50:44 CET 2016
+  203  history 
+  204  javac
+  205  cd hn4j/
+  206  javac Net.java 
+  207  java
+  208  java Net 
+  209  history 
+  210  ls
+  211  emacs Net.java
+  212  history 
+  213  tail hy.out 
+  214  tail ~/hy.out 
+  215  history
+  216  ls ..
+  217  pwd
+  218  /root/hyper
+  219  /root/hyper images
+  220  /root/hyper rmi e43d811ce2f4
+  221  /root/hyper rm 7c7d5f0c0665
+  222  /root/hyper rmi e43d811ce2f4
+  223  history|grep no
+  224  a=`curl https://knot-net.appspot.com/at`;echo at$a
+  225  #at213b8ae.c4
+  226  history
+  227  /root/hyper
+  228  /root/hyper psp
+  229  /root/hyper ps
+  230  /root/hyper stop 9fec95d12502
+  231  /root/hyper images
+  232  /root/hyper rim baa5d63471ea 54ec2cd05388
+  233  /root/hyper rmi baa5d63471ea 54ec2cd05388
+  234  /root/hyper ps
+  235  /root/hyper rm 9fec95d12502
+  236  /root/hyper rmi baa5d63471ea 54ec2cd05388
+  237  /root/hyper ps
+  238  /root/hyper stats
+  239  history
+  240  /root/hyper
+  241  /root/hyper infoo
+  242  /root/hyper info
+  243  /root/hyper volume
+  244  /root/hyper volume ls
+  245  whois 209.177.91.170
+  246  /root/hyper
+  247  /root/hyper service
+  248  /root/hyper service ls
+  249  ls
+  250  git status
+  251  history 
+  252  ls
+  253  cp Net.java HtTp.java
+  254  git add HtTp.java 
+  255  history|grep co
+  256  git commit -am "~*"
+  257  wget http://central.maven.org/maven2/org/takes/takes/1.1/takes-1.1.jar
+  258  emacs App.java
+  259  apt-get install emacs24-nox
+  260  emacs App.java
+  261  git add App.java 
+  262  history 
+  263  git commit -am "~*"
+  264  git config --global user.name "RaWa"
+  265  git config --global user.email wasserfuhr@yahoo.com
+  266  git commit -am "~*"
+  267  javac -cp takes.jar App.java
+  268  ls
+  269  javac -cp takes-1.1.jar App.java
+  270  wget http://central.maven.org/maven2/org/takes/takes/1.0/takes-1.0.jar
+  271  javac -cp takes-1.0.jar App.java
+  272  javac -version
+  273  ls
+  274  git status
+  275  git push
+  276  git pull
+  277  git status
+  278  git pull
+  279  git status
+  280  git push
+  281  history 
+  282  java Net 
+  283  #endip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 185.32.124.153
+  284  java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/root/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/root/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp > /home/rawa/in/at$a.HtTp.log
+  285  java -cp .:/home/rawa/in/btn/trunk/src/main/webapp/WEB-INF/classes/:/root/.m2/repository/org/clojure/clojure/1.8.0/clojure-1.8.0.jar:/root/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar:jetty-all-8.1.9.v20130131.jar HtTp
+  286  cd ..
+  287  ls
+  288  mkdir git
+  289  mv hn4j/ git/
+  290  ls
+  291  ls -al
+  292  pwd
+  293  cd git/hn4j/
+  294  ls -al
+  295  ls -l
+  296  more App.java 
+  297  more Net.java 
+  298  git pull
+  299  emacs Net.java
+  300  javac Net.java 
+  301  java Net
+  302  git status
+  303  history 
+  304  git commit -am "~*"
+  305  emacs Net.java
+  306  git commit -am "~*"
+  307  javac Net.java
+  308  java Net
+  309  javac Net.java
+  310  emacs Net.java
+  311  git commit -am "~*"
+  312  javac Net.java
+  313  java Net
+  314  git status
+  315  emacs Net.java
+  316  git commit -am "~*"
+  317  javac Net.java
+  318  emacs Net.java
+  319  git commit -am "~*"
+  320  javac Net.java
+  321  java Net
+  322  git commit -am "~*"
+  323  emacs Net.java
+  324  git commit -am "~*"
+  325  emacs Net.java
+  326  git commit -am "~*"
+  327  emacs Net.java
+  328  git commit -am "~*"
+  329  javac Net.java
+  330  emacs Net.java
+  331  git commit -am "~*"
+  332  javac Net.java
+  333  java Net
+  334  emacs Net.java
+  335  git commit -am "~*"
+  336  javac Net.java
+  337  java Net
+  338  git commit -am "~*"
+  339  javac Net.java
+  340  emacs Net.java
+  341  git commit -am "~*"
+  342  javac Net.java
+  343  java Net
+  344  git commit -am "~*"
+  345  emacs Net.java
+  346  git commit -am "~*"
+  347  javac Net.java
+  348  emacs Net.java
+  349  git commit -am "~*"
+  350  javac Net.java
+  351  java Net
+  352  git commit -am "~*"
+  353  emacs Net.java
+  354  git commit -am "~*"
+  355  javac Net.java
+  356  java Net
+  357  javac Net.java
+  358  git commit -am "~*"
+  359  emacs Net.java
+  360  git commit -am "~*"
+  361  javac Net.java
+  362* 
+  363  git commit -am "~*"
+  364  git push
+  365  emacs Net.java
+  366  git commit -am "~*"
+  367  javac Net.java
+  368  emacs Net.java
+  369  git commit -am "~*"
+  370  javac Net.java
+  371  java Net
+  372  emacs Net.java
+  373  git commit -am "~*"
+  374  java Net
+  375  emacs Net.java
+  376  git commit -am "~*"
+  377  javac Net.java
+  378  emacs Net.java
+  379  git commit -am "~*"
+  380  javac Net.java
+  381  java Net
+  382  emacs Net.java
+  383  git commit -am "~*"
+  384  javac Net.java
+  385  emacs Net.java
+  386  git commit -am "~*"
+  387  javac Net.java
+  388  java Net
+  389  git commit -am "~*"
+  390  emacs Net.java
+  391  git commit -am "~*"
+  392  javac Net.java
+  393  emacs Net.java
+  394  git commit -am "~*"
+  395  javac Net.java
+  396  emacs Net.java
+  397  git commit -am "~*"
+  398  javac Net.java
+  399  git commit -am "~*"
+  400  emacs Net.java
+  401  git commit -am "~*"
+  402  javac Net.java
+  403  java Net
+  404  git commit -am "~*"
+  405  emacs Net.java
+  406  git commit -am "~*"
+  407  javac Net.java
+  408  java Net
+  409  emacs Net.java
+  410  git commit -am "~*"
+  411  javac Net.java
+  412  emacs Net.java
+  413  git commit -am "~*"
+  414  javac Net.java
+  415  emacs Net.java
+  416  javac Net.java
+  417  git commit -am "~*"
+  418  java Net
+  419  emacs Net.java
+  420  git commit -am "~*"
+  421  javac Net.java
+  422  java Net
+  423  git commit -am "~*"
+  424  emacs Net.java
+  425  git commit -am "~*"
+  426  javac Net.java
+  427  java Net
+  428  emacs Net.java
+  429  git commit -am "~*"
+  430  javac Net.java
+  431  java Net
+  432  emacs Net.java
+  433  git commit -am "~*"
+  434  javac Net.java
+  435  java Net
+  436  git commit -am "~*"
+  437  emacs Net.java
+  438  git commit -am "~*"
+  439  javac Net.java
+  440  java Net
+  441  git commit -am "~*"
+  442  emacs Net.java
+  443  git push
+  444  java Net
+  445  git commit -am "~*"
+  446  emacs Net.java
+  447  git commit -am "~*"
+  448  javac Net.java
+  449  emacs Net.java
+  450  git commit -am "~*"
+  451  javac Net.java
+  452  emacs Net.java
+  453  git commit -am "~*"
+  454  javac Net.java
+  455  git push
+  456  ls
+  457  git status
+  458  emacs Net.java
+  459  java Net
+  460  emacs Net.java
+  461  git commit -am "~*"
+  462  javac Net.java
+  463  emacs Net.java
+  464  javac Net.java
+  465  git commit -am "~*"
+  466  emacs Net.java
+  467  git commit -am "~*"
+  468  javac Net.java
+  469  java Net
+  470  javac Net.java
+  471  git commit -am "~*"
+  472  ls -al
+  473  more Dockerfile
+  474  emacs Net.java
+  475  git commit -am "~*";javac Net.java
+  476  java Net 
+  477  emacs Net.java
+  478  git commit -am "~*";javac Net.java
+  479  java Net 1
+  480  emacs Net.java
+  481  history
+  482  git commit -am "~*";javac Net.java
+  483  java Net
+  484  echo 1
+  485  echo 0xa
+  486  echo \0xa
+  487  emacs Net.java
+  488  git commit -am "~*";javac Net.java
+  489  git commit -am "~*";javac Net.java;java Net
+  490  emacs Net.java
+  491  git commit -am "~*";javac Net.java;java Net
+  492  emacs Net.java
+  493  git commit -am "~*";javac Net.java;java Net
+  494  git commit -am "~*";javac Net.java;java Net aa0
+  495  ls -al
+  496  git status
+  497  rm takes-1.?.jar
+  498  ls -al
+  499  more .gitignore 
+  500  git status
+  501  git push
+  502  #git commit -am "~*";javac Net.java;java Net aa0
+  503  history
+  504  emacs Net.java
+  505  ls ..
+  506  curl https://raw.githubusercontent.com/wasserfuhr/NooSphere/master/src/main/webapp/index.jsp > Clj.java
+  507  more Clj.java 
+  508  git add Clj.java
+  509  history
+  510  git commit -am "~*"
+  511  emacs Clj.java
+  512  history 
+  513  git commit -am "~*"
+  514  javac Clj.java
+  515  emacs Clj.java
+  516  javac Clj.java
+  517  emacs Clj.java
+  518  git commit -am "~*"
+  519  javac Clj.java
+  520  xxd Clj.java 
+  521  git commit -am "~*"
+  522  emacs Clj.java
+  523  git commit -am "~*"
+  524  xxd Clj.java 
+  525  javac Clj.java
+  526  cat Clj.java 
+  527  rm Clj.java 
+  528  emacs Clj.java
+  529  xxd Clj.java 
+  530  emacs Clj.java
+  531  xxd Clj.java 
+  532  git commit -am "~*"
+  533  javac Clj.java
+  534  mvn
+  535  apt-get install maven
+  536  mvn
+  537  mvn com.googlecode.maven-download-plugin:download-maven-plugin:1.3.0:artifact
+  538  wget http://central.maven.org/maven2/org/clojure/clojure/1.8.0/clojure-1.8.0.jar
+  539  javac -cp clojure-1.8.0.jar Clj.java
+  540  java -cp clojure-1.8.0.jar Net
+  541  java -cp clojure-1.8.0.jar:. Net
+  542  javac Net.java 
+  543  history
+  544  git commit -am "~*"
+  545  emacs Net.java
+  546  git commit -am "~*"
+  547  javac Net.java 
+  548  history 
+  549  java -cp clojure-1.8.0.jar:. Net
+  550  git status
+  551  history
+  552  emacs Net.java
+  553  emacs Clj.java
+  554  git commit -am "~*"
+  555  java -cp clojure-1.8.0.jar:. Net
+  556  history 
+  557  git commit -am "~*"
+  558  javac Clj.java
+  559  emacs Clj.java
+  560  javac Clj.java
+  561  history|grep cp
+  562  javac -cp clojure-1.8.0.jar Clj.java
+  563  java -cp clojure-1.8.0.jar:. Net
+  564  javac Net.java
+  565  java -cp clojure-1.8.0.jar:. Net
+  566  history 
+  567  history|grep hi
+  568  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.OvhOneHist.txt

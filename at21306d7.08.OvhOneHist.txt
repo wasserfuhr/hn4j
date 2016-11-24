@@ -1,0 +1,196 @@
+    1  java
+    2  tshark
+    3  do-release-upgrade
+    4  df
+    5  docker
+    6  docker stats
+    7  docker info
+    8  docker create wildfly
+    9  docker create maven
+   10  docker help
+   11  docker help create
+   12  docker
+   13  docker info
+   14  docker events
+   15  docker ps
+   16  docker pull maven
+   17  docker ps
+   18  docker top
+   19  docker images
+   20  docker maven:alpine
+   21  docker pull maven:alpine
+   22  docker ps
+   23  docker images
+   24  docker run 8d
+   25  docker start 8d
+   26  docker start 8daab30ef7d0
+   27  docker start maven
+   28  docker
+   29  docker stats
+   30  history
+   31  docker start 8daab30ef7d0
+   32  docker help start
+   33  docker
+   34  docker help create
+   35  docker create maven
+   36  docker ps
+   37  docker list
+   38  docker images
+   39  docker create 8daab30ef7d0
+   40  docker ps
+   41  history 
+   42  #a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.SbOneHist.txt
+   43  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.OvhOneHist.txt
+   44  ls
+   45  df
+   46  df -?
+   47  df --help
+   48  df -B
+   49  df -B=1
+   50  df -B1
+   51  history
+   52  ls
+   53  ls -al
+   54  df
+   55  history
+   56  df -B1
+   57  du
+   58  pwd
+   59  du -?
+   60  du --help
+   61  du -d2
+   62  du -d3
+   63  du -d3 /
+   64  du -d2 /
+   65  du -d2 /|sort -n
+   66  du -d2 /var|sort -n
+   67  du -d2 /var/lib/docker|sort -n
+   68  du -d2 /var/lib/docker/devicemapper/|sort -n
+   69  du -d2 /var/lib/docker/devicemapper/devicemapper/|sort -n
+   70  ls -l /var/lib/docker/devicemapper/devicemapper/
+   71  du -d2 /var/lib/docker/devicemapper/devicemapper/|sort -n
+   72  ls -l /var/lib/docker/devicemapper/devicemapper/
+   73  ls -l /mnt/
+   74  ls -l /var/lib/
+   75  ls -l /var/lib/docker/
+   76  ls -l /var/lib/docker/devicemapper/
+   77  ls -l /var/lib/docker/devicemapper/devicemapper/
+   78  docker info
+   79  sha256sum 
+   80  curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml |sha256sum 
+   81  history 
+   82  curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml |sha256sum 
+   83  curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml > 2c.sd
+   84  sha256sum *sd
+   85  passwd
+   86  curl http://download.jboss.org/wildfly/10.1.0.Final/wildfly-10.1.0.Final.zip > wf.zip
+   87  #unzip wf.zip 
+   88  mkdir wf
+   89  cd wf
+   90  unzip ../wf.zip 
+   91  apt-get install unzip
+   92  unzip ../wf.zip 
+   93  ls
+   94  mv wildfly-10.1.0.Final/ ..
+   95  cd ..
+   96  rmdir wf/
+   97  rm wf.zip
+   98  history 
+   99  ls
+  100  curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml |sha256sum 
+  101  curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml>d76.sd
+  102  sha256sum *sd
+  103  more d76.sd 
+  104  #curl http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml>d76.sd
+  105  java -v
+  106  apt-get install openjdk-8-jre-headless
+  107  java -v
+  108  java -version
+  109  ls
+  110  ./wildfly-10.1.0.Final/bin/standalone.sh 
+  111  ./wildfly-10.1.0.Final/bin/standalone.sh -b 164.132.52.81
+  112  mv soap-0.5.war wildfly-10.1.0.Final/standalone/deployments/
+  113  ./wildfly-10.1.0.Final/bin/standalone.sh -b 164.132.52.81
+  114  wget https://hyper-install.s3.amazonaws.com/hyper-linux-x86_64.tar.gz
+  115  gunzip hyper-linux-x86_64.tar.gz 
+  116  tar xf hyper-linux-x86_64.tar 
+  117  ./hyper 
+  118  hyper
+  119  ./hyper
+  120  ./hyper config
+  121  cat .hyper/config.json 
+  122  ls
+  123  .hyper pull nginx
+  124  ./hyper pull nginx
+  125  ./hyper fip alloc 1
+  126  ./hyper fip allocate 1
+  127  ./hyper run nginx
+  128  ./hyper help
+  129  ls
+  130  ./hyper stats
+  131  history 
+  132  ./hyper pull alpine
+  133  ./hyper run alpine
+  134  ./hyper run --help
+  135  .hyper pull sickp/alpine-sshd
+  136  ./hyper pull sickp/alpine-sshd
+  137  ./hyper run sickp/alpine-sshd
+  138  history 
+  139  ./hyper help run
+  140  history 
+  141  ./hyper run --size=s4 sickp/alpine-sshd
+  142  ##nohup/hyper run --size=s1 sickp/alpine-sshd
+  143  nohup/hyper run --size=s1 sickp/alpine-sshd &
+  144  history 
+  145  nohup ./hyper run --size=s1 sickp/alpine-sshd &
+  146  kill -9 965
+  147  ps aux
+  148  ls
+  149  history 
+  150  nohup ./hyper run --size=s1 sickp/alpine-sshd > hy.out &
+  151  tail hy.out 
+  152  ./hyper 
+  153  ./hyper ps
+  154  ./hyper stop lovin*
+  155  ./hyper stop loving-engelbart
+  156  ./hyper fip
+  157  ./hyper help fip
+  158  ./hyper help fip attach
+  159  ./hyper fip ls
+  160  ./hyper fip attach 209.177.91.170 672d443c49af2a5e485c2dbd7ee45a45cbb8d756b7c26c669ae7b471f8691570
+  161  tail hy.out 
+  162  ./hyper ps
+  163  ./hyper 
+  164  ./hyper port
+  165  ./hyper port --help
+  166  ./hyper stats
+  167  ls
+  168  javac
+  169  sendip -p ipv4 -is 192.168.1.81 -p udp -us 5070 -ud 5060 -d "Hello" -v 192.168.1.81
+  170  apt-get install sendip
+  171  sendip -p ipv4 -is 192.168.1.81 -p udp -us 5070 -ud 5060 -d "Hello" -v 192.168.1.81
+  172  sendip -?
+  173  sendip -p ipv4 -is 192.168.1.81 -p udp -us 5070 -ud 9876 -d "Hello" -v s.sl4.eu
+  174  ping s.sl4.eu
+  175  sendip -p ipv4 -is 192.168.1.81 -p udp -us 5070 -ud 9876 -d "Hello" -v 185.32.124.153
+  176  sendip -p ipv4 -is 127.0.0.1 -p udp -us 5070 -ud 9876 -d "Hello" -v 185.32.124.153
+  177  sendip -p ipv4 -is164.132.52.81 -p udp -us 5070 -ud 9876 -d "Hello" -v 185.32.124.153
+  178  sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 9876 -d "Hello" -v 185.32.124.153
+  179  #https://moythreads.com/wordpress/2012/03/15/sending-udp-packets-from-the-command-line/
+  180  sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "Hello" -v 185.32.124.153
+  181  sendip -p ipv4 -is 164.132.52.81 -p udp -us 5070 -ud 1337 -d "HelloNet" -v 185.32.124.153
+  182  docker
+  183  docker pull thetallgrassnet/alpine-java
+  184  docker
+  185  docker images
+  186  docker run thetallgrassnet/alpine-java
+  187  docker run 
+  188  docker run 647e310fca29
+  189  docker run 647e310fca29 java
+  190  docker run 647e310fca29 java -version
+  191  git
+  192  git clone https://github.com/wasserfuhr/hn4j.git
+  193  javac
+  194  apt-get install openjdk-6-jdk
+  195  history|grep hi
+  196  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.OvhOneHist.txt
