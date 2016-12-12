@@ -1,0 +1,62 @@
+0 0 0 0 2461d41 1b 0 0 1 b8d5 04381ce1ff8b89a65c314aa19e8a159bc4329ec72e904fce1f5615e69ca4f8ec 48656c6c6f416c706861
+Exception in thread "main" java.lang.NoClassDefFoundError: clojure/lang/LispReader
+	at Clj.exec(Clj.java:12)
+	at Net.main(Net.java:32)
+Caused by: java.lang.ClassNotFoundException: clojure.lang.LispReader
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 2 more
+0 2461da0 1b 0 0 1 9894 ebc0c347c4248f3dfa5c372514e943484b6747e85488f58f8a5c5df88994491f 282b2031203129
+Exception in thread "main" java.lang.NoClassDefFoundError: clojure/lang/LispReader
+	at Clj.exec(Clj.java:12)
+	at Net.main(Net.java:32)
+Caused by: java.lang.ClassNotFoundException: clojure.lang.LispReader
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 2 more
+0 2461dcb 1b 0 0 1 ad82 ebc0c347c4248f3dfa5c372514e943484b6747e85488f58f8a5c5df88994491f 282b2031203129
+Exception in thread "main" java.lang.ClassCastException: java.lang.Long cannot be cast to clojure.lang.IFn
+	at Clj.exec(Clj.java:13)
+	at Net.main(Net.java:32)
+0 2461f1e 1b 0 0 1 8ca2 cc56e3948ca3189f41da034d0d880831d33c35e4216a648a303fd28bea868695 28666e5b705d282b203120312929
+1 Exception in thread "main" java.net.BindException: Address already in use
+	at java.net.PlainDatagramSocketImpl.bind0(Native Method)
+	at java.net.AbstractPlainDatagramSocketImpl.bind(AbstractPlainDatagramSocketImpl.java:94)
+	at java.net.DatagramSocket.bind(DatagramSocket.java:392)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:242)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:299)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:271)
+	at Net.main(Net.java:10)
+2461f7a 1b 0 0 1 afc2 cc56e3948ca3189f41da034d0d880831d33c35e4216a648a303fd28bea868695 28666e5b705d282b203120312929
+2 Exception in thread "main" java.net.BindException: Address already in use
+	at java.net.PlainDatagramSocketImpl.bind0(Native Method)
+	at java.net.AbstractPlainDatagramSocketImpl.bind(AbstractPlainDatagramSocketImpl.java:94)
+	at java.net.DatagramSocket.bind(DatagramSocket.java:392)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:242)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:299)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:271)
+	at Net.main(Net.java:10)
+2461f93 1b 0 0 1 9d89 9f2eab039cfff15867a6084bd6b0b5d24574a4ed663df3559efc6ad9d1a35335 28666e5b705d282b2031203220312929
+3 0 2468089 55207c99 e989 430e6a30469364d8eb04db08e7603de603bf5417594fc4e8aa368300403c2234 28666e5b705d282b2031203129
+Exception in thread "main" java.lang.RuntimeException: EOF while reading
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1204)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.read(LispReader.java:196)
+	at clojure.lang.LispReader.read(LispReader.java:190)
+	at Clj.exec(Clj.java:12)
+	at Net.main(Net.java:32)
+0 24680e6 55207c99 9d73 cc56e3948ca3189f41da034d0d880831d33c35e4216a648a303fd28bea868695 28666e5b705d282b203120312929
+1 24680ed 55207c99 b885 cc56e3948ca3189f41da034d0d880831d33c35e4216a648a303fd28bea868695 28666e5b705d282b203120312929
+2 24680f5 55207c99 d1a1 cc56e3948ca3189f41da034d0d880831d33c35e4216a648a303fd28bea868695 28666e5b705d282b203120312929
+3 2468117 55207c99 9a85 a9da217871ea6096dece47ca6d4e39f9a19d9bb87fe38297efd0e2079eecdedf 28666e5b705d287072696e74282b20312031292929
+4 2468126 55207c99 d49e a9da217871ea6096dece47ca6d4e39f9a19d9bb87fe38297efd0e2079eecdedf 28666e5b705d287072696e74282b20312031292929
+5 2468131 55207c99 b515 a9da217871ea6096dece47ca6d4e39f9a19d9bb87fe38297efd0e2079eecdedf 28666e5b705d287072696e74282b20312031292929
+6 246826d 55207c99 d585 66178dd8a788b76fb04e5919ddb6a6164b0affdb0d43b3ea295028cadc4910eb 28666e5b705d28737069742022666c75626265722e74787422202274657374222929
+7 2468271 55207c99 cef6 66178dd8a788b76fb04e5919ddb6a6164b0affdb0d43b3ea295028cadc4910eb 28666e5b705d28737069742022666c75626265722e74787422202274657374222929
+8 
