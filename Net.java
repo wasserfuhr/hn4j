@@ -30,7 +30,7 @@ public class Net{
    for(byte b:n)System.out.print(String.format("%02x",b&0xff));
    System.out.println();
    Clj.exec(rp);
-   //   String sen=new String(rp.getData());
+   //String sen=new String(rp.getData());
    //sd=(ct+sen).getBytes();
    //DatagramPacket sp=new DatagramPacket(sd,sd.length,rp.getAddress(),p==0?1337:p);
    //s.send(sp);
