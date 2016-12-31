@@ -1,0 +1,43 @@
+    1  java
+    2  tshark
+    3  do-release-upgrade
+    4  df
+    5  docker
+    6  docker stats
+    7  docker info
+    8  docker create wildfly
+    9  docker create maven
+   10  docker help
+   11  docker help create
+   12  docker
+   13  docker info
+   14  docker events
+   15  docker ps
+   16  docker pull maven
+   17  docker ps
+   18  docker top
+   19  docker images
+   20  docker maven:alpine
+   21  docker pull maven:alpine
+   22  docker ps
+   23  docker images
+   24  docker run 8d
+   25  docker start 8d
+   26  docker start 8daab30ef7d0
+   27  docker start maven
+   28  docker
+   29  docker stats
+   30  history
+   31  docker start 8daab30ef7d0
+   32  docker help start
+   33  docker
+   34  docker help create
+   35  docker create maven
+   36  docker ps
+   37  docker list
+   38  docker images
+   39  docker create 8daab30ef7d0
+   40  docker ps
+   41  history 
+   42  #a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.SbOneHist.txt
+   43  a=`curl https://knot-net.appspot.com/at`;echo at$a;history >at$a.OvhOneHist.txt
