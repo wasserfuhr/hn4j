@@ -1,0 +1,1000 @@
+  576  as go.asm
+  577  more go.asm 
+  578  as go.asm
+  579  cat go.asm
+  580  as
+  581  as -v
+  582  apt-get install gcc
+  583  history
+  584  gcc
+  585  gcc -c go.asm
+  586  ls
+  587  xxd a.out 
+  588  gcc -c go.asm&&link go.ot
+  589  gcc -c go.asm&&link go.out
+  590  gcc -c go.asm&&ld go.out
+  591  gcc -c go.asm&&ld a.out
+  592  gcc -c go.asm
+  593  gcc -c go.asm -o go.out
+  594  gcc -c go.asm && ld a.out
+  595  ls -l
+  596  more hy.out 
+  597  gcc -c go.asm && ld a.out
+  598  gcc -c go.asm -o go.out
+  599  ls -l
+  600  gcc -?
+  601  gcc --?
+  602  gcc --help
+  603  gcc -c go.asm -o go.out
+  604  mv go.asm go.s
+  605  gcc -c go.s -o go.out
+  606  emacs go.s 
+  607  gcc -c go.s -o go.out
+  608  emacs hello.s
+  609  gcc -c hello.s -o go.out
+  610  xxd go.out 
+  611  gcc -c hello.s && ld hello.o
+  612  ./a.out 
+  613  ls -al
+  614  gcc -h
+  615  gcc --?
+  616  gcc --help
+  617  as --help
+  618  xxd go.out 
+  619  objdump a.out 
+  620  objdump -x a.out 
+  621  history 
+  622  objdump --?
+  623  objdump -M-x a.out 
+  624  objdump -M -x a.out 
+  625  objdump -D -x a.out 
+  626  history 
+  627  objdump -D -x a.out 
+  628  objdump -M -D -x a.out 
+  629  objdump -D -x a.out 
+  630  ls
+  631  history|grep gcc
+  632  cat hello.s
+  633  objdump -D -x a.out 
+  634  docker
+  635  docker stats
+  636  docker info
+  637  docker image
+  638  docker images
+  639  docker run 64
+  640  docker run 647e310fca29
+  641  docker run
+  642  docker run 8daab30ef7d0 mvn
+  643  docker run 8daab30ef7d0 mvn install
+  644  docker run 8daab30ef7d0 mvn jetty:run
+  645  ls
+  646  cd git/hn4j/
+  647  git status
+  648  ls
+  649  more Dockerfile 
+  650  git push
+  651  df
+  652  df -?
+  653  df --help
+  654  df -B1
+  655  ls
+  656  ls -al
+  657  df -B1
+  658  wget https://www.vpn.net/installers/logmein-hamachi_2.1.0.165-1_i386.deb
+  659  dpkg -i logmein-hamachi_2.1.0.165-1_i386.deb 
+  660  ls
+  661  rm logmein-hamachi_2.1.0.165-1_i386.deb 
+  662  wget https://www.vpn.net/installers/logmein-hamachi_2.1.0.165-1_amd64.deb
+  663  ls
+  664  history 
+  665  dpkg -i logmein-hamachi_2.1.0.165-1_amd64.deb 
+  666  rm logmein-hamachi_2.1.0.165-1_amd64.deb 
+  667  hamachi attach wasserfuhr@yahoo.com
+  668  n=num;e=etris
+  669  a=AG
+  670  hamachi join $n$e$a
+  671  hamachi
+  672  hamachi help
+  673  history
+  674  hamachi join $n$e$a
+  675  cd ..
+  676  git clone https://rawass@bitbucket.org/rawass/nusoap.git
+  677  ls
+  678  cd nusoap/
+  679  ls
+  680  ls -al
+  681  mvn
+  682  java -version
+  683  mvn
+  684  java -?
+  685  mvn -v
+  686  java
+  687  java -version
+  688  apt-get
+  689  apt-get install maven
+  690  mvn
+  691  wget http://www-eu.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip
+  692  unzip apache-maven-3.3.9-bin.zip 
+  693  mv apache-maven-3.3.9 ../..
+  694  rm apache-maven-3.3.9-bin.zip 
+  695  /root/apache-maven-3.3.9/bin/mvn
+  696  echo $JAVA_HOME
+  697  java -version
+  698  emacs /root/apache-maven-3.3.9/bin/mvn
+  699  ls /opt/logmein-hamachi/
+  700  export JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64/
+  701  mvn
+  702  export JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64
+  703  mvn
+  704  ls -al /usr/lib/jvm/java-7-open
+  705  export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+  706  mvn
+  707  ls /usr/lib/jvm/
+  708  ls -l /usr/lib/jvm/
+  709  #ls -l /usr/lib/java-wrappers/
+  710  apt-get install jdk
+  711  java -version
+  712  ls -l /usr/lib/jvm/
+  713  ls -l /usr/lib/
+  714  ls -l /usr/lib/jvm
+  715  ls -l /usr/lib/jvm/java-7-openjdk-amd64/
+  716  ls -l /usr/lib/jvm/java-7-openjdk-amd64/lib/
+  717  mvn
+  718  history 
+  719  export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+  720  export JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64
+  721  mvn
+  722  git pull
+  723  mvn jetty:run
+  724  ls /root/
+  725  /root/wildfly-10.1.0.Final/bin/standalone.sh
+  726  history 
+  727  apt-get install jdk8
+  728  #apt-get install openjdk-8-jdk
+  729  #http://stackoverflow.com/questions/14788345/how-to-install-jdk-on-ubuntu-linux
+  730  apt-get install openjdk-8-jdk
+  731  history
+  732  export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+  733  /root/wildfly-10.1.0.Final/bin/standalone.sh
+  734  emacs pom.xml
+  735  history|grep com
+  736  git commit -am "~*"
+  737  mvn
+  738  cp target/soap-0.5.war /root/wildfly-10.1.0.Final/standalone/deployments/
+  739  /root/wildfly-10.1.0.Final/bin/standalone.sh
+  740  mvn clean
+  741  emacs pom.xml
+  742  git commit -am "~*"
+  743  mvn
+  744  ls
+  745  history 
+  746  git commit -am "~*"
+  747  emacs pom.xml
+  748  git commit -am "~*"
+  749  mvn;cp target/soap-0.5.war /root/wildfly-10.1.0.Final/standalone/deployments/
+  750  /root/wildfly-10.1.0.Final/bin/standalone.sh
+  751  emacs pom.xml
+  752  git commit -am "~*"
+  753  unzip -l /root/wildfly-10.1.0.Final/standalone/deployments/soap-0.5.war 
+  754  mvn clean
+  755  ls
+  756  mvn
+  757  emacs src/main/webapp/WEB-INF/jboss-deployment-structure.xml
+  758  git commit -am "~*"
+  759  mvn
+  760  unzip -l target/soap-0.6.war 
+  761  history 
+  762  rm /root/wildfly-10.1.0.Final/standalone/deployments/soap-0.5.war 
+  763  rm /root/wildfly-10.1.0.Final/standalone/deployments/soap-0.5.war.failed 
+  764  #rm /root/wildfly-10.1.0.Final/standalone/deployments/README.txt 
+  765  cp target/soap-0.6.war /root/wildfly-10.1.0.Final/standalone/deployments/
+  766  /root/wildfly-10.1.0.Final/bin/standalone.sh
+  767  ls /root/wildfly-10.1.0.Final/standalone/log/
+  768  ls -al /root/wildfly-10.1.0.Final/standalone/log/
+  769  more /root/wildfly-10.1.0.Final/standalone/log/server.log
+  770  history 
+  771  history|grep emacs
+  772  e=etris;m=num;nu=de.$n$e.soap;np=de/$n$e/soap
+  773  emacs +89 src/main/java/$np/TxData.java
+  774  emacs +89 src/main/java/$np/MainServlet.java
+  775  git commit -am "~*"
+  776  emacs +89 src/main/java/$np/Loop.java
+  777  git commit -am "~*"
+  778  history
+  779  cp target/soap-0.6.war /root/wildfly-10.1.0.Final/standalone/deployments/
+  780  #mvn;cp target/soap-0.6.war /root/wildfly-10.1.0.Final/standalone/deployments/
+  781  wf=/root/wildfly-10.1.0.Final
+  782  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  783  mvn exec:java -Dexec.mainClass="$nu.Resetter"
+  784  mvn install exec:java -Dexec.mainClass="$nu.Resetter"
+  785  emacs +89 src/main/java/$np/MainServlet.java
+  786  mvn install exec:java -Dexec.mainClass="$nu.Resetter"
+  787  mvn jetty:run
+  788  mvn install exec:java -Dexec.mainClass="$nu.Resetter
+  789  mvn install exec:java -Dexec.mainClass="$nu.Resetter"
+  790  emacs src/main/resources/log4j.properties 
+  791  emacs src/main/resources/log4j2.properties 
+  792  git commit -am "~*"
+  793  mvn jetty:run
+  794  mvn
+  795  history
+  796  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  797  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  798  history
+  799  emacs +89 src/main/java/$np/DbTest.java
+  800  hamachi 
+  801  hamachi help
+  802  hamachi list
+  803  hamachi login
+  804  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  805  more conf.props 
+  806  p=220
+  807  history 
+  808  cat conf.props 
+  809  ping 25.32.$p.135
+  810  telnet 25.32.$p.135 1521
+  811  ping 25.32.$p.135
+  812  traceroute 25.32.$p.135
+  813  apt-get install traceroute
+  814  traceroute 25.32.$p.135
+  815  ping 25.32.$p.135
+  816  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  817  history|grep ha
+  818  hamachi join $n$e$a
+  819  hamachi leave $n$e$a
+  820  history
+  821  hamachi join $n$e$a
+  822  history
+  823  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  824  emacs /var/lib/logmein-hamachi/h2-engine-override.cfg
+  825  #/etc/init.d/logmein-hamachi restart
+  826  /etc/init.d/logmein-hamachi restart
+  827  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  828  emacs /var/lib/logmein-hamachi/h2-engine-override.cfg
+  829  /etc/init.d/logmein-hamachi restart
+  830  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  831  history 
+  832  ping 25.32.$p.135
+  833  hamachi
+  834  ping 25.32.$p.135
+  835  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  836  hamachi
+  837  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  838  hamachi
+  839  history
+  840  /etc/init.d/logmein-hamachi restart
+  841  hamachi
+  842  hamachi -?
+  843  hamachi login
+  844  hamachi logout
+  845  hamachi login
+  846  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  847  ifconfig 
+  848  history|grep tel
+  849  telnet 25.32.$p.135 1521
+  850  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  851  hamachi
+  852  hamachi -?
+  853  hamachi
+  854  hamachi attach wasserfuhr@yahoo.com
+  855  hamachi set-nick root
+  856  hamachi
+  857  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+  858  hamachi logout
+  859  hamachi 
+  860  history |grep join
+  861  hamachi join $n$e$a
+  862  hamachi login
+  863  hamachi
+  864  hamachi join $n$e$a
+  865  hamacho
+  866  hamachi
+  867  hamachi join $n$e$a
+  868  hamachi
+  869  ls
+  870  git status
+  871  emacs BackLog.txt
+  872  history|grep Tx
+  873  emacs +89 src/main/java/$np/TxData.java
+  874  emacs BackLog.txt
+  875  ls
+  876  emacs +89 src/main/java/$np/Loop.java
+  877  history|grep mvn
+  878  #!796
+  879  history|grep git
+  880  git commit -am "~*"
+  881  emacs +89 src/main/java/$np/Loop.java
+  882  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  883  emacs src/main/java/$np/Loop.java
+  884  git commit -am "~*"
+  885  mvn install;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  886  emacs src/main/java/$np/Loop.java
+  887  emacs src/main/java/$np/MainServlet.java
+  888  git commit -am "~*"
+  889  mvn install;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  890  more /root/wildfly-10.1.0.Final/standalone/log/server.log
+  891  emacs src/main/resources/log4j.properties 
+  892  mvn install;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  893  more /root/wildfly-10.1.0.Final/standalone/configuration/logging.properties 
+  894  more /root/wildfly-10.1.0.Final/standalone/configuration/standalone.xml 
+  895  emacs pom.xml
+  896  #git mv src/main/resources/log4j2.properties src/main/webapp/WEB-INF/cla
+  897  unzip -l target/soap-0.6.war 
+  898  git rm src/main/resources/log4j2.properties 
+  899  history 
+  900  git commit -am "~*"
+  901  emacs src/main/resources/log4j.properties 
+  902  history
+  903  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  904  emacs BackLog.txt 
+  905  pwd
+  906  history 
+  907  #git mv src/main/resources/log4j2.properties src/main/webapp/WEB-INF/cla
+  908  git mv src/main/resources/log4j.properties src/main/resources/log4j2.properties
+  909  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  910  git commit -am "~*"
+  911  #emacs src/main/java/$np/TxData.java
+  912  grep nume /root/wildfly-10.1.0.Final/standalone/log/server.log 
+  913  grep  /root/wildfly-10.1.0.Final/standalone/log/server.log  nume
+  914  #grep nume /root/wildfly-10.1.0.Final/standalone/log/server.log 
+  915  emacs src/main/resources/log4j2.properties
+  916  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  917  #emacs src/main/java/$np/MainServlet.java
+  918  emacs src/main/java/$np/MainServlet.java
+  919  more src/main/resources/log4j2.properties
+  920  hamachi
+  921  history|grep ham
+  922  hamachi attach wasserfuhr@yahoo.com
+  923  hamachi
+  924  hamachi login
+  925  hamachi join $n$e$a
+  926  #emacs src/main/java/$np/MainServlet.java
+  927  history
+  928  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  929  history 
+  930  history|grep emacs
+  931  emacs src/main/java/$np/Loop.java
+  932  emacs src/main/java/$np/MainServlet.java
+  933  emacs src/main/java/$np/Loop.java
+  934  history
+  935  git commit -am "~*"
+  936  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  937  emacs src/main/java/$np/Loop.java
+  938  emacs src/main/java/$np/TxData.java
+  939  emacs src/main/java/$np/MasterData.java
+  940  emacs src/main/java/$np/Loop.java
+  941  git commit -am "~*"
+  942  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  943  emacs src/main/java/$np/Loop.java
+  944  emacs src/main/java/$np/TxData.java
+  945  emacs src/main/java/$np/Loop.java
+  946  emacs src/main/java/$np/TxData.java
+  947  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  948  ls
+  949  lmvn clean
+  950  mvn clean
+  951  ls -l target/soap-0.6.war
+  952  ls -l $wf/standalone/deployments/
+  953  rm /root/wildfly-10.1.0.Final/standalone/deployments/soap-0.6.war
+  954  ls /root/wildfly-10.1.0.Final/standalone/deployments/
+  955  rm /root/wildfly-10.1.0.Final/standalone/deployments/soap-0.6.war.deployed 
+  956  ls -l /root/wildfly-10.1.0.Final/standalone/deployments/
+  957  cat /root/wildfly-10.1.0.Final/standalone/deployments/README.txt 
+  958  cat /root/wildfly-10.1.0.Final/standalone/deployments/soap-0.6.war.deployed 
+  959  history
+  960  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  961  mvn
+  962  emacs src/main/java/$np/MasterData.java
+  963  emacs src/main/java/$np/TxData.java
+  964  emacs src/main/java/$np/MasterData.java
+  965  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  966  emacs src/main/webapp/WEB-INF/jboss-deployment-structure.xml 
+  967  git commit -am "~*"
+  968  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  969  emacs conf.props 
+  970  emacs src/main/java/$np/Conf.java
+  971  git commit -am "~*"
+  972  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  973  ls
+  974  emacs src/main/webapp/soap.jsp 
+  975  git commit -am "~*"
+  976  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  977  git commit -am "~*"
+  978  emacs src/main/java/$np/MasterData.java
+  979  git commit -am "~*"
+  980  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  981  emacs src/main/java/$np/Loop.java
+  982  git commit -am "~*"
+  983  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  984  git commit -am "~*"
+  985  emacs src/main/java/$np/Loop.java
+  986  emacs src/main/java/$np/MasterData.java
+  987  emacs src/main/java/$np/TxData.java
+  988  git commit -am "~*"
+  989  cat BackLog.txt 
+  990  git status
+  991  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+  992  emacs src/main/java/$np/Loop.java
+  993  git commit -am "~*"
+  994  emacs README.md 
+  995  ls
+  996  history 
+  997  cd git/nusoap/
+  998  git status
+  999  emacs README.md 
+ 1000  ls -al
+ 1001  more \#README.md# 
+ 1002  more .#README.md 
+ 1003  mv \#README.md# README.md 
+ 1004  ls ??R
+ 1005  ls -al ??R*
+ 1006  ls -al 
+ 1007  ls -al ?*R*
+ 1008  ls
+ 1009  git status
+ 1010  cat README.md 
+ 1011  rm .#README.md 
+ 1012  git status
+ 1013  history 
+ 1014  git commit -am "~*"
+ 1015  history |grep =
+ 1016  e=etris
+ 1017  history 
+ 1018  n=num
+ 1019  history|grep emacs
+ 1020  history|grep src
+ 1021  pwd
+ 1022  emacs src/main/java/de/$n$e/soap/TxData.java
+ 1023  mvn
+ 1024  cp target/soap-0.6.war /root/wildfly-10.1.0.Final/standalone/deployments/
+ 1025  /root/wildfly-10.1.0.Final/bin/standalone.sh
+ 1026  git tag -a -m "v0.6"
+ 1027  git tag -a "v0.6"
+ 1028  git tag -a "v0.6" -m "v0.6"
+ 1029  git tag
+ 1030  git push origin v0.6
+ 1031  git push
+ 1032  git status
+ 1033  history 
+ 1034  emacs src/main/java/de/$n$e/soap/MasterData.java
+ 1035  more bitbucket-pipelines.yml 
+ 1036  history 
+ 1037  history|grep knot
+ 1038  #a=`curl https://knot-net.appspot.com/at`;echo at$a;history > ~/git/at$a.OvhOneHist.txt
+ 1039  ls ..
+ 1040  a=`curl https://knot-net.appspot.com/at`;echo at$a;history > ~/git/hn4j/at$a.OvhOneHist.txt
+ 1041  history 
+ 1042  hamachi
+ 1043  hamachi login
+ 1044  #history|grep hamachi
+ 1045  ls /usr/local/bin/
+ 1046  emacs /usr/local/bin/hig
+ 1047  ls hig ha
+ 1048  ls -l /usr/local/bin/hig
+ 1049  chmod +x /usr/local/bin/hig
+ 1050  hig
+ 1051  hig ha
+ 1052  hig =
+ 1053  e=etris
+ 1054  history 
+ 1055  hig =
+ 1056  n=num
+ 1057  a=AG
+ 1058  hig join
+ 1059  hamachi join $n$e$a
+ 1060  hamachi login
+ 1061  history
+ 1062  hig wf
+ 1063  echo $wf
+ 1064  wf=/root/wildfly-10.1.0.Final
+ 1065  echo $wf
+ 1066  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+ 1067  hig Db
+ 1068  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+ 1069  pwd
+ 1070  cd git/nusoap/
+ 1071  git pull
+ 1072  git status
+ 1073  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+ 1074  hig nu
+ 1075  hig =
+ 1076  e=etris;m=num;nu=de.$n$e.soap;np=de/$n$e/soap
+ 1077  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+ 1078  hamachi
+ 1079  more conf.props 
+ 1080  emacs conf.props 
+ 1081  git status
+ 1082  hig co
+ 1083  git commit -am "~*"
+ 1084  cat conf.props 
+ 1085  hig ping
+ 1086  p=220
+ 1087  ping 25.32.$p.135
+ 1088  traceroute 25.32.$p.135
+ 1089  mvn test
+ 1090  hig em
+ 1091  emacs src/main/java/$np/Loop.java
+ 1092  #emacs src/main/java/$np/Loop.java
+ 1093  ping takes.org
+ 1094  emacs src/test/java/$np/ConfTest.java
+ 1095  git add src/test/java/$np/ConfTest.java
+ 1096  hig co
+ 1097  git commit -am "~*"
+ 1098  mvn
+ 1099  emacs pom.xml
+ 1100  git commit -am "~*"
+ 1101  #https://github.com/jcabi/jcabi-parent/blob/master/pom.xml
+ 1102  git commit -am "~*"
+ 1103  emacs pom.xml
+ 1104  git commit -am "~*"
+ 1105  mvn
+ 1106  mvn cobertura:cobertura
+ 1107  ls target/cobertura/
+ 1108  history
+ 1109  hig at
+ 1110  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1111  #at2181b17.01
+ 1112  ls target/cobertura/
+ 1113  ls target/
+ 1114  ls target/site/cobertura/
+ 1115  emacs README.md 
+ 1116  hig c
+ 1117  git commit -am "~*"
+ 1118  #mv target/site/ /root/wildfly-10.1.0.Final/standalone/tmp/soap-0.5.war/
+ 1119  hig em
+ 1120  emacs src/test/java/$np/ConfTest.java
+ 1121  hig
+ 1122  hig c
+ 1123  git commit -am "~*"
+ 1124  his
+ 1125  history 
+ 1126  mvn jetty:run
+ 1127  git status
+ 1128  history 
+ 1129  emacs src/test/java/$np/ConfTest.java
+ 1130  git commit -am "~*"
+ 1131  mvn jetty:run
+ 1132  emacs src/test/java/$np/ConfTest.java
+ 1133  emacs src/main/java/$np/Conf.java
+ 1134  emacs src/test/java/$np/ConfTest.java
+ 1135  git commit -am "~*"
+ 1136  mvn jetty:run
+ 1137  emacs src/test/java/$np/ConfTest.java
+ 1138  git commit -am "~*"
+ 1139  mvn jetty:run
+ 1140  emacs src/test/java/$np/ConfTest.java
+ 1141  git commit -am "~*"
+ 1142  mvn jetty:run
+ 1143  mv target/site/ src/main/webapp/
+ 1144  mvn jetty:run
+ 1145  hig cob
+ 1146  mvn cobertura:cobertura
+ 1147  hig mv
+ 1148  mv target/site/ src/main/webapp/
+ 1149  mvn jetty:run
+ 1150  mvn
+ 1151  hig ema
+ 1152  emacs src/test/java/$np/ConfTest.java
+ 1153  hig co
+ 1154  git commit -am "~*"
+ 1155  mvn
+ 1156  hib cob
+ 1157  hig cob
+ 1158  mvn cobertura:cobertura
+ 1159  hig si
+ 1160  mv target/site/ src/main/webapp/
+ 1161  rm -Rf src/main/webapp/site/
+ 1162  mv target/site/ src/main/webapp/
+ 1163  mvn jetty:run
+ 1164  mvn cobertura:cobertura site
+ 1165  hig si
+ 1166  rm -Rf src/main/webapp/site/
+ 1167  mv target/site/ src/main/webapp/
+ 1168  mvn jetty:run
+ 1169  cat /usr/local/bin/hig 
+ 1170  git status
+ 1171  git push
+ 1172  hamachi 
+ 1173  history
+ 1174  hamachi list
+ 1175  ifconfig 
+ 1176  history
+ 1177  h
+ 1178  more ../hn4j/at2131841.1e.SbOneSuHist.txt
+ 1179  more ../hn4j/at217377a.a4.OvhOneHist.txt 
+ 1180  hig knot
+ 1181  a=`curl https://knot-net.appspot.com/at`;echo at$a;history > ~/git/hn4j/at$a.OvhOneHist.txt
+ 1182  history
+ 1183  hig at
+ 1184  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1185  #at2191616.61
+ 1186  npm i -g ipld-cli
+ 1187  apt-get install npm
+ 1188  npm i -g ipld-cli
+ 1189  ipld 
+ 1190  apt-get install node
+ 1191  ipld 
+ 1192  ipld -?
+ 1193  ipld help
+ 1194  ipld add -h
+ 1195  ls
+ 1196  ipld 
+ 1197  ipld -h
+ 1198  ipld -help
+ 1199  apt-get install npm
+ 1200  npm
+ 1201  npm version
+ 1202  npm i ipld
+ 1203  node -version
+ 1204  node
+ 1205  hig apt
+ 1206  apt-get install nodejs
+ 1207  node
+ 1208  nodejs
+ 1209  nodejs -version
+ 1210  nodejs -v
+ 1211  apt-get install -y nodejs
+ 1212  curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
+ 1213  node
+ 1214  wget https://nodejs.org/dist/v6.9.1/node-v6.9.1-linux-x86.tar.xz
+ 1215  apt-get update
+ 1216  git apt
+ 1217  hig apt
+ 1218  apt-get install nodejs
+ 1219  node
+ 1220  node -v
+ 1221  nodejs
+ 1222  nodejs -version
+ 1223  nodejs -help
+ 1224  nodejs ipld
+ 1225  npm i ipld
+ 1226  history 
+ 1227  ls
+ 1228  pwd
+ 1229  #cd node_modules/ipld/
+ 1230  cd git/nusoap/
+ 1231  hig =
+ 1232  hig nu
+ 1233  e=etris;m=num;nu=de.$n$e.soap;np=de/$n$e/soap
+ 1234  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+ 1235  n=num
+ 1236  e=etris;m=num;nu=de.$n$e.soap;np=de/$n$e/soap
+ 1237  mvn exec:java -Dexec.mainClass="$nu.DbTest"
+ 1238  hamachi
+ 1239  hamachi -?
+ 1240  hamachi list
+ 1241  ls
+ 1242  git status
+ 1243  hig tag
+ 1244  hig push
+ 1245  git pull
+ 1246  hig wf
+ 1247  wf=/root/wildfly-10.1.0.Final
+ 1248  emacs conf.props 
+ 1249  git status
+ 1250  git pull
+ 1251  emacs conf.props 
+ 1252  hig wf
+ 1253  mvn;cp target/soap-0.6.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+ 1254  #mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+ 1255  rm /root/wildfly-10.1.0.Final/standalone/deployments/soap-0.6.war
+ 1256  mvn;cp target/soap-0.7.war $wf/standalone/deployments/;$wf/bin/standalone.sh
+ 1257  mvn site
+ 1258  hig jsp
+ 1259  hig jdk
+ 1260  git status
+ 1261  hig conf
+ 1262  hig depl
+ 1263  hig
+ 1264  git pull
+ 1265  git status
+ 1266  cat conf.props
+ 1267  hig co
+ 1268  git commit -am "~*"
+ 1269  emacs conf.props 
+ 1270  git commit -am "~*"
+ 1271  git status
+ 1272  git push
+ 1273  git status
+ 1274  rm -Rf src/main/webapp/site/
+ 1275  git status
+ 1276  hig kno
+ 1277  a=`curl https://knot-net.appspot.com/at`;echo at$a;history > ~/git/hn4j/at$a.OvhOneHist.txt
+ 1278  #at219acbe.c0
+ 1279  hig \#
+ 1280  history 
+ 1281  hig hy
+ 1282  hyper
+ 1283  ls
+ 1284  ls -al
+ 1285  hyper
+ 1286  ./hyper
+ 1287  ./hyper ls
+ 1288  ./hyper list
+ 1289  ./hyper images
+ 1290  ./hyper volume
+ 1291  ./hyper volume ls
+ 1292  ./hyper container ls
+ 1293  ./hyper images
+ 1294  ./hyper ps
+ 1295  ./hyper volume
+ 1296  ./hyper volume ls
+ 1297  ./hyper
+ 1298  ./hyper images
+ 1299  ./hyper rmi 54ec2cd05388
+ 1300  ./hyper rm 198ee8ce2300
+ 1301  ./hyper rmi 54ec2cd05388
+ 1302  ./hyper rm 7f2ea0d89ec3
+ 1303  ./hyper rmi 54ec2cd05388
+ 1304  ./hyper rm 672d443c49af
+ 1305  ./hyper rmi 54ec2cd05388
+ 1306  hig at
+ 1307  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1308  #at22ea1eb.e8
+ 1309  #http://stackoverflow.com/questions/36274815/how-is-the-rootfs-size-of-docker-container-is-decided
+ 1310  #!1277
+ 1311  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1312  #at22ea5bc.22
+ 1313  a=`curl https://knot-net.appspot.com/at`;echo at$a;history > ~/git/hn4j/at$a.OvhOneHist.txt
+ 1314  ls
+ 1315  ls -al
+ 1316  ls git/hn4j/
+ 1317  ls -l git/hn4j/
+ 1318  mv at2* git/hn4j/
+ 1319  ls -al
+ 1320  rm node-v6.9.1-linux-x86.tar.xz 
+ 1321  rm -Rf wildfly-10.1.0.Final/
+ 1322  rm -Rf apache-maven-3.3.9/
+ 1323  ls -al
+ 1324  mkdir vps334014
+ 1325  mv go* vps334014/
+ 1326  mv hy.out vps334014/
+ 1327  ls -al
+ 1328  ls *sd
+ 1329  mv *sd vps334014/
+ 1330  me hello.* vps334014/
+ 1331  mv nohup.out vps334014/
+ 1332  ls -al
+ 1333  mv hello.* vps334014/
+ 1334  rm -Rf node_modules/
+ 1335  ls -al
+ 1336  mv a.out vps334014/
+ 1337  ls git/
+ 1338  cd git/nusoap/
+ 1339  git status
+ 1340  cd
+ 1341  mv vps334014/ git/hn4j/
+ 1342  cd git/hn4j/
+ 1343  git status
+ 1344  git add at2*
+ 1345  git add clojure-1.8.0.jar vps334014/
+ 1346  git status
+ 1347  hig co
+ 1348  git commit -am "~*"
+ 1349  git status
+ 1350  git pull
+ 1351  git status
+ 1352  git push
+ 1353  git status
+ 1354  ls
+ 1355  history
+ 1356  ls
+ 1357  cd
+ 1358  ls
+ 1359  ls -al
+ 1360  cat .hyper/cktime.json 
+ 1361  cat .hyper/config.json 
+ 1362  exit
+ 1363  ls
+ 1364  hig
+ 1365  hig at
+ 1366  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1367  #at2377280.01
+ 1368  exit
+ 1369  ls
+ 1370  hig at
+ 1371  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1372  #at24606b1.bb
+ 1373  ls
+ 1374  cd git/
+ 1375  ls
+ 1376  cd hn4j/
+ 1377  ls
+ 1378  git pull
+ 1379  cat Net.
+ 1380  cat Net.java 
+ 1381  emacs Net.java
+ 1382  hig git
+ 1383  git commit -am "~*"
+ 1384  git push
+ 1385  hig java
+ 1386  hig Net
+ 1387  cat Net.java
+ 1388  df
+ 1389  ls
+ 1390  ls ~
+ 1391  git status
+ 1392  hig Hist
+ 1393  #!1313
+ 1394  hig at
+ 1395  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1396  #at24611fe.82
+ 1397  a=`curl https://knot-net.appspot.com/at`;echo at$a;history > ~/git/hn4j/at$a.OvhOneHist.txt
+ 1398  hig 
+ 1399  git status
+ 1400  git add at246120b.5f.OvhOneHist.txt
+ 1401  git commit -m"+at246120b.5f.OvhOneHist.txt"
+ 1402  git push
+ 1403  tail at246120b.5f.OvhOneHist.txt 
+ 1404  more at246120b.5f.OvhOneHist.txt 
+ 1405  l
+ 1406  ls
+ 1407  ls -l
+ 1408  cat Dockerfile 
+ 1409  hig Net
+ 1410  java -jar clojure-1.8.0.jar
+ 1411  #java Net aa0&;java -jar clojure-1.8.0.jar
+ 1412  java -jar clojure-1.8.0.jar "(+ 1 1)"
+ 1413  java -jar clojure-1.8.0.jar -h
+ 1414  java -jar clojure-1.8.0.jar - "(+ 1 1)"
+ 1415  echo "(+ 1 1)"|java -jar clojure-1.8.0.jar -
+ 1416  echo "(+ 1 1)"
+ 1417  echo "(+ 1 1)"|java -jar clojure-1.8.0.jar -
+ 1418  echo "(+ 15 15)"|java -jar clojure-1.8.0.jar -
+ 1419  echo "(print 15)"|java -jar clojure-1.8.0.jar -
+ 1420  echo "(java.net.DatagramPacket.print 15)"|java -jar clojure-1.8.0.jar -
+ 1421  cat Net.
+ 1422  cat Net.java
+ 1423  echo "(let[ip(java.net.IPAddress"127.0.0.1"m"HelloAlpha"b(.getBytes)](.send java.net.DatagramPacket. b b.length ip 1337))"|java -jar clojure-1.8.0.jar -
+ 1424  echo "(let[ip(java.net.IPAddress"127.0.0.1")m"HelloAlpha"b(.getBytes)](.send java.net.DatagramPacket. b b.length ip 1337))"|java -jar clojure-1.8.0.jar -
+ 1425  echo "(let[ip(java.net.IPAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes)](.send java.net.DatagramPacket. b b.length ip 1337))"|java -jar clojure-1.8.0.jar -
+ 1426  echo "(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes)](.send java.net.DatagramPacket. b b.length ip 1337))"|java -jar clojure-1.8.0.jar -
+ 1427  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes)](.send java.net.DatagramPacket. b b.length ip 1337))'|java -jar clojure-1.8.0.jar -
+ 1428  echo '1"1'
+ 1429  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes)](.send java.net.DatagramPacket. b b.length ip 1337))'
+ 1430  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send java.net.DatagramPacket. b b.length ip 1337))'|java -jar clojure-1.8.0.jar -
+ 1431  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramPacket. b b.length ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1432  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramPacket. b (.length b)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1433  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramPacket. b (length b)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1434  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramPacket. b (size b)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1435  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1436  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramSocket.)java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1437  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1438  #echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1439  hig Net
+ 1440  java Net
+ 1441  #nohup java Net
+ 1442  nohup java Net;echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1443  nohup java Net;e&cho '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1444  java Net&;echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1445  java Net& ;echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1446  java Net & ; echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1447  nohup java Net  ; echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1448  tail nohup.out 
+ 1449  hig noh
+ 1450  nohup java Net & ; echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1451  nohup java Net &  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"HelloAlpha"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1452  tail nohup.out 
+ 1453  cat Net.java
+ 1454  nohup java Net &  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"(+ 1 1)"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1455  tail nohup.out 
+ 1456  hig Net
+ 1457  nohup java -cp clojure-1.8.0.jar:. Net &  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"(+ 1 1)"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -
+ 1458  tail nohup.out 
+ 1459  cat Net.java
+ 1460  cat Clj.java 
+ 1461  nohup java -cp clojure-1.8.0.jar:. Net &  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"(fn[p](+ 1 1))"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -;tail nohup.out 
+ 1462  nohup java -cp clojure-1.8.0.jar:. Net &  echo '(let[ip(java.net.InetAddress/getByName"127.0.0.1")m"(fn[p](+ 1 2 1))"b(.getBytes m)](.send(java.net.DatagramSocket.)(java.net.DatagramPacket. b (.length m)ip 1337)))'|java -jar clojure-1.8.0.jar -;tail nohup.out 
+ 1463  java -cp clojure-1.8.0.jar:. Net
+ 1464  ps
+ 1465  ps uax
+ 1466  kill -9 3357
+ 1467  java -cp clojure-1.8.0.jar:. Net
+ 1468  do-release-upgrade
+ 1469  ls
+ 1470  hig at
+ 1471  history
+ 1472  hig at
+ 1473  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1474  #at24679a2.f3
+ 1475  history 
+ 1476  ls -l
+ 1477  cd git/hn4j/
+ 1478  ls -l
+ 1479  tail nohup.out 
+ 1480  tail -f nohup.out 
+ 1481  ls
+ 1482  ls -l
+ 1483  ps aux
+ 1484  hig Net
+ 1485  nohup java -cp clojure-1.8.0.jar:. Net &
+ 1486  tail -f nohup.out
+ 1487  nohup java -cp clojure-1.8.0.jar:. Net &
+ 1488  tail -f nohup.out
+ 1489  ls
+ 1490  cat flubber.txt 
+ 1491  cat nohup.out 
+ 1492  ping o.sl4.eu
+ 1493  git status
+ 1494  git add flubber.txt nohup.out
+ 1495  git commit -m"+flubber.txt +nohup.out"
+ 1496  git push
+ 1497  tail -f nohup.out
+ 1498  ls
+ 1499  git statu
+ 1500  git status
+ 1501  history
+ 1502  #!1494
+ 1503  cat flubber.txt 
+ 1504  hig com
+ 1505  git commit -am "~*"
+ 1506  git status
+ 1507  hig at
+ 1508  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1509  #at2469c9c.b6
+ 1510  hig his
+ 1511  a=`curl https://knot-net.appspot.com/at`;echo at$a;history > ~/git/hn4j/at$a.OvhOneHist.txt
+ 1512  history
+ 1513  tail -f nohup.out
+ 1514  git status
+ 1515  git add at2469cad.6d.OvhOneHist.txt 
+ 1516  history 
+ 1517  git commit -am "~*"
+ 1518  git push
+ 1519  hig at
+ 1520  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1521  #at246a157.1d
+ 1522  ls
+ 1523  npm
+ 1524  hig at
+ 1525  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1526  #npm i -g ipld-cli
+ 1527  #at24cac12.19
+ 1528  npm i -g ipld-cli
+ 1529  ipld
+ 1530  ipld add
+ 1531  ipld help
+ 1532  ipld add -h
+ 1533  hig at
+ 1534  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1535  #at25e70e5.88
+ 1536  curl https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg|shasum256
+ 1537  curl https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg|shasum 
+ 1538  shasum -?
+ 1539  openssl
+ 1540  openssl -?
+ 1541  openssl dgst -sha256
+ 1542  curl https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg|openssl dgst -sha256
+ 1543  wget https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg|openssl dgst -sha256
+ 1544  openssl dgst -sha256 Gordon_Moore.jpg 
+ 1545  curl https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg|openssl dgst -sha256
+ 1546  hig at
+ 1547  hig his
+ 1548  a=`curl https://knot-net.appspot.com/at`;echo at$a;history > ~/git/hn4j/at$a.OvhOneHist.txt
+ 1549  pwg
+ 1550  pwd
+ 1551  cd git/hn4j/
+ 1552  git pull
+ 1553  git status
+ 1554  git add at25e7717.b3.OvhOneHist.txt flubber.txt nohup.out
+ 1555  #git commit -am"+at25e7717.b3.OvhOneHist.txt +flubber.txt +nohup.out"
+ 1556  git commit -am"+at25e7717.b3.OvhOneHist.txt +flubber.txt +nohup.out"
+ 1557  git push
+ 1558  hig at
+ 1559  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1560  #at25e77a5.3e
+ 1561  exit
+ 1562  sendmail
+ 1563  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1564  #at26a0603.06
+ 1565  curl -s --user 'api:key-fc1b979178be00c42abe0e3f7f5eb120'     https://api.mailgun.net/v3/sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org/messages     -F from='Mailgun Sandbox <postmaster@sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org>'     -F to='RaWa <ekcuop@gmail>'     -F subject='Hello RaWa'     -F text='Congratulations RaWa, you just sent an email with Mailgun!  You are truly awesome!' 
+ 1566  curl -s --user 'api:key-fc1b979178be00c42abe0e3f7f5eb120'     https://api.mailgun.net/v3/sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org/messages     -F from='Mailgun Sandbox <postmaster@sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org>'     -F to='RaWa <ekcuop@gmail.com>'     -F subject='Hello LinChen'     -F text='Congratulations RaWa, you just sent an email with Mailgun!  You are truly awesome!' 
+ 1567  curl -s --user 'api:key-fc1b979178be00c42abe0e3f7f5eb120'     https://api.mailgun.net/v3/sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org/messages     -F from='Mailgun Sandbox <postmaster@sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org>'     -F to='RaWa <ekcuop@gmail.com>'     -F subject='Hello LinChen'     -F text='Congratulations RaWa, you just sent an email with Mailgun!  You are truly very awesome!' 
+ 1568  curl -s --user 'api:key-fc1b979178be00c42abe0e3f7f5eb120'     https://api.mailgun.net/v3/sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org/messages     -F from='Mailgun Sandbox <postmaster@sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org>'     -F to='RaWa <ekcuop@gmail.com>'     -F subject='Hello LinChen'     -F text='Congratulations RaWa, you just sent an email with Mailgun!  You are truly very VERY schnuffi awesome!' 
+ 1569  curl -s --user 'api:key-fc1b979178be00c42abe0e3f7f5eb121'  https://api.mailgun.net/v3/sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org/messages  -F from='RaWa <postmaster@sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org>'  -F to='RaWa <wasserfuhr@yahoo.com>'  -F subject='Hello RaWa'  -F text='Congrat RaWa, you just sent an email with MailGun! awesome!'
+ 1570  curl -s --user 'api:key-fc1b979178be00c42abe0e3f7f5eb120' https://api.mailgun.net/v3/sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org/messages  -F from='RaWa <postmaster@sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org>'  -F to='RaWa <wasserfuhr@yahoo.com>'  -F subject='Hello RaWa'  -F text='Congrat RaWa, you just sent an email with MailGun! awesome!'
+ 1571  hig
+ 1572  hig at
+ 1573  a=`curl https://knot-net.appspot.com/at`;echo at$a
+ 1574  #at26a2679.44
+ 1575  a=`curl https://knot-net.appspot.com/at`;echo at$a;history > ~/git/hn4j/at$a.OvhOneHist.txt
