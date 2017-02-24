@@ -3,5 +3,5 @@ curl -k -s --user 'api:key-fc1b979178be00c42abe0e3f7f5eb120'\
  -F from='RaWa<mailgun@sandbox5b800841f49140a3a394c7e5a055a020.mailgun.org>'\
  -F to=$1\
  -F subject='AlphaTest'\
- -F text='please reply at https://floatingboat2013.appspot.com/live'
+ -F text='at http://sl4.eu/memo'
 #-F from='RaWa<wasserfuhr@yahoo.com>'
