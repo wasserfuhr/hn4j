@@ -1,13 +1,10 @@
 (ns example
  (:require [clojure.data.json :as json]))
 
-(map(fn[r]
-(let[
-s(try(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))
-(catch Exception e nil))
-]
-(if s
-(:id
+(map(fn[r](let[
+ s(try(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))
+ (catch Exception e nil))]
+(if s(str(:id
 (:value(:datavalue
 (:mainsnak
 (first
@@ -17,4 +14,4 @@ s(try(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))
    (:entities
     (json/read-str s :key-fn keyword)))))))))))))
          ; (clojure.data.json/read-str s))))))))))))
-	 (range 1 64))
+	 (range 1 0xa)))
