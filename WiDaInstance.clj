@@ -3,8 +3,10 @@
 
 (map(fn[r]
 (let[
-s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))]
-(if(.startsWith s"<!DOCTYPE")""
+s(try(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))
+(catch Exception e nil)
+]
+(if s
 (:id
 (:value(:datavalue
 (:mainsnak
