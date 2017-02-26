@@ -26,6 +26,6 @@ s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json"))]
 (:claims
  ((keyword "Q42");(str "Q"r))
    (:entities
-          (json/read-str s:key-fn keyword)))))))))))))
+    (json/read-str s :key-fn keyword)))))))))))))
          ; (clojure.data.json/read-str s))))))))))))
 	 (range 42 42))
