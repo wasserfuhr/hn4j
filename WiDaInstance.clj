@@ -3,6 +3,8 @@
 
 ;(apply str
 
+(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json"))
+
 (map(fn[r]
 (let[
 ;s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))]
@@ -18,4 +20,4 @@ s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json"))]
    (:entities
      (json/read-str s)))))))))))))
          ; (clojure.data.json/read-str s))))))))))))
-	 (range 1 5))
+	 (range 1 1))
