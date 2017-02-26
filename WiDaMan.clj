@@ -8,5 +8,5 @@
  ((keyword r)
    (:entities
     (json/read-str s :key-fn keyword)))))))
-   (.split "Q76 Q80 Q91 Q157 Q181 Q185 Q186 Q192 Q206 Q207 Q254 Q255")" ")
+   (.split "Q76 Q80 Q91 Q157 Q181 Q185 Q186 Q192 Q206 Q207 Q254 Q255" " ")
  ))
