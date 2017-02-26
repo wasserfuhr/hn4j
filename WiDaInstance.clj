@@ -12,5 +12,4 @@ s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/"Q".json"))]
 (:claims
  ((keyword Q)
    (:entities
-      (clojure.contrib.json/read-json s)
-        )))))))))))
+     (clojure.data.json/read-str s))))))))))))
