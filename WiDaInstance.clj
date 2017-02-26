@@ -15,4 +15,4 @@ s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))]
    (:entities
     (json/read-str s :key-fn keyword)))))))))))))
          ; (clojure.data.json/read-str s))))))))))))
-	 (range 42 45))
+	 (range 1 64))
