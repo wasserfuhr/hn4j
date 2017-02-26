@@ -1,12 +1,14 @@
 (ns example
-  (:require [clojure.contrib.json]))
+  (:require [clojure.contrib.json :as json]))
 
      
 ;    (:require [clojure.data.json :as json]))
 
 ;(apply str
 
-(clojure.contrib.json/read-json
+;(clojure.contrib.json/read-json
+
+(json/read-json
  (slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json")))
 
 (map(fn[r]
