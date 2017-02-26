@@ -1,5 +1,6 @@
-(fn[rq rs](let[
-q(.getParameter rq"q")
+;(fn[rq rs]
+(let[
+q"";(.getParameter rq"q")
 Q(if q q"Q107006")
 s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/"Q".json"))]
 (if(.startsWith s"<!DOCTYPE")""
@@ -12,4 +13,4 @@ s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/"Q".json"))]
  ((keyword Q)
    (:entities
       (clojure.contrib.json/read-json s)
-        ))))))))))))
+        )))))))))))
