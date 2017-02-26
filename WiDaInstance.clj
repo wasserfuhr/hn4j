@@ -1,8 +1,9 @@
 (ns example
   (:require [clojure.data.json :as json]))
-;(fn[rq rs]
+
+(map(fn[r]
 (let[
-q"";(.getParameter rq"q")
+q r;(.getParameter rq"q")
 Q(if q q"Q107006")
 s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/"Q".json"))]
 (if(.startsWith s"<!DOCTYPE")""
@@ -14,5 +15,6 @@ s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/"Q".json"))]
 (:claims
  ((keyword Q)
    (:entities
-     (json/read-str s))))))))))))
+     (json/read-str s)))))))))))))
          ; (clojure.data.json/read-str s))))))))))))
+	 (range 1 5))
