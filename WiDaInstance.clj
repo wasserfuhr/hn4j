@@ -1,6 +1,6 @@
 (ns example
   (:require [clojure.data.json :as json]))
-(apply str
+;(apply str
 (map(fn[r]
 (let[
 q r;(.getParameter rq"q")
@@ -17,4 +17,4 @@ s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"Q".json"))]
    (:entities
      (json/read-str s)))))))))))))
          ; (clojure.data.json/read-str s))))))))))))
-	 (range 1 5)))
+	 (range 1 5))
