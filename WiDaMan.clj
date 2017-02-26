@@ -1,17 +1,14 @@
 (ns example
  (:require [clojure.data.json :as json]))
+
 (apply str
-(filter #(.endsWith %"Q5")
 (map(fn[r](let[
- s(try(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))
- (catch Exception e nil))]
-(if s(str" "r" "(:id
-(:value(:datavalue
-(:mainsnak
-(first
-(:P31
-(:claims
- ((keyword(str "Q"r))
+ s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/"r".json"))]
+
+(:en
+(:labels
+ ((keyword(str ""r))
    (:entities
-    (json/read-str s :key-fn keyword)))))))))))"")))
- (range 1 0x100))))
+    (json/read-str s :key-fn keyword)))))))
+   (.split "Q76 Q80" " ");Q91 Q157 Q181 Q185 Q186 Q192 Q206 Q207 Q254 Q255")
+ ))
