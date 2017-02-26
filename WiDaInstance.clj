@@ -14,4 +14,4 @@
  ((keyword(str "Q"r))
    (:entities
     (json/read-str s :key-fn keyword))))))))))))))
- (range 1 0x20)))
+ (range 1 0x20))))
