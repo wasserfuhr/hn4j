@@ -3,7 +3,7 @@
 
 ;(apply str
 
-(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json"))
+;(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json"))
 
 (map(fn[r]
 (let[
@@ -16,7 +16,7 @@ s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json"))]
 (first
 (:P31
 (:claims
- ((keyword "Q42"));(str "Q"r))
+ ((keyword "Q42");(str "Q"r))
    (:entities
      (json/read-str s)))))))))))))
          ; (clojure.data.json/read-str s))))))))))))
