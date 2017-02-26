@@ -5,9 +5,7 @@
 
 (map(fn[r]
 (let[
-q r;(.getParameter rq"q")
-Q(if q q"Q107006")
-s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"Q".json"))]
+s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))]
 (if(.startsWith s"<!DOCTYPE")""
 (:id
 (:value(:datavalue
@@ -15,7 +13,7 @@ s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"Q".json"))]
 (first
 (:P31
 (:claims
- ((keyword Q)
+ ((keyword (str "Q"r))
    (:entities
      (json/read-str s)))))))))))))
          ; (clojure.data.json/read-str s))))))))))))
