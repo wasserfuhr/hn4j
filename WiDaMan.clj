@@ -1,4 +1,4 @@
-(ns example(:require[clojure.data.json :as json]))
+(ns wd(:require[clojure.data.json :as json]))
 (apply str(map(fn[r](let[
  s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/"r".json"))]
 (str r" "(:value(:en(:labels((keyword r)(:entities
