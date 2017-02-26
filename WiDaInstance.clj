@@ -13,5 +13,5 @@
 (:claims
  ((keyword(str "Q"r))
    (:entities
-    (json/read-str s :key-fn keyword))))))))))))))
+    (json/read-str s :key-fn keyword)))))))))))"")))
  (range 1 0x20))))
