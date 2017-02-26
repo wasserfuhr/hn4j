@@ -1,6 +1,7 @@
 (ns example
  (:require [clojure.data.json :as json]))
 (apply str
+(filter
 (map(fn[r](let[
  s(try(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))
  (catch Exception e nil))]
@@ -13,5 +14,4 @@
  ((keyword(str "Q"r))
    (:entities
     (json/read-str s :key-fn keyword))))))))))))))
-         ; (clojure.data.json/read-str s))))))))))))
-	 (range 1 0x20)))
+ (range 1 0x20))(.contains %"Q5")))
