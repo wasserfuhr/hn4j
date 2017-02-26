@@ -5,7 +5,8 @@
 
 (map(fn[r]
 (let[
-s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))]
+;s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))]
+s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json"))]
 (if(.startsWith s"<!DOCTYPE")""
 (:id
 (:value(:datavalue
