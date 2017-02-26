@@ -1,6 +1,8 @@
 (ns example
   (:require [clojure.data.json :as json]))
+
 ;(apply str
+
 (map(fn[r]
 (let[
 q r;(.getParameter rq"q")
