@@ -1,26 +1,9 @@
 (ns example
  (:require [clojure.data.json :as json]))
-;(:require [clojure.contrib.json :as json]))
-
-     
-
-;(json/read-json
-(:id
-(:value(:datavalue
-(:mainsnak
-(first
-(:P31
-(:claims
- ((keyword "Q42")
-(:entities
- (json/read-str
-  (slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json")):key-fn keyword)) 
-))))))))
 
 (map(fn[r]
 (let[
-;s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))]
-s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json"))]
+s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q"r".json"))]
 (if(.startsWith s"<!DOCTYPE")""
 (:id
 (:value(:datavalue
@@ -28,8 +11,8 @@ s(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json"))]
 (first
 (:P31
 (:claims
- ((keyword "Q42");(str "Q"r))
+ ((keyword(str "Q"r))
    (:entities
     (json/read-str s :key-fn keyword)))))))))))))
          ; (clojure.data.json/read-str s))))))))))))
-	 (range 42 43))
+	 (range 42 45))
