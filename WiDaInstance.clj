@@ -10,8 +10,9 @@
 ;(clojure.contrib.json/read-json
 
 ;(json/read-json
-;(json/read-str
-; (slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json")):key-fn keyword) 
+(:entities
+ (json/read-str
+  (slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json")):key-fn keyword)) 
 
 (map(fn[r]
 (let[
