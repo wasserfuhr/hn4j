@@ -12,6 +12,6 @@
 (:claims
  ((keyword(str "Q"r))
    (:entities
-    (json/read-str s :key-fn keyword)))))))))))))
+    (json/read-str s :key-fn keyword))))))))))))))
          ; (clojure.data.json/read-str s))))))))))))
-	 (range 1 0xa))))
+	 (range 1 0xa)))
