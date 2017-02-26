@@ -1,5 +1,5 @@
 (ns example
-  (:require [clojure.contrib]))
+  (:require [clojure.contrib.json]))
 
      
 ;    (:require [clojure.data.json :as json]))
