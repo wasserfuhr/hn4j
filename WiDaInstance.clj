@@ -3,7 +3,8 @@
 
 ;(apply str
 
-;(slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json"))
+(json/read-str
+ (slurp(str"https://www.wikidata.org/wiki/Special:EntityData/Q42.json")))
 
 (map(fn[r]
 (let[
