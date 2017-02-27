@@ -10,8 +10,8 @@ public class Jet extends AbstractHandler{
   try{
    RT.loadResourceScript("hiccup/core.clj");
    //RT.loadResourceScript("clojure/data/json.clj");
-   //   String c="(fn[rq rs]((eval(read-string(slurp\"https://knot-net.appspot.com/jboot\")))rq rs))";
    String c="(fn[rq rs](hiccup.core/html\"<!DOCTYPE html>\"[:html[:head[:title\"α\"]][:body\"α\"]]))";
+   //"(fn[rq rs]((eval(read-string(slurp\"https://knot-net.appspot.com/jboot\")))rq rs))";
    PushbackReader pr=new PushbackReader(new StringReader(c));
    Object r=LispReader.read(pr,true,null,false);
    IFn rf=(IFn)clojure.lang.Compiler.eval(r);
@@ -20,8 +20,8 @@ public class Jet extends AbstractHandler{
   }finally{}
   br.setHandled(true);}
  public static void main(String[] a)throws Exception{
-     //new Ur().start();
-  Server s = new Server(8081);
+  //new Ur().start();
+  Server s = new Server(80);
   s.setHandler(new Jet());
   s.start();
   s.join();}}
