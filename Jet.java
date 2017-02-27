@@ -12,6 +12,7 @@ public class Jet extends AbstractHandler{
    //RT.loadResourceScript("clojure/data/json.clj");
    //   String c="(fn[rq rs]((eval(read-string(slurp\"https://knot-net.appspot.com/jboot\")))rq rs))";
    String c="(fn[rq rs](hiccup.core/html\"<!DOCTYPE html>\"[:html[:head]]))";
+   String c="(fn[rq rs]\"Hi\")";
 
    PushbackReader pr=new PushbackReader(new StringReader(c));
    Object r=LispReader.read(pr,true,null,false);
