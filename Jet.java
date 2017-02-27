@@ -5,7 +5,7 @@ import org.eclipse.jetty.server.*;
 import org.eclipse.jetty.server.handler.*;
 import clojure.lang.*;
 //http://www.eclipse.org/jetty/documentation/current/advanced-embedding.html :
-public class HtTp extends AbstractHandler{
+public class Jet extends AbstractHandler{
  public void handle(String t,Request br,HttpServletRequest rq,HttpServletResponse rs)throws IOException,ServletException{
   try{
    RT.loadResourceScript("hiccup/core.clj");
