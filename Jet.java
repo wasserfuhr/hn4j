@@ -20,6 +20,6 @@ public class Jet extends AbstractHandler{
  public static void main(String[] a)throws Exception{
   new Ur().start();
   Server s = new Server(8080);
-  s.setHandler(new HtTp());
+  s.setHandler(new Jet());
   s.start();
   s.join();}}
