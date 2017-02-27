@@ -4,6 +4,7 @@ import javax.servlet.http.*;
 import org.eclipse.jetty.server.*;
 import org.eclipse.jetty.server.handler.*;
 import clojure.lang.*;
+// java -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet &
 //http://www.eclipse.org/jetty/documentation/current/advanced-embedding.html :
 public class Jet extends AbstractHandler{
  public void handle(String t,Request br,HttpServletRequest rq,HttpServletResponse rs)throws IOException,ServletException{
