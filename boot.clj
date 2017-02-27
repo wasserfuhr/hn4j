@@ -4,4 +4,4 @@
  r(- t(* d 1000));mod?
  a(format"%02x.%02x"d(quot(* 256 r)1000))]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α"]]
-[:body"αt"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"α"]" approaching β."]]))
+[:body"αt"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"α"]" approaching β."]])))
