@@ -15,6 +15,7 @@ public class Jet extends AbstractHandler{
    PushbackReader pr=new PushbackReader(new StringReader(c));
    Object r=LispReader.read(pr,true,null,false);
    IFn rf=(IFn)clojure.lang.Compiler.eval(r);
+   rs.setCharacterEncoding("UTF-8");
    rs.getWriter().print(rf.invoke(rq,rs));
   }finally{}
   br.setHandled(true);}
