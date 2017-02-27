@@ -7,6 +7,6 @@
 (:value(:datavalue(:mainsnak(first(:P31(:claims
  ((keyword(str "Q"r))(:entities
     (json/read-str s :key-fn keyword)))))))))))"")))
- (range 1 0x100))))
-; (range 0x2000 0x3000))))
+; (range 1 0x100))))
+ (range 0x3000 0x4000))))
  
