@@ -28,7 +28,7 @@ public class Jet extends AbstractHandler{
   //new Ur().start();
   Server s = new Server(80);
   //https://dzone.com/articles/adding-ssl-support-embedded
-  ServerConnector connector = new ServerConnector(s);
+  SocketConnector connector = new SocketConnector(s);
   connector.setPort(9999);
   HttpConfiguration https = new HttpConfiguration();
   https.addCustomizer(new SecureRequestCustomizer());
