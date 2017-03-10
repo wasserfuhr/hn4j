@@ -25,25 +25,21 @@ public class Jet extends AbstractHandler{
  public static void main(String[] a)throws Exception{
   //new Ur().start();
   Server s = new Server(80);
-
   //https://dzone.com/articles/adding-ssl-support-embedded
-  ServerConnector connector = new ServerConnector(server);
+  ServerConnector connector = new ServerConnector(s);
   connector.setPort(9999);
-
   HttpConfiguration https = new HttpConfiguration();
   https.addCustomizer(new SecureRequestCustomizer());
   SslContextFactory sslContextFactory = new SslContextFactory();
   sslContextFactory.setKeyStorePath(EmbeddedServer.class.getResource(
-								     "/keystore.jks").toExternalForm());
+   "/keystore.jks").toExternalForm());
   sslContextFactory.setKeyStorePassword("123456");
   sslContextFactory.setKeyManagerPassword("123456");
-  ServerConnector sslConnector = new ServerConnector(server,
-						     new SslConnectionFactory(sslContextFactory, "http/1.1"),
-						     new HttpConnectionFactory(https));
+  ServerConnector sslConnector = new ServerConnector(s,
+   new SslConnectionFactory(sslContextFactory,"http/1.1"),
+   new HttpConnectionFactory(https));
   sslConnector.setPort(9998);
-
-  server.setConnectors(new Connector[] { connector, sslConnector });
-  
+  s.setConnectors(new Connector[]{connector,sslConnector});
   s.setHandler(new Jet());
   s.start();
   s.join();}}
