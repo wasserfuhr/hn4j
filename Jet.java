@@ -3,6 +3,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 import org.eclipse.jetty.server.*;
 import org.eclipse.jetty.server.handler.*;
+import org.eclipse.jetty.server.nio.*;
 import org.eclipse.jetty.server.ssl.*;
 import org.eclipse.jetty.util.ssl.SslContextFactory;
 import clojure.lang.*;
@@ -27,7 +28,7 @@ public class Jet extends AbstractHandler{
   //new Ur().start();
   Server s=new Server();
   //https://dzone.com/articles/adding-ssl-support-embedded
-  Connector connector=new Connector(s);
+  SelectChannelConnector connector=new SelectChannelConnector(s);
   connector.setPort(9999);
   SslContextFactory sslContextFactory = new SslContextFactory();
   sslContextFactory.setKeyStorePath(Jet.class.getResource(
