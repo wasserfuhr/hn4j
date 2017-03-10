@@ -1,4 +1,3 @@
-0;256;0c
 import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
