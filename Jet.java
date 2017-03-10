@@ -29,14 +29,17 @@ public class Jet extends AbstractHandler{
   Server s=new Server();
   //https://dzone.com/articles/adding-ssl-support-embedded
   SelectChannelConnector connector=new SelectChannelConnector();
-  connector.setPort(9999);
+  connector.setPort(80);
   SslContextFactory sslContextFactory = new SslContextFactory();
   sslContextFactory.setKeyStorePath(
 				    "/root/keystore.jks");
   //  sslContextFactory.setKeyStorePath(Jet.class.getResource(
   //"/keystore.jks").toExternalForm());
-  sslContextFactory.setKeyStorePassword("123456");
-  sslContextFactory.setKeyManagerPassword("123456");
+  sslContextFactory.setKeyStorePassword(
+					System.getProperty ("pw"));
+  sslContextFactory.setKeyManagerPassword(
+					  					System.getProperty ("pw"));
+  
   SslSocketConnector sslConnector = new SslSocketConnector(sslContextFactory);
   sslConnector.setPort(443);
   s.setConnectors(new Connector[]{connector,sslConnector});
