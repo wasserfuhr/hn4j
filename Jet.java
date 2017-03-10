@@ -31,8 +31,10 @@ public class Jet extends AbstractHandler{
   SelectChannelConnector connector=new SelectChannelConnector();
   connector.setPort(9999);
   SslContextFactory sslContextFactory = new SslContextFactory();
-  sslContextFactory.setKeyStorePath(Jet.class.getResource(
-   "/keystore.jks").toExternalForm());
+  sslContextFactory.setKeyStorePath(
+				    "/root/keystore.jks");
+  //  sslContextFactory.setKeyStorePath(Jet.class.getResource(
+  //"/keystore.jks").toExternalForm());
   sslContextFactory.setKeyStorePassword("123456");
   sslContextFactory.setKeyManagerPassword("123456");
   SslSocketConnector sslConnector = new SslSocketConnector(sslContextFactory);
