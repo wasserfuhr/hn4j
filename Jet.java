@@ -27,7 +27,7 @@ public class Jet extends AbstractHandler{
   //new Ur().start();
   Server s = new Server();
   //https://dzone.com/articles/adding-ssl-support-embedded
-  SocketConnector connector = new SocketConnector(s);
+  Connector connector = new Connector(s);
   connector.setPort(9999);
   SslContextFactory sslContextFactory = new SslContextFactory();
   sslContextFactory.setKeyStorePath(EmbeddedServer.class.getResource(
