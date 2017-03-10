@@ -1,4 +1,4 @@
-
+0;256;0c
 import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
@@ -26,21 +26,17 @@ public class Jet extends AbstractHandler{
   br.setHandled(true);}
  public static void main(String[] a)throws Exception{
   //new Ur().start();
-  Server s = new Server(80);
+  Server s = new Server();
   //https://dzone.com/articles/adding-ssl-support-embedded
   SocketConnector connector = new SocketConnector(s);
   connector.setPort(9999);
-  HttpConfiguration https = new HttpConfiguration();
-  https.addCustomizer(new SecureRequestCustomizer());
   SslContextFactory sslContextFactory = new SslContextFactory();
   sslContextFactory.setKeyStorePath(EmbeddedServer.class.getResource(
    "/keystore.jks").toExternalForm());
   sslContextFactory.setKeyStorePassword("123456");
   sslContextFactory.setKeyManagerPassword("123456");
-  ServerConnector sslConnector = new ServerConnector(s,
-   new SslConnectionFactory(sslContextFactory,"http/1.1"),
-   new HttpConnectionFactory(https));
-  sslConnector.setPort(9998);
+  SslSocketConnector sslConnector = new SslSocketConnector(sslContextFactory);
+  sslConnector.setPort(443);
   s.setConnectors(new Connector[]{connector,sslConnector});
   s.setHandler(new Jet());
   s.start();
