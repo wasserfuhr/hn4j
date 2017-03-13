@@ -1,4 +1,4 @@
 (doall(map(fn[l](println(str
-;(get(.split l" ")4)
-(get(.split (.trim l)" ")6))))
+(get(.split l" ")5)
+(get(.split (.trim l)" ")8))))
  (.split(slurp"qls")"\n")))
