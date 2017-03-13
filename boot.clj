@@ -6,7 +6,9 @@
  r(- t(* d 1000));mod?
  a(format"%02x.%02x"d(quot(* 256 r)1000))]
 ;(.println *err*"\007")
-;https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg
 (println a i(.getRequestURI rq))
+(if(.startsWith(.getRequestURI rq)"/a9e3")
+ (.sendRedirect
+  "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
-[:body"αt"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"α"]" approaching β."]])))
+[:body"αt"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"α"]" approaching β."]]))))
