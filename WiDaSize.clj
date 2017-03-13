@@ -1,3 +1,4 @@
 (doall(map(fn[l](println(str
-(Integer/parseInt (subs l 0 5) 16) )))
+(get(.split l" ")4)
+(get(.split l" ")6)
  (.split(slurp *in*)"\n")))
