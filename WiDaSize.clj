@@ -3,4 +3,5 @@
 " "
 ;(first(.split(get(.split l" ")8)"\\."))
 ))
- (.split(slurp"qls")"\n"))))
+(line-seq (java.io.BufferedReader. *in*)))))
+; (.split(slurp"qls")"\n"))))
