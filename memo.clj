@@ -79,15 +79,14 @@ function abc(l){for(i=0;i<p.length;i++)
  https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/195px-Goethe_%28Stieler_1828%29.jpg
 )":onclick"d('Q5879')"}[:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
+[:div#Q8016{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 128px;background-repeat:no-repeat;background-image:url(
+ https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg
+ )":onclick"d('Q8016')"}[:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
-[:div{:style"float:left"}[:span#tQ8016{:style"display:none"}][:br]
-[:img#Q8016{:width 102 :height 128 :style"border:#fff solid 3px" :onclick"d('Q8016')"
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg"}]]
+[:div#Q12823{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 128px;background-repeat:no-repeat;background-image:url(
+ https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]]
+ )":onclick"d('Q12823')"}[:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
-[:div{:style"float:left"}[:span#tQ12823{:style"display:none"}][:br]
-[:img#Q12823{:width 102 :height 128 :style"border:#fff solid 3px" :onclick"d('Q12823')"
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]]
-]
 [:br]
 ;(map(fn[q](let[r(.split q" ")n(.trim(second r))]
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
