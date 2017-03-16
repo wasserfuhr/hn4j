@@ -65,7 +65,7 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div#tQ23{:style"background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}[:p{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
-[:div#tQ23{:style"background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg)"}[:p{:style"background-color:#fff"}"George"[:br]"Washington"]]
+[:div#tQ76{:style"background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg)"}[:p{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
 [:h1]
 [:br]
