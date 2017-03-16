@@ -11,14 +11,19 @@ t(subs s i0(+ i0 i1))
 r(.split t"class=\"mw-thumbnail-link\">")
 u(.split(second r)" ")
 l(.indexOf(second r)"/thumb/")
-h(subs(second r)(+ l 9)(+ l 11))]
+k(subs(second r)(+ l 9)(+ l 11))
+h(first u)
+w(get u 2)]
 ;https://floatingboat2013.appspot.com/WiDaPic?q=Q42 =
 ;https://upload.wikimedia.org/wikipedia/commons/c/c0/Douglas_adams_portrait_cropped.jpg
 ;
 ;https://floatingboat2013.appspot.com/WiDaPic?q=Q19837 =
 ;https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg
-;(str s0" "h" "(first u)" "(get u 2)"\n"))
-(str"<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs h 0 1)"/"h"/"e"/"(first u)"px-"e"'/>\n"))
+;(str s0" "k" "h" "w"\n"))
+(str"<img
+width="(Math/max(* 64(/ h w))64)"
+height="(Math/max(* 64(/ w h))64)"
+src='https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"h"px-"e"'/>\n"))
 (catch Exception ex (str "*E*"s0" "e"\n")))))
 (.split
 "Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
