@@ -53,7 +53,7 @@ function abc(l){for(i=0;i<p.length;i++)
 [:form
 [:table
  [:tr[:td"Which "[:i"first name"]" or "[:i"last name"]" starts with..."]
-  [:td{:rowspan 2}[:b{:style"font-size:400%"}[:span#l"A"]?"]]]
+  [:td{:rowspan 2}[:b{:style"font-size:400%"}[:span#l"A"]"?"]]]
  [:tr[:td"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" faengt an mit..."]]]
 
 [:br]"Click the images and then press"
