@@ -78,10 +78,11 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div{:style"float:left"}[:span#tQ937{:style"display:none"}][:br]
 [:img#Q937{:width 96 :height 128 :style"border:#fff solid 3px" :onclick"d('Q937')"
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/180px-Albert_Einstein_Head.jpg"}]
+:src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/180px-Albert_Einstein_Head.jpg"}]]
 
+[:div{:style"float:left"}[:span#tQ937{:style"display:none"}][:br]
 [:img#Q5879{:width 104 :height 128 :style"border:#fff solid 3px" :onclick"d('Q5879')"
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/195px-Goethe_%28Stieler_1828%29.jpg"}]
+:src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/195px-Goethe_%28Stieler_1828%29.jpg"}]]
 
 [:img#Q8016{:width 102 :height 128 :style"border:#fff solid 3px" :onclick"d('Q8016')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg"}]
