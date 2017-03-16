@@ -63,11 +63,13 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div
 
-[:div#Q23{:style"width:105px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}
- [:p#tQ23{:style"background-color:#fff"}"George"[:br]"Washington"]]
+[:div#Q23{:style"width:105px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(
+ https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg
+)"}[:p#tQ23{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
-[:div#Q76{:style"vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg)"}
- [:p#tQ76{:style"background-color:#fff"}"Barack"[:br]"Obama"]]
+[:div#Q76{:style"width:105px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(
+ https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg
+)"}[:p#tQ76{:style"background-color:#fff"}"Barack"[:br]"Obama"]]
 
 
 [:div#Q937{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 128px;background-repeat:no-repeat;background-image:url(
@@ -81,13 +83,11 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div#Q8016{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 128px;background-repeat:no-repeat;background-image:url(
  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg
- )":onclick"d('Q8016')"}[:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
+)":onclick"d('Q8016')"}[:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
 [:div#Q12823{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 128px;background-repeat:no-repeat;background-image:url(
  https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg
- )":onclick"d('Q12823')"}[:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
-]
-[:br]
+)":onclick"d('Q12823')"}[:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]][:br]
 ;(map(fn[q](let[r(.split q" ")n(.trim(second r))]
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
 
