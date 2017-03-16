@@ -25,16 +25,16 @@ function m(l,n){
  return false}
 
 setInterval(function(){
+  document.getElementById('moreDiv').style.display=(more>0)?'block':'none'
  if(more>=0){
   more--
   for(var k in ps){
    document.getElementById('t'+k).innerHTML=ps[k]
-   document.getElementById('t'+k).style.display='block'}}
- document.getElementById('moreDiv').style.display=(more>0)?'block':'none'
- if(more==0)
-  for(var k in ps){
-   document.getElementById(k).style.borderColor='#fff'
-   document.getElementById('t'+k).style.display='none'}
+   document.getElementById('t'+k).style.display='block'}
+  if(more==0)
+   for(var k in ps){
+    document.getElementById(k).style.borderColor='#fff'
+    document.getElementById('t'+k).style.display='none'}
  document.getElementById('more').innerHTML=more},1000);
 
 function d(i){
