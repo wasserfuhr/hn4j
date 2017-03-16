@@ -10,7 +10,7 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 ; ((:pageEdit v)"/memo"t 8)
 " "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]];[:script{:src"/AtJs"}]
 [:script"
-function d(i){
+function tgl(i){
  s=document.getElementById(i).style
  s.borderColor=('red'==s.borderColor)?'#fff':'red'}
 
@@ -25,15 +25,14 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:br]"Click the images and then press"
 [:br]"Clicke die richtigen Bilder an und dann druecke"
-[:input#lA{:name"A":type"button":value"Done":onclick"abc('A');return false"}]
-]
+[:input#lA{:name"A":type"button":value"Done":onclick"abc('A');return false"}]]
 
 ;(.split""
 ;Q23 105 :height 128 :onclick"document.getElementById('Q23').style.border='red solid 2px'"
 ;f('Q23')
 ;:src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
 
-[:img#Q23{:width 105 :height 128 :style"border-width:2px" :onclick"d(\"Q23\")"
+[:img#Q23{:width 105 :height 128 :style"border:#fff solid 2px" :onclick"tgl('Q23')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
 
 [:img#Q76{:width 102 :height 128 :onclick"d('Q76')"
