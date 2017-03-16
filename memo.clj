@@ -1,13 +1,9 @@
 (fn[rq rs](let[c(.getAttribute rq"c")v(.getAttribute rq"vars")t"AlphaMemory"
 w(.split(slurp(str"https://floatingboat2013.appspot.com/rawHead/MemoPic"))"\n")
 x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
-[:head[:title t" « &alpha;"]
+[:head[:title t" « &alpha;"];(:can c)(:css c)(:vp c)
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
-[:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]
-;(:can c)(:css c)(:vp c)
-
-
-]
+[:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t
 ; ((:pageEdit v)"/memo"t 8)
 " "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]];[:script{:src"/AtJs"}]
@@ -46,11 +42,9 @@ function d(i){
 function q(l){try{for(var k in ps){
   s=document.getElementById(k).style
   s.borderColor=('yellow'==s.borderColor)==m(l,ps[k])?'green':'red'}
- s=document.getElementById('l').innerHTML='ABGESP'.charAt(Math.floor(Math.random()*6))
+ s=document.getElementById('l').innerHTML='ABEGJOSPW'.charAt(Math.floor(Math.random()*6))
  more=5
-}catch(e){alert(e)}
-}
-
+}catch(e){alert(e)}}
 
 var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
 function abc(l){for(i=0;i<p.length;i++)
@@ -89,4 +83,4 @@ function abc(l){for(i=0;i<p.length;i++)
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
 
 [:br]"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)
- [:footer"a RaWa EtAl production."]]])))
+ [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production."]]])))
