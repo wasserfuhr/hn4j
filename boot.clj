@@ -8,11 +8,10 @@
 ;(.println *err*"\007")
 (println a i(.getRequestURI rq))
 (if(.startsWith(.getRequestURI rq)"/memo")
-((eval(slurp"memo.clj"))rq rs)
-
-(if(.startsWith(.getRequestURI rq)"/a9e")
- (.sendRedirect rs
-  "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
+ ((eval(read-string(slurp"memo.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/a9e")
+  (.sendRedirect rs
+   "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
 [:body"αt"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"α"]" approaching β."
 [:br]"try "[:a{:href"/memo"}"AlphaMemory"]]])))))
