@@ -12,10 +12,11 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 ; ((:pageEdit v)"/memo"t 8)
 " "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]];[:script{:src"/AtJs"}]
 [:script"
-p={
+var p={
 'Q23':'GeorgeWashington',
 'Q76':'BarackObama',
-}alert(p.keys)
+}
+alert(p.keys)
 
 function d(i){
  s=document.getElementById(i).style
