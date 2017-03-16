@@ -68,7 +68,7 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div#moreDiv"More in "[:span#more 0]" seconds..."]
 
-[:div[:span#tQ23{:style"display:none"}"GeorgeWashington"][:br]
+[:div{:style"float:left"}[:span#tQ23{:style"display:none"}"GeorgeWashington"][:br]
 [:img#Q23{:width 105 :height 128 :style"border:#fff solid 3px;z-index:0" :onclick"d('Q23')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]]
 
