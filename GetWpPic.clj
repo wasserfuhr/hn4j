@@ -1,7 +1,8 @@
-(println(map(fn[l](try(let[
+(println(map(fn[l](let[
 s(.indexOf l" ")
 s0(subs l 0 s)
-s1(subs l s)
+s1(subs l s)]
+(try(let[
 e(java.net.URLEncoder/encode (.replaceAll s1" ""_"))
 s(slurp(str"https://en.wikipedia.org/wiki/File:"e))
 i0(.indexOf s "mw-filepage-other-resolutions")
@@ -11,7 +12,7 @@ r(.split t"class=\"mw-thumbnail-link\">")
 u(.split(second r)" ")
 l(.indexOf(second r)"/thumb/")
 ](str s0" "(subs(second r)(+ l 9)(+ l 11))" "(first u)" "(get u 2)"\n"))
-(catch Exception e nil)))
+(catch Exception e s0))))
 (.split"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
 QQ76 President Barack Obama.jpg
 Q937 Albert Einstein Head.jpg
