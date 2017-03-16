@@ -19,15 +19,16 @@ h(subs(second r)(+ l 9)(+ l 11))]
 ;https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg
 (str s0" "h" "(first u)" "(get u 2)"\n"))
 (catch Exception ex (str "*E*"s0" "e"\n")))))
-(.split"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
+(.split
+"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
 Q76 President Barack Obama.jpg
-Q19838 Steve Jobs Headshot 2010-CROP.jpg
-Q937 Albert Einstein Head.jpg
-Q7200 Portrait of Alexander Pushkin (Orest Kiprensky, 1827).PNG
-Q6294 HillaryPA.jpg
 Q352 Bundesarchiv Bild 183-S33882, Adolf Hitler retouched.jpg
+Q937 Albert Einstein Head.jpg
+Q6294 HillaryPA.jpg
+Q7200 Portrait of Alexander Pushkin (Orest Kiprensky, 1827).PNG
 Q8016 Sir Winston S Churchill.jpg
 Q12823 Susan Polgar 6.jpg
-QX Henry Hubchen.jpg
-QY Sergey Brin Ted 2010.jpg"
+Q19838 Steve Jobs Headshot 2010-CROP.jpg
+Q92764 Sergey Brin Ted 2010.jpg"
+Q160305 Henry Hubchen.jpg
 "\n")))
