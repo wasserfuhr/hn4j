@@ -16,7 +16,7 @@ var ps={
 'Q8016':'WinstonChurchill',
 'Q12823':'SusanPolgar'
 }
-var more=0;
+var more=-1;
 
 //match
 function m(l,n){
