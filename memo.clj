@@ -18,7 +18,9 @@ function abc(l){for(i=0;i<p.length;i++)
 [:form
 "Which "[:i"first name"]" or "[:i"last name"]" starts with..."[:b{:style"font-size:200%"}"A"]"?"[:br]
 "Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" faengt an mit..."[:b{:style"font-size:200%"}"A"]"?"
-[:br][:input#lA{:name"A":type"button":value"Done":onclick"abc('A');return false"}]
+[:br]"Click the images and then press"
+[:br]"Clicke die richtigen Bilder an und dann druecke"
+[:input#lA{:name"A":type"button":value"Done":onclick"abc('A');return false"}]
 ]
 
 [:img#q23{:width 105 :height 128 :onclick"document.getElementById('q23').style.border='red solid 2px'"
