@@ -16,7 +16,19 @@ var ps={
 'Q23':'GeorgeWashington',
 'Q76':'BarackObama',
 'Q937':'AlbertEinstein',
+'Q937':'AlbertEinstein',
+'Q5879':'JohannWolfgangVonGoethe',
+'Q8016':'WinstonChurchill',
+'Q12823':'SusanPolgar'
 }
+var more=0;
+
+setInterval(function(){
+ if(more>0){
+  more--
+  document.getElementById('moreDiv').display='block'}
+ else document.getElementById('moreDiv').display='hidden'
+ document.getElementById('more').innerHTML=more},1000);
 
 function d(i){
  s=document.getElementById(i).style
@@ -25,6 +37,7 @@ function q(l){try{for(var k in ps){
   s=document.getElementById(k).style
   s.borderColor=(l==ps[k].charAt(0))?'green':'red'}
  s=document.getElementById('l').innerHTML='ABGESP'.charAt(Math.floor(Math.random()*6))
+ more=5
 }catch(e){alert(e)}
 }
 
@@ -41,6 +54,8 @@ function abc(l){for(i=0;i<p.length;i++)
 [:br]"Click the images and then press"
 [:br]"Clicke die richtigen Bilder an und dann druecke"
 [:input#lA{:name"A":type"button":value"Done":onclick"q('A');return false"}]]
+
+[:div#moreDiv"More in [:span#more 0] seconds..."]
 
 ;(.split""
 ;Q23 105 :height 128 :onclick"document.getElementById('Q23').style.border='red solid 2px'"
