@@ -12,7 +12,7 @@ r(.split t"class=\"mw-thumbnail-link\">")
 u(.split(second r)" ")
 l(.indexOf(second r)"/thumb/")
 ](str s0" "(subs(second r)(+ l 9)(+ l 11))" "(first u)" "(get u 2)"\n"))
-(catch Exception ex (str s0" "e)))))
+(catch Exception ex (str "*E*"s0" "e"\n")))))
 (.split"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
 QQ76 President Barack Obama.jpg
 Q937 Albert Einstein Head.jpg
