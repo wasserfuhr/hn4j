@@ -26,16 +26,14 @@ function m(l,n){
 
 setInterval(function(){
  if(more==1)
-  for(var k in ps)
-   document.getElementById('t'+k).style.display='block'
- if(more==1)
   for(var k in ps){
    document.getElementById(k).style.borderColor='#fff'
    document.getElementById('t'+k).style.display='hidden'}
  if(more>0){
   more--
-  for(var k in ps)
+  for(var k in ps){
    document.getElementById('t'+k).innerHTML=ps[k]
+   document.getElementById('t'+k).style.display='block'}
   document.getElementById('moreDiv').style.display='block'}
  else
   document.getElementById('moreDiv').style.display='none'
@@ -68,6 +66,8 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div#moreDiv"More in "[:span#more 0]" seconds..."]
 
+[:div
+
 [:div{:style"float:left"}[:span#tQ23{:style"display:none"}][:br]
 [:img#Q23{:width 105 :height 128 :style"border:#fff solid 3px;z-index:0" :onclick"d('Q23')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]]
@@ -91,7 +91,7 @@ function abc(l){for(i=0;i<p.length;i++)
 [:div{:style"float:left"}[:span#tQ12823{:style"display:none"}][:br]
 [:img#Q12823{:width 102 :height 128 :style"border:#fff solid 3px" :onclick"d('Q12823')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]]
-
+]
 [:br]
 ;(map(fn[q](let[r(.split q" ")n(.trim(second r))]
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
