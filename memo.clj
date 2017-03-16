@@ -12,7 +12,7 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 ; ((:pageEdit v)"/memo"t 8)
 " "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]];[:script{:src"/AtJs"}]
 [:script"
-var p={
+var ps={
 'Q23':'GeorgeWashington',
 'Q76':'BarackObama',
 }
@@ -22,6 +22,7 @@ function d(i){
  s=document.getElementById(i).style
  s.borderColor=('red'==s.borderColor)?'#fff':'red'}
 function q(){
+}
 
 
 var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
@@ -62,6 +63,7 @@ function abc(l){for(i=0;i<p.length;i++)
 
 ;[:br](map(fn[q](let[r(.split q" ")n(.trim(second r))]
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
+
 [:br]"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)
  ;(:footer v)
  ]])))
