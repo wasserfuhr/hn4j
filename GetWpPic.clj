@@ -11,10 +11,17 @@ t(subs s i0(+ i0 i1))
 r(.split t"class=\"mw-thumbnail-link\">")
 u(.split(second r)" ")
 l(.indexOf(second r)"/thumb/")
-](str s0" "(subs(second r)(+ l 9)(+ l 11))" "(first u)" "(get u 2)"\n"))
+h(subs(second r)(+ l 9)(+ l 11))]
+;https://floatingboat2013.appspot.com/WiDaPic?q=Q42 =
+;https://upload.wikimedia.org/wikipedia/commons/c/c0/Douglas_adams_portrait_cropped.jpg
+;
+;https://floatingboat2013.appspot.com/WiDaPic?q=Q19837 =
+;https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg
+(str s0" "h" "(first u)" "(get u 2)"\n"))
 (catch Exception ex (str "*E*"s0" "e"\n")))))
 (.split"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
-QQ76 President Barack Obama.jpg
+Q76 President Barack Obama.jpg
+Q19838 Steve Jobs Headshot 2010-CROP.jpg
 Q937 Albert Einstein Head.jpg
 Q7200 Portrait of Alexander Pushkin (Orest Kiprensky, 1827).PNG
 Q6294 HillaryPA.jpg
