@@ -1,7 +1,9 @@
 (fn[rq rs](let[c(.getAttribute rq"c")v(.getAttribute rq"vars")t"AlphaMemory"
 w(.split(slurp(str"https://floatingboat2013.appspot.com/rawHead/MemoPic"))"\n")
-x(map #(.split(.trim %)" ")w)]((:ht c)
-[:head[:title t" « α"](:can c)(:css c)(:vp c)]
+x(map #(.split(.trim %)" ")w)]([:html
+[:head[:title t" « α"]
+;(:can c)(:css c)(:vp c)
+]
 [:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "t
  ((:pageEdit v)"/memo"t 8)
 " "[:sup#t"αt2a87c67.4fx2710fc0"]][:script{:src"/AtJs"}]
@@ -17,4 +19,5 @@ function abc(l){for(i=0;i<p.length;i++)
 [:br](map(fn[q](let[r(.split q" ")n(.trim(second r))]
  [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
 [:br]"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)
- (:footer v)])))
+ ;(:footer v)
+ ])))
