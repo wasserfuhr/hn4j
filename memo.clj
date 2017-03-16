@@ -17,7 +17,7 @@ function abc(l){for(i=0;i<p.length;i++)
 [:input#lG{:name"G":type"button":value"G...":onclick"abc('G');return false"}]
 [:input#lP{:name"P":type"button":value"P...":onclick"abc('P');return false"}]" or "
 [:input#lV{:name"V":type"button":value"V...":onclick"abc('V');return false"}]"?"]
-[:img#i{:width 105 :height 128 :onclick"document.getElementById('i').style.border='red'"
+[:img#i{:width 105 :height 128 :onclick"document.getElementById('i').style.border='red solid 2px'"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
 
 
