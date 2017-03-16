@@ -74,7 +74,7 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div[:span#tQ76{:style"display:none"}][:br]
 [:img#Q76{:width 102 :height 128 :style"border:#fff solid 3px" :onclick"d('Q76')"
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg"}]
+:src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg"}]]
 
 [:img#Q937{:width 96 :height 128 :style"border:#fff solid 3px" :onclick"d('Q937')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/180px-Albert_Einstein_Head.jpg"}]
