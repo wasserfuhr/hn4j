@@ -31,14 +31,13 @@ Q42 douglas adams portrait cropped.jpg
 Q76 President Barack Obama.jpg
 Q352 Bundesarchiv Bild 183-S33882, Adolf Hitler retouched.jpg
 Q937 Albert Einstein Head.jpg
-Q352 Bundesarchiv Bild 183-S33882, Adolf Hitler retouched.jpg
-Q8016 Sir Winston S Churchill.jpg
+Q991 Vasily Perov - Портрет Ф.М.Достоевского - Google Art Project.jpg
 Q12823 Susan Polgar 6.jpg
 Q5879 Goethe (Stieler 1828).jpg
-Q8704 Walt Disney 1946.JPG
+Q8016 Sir Winston S Churchill.jpg
 Q8023 Nelson Mandela-2008 (edit).jpg
+Q8704 Walt Disney 1946.JPG
 Q7243 L.N.Tolstoy Prokudin-Gorsky.jpg
-Q991 Vasily Perov - Портрет Ф.М.Достоевского - Google Art Project.jpg
 Q5152 Atatürk.jpg
 Q255 Beethovensmall.jpg
 Q692 Hw-shakespeare.png
