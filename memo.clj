@@ -63,7 +63,7 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div
 
-[:div#Q213{:style"height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}[:p{:style"background-color:#fff"}"George"[:br]"Washington"]]
+[:div#Q213{:style"vertical-align:bottom;border:#fff solid 3px;height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}[:p{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
 [:div#Q2311{:style"height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}"George"[:br]"Washingtonnn"]
 
