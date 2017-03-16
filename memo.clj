@@ -21,7 +21,7 @@ var ps={
 function d(i){
  s=document.getElementById(i).style
  s.borderColor=('yellow'==s.borderColor)?'#fff':'yellow'}
-function q(l){for(var k in ps){try{
+function q(l){try{for(var k in ps){
   s=document.getElementById(k).style
   s.borderColor=ps[k].startsWith(l)?'green':'red'}
  s=document.getElementById('l').innerHTML='ABGESP'.charAt(Math.floor(Math.random()*6))
