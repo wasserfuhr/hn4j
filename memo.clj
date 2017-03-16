@@ -1,12 +1,12 @@
 (fn[rq rs](let[c(.getAttribute rq"c")v(.getAttribute rq"vars")t"AlphaMemory"
 w(.split(slurp(str"https://floatingboat2013.appspot.com/rawHead/MemoPic"))"\n")
 x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
-[:head[:title t" « α"]
+[:head[:title t" « &alpha;"]
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]
 ;(:can c)(:css c)(:vp c)
 ]
-[:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"» "t
+[:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t
 ; ((:pageEdit v)"/memo"t 8)
 " "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]][:script{:src"/AtJs"}]
 [:script"var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
