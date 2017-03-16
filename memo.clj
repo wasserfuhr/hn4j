@@ -84,5 +84,4 @@ function abc(l){for(i=0;i<p.length;i++)
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
 
 [:br]"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)
- ;(:footer v)
- ]])))
+ [:footer"a RaWa EtAl production."]]])))
