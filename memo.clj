@@ -1,5 +1,5 @@
 (fn[rq rs](let[c(.getAttribute rq"c")v(.getAttribute rq"vars")t"AlphaMemory"
-w(.split(slurp(str"https://"(.getServerName rq)"/rawHead/MemoPic"))"\n")
+w(.split(slurp(str"https://floatingboat2013.appspot.com/rawHead/MemoPic"))"\n")
 x(map #(.split(.trim %)" ")w)]((:ht c)
 [:head[:title t" « α"](:can c)(:css c)(:vp c)]
 [:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "t
