@@ -16,7 +16,6 @@ var ps={
 'Q23':'GeorgeWashington',
 'Q76':'BarackObama',
 'Q937':'AlbertEinstein',
-'Q937':'AlbertEinstein',
 'Q5879':'JohannWolfgangVonGoethe',
 'Q8016':'WinstonChurchill',
 'Q12823':'SusanPolgar'
