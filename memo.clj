@@ -84,7 +84,7 @@ function abc(l){for(i=0;i<p.length;i++)
  )":onclick"d('Q8016')"}[:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
 [:div#Q12823{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 128px;background-repeat:no-repeat;background-image:url(
- https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]]
+ https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg
  )":onclick"d('Q12823')"}[:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
 [:br]
