@@ -23,7 +23,7 @@ w(Double.(get u 2))]
 (str"<img
 width="(Math/round(Math/min(*(/ h w)64)64.0))"
 height="(Math/round(Math/min(*(/ w h)64)64.0))"
-src='https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"h"px-"e"'/>\n"))
+src='https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"(first u)"px-"e"'/>\n"))
 (catch Exception ex (str "*E*"s0" "e"\n")))))
 (.split
 "Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
