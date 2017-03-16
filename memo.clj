@@ -29,10 +29,8 @@ setInterval(function(){
   more--
   for(var k in ps){
    document.getElementById('t'+k).innerHTML=ps[k]
-   document.getElementById('t'+k).style.display='block'}
-  document.getElementById('moreDiv').style.display='block'}
- else
-  document.getElementById('moreDiv').style.display='none'
+   document.getElementById('t'+k).style.display='block'}}
+ document.getElementById('moreDiv').style.display=(more>0)?'block':'none'
  if(more==0)
   for(var k in ps){
    document.getElementById(k).style.borderColor='#fff'
