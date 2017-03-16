@@ -28,7 +28,7 @@ setInterval(function(){
  document.getElementById('moreDiv').style.display=(more>0)?'block':'none'
  more--
  for(var k in ps){
-  document.getElementById('t'+k).innerHTML=ps[k]
+  //document.getElementById('t'+k).innerHTML=ps[k]
   document.getElementById('t'+k).style.display=(more>0)?'block':'none'
   if(more==0)
    document.getElementById(k).style.borderColor='#fff'}
@@ -63,20 +63,25 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div
 
-[:div#Q23{:style"vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}[:p#tQ23{:style"background-color:#fff"}"George"[:br]"Washington"]]
+[:div#Q23{:style"vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}
+ [:p#tQ23{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
-[:div#Q76{:style"vertical-align:text-bottom;border:#fff solid 3px;height:128pxbackground-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg)"}
+[:div#Q76{:style"vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg)"}
  [:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
 
-[:div{:style"float:left;positio:relative"}[:span#tQ23{:style"display:none;z-index:1;poition:absolute;top:0;left:0;background-color:#fff"}]
-[:img#Q76{:width 105 :height 128 :style"border:#fff solid 3px;z-index:0;position:absoute;top:0;left:0" :onclick"d('Q76')"
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg"}]]
+[:div#Q76{:style"vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(
+ https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/180px-Albert_Einstein_Head.jpg
+)"}
+ [:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
+
+
+
 
 [:br]
 [:div{:style"float:left"}[:span#tQ937{:style"display:none"}][:br]
 [:img#Q937{:width 96 :height 128 :style"border:#fff solid 3px" :onclick"d('Q937')"
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/180px-Albert_Einstein_Head.jpg"}]]
+:src"
 
 [:div{:style"float:left"}[:span#tQ5879{:style"display:none"}][:br]
 [:img#Q5879{:width 104 :height 128 :style"border:#fff solid 3px" :onclick"d('Q5879')"
