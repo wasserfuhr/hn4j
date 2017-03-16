@@ -55,16 +55,16 @@ function abc(l){for(i=0;i<p.length;i++)
  [:tr[:td"Which "[:i"first name"]" or "[:i"last name"]" starts with..."]
   [:td{:rowspan 2}[:b{:style"font-size:400%"}[:span#l"A"]"?"]]]
  [:tr[:td"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" faengt an mit..."]]
- [:tr[:td{:style"text-align:right"}"Click the images and then press"]
+ [:tr[:td{:style"text-align:right"}"Click the images and then press..."]
   [:td{:rowspan 2}[:input#lA{:name"A":type"button":value"Done":onclick"q();return false"}]]]
-  [:td"Clicke die richtigen Bilder an und dann druecke"]]]
+  [:td"Clicke die richtigen Bilder an und dann druecke..."]]]
 
 [:div#moreDiv"More in "[:span#more 0]" seconds..."]
 
 [:div
 
-[:div{:style"float:left"}[:span#tQ23{:style"display:none"}][:br]
-[:img#Q23{:width 105 :height 128 :style"border:#fff solid 3px;z-index:0" :onclick"d('Q23')"
+[:div{:style"float:left"}[:span#tQ23{:style"display:none;z-index:1"}][:br]
+[:img#Q23{:width 105 :height 128 :style"border:#fff solid 3px;z-index:0;position:relative;top:0" :onclick"d('Q23')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]]
 
 [:div{:style"float:left"}[:span#tQ76{:style"display:none"}][:br]
