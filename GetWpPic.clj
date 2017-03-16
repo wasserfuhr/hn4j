@@ -21,7 +21,7 @@ w(Float.(get u 2))]
 ;https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg
 ;(str s0" "k" "h" "w"\n"))
 (str"<img
-width="(Math.floor(Math/min(* 64(/ h w))64))"
+width="(Math/floor(Math/min(* 64(/ h w))64))"
 height="(Math/min(* 64(/ w h))64)"
 src='https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"h"px-"e"'/>\n"))
 (catch Exception ex (str "*E*"s0" "e"\n")))))
