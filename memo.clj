@@ -8,7 +8,7 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 ]
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"» "t
 ; ((:pageEdit v)"/memo"t 8)
-" "[:sup#t"αt2a87c67.4fx2710fc0"]][:script{:src"/AtJs"}]
+" "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]][:script{:src"/AtJs"}]
 [:script"var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
 function abc(l){for(i=0;i<p.length;i++)
  document.getElementById(p[i]).height=p[i].startsWith(l)?80:1}"]
