@@ -1,4 +1,4 @@
-(map(fn[l](try(let[
+(println(map(fn[l](try(let[
 s(.indexOf l" ")
 s0(subs l 0 s)
 s1(subs l s)
@@ -10,7 +10,7 @@ t(subs s i0(+ i0 i1))
 r(.split t"class=\"mw-thumbnail-link\">")
 u(.split(second r)" ")
 l(.indexOf(second r)"/thumb/")
-](str s0" "(subs(second r)(+ l 9)(+ l 11))" "(first u)" "(get u 2)))
+](str s0" "(subs(second r)(+ l 9)(+ l 11))" "(first u)" "(get u 2)"\n"))
 (catch Exception e nil)))
 (.split"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
 QQ76 President Barack Obama.jpg
@@ -22,4 +22,4 @@ Q8016 Sir Winston S Churchill.jpg
 Q12823 Susan Polgar 6.jpg
 QX Henry Hubchen.jpg
 QY Sergey Brin Ted 2010.jpg"
-"\n"))
+"\n")))
