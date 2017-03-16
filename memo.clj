@@ -6,7 +6,7 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]
 ;(:can c)(:css c)(:vp c)
 ]
-[:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "t
+[:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"» "t
 ; ((:pageEdit v)"/memo"t 8)
 " "[:sup#t"αt2a87c67.4fx2710fc0"]][:script{:src"/AtJs"}]
 [:script"var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
