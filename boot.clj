@@ -12,4 +12,4 @@
   "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
 [:body"αt"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"α"]" approaching β."
-[:br]"try "[:a{:href"/memo"}]]]))))
+[:br]"try "[:a{:href"/memo"}"AlphaMemory"]]]))))
