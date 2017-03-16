@@ -25,7 +25,7 @@ function m(l,n){
  return false}
 
 setInterval(function(){
- if(more>0){
+ if(more>=0){
   more--
   for(var k in ps){
    document.getElementById('t'+k).innerHTML=ps[k]
