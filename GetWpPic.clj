@@ -22,6 +22,7 @@ h(subs(second r)(+ l 9)(+ l 11))]
 (catch Exception ex (str "*E*"s0" "e"\n")))))
 (.split
 "Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
+Q42 douglas adams portrait cropped.jpg
 Q76 President Barack Obama.jpg
 Q352 Bundesarchiv Bild 183-S33882, Adolf Hitler retouched.jpg
 Q937 Albert Einstein Head.jpg
