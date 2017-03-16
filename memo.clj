@@ -77,7 +77,6 @@ function abc(l){for(i=0;i<p.length;i++)
 
 
 
-
 [:br]
 [:div{:style"float:left"}[:span#tQ937{:style"display:none"}][:br]
 [:img#Q937{:width 96 :height 128 :style"border:#fff solid 3px" :onclick"d('Q937')"
