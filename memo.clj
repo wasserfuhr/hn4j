@@ -5,14 +5,23 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]
 ;(:can c)(:css c)(:vp c)
+
+
 ]
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t
 ; ((:pageEdit v)"/memo"t 8)
 " "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]];[:script{:src"/AtJs"}]
 [:script"
+p={
+"Q23":"GeorgeWashington",
+"Q76":"BarackObama",
+}alert(p.keys)
+
 function d(i){
  s=document.getElementById(i).style
  s.borderColor=('red'==s.borderColor)?'#fff':'red'}
+function q(){
+
 
 var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
 function abc(l){for(i=0;i<p.length;i++)
@@ -50,8 +59,8 @@ function abc(l){for(i=0;i<p.length;i++)
 [:img#Q12823{:width 102 :height 128 :style"border:#fff solid 2px" :onclick"d('Q12823')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
 
-[:br](map(fn[q](let[r(.split q" ")n(.trim(second r))]
- [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
+;[:br](map(fn[q](let[r(.split q" ")n(.trim(second r))]
+; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
 [:br]"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)
  ;(:footer v)
  ]])))
