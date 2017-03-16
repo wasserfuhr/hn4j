@@ -10,7 +10,7 @@ t(subs s i0(+ i0 i1))
 r(.split t"class=\"mw-thumbnail-link\">")
 u(.split(second r)" ")
 l(.indexOf(second r)"/thumb/")
-](str(subs(second r)(+ l 9)(+ l 11))" "(first u)" "(get u 2))))
+](str s0" "(subs(second r)(+ l 9)(+ l 11))" "(first u)" "(get u 2))))
 (.split"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
 QX Henry Hubchen.jpg"
 ;Sergey Brin Ted 2010.jpg
