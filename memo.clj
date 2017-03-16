@@ -63,12 +63,14 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div
 
-[:div{:style"float:left;position:relative"}[:span#tQ23{:style"display:none;z-index:1;position:absolute;top:0;left:0;background-color:#fff"}]
-[:img#Q23{:width 105 :height 128 :style"border:#fff solid 3px;z-index:0;position:absolute;top:0;left:0" :onclick"d('Q23')"
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]]
+[:div{:style"float:left;position:relatie"}
+ [:img#Q23{:width 105 :height 128 :style"border:#fff solid 3px;z-inex:0;position:relative;op:0;let:0" :onclick"d('Q23')"
+:src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
+ [:span#tQ23{:style"display:none;z-index:1;position:absolute;top:0;left:0;background-color:#fff"}]
+]
 
-[:div{:style"float:left;position:relative"}[:span#tQ23{:style"display:none;z-index:1;position:absolute;top:0;left:0;background-color:#fff"}]
-[:img#Q76{:width 105 :height 128 :style"border:#fff solid 3px;z-index:0;position:absolute;top:0;left:0" :onclick"d('Q76')"
+[:div{:style"float:left;positio:relative"}[:span#tQ23{:style"display:none;z-index:1;poition:absolute;top:0;left:0;background-color:#fff"}]
+[:img#Q76{:width 105 :height 128 :style"border:#fff solid 3px;z-index:0;position:absoute;top:0;left:0" :onclick"d('Q76')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg"}]]
 
 [:br]
