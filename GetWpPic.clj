@@ -31,6 +31,28 @@ Q42 douglas adams portrait cropped.jpg
 Q76 President Barack Obama.jpg
 Q352 Bundesarchiv Bild 183-S33882, Adolf Hitler retouched.jpg
 Q937 Albert Einstein Head.jpg
+Q352 Bundesarchiv Bild 183-S33882, Adolf Hitler retouched.jpg
+Q8016 Sir Winston S Churchill.jpg
+Q12823 Susan Polgar 6.jpg
+Q5879 Goethe (Stieler 1828).jpg
+Q8704 Walt Disney 1946.JPG
+Q8023 Nelson Mandela-2008 (edit).jpg
+Q7243 L.N.Tolstoy Prokudin-Gorsky.jpg
+Q991 Vasily Perov - Портрет Ф.М.Достоевского - Google Art Project.jpg
+Q5152 Atatürk.jpg
+Q255 Beethovensmall.jpg
+Q692 Hw-shakespeare.png
+Q254 Barbara Krafft - Porträt Wolfgang Amadeus Mozart (1819).jpg
+Q1339 Johann Sebastian Bach.jpg
+Q9682 Elizabeth II greets NASA GSFC employees, May 8, 2007 edit.jpg
+Q855 CroppedStalin1943.jpg
+Q5383 David-Bowie Chicago 2002-08-08 photoby Adam-Bielawski-cropped.jpg
+Q762 Leonardo self.jpg
+Q11571 Shahter-Reak M 2015 (18).jpg
+Q5592 Miguel Ángel, por Daniele da Volterra (detalle).jpg
+Q567 Angela Merkel Juli 2010 - 3zu4.jpg
+Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
+Q882 Charlie Chaplin portrait.jpg
 Q6294 HillaryPA.jpg
 Q7200 Portrait of Alexander Pushkin (Orest Kiprensky, 1827).PNG
 Q8016 Sir Winston S Churchill.jpg
