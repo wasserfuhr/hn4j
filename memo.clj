@@ -28,7 +28,7 @@ setInterval(function(){
  document.getElementById('moreDiv').style.display=(more>0)?'block':'none'
  more--
  for(var k in ps){
-  //document.getElementById('t'+k).innerHTML=ps[k]
+  document.getElementById('t'+k).innerHTML=ps[k]
   document.getElementById('t'+k).style.display=(more>0)?'block':'none'
   if(more==0)
    document.getElementById(k).style.borderColor='#fff'}
