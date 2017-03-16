@@ -22,8 +22,9 @@ function d(i){
  s=document.getElementById(i).style
  s.borderColor=('yellow'==s.borderColor)?'#fff':'yellow'}
 function q(l){for(var k in ps){
- s=document.getElementById(k).style
- s.borderColor=ps[k].startsWith(l)?'green':'red'}
+  s=document.getElementById(k).style
+  s.borderColor=ps[k].startsWith(l)?'green':'red'}
+ s=document.getElementById('l').innerHTML='ABGESP'.charAt(Math.floor(Math.random()*6))
 }
 
 
@@ -33,7 +34,7 @@ function abc(l){for(i=0;i<p.length;i++)
 [:form
 [:table
  [:tr[:td"Which "[:i"first name"]" or "[:i"last name"]" starts with..."]
-  [:td{:rowspan 2}[:b{:style"font-size:400%"}"A?"]]]
+  [:td{:rowspan 2}[:b#l{:style"font-size:400%"}"A?"]]]
  [:tr[:td"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" faengt an mit..."]]]
 
 [:br]"Click the images and then press"
