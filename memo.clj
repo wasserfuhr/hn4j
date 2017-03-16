@@ -26,7 +26,7 @@ var more=0;
 //match
 function m(l,n){
  for(var i=0;i<n.length;i++){var c=n.charAt(i)
-  if(l==c&&c.toUpperCase()==m)return true}
+  if(l==c&&c.toUpperCase()==c)return true}
  return false}
 
 setInterval(function(){
