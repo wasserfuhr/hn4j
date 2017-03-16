@@ -46,7 +46,7 @@ function d(i){
 
 function q(l){try{for(var k in ps){
   s=document.getElementById(k).style
-  s.borderColor=('yellow'==s.borderColor)&&m(l,ps[k])?'green':'red'}
+  s.borderColor=('yellow'==s.borderColor)==m(l,ps[k])?'green':'red'}
  s=document.getElementById('l').innerHTML='ABGESP'.charAt(Math.floor(Math.random()*6))
  more=5
 }catch(e){alert(e)}
