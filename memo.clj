@@ -2,6 +2,7 @@
 w(.split(slurp(str"https://floatingboat2013.appspot.com/rawHead/MemoPic"))"\n")
 x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 [:head[:title t" « α"]
+[:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]
 ;(:can c)(:css c)(:vp c)
 ]
 [:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "t
