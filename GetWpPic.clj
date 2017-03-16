@@ -12,8 +12,8 @@ r(.split t"class=\"mw-thumbnail-link\">")
 u(.split(second r)" ")
 l(.indexOf(second r)"/thumb/")
 k(subs(second r)(+ l 9)(+ l 11))
-h(Float.(first u))
-w(Float.(get u 2))]
+h(Double.(first u))
+w(Double.(get u 2))]
 ;https://floatingboat2013.appspot.com/WiDaPic?q=Q42 =
 ;https://upload.wikimedia.org/wikipedia/commons/c/c0/Douglas_adams_portrait_cropped.jpg
 ;
