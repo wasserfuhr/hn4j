@@ -12,13 +12,14 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 [:script"var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
 function abc(l){for(i=0;i<p.length;i++)
  document.getElementById(p[i]).height=p[i].startsWith(l)?80:1}"]
-[:form"Who has a "[:i"first name"]" or "[:i"last name"]" starting with..."[:b "A"]?
+[:form"Who has a "[:i"first name"]" or "[:i"last name"]" starting with..."[:b "A"]"?"
 [:input#lA{:name"A":type"button":value"A...":onclick"abc('A');return false"}]
 [:input#lG{:name"G":type"button":value"G...":onclick"abc('G');return false"}]
 [:input#lP{:name"P":type"button":value"P...":onclick"abc('P');return false"}]" or "
 [:input#lV{:name"V":type"button":value"V...":onclick"abc('V');return false"}]"?"]
 [:img{:width 105 :height 128
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
+
 [:select[:option{:style
 "background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}]]
 
