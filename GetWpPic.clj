@@ -18,7 +18,7 @@ h(subs(second r)(+ l 9)(+ l 11))]
 ;https://floatingboat2013.appspot.com/WiDaPic?q=Q19837 =
 ;https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg
 ;(str s0" "h" "(first u)" "(get u 2)"\n"))
-(str"<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs h 0 1)"/"h"/"e"/"(first u)"px-"e"\n"))
+(str"<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs h 0 1)"/"h"/"e"/"(first u)"px-"e"'/>\n"))
 (catch Exception ex (str "*E*"s0" "e"\n")))))
 (.split
 "Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
