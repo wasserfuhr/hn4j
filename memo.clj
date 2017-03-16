@@ -20,8 +20,10 @@ alert(p.keys)
 
 function d(i){
  s=document.getElementById(i).style
- s.borderColor=('red'==s.borderColor)?'#fff':'red'}
-function q(){
+ s.borderColor=('yellow'==s.borderColor)?'#fff':'yellow'}
+function q(l){for(var k in ps){
+ s=document.getElementById(k).style
+ s.borderColor=ps[k].startsWith(l)?'green':'red'}
 }
 
 
@@ -36,7 +38,7 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:br]"Click the images and then press"
 [:br]"Clicke die richtigen Bilder an und dann druecke"
-[:input#lA{:name"A":type"button":value"Done":onclick"abc('A');return false"}]]
+[:input#lA{:name"A":type"button":value"Done":onclick"q('A');return false"}]]
 
 ;(.split""
 ;Q23 105 :height 128 :onclick"document.getElementById('Q23').style.border='red solid 2px'"
