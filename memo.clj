@@ -80,17 +80,20 @@ function abc(l){for(i=0;i<p.length;i++)
 [:img#Q937{:width 96 :height 128 :style"border:#fff solid 3px" :onclick"d('Q937')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/180px-Albert_Einstein_Head.jpg"}]]
 
-[:div{:style"float:left"}[:span#tQ937{:style"display:none"}][:br]
+[:div{:style"float:left"}[:span#tQ5879{:style"display:none"}][:br]
 [:img#Q5879{:width 104 :height 128 :style"border:#fff solid 3px" :onclick"d('Q5879')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/195px-Goethe_%28Stieler_1828%29.jpg"}]]
 
+[:div{:style"float:left"}[:span#tQ8016{:style"display:none"}][:br]
 [:img#Q8016{:width 102 :height 128 :style"border:#fff solid 3px" :onclick"d('Q8016')"
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg"}]
+:src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg"}]]
 
+[:div{:style"float:left"}[:span#tQ12823{:style"display:none"}][:br]
 [:img#Q12823{:width 102 :height 128 :style"border:#fff solid 3px" :onclick"d('Q12823')"
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
+:src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]]
 
-;[:br](map(fn[q](let[r(.split q" ")n(.trim(second r))]
+[:br];
+(map(fn[q](let[r(.split q" ")n(.trim(second r))]
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
 
 [:br]"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)
