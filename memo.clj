@@ -26,8 +26,8 @@ var more=0;
 setInterval(function(){
  if(more>0){
   more--
-  document.getElementById('moreDiv').display='block'}
- else document.getElementById('moreDiv').display='hidden'
+  document.getElementById('moreDiv').style.display='block'}
+ else document.getElementById('moreDiv').style.display='none'
  document.getElementById('more').innerHTML=more},1000);
 
 function d(i){
