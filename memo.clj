@@ -15,7 +15,9 @@ function f(){}
 var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
 function abc(l){for(i=0;i<p.length;i++)
  document.getElementById(p[i]).height=p[i].startsWith(l)?80:1}"]
-[:form"Which "[:i"first name"]" or "[:i"last name"]" starts with..."[:b{:style"font-size:200%"}"A"]"?"
+[:form
+"Which "[:i"first name"]" or "[:i"last name"]" starts with..."[:b{:style"font-size:200%"}"A"]"?"[:br]
+"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" faengt an mit..."[:b{:style"font-size:200%"}"A"]"?"
 [:br][:input#lA{:name"A":type"button":value"Done":onclick"abc('A');return false"}]
 ]
 
