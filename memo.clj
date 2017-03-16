@@ -69,7 +69,7 @@ function abc(l){for(i=0;i<p.length;i++)
  [:span#tQ23{:style"display:none;z-inex:1;position:absolute;top:0;left:0;width:100%;background-color:#fff"}]
 ]
 
-[:div#tQ23{:style"width:105px;height:128px;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}"George"[:br]"Washington"]
+[:div#tQ23{:style"background-size:105px 128px;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}"George"[:br]"Washington"]
 
 
 [:div{:style"float:left;positio:relative"}[:span#tQ23{:style"display:none;z-index:1;poition:absolute;top:0;left:0;background-color:#fff"}]
