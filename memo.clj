@@ -34,7 +34,7 @@ setInterval(function(){
   if(more==0)
    for(var k in ps){
     document.getElementById(k).style.borderColor='#fff'
-    document.getElementById('t'+k).style.display='none'}
+    document.getElementById('t'+k).style.display='none'}}
  document.getElementById('more').innerHTML=more},1000);
 
 function d(i){
