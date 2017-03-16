@@ -16,10 +16,11 @@ var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
 function abc(l){for(i=0;i<p.length;i++)
  document.getElementById(p[i]).height=p[i].startsWith(l)?80:1}"]
 [:form
-[:div
-"Which "[:i"first name"]" or "[:i"last name"]" starts with..."[:b{:style"font-size:200%"}"A"]"?"[:br]
-"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" faengt an mit..."]
-[:b{:style"font-size:200%"}"A"]"?"
+[:table
+ [:tr[:td"Which "[:i"first name"]" or "[:i"last name"]" starts with..."]
+  [:td{:rowspan 2}[:b{:style"font-size:400%"}"A?"]]]
+ [:tr[:td"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" faengt an mit..."]]]
+
 [:br]"Click the images and then press"
 [:br]"Clicke die richtigen Bilder an und dann druecke"
 [:input#lA{:name"A":type"button":value"Done":onclick"abc('A');return false"}]
