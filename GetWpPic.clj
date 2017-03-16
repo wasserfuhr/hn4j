@@ -29,6 +29,6 @@ Q7200 Portrait of Alexander Pushkin (Orest Kiprensky, 1827).PNG
 Q8016 Sir Winston S Churchill.jpg
 Q12823 Susan Polgar 6.jpg
 Q19838 Steve Jobs Headshot 2010-CROP.jpg
-Q92764 Sergey Brin Ted 2010.jpg"
-Q160305 Henry Hubchen.jpg
+Q92764 Sergey Brin Ted 2010.jpg
+Q160305 Henry Hubchen.jpg"
 "\n")))
