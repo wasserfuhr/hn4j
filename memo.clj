@@ -34,7 +34,7 @@ setInterval(function(){
    document.getElementById('t'+k).style.display='hidden'}
  if(more>0){
   more--
-  document.getElementById('t').innerHTML='block'
+  document.getElementById('t'+k).innerHTML=ps[k]
   document.getElementById('moreDiv').style.display='block'}
  else
   document.getElementById('moreDiv').style.display='none'
@@ -72,6 +72,7 @@ function abc(l){for(i=0;i<p.length;i++)
 [:img#Q23{:width 105 :height 128 :style"border:#fff solid 3px;z-index:0" :onclick"d('Q23')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]]
 
+[:div[:span#tQ76{:style"display:none"}][:br]
 [:img#Q76{:width 102 :height 128 :style"border:#fff solid 3px" :onclick"d('Q76')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg"}]
 
