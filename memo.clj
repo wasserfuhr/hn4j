@@ -13,8 +13,8 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 " "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]];[:script{:src"/AtJs"}]
 [:script"
 p={
-"Q23":"GeorgeWashington",
-"Q76":"BarackObama",
+'Q23':'GeorgeWashington',
+'Q76':'BarackObama',
 }alert(p.keys)
 
 function d(i){
