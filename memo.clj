@@ -12,7 +12,7 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 [:script"
 function d(i){
  s=document.getElementById(i).style
- s.borderColor=('red'==s.borderColor):'#fff':'red'}
+ s.borderColor=('red'==s.borderColor)?'#fff':'red'}
 
 var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
 function abc(l){for(i=0;i<p.length;i++)
