@@ -28,11 +28,10 @@ function abc(l){for(i=0;i<p.length;i++)
 [:input#lA{:name"A":type"button":value"Done":onclick"abc('A');return false"}]
 ]
 
-(.split""
-Q23 105 :height 128 :onclick"document.getElementById('Q23').style.border='red solid 2px'"
-f('Q23')
-
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
+;(.split""
+;Q23 105 :height 128 :onclick"document.getElementById('Q23').style.border='red solid 2px'"
+;f('Q23')
+;:src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
 
 
 [:img#Q23{:width 105 :height 128 :style"borderWidth:2px":onclick"d('Q23')"
@@ -41,16 +40,16 @@ f('Q23')
 [:img#Q76{:width 102 :height 128 :onclick"d('Q76')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg"}]
 
-[:img#Q937{:width 96 :height 128 :onclick"document.getElementById('Q937').style.border='red solid 2px'"
+[:img#Q937{:width 96 :height 128 :onclick"d('Q937')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/180px-Albert_Einstein_Head.jpg"}]
 
-[:img#Q5879{:width 104 :height 128 :onclick"document.getElementById('Q5879').style.border='red solid 2px'"
+[:img#Q5879{:width 104 :height 128 :onclick"d('Q5879')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/195px-Goethe_%28Stieler_1828%29.jpg"}]
 
-[:img#Q8016{:width 102 :height 128 :onclick"document.getElementById('Q8016').style.border='red solid 2px'"
+[:img#Q8016{:width 102 :height 128 :onclick"d('Q8016')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg"}]
 
-[:img#Q12823{:width 102 :height 128 :onclick"document.getElementById('Q12823').style.border='red solid 2px'"
+[:img#Q12823{:width 102 :height 128 :onclick"d('Q12823')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
 
 [:br](map(fn[q](let[r(.split q" ")n(.trim(second r))]
