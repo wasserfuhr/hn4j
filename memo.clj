@@ -73,8 +73,7 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div#Q937{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 128px;background-repeat:no-repeat;background-image:url(
  https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/180px-Albert_Einstein_Head.jpg
-)":onclick"d('Q937')"}[:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
-
+)":onclick"d('Q937')"}[:p#tQ937{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
 [:div#Q5879{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 128px;background-repeat:no-repeat;background-image:url(
  https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/195px-Goethe_%28Stieler_1828%29.jpg
