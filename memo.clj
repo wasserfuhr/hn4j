@@ -15,8 +15,8 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 var ps={
 'Q23':'GeorgeWashington',
 'Q76':'BarackObama',
+'Q937':'AlbertEinstein',
 }
-alert(p.keys)
 
 function d(i){
  s=document.getElementById(i).style
