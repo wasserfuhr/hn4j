@@ -1,6 +1,6 @@
 (println(map(fn[l](let[
 s(.indexOf l" ")
-s0(subs l 0 s)
+s0(subs l 0 (+ s 1))
 s1(subs l s)
 e(java.net.URLEncoder/encode (.replaceAll s1" ""_"))]
 (try(let[
