@@ -25,10 +25,6 @@ function m(l,n){
  return false}
 
 setInterval(function(){
- if(more==1)
-  for(var k in ps){
-   document.getElementById(k).style.borderColor='#fff'
-   document.getElementById('t'+k).style.display='none'}
  if(more>0){
   more--
   for(var k in ps){
@@ -37,6 +33,10 @@ setInterval(function(){
   document.getElementById('moreDiv').style.display='block'}
  else
   document.getElementById('moreDiv').style.display='none'
+ if(more==0)
+  for(var k in ps){
+   document.getElementById(k).style.borderColor='#fff'
+   document.getElementById('t'+k).style.display='none'}
  document.getElementById('more').innerHTML=more},1000);
 
 function d(i){
