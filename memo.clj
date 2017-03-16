@@ -27,10 +27,14 @@ function m(l,n){
 setInterval(function(){
  if(more==1)
   for(var k in ps)
-   s=document.getElementById(k).style.borderColor='#fff'
+   document.getElementById('t'+k).style.display='block'
+ if(more==1)
+  for(var k in ps){
+   document.getElementById(k).style.borderColor='#fff'
+   document.getElementById('t'+k).style.display='hidden'}
  if(more>0){
   more--
-  document.getElementById('t1').innerHTML='block'
+  document.getElementById('t').innerHTML='block'
   document.getElementById('moreDiv').style.display='block'}
  else
   document.getElementById('moreDiv').style.display='none'
@@ -44,7 +48,8 @@ function q(){try{for(var k in ps){
   l=document.getElementById('l').innerHTML
   s=document.getElementById(k).style
   s.borderColor=('yellow'==s.borderColor)==m(l,ps[k])?'green':'red'}
- s=document.getElementById('l').innerHTML='ABEGJOSPW'.charAt(Math.floor(Math.random()*6))
+ c='ABEGJOSPW'
+ s=document.getElementById('l').innerHTML=c.charAt(Math.floor(Math.random()*c.length))
  more=5
 }catch(e){alert(e)}}
 
@@ -63,7 +68,7 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div#moreDiv"More in "[:span#more 0]" seconds..."]
 
-[:div[:span#t1{:style"z-index:1"}]
+[:div[:span#tQ23"GeorgeWashington"]
 [:img#Q23{:width 105 :height 128 :style"border:#fff solid 3px;z-index:0" :onclick"d('Q23')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]]
 
