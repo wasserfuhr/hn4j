@@ -28,7 +28,7 @@ setInterval(function(){
  if(more==1)
   for(var k in ps){
    document.getElementById(k).style.borderColor='#fff'
-   document.getElementById('t'+k).style.display='hidden'}
+   document.getElementById('t'+k).style.display='none'}
  if(more>0){
   more--
   for(var k in ps){
