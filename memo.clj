@@ -55,7 +55,7 @@ function abc(l){for(i=0;i<p.length;i++)
 [:br]"Clicke die richtigen Bilder an und dann druecke"
 [:input#lA{:name"A":type"button":value"Done":onclick"q('A');return false"}]]
 
-[:div#moreDiv"More in [:span#more 0] seconds..."]
+[:div#moreDiv"More in "[:span#more 0]" seconds..."]
 
 ;(.split""
 ;Q23 105 :height 128 :onclick"document.getElementById('Q23').style.border='red solid 2px'"
