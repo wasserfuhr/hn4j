@@ -24,13 +24,14 @@ var ps={
 var more=0;
 
 setInterval(function(){
+ if(more==1)
+  for(var k in ps)
+   s=document.getElementById(k).style.borderColor='#fff'
  if(more>0){
   more--
   document.getElementById('moreDiv').style.display='block'}
- else{
+ else
   document.getElementById('moreDiv').style.display='none'
-  for(var k in ps)
-   s=document.getElementById(k).style.borderColor='#fff'}
  document.getElementById('more').innerHTML=more},1000);
 
 function d(i){
