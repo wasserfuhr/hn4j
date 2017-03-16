@@ -8,7 +8,7 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 ]
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t
 ; ((:pageEdit v)"/memo"t 8)
-" "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]][:script{:src"/AtJs"}]
+" "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]];[:script{:src"/AtJs"}]
 [:script"
 function d(i){
  s=document.getElementById(i).style
@@ -33,8 +33,7 @@ function abc(l){for(i=0;i<p.length;i++)
 ;f('Q23')
 ;:src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
 
-
-[:img#Q23{:width 105 :height 128 :style"borderWidth:2px":onclick"d('Q23')"
+[:img#Q23{:width 105 :height 128 :style"border-width:2px" :onclick"d('Q23')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
 
 [:img#Q76{:width 102 :height 128 :onclick"d('Q76')"
