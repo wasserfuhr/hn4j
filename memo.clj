@@ -70,17 +70,12 @@ function abc(l){for(i=0;i<p.length;i++)
  [:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
 
-[:div#Q76{:style"vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(
+[:div#Q937{:style"vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 128px;background-repeat:no-repeat;background-image:url(
  https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/180px-Albert_Einstein_Head.jpg
 )"}
  [:p#tQ76{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
 
-
-[:br]
-[:div{:style"float:left"}[:span#tQ937{:style"display:none"}][:br]
-[:img#Q937{:width 96 :height 128 :style"border:#fff solid 3px" :onclick"d('Q937')"
-:src"
 
 [:div{:style"float:left"}[:span#tQ5879{:style"display:none"}][:br]
 [:img#Q5879{:width 104 :height 128 :style"border:#fff solid 3px" :onclick"d('Q5879')"
