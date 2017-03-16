@@ -18,14 +18,14 @@ var ps={
 'Q937':'AlbertEinstein',
 }
 
-function d(i){try{
+function d(i){
  s=document.getElementById(i).style
  s.borderColor=('yellow'==s.borderColor)?'#fff':'yellow'}
-function q(l){for(var k in ps){
+function q(l){for(var k in ps){try{
   s=document.getElementById(k).style
   s.borderColor=ps[k].startsWith(l)?'green':'red'}
  s=document.getElementById('l').innerHTML='ABGESP'.charAt(Math.floor(Math.random()*6))
-}catch(Exception e){alert(e)}
+}catch(Exception e)alert(e)
 }
 
 
