@@ -63,13 +63,11 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div
 
-[:div{:style"float:let;position:relatie"}
- [:img#Q23{:width 105 :height 128 :style"border:#fff solid 3px;z-inex:0;position:relative;op:0;let:0;width:100%" :onclick"d('Q23')"
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
- [:span#tQ23{:style"display:none;z-inex:1;position:absolute;top:0;left:0;width:100%;background-color:#fff"}]
-]
+[:div#tQ23{:style"background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}[:p{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
-[:div#tQ23{:style"background-size:105px 128px;background-repeat:no-repeat;background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)"}"George"[:br]"Washington"]
+[:div#tQ23{:style"background-size:105px 128px;background-repeat:no-repeat;background-image:url(
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg
+)"}[:p{:style"background-color:#fff"}"George"[:br]"Washington"]]
 
 
 [:div{:style"float:left;positio:relative"}[:span#tQ23{:style"display:none;z-index:1;poition:absolute;top:0;left:0;background-color:#fff"}]
