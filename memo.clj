@@ -39,7 +39,8 @@ function d(i){
  s=document.getElementById(i).style
  s.borderColor=('yellow'==s.borderColor)?'#fff':'yellow'}
 
-function q(l){try{for(var k in ps){
+function q(){try{for(var k in ps){
+  l=document.getElementById('l').innerHTML
   s=document.getElementById(k).style
   s.borderColor=('yellow'==s.borderColor)==m(l,ps[k])?'green':'red'}
  s=document.getElementById('l').innerHTML='ABEGJOSPW'.charAt(Math.floor(Math.random()*6))
@@ -52,12 +53,12 @@ function abc(l){for(i=0;i<p.length;i++)
 [:form
 [:table
  [:tr[:td"Which "[:i"first name"]" or "[:i"last name"]" starts with..."]
-  [:td{:rowspan 2}[:b#l{:style"font-size:400%"}"A?"]]]
+  [:td{:rowspan 2}[:b{:style"font-size:400%"}[:span#l"A"]?"]]]
  [:tr[:td"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" faengt an mit..."]]]
 
 [:br]"Click the images and then press"
 [:br]"Clicke die richtigen Bilder an und dann druecke"
-[:input#lA{:name"A":type"button":value"Done":onclick"q('A');return false"}]]
+[:input#lA{:name"A":type"button":value"Done":onclick"q();return false"}]]
 
 [:div#moreDiv"More in "[:span#more 0]" seconds..."]
 
