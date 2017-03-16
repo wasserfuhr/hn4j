@@ -92,8 +92,8 @@ function abc(l){for(i=0;i<p.length;i++)
 [:img#Q12823{:width 102 :height 128 :style"border:#fff solid 3px" :onclick"d('Q12823')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]]
 
-[:br];
-(map(fn[q](let[r(.split q" ")n(.trim(second r))]
+[:br]
+;(map(fn[q](let[r(.split q" ")n(.trim(second r))]
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
 
 [:br]"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)
