@@ -23,6 +23,12 @@ var ps={
 }
 var more=0;
 
+//match
+function m(l,n){
+ for(var i=0;i<n.length;i++){var c=n.charAt(i)
+  if(l==c&&c.toUpperCase()==m)return true}
+ return false}
+
 setInterval(function(){
  if(more==1)
   for(var k in ps)
@@ -40,7 +46,7 @@ function d(i){
 
 function q(l){try{for(var k in ps){
   s=document.getElementById(k).style
-  s.borderColor=(('yellow'==s.borderColor)==(l==ps[k].charAt(0)))?'green':'red'}
+  s.borderColor=('yellow'==s.borderColor)&&m(l,ps[k])?'green':'red'}
  s=document.getElementById('l').innerHTML='ABGESP'.charAt(Math.floor(Math.random()*6))
  more=5
 }catch(e){alert(e)}
