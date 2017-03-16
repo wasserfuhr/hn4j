@@ -2,7 +2,7 @@
 s(.indexOf l" ")
 s0(subs l 0 s)
 s1(subs l s)
-e(java.net.URLEncoder/encode (.replaceAll f" ""_"))
+e(java.net.URLEncoder/encode (.replaceAll s1" ""_"))
 s(slurp(str"https://en.wikipedia.org/wiki/File:"e))
 i0(.indexOf s "mw-filepage-other-resolutions")
 i1(.indexOf(subs s i0)"</span>")
