@@ -34,7 +34,8 @@ setInterval(function(){
    document.getElementById('t'+k).style.display='hidden'}
  if(more>0){
   more--
-  document.getElementById('t'+k).innerHTML=ps[k]
+  for(var k in ps)
+   document.getElementById('t'+k).innerHTML=ps[k]
   document.getElementById('moreDiv').style.display='block'}
  else
   document.getElementById('moreDiv').style.display='none'
@@ -65,17 +66,17 @@ function abc(l){for(i=0;i<p.length;i++)
   [:td{:rowspan 2}[:input#lA{:name"A":type"button":value"Done":onclick"q();return false"}]]]
   [:td"Clicke die richtigen Bilder an und dann druecke"]]]
 
-
 [:div#moreDiv"More in "[:span#more 0]" seconds..."]
 
-[:div{:style"float:left"}[:span#tQ23{:style"display:none"}"GeorgeWashington"][:br]
+[:div{:style"float:left"}[:span#tQ23{:style"display:none"}][:br]
 [:img#Q23{:width 105 :height 128 :style"border:#fff solid 3px;z-index:0" :onclick"d('Q23')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]]
 
-[:div[:span#tQ76{:style"display:none"}][:br]
+[:div{:style"float:left"}[:span#tQ76{:style"display:none"}][:br]
 [:img#Q76{:width 102 :height 128 :style"border:#fff solid 3px" :onclick"d('Q76')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg"}]]
 
+[:div{:style"float:left"}[:span#tQ937{:style"display:none"}][:br]
 [:img#Q937{:width 96 :height 128 :style"border:#fff solid 3px" :onclick"d('Q937')"
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/180px-Albert_Einstein_Head.jpg"}]
 
