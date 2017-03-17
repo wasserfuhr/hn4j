@@ -5,8 +5,8 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
-[:div{:style"overflow:hidden;height:60px;width:800px"}
-[:div{:style"overflow:hidden;height:60px;width:900px;margin-left:-50px"}
+[:div{:style"overflow:hidden;height:60px;width:750px"}
+[:div{:style"overflow:hidden;height:60px;width:800px;margin-left:-50px"}
  [:img#rot{:width 1 :height 1 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
  [:img#rQ23{:height 60 :width 49
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
