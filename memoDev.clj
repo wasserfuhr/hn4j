@@ -117,7 +117,7 @@ function abc(l){for(i=0;i<p.length;i++)
 
 ][:br{:style"clear:both"}]
 
-[:img#rot{:width 50 :height 60 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
+[:img#rot{:width 1 :height 1 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
 [:img#rQ23{:height 60 :width 49
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
 
@@ -144,21 +144,17 @@ function abc(l){for(i=0;i<p.length;i++)
 		       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Angela_Merkel_Juli_2010_-_3zu4.jpg/197px-Angela_Merkel_Juli_2010_-_3zu4.jpg"}]
 		        [:img#rQ23{:height 60 :width 49
 			:src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
-			 [:img#rQ882{:height 60 :width 45
-			 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Charlie_Chaplin_portrait.jpg/180px-Charlie_Chaplin_portrait.jpg"}]
-
-			   [:img#rQ7200{:height 60 :width 52
+		   [:img#rQ7200{:height 60 :width 52
 			   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Portrait_of_Alexander_Pushkin_%28Orest_Kiprensky%2C_1827%29.PNG/206px-Portrait_of_Alexander_Pushkin_%28Orest_Kiprensky%2C_1827%29.PNG"}]
-			    [:img#rQ8016{:height 60 :width 48
+		    [:img#rQ8016{:height 60 :width 48
 			    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg"}]
-			     [:img#rQ12823{:height 60 :width 48
+		     [:img#rQ12823{:height 60 :width 48
 			     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
-			      [:img#rQ19838{:height 60 :width 61
+		      [:img#rQ19838{:height 60 :width 61
 			      :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg"}]
-			       [:img#rQ92764{:height 60 :width 63
+		       [:img#rQ92764{:height 60 :width 63
 			       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sergey_Brin_Ted_2010.jpg/253px-Sergey_Brin_Ted_2010.jpg"}]
-			        [:img#rQ160305{:height 60 :width 80
+		        [:img#rQ160305{:height 60 :width 80
 				:src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Henry_Hubchen.jpg/318px-Henry_Hubchen.jpg"}]
-
      
 [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production. Images from "[:a{:href"https://dresdenlabs.appspot.com/iw/WikiPedia/Wikidata"}"WikiData"]"."]])))
