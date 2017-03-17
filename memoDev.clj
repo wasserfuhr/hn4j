@@ -6,8 +6,7 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
 [:div{:style"overflow:hidden;height:60px;width:750px"}
-[:div{:style"overflow:hidden;height:60px;width:900px;margin-left:-50px"}
- [:img#rot{:width 1 :height 1 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
+[:div#rot{:style"overflow:hidden;height:60px;width:900px;margin-left:-50px"}
  [:img#rQ23{:height 60 :width 49
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
  [:img#rQ76{:height 60 :width 48
@@ -61,8 +60,10 @@ function m(l,n){
   if(l==c&&c.toUpperCase()==c)return true}
  return false}
 
+var now=new Date().getTime()
+
 setInterval(function(){
- document.getElementById('rot').style.paddingLeft=(40-(new Date().getTime()/500)%40)+'px'},50)
+ document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'},50)
 
 setInterval(function(){
 // document.getElementById('Q991').style.backgroundImage='url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/192px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg)'
