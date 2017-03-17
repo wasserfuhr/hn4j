@@ -61,5 +61,54 @@ Q8016 Sir Winston S Churchill.jpg
 Q12823 Susan Polgar 6.jpg
 Q19838 Steve Jobs Headshot 2010-CROP.jpg
 Q92764 Sergey Brin Ted 2010.jpg
-Q160305 Henry Hubchen.jpg"
+Q160305 Henry Hubchen.jpg
+Q80 Sir Tim Berners-Lee.jpg
+Q91 Abraham Lincoln November 1863.jpg
+Q157 Francois Hollande 2015.jpeg
+Q181 Jimmy Wales Fundraiser Appeal.JPG
+Q185 L Sanger.jpg
+Q186 KenJenningsByPhilKonstantin.jpg
+Q192 David Cameron official.jpg
+Q206 Stephen Harper by Remy Steinegger.jpg
+Q207 George-W-Bush.jpeg
+Q254 Barbara Krafft - Porträt Wolfgang Amadeus Mozart (1819).jpg
+Q255 Beethovensmall.jpg
+Q260 Jean-François Champollion, by Léon Cogniet.jpg
+Q272 Paul Morand.jpg
+Q296 Claude Monet 1899 Nadar.jpg
+Q297 Diego Velázquez Autorretrato 45 x 38 cm - Colección Real Academia de Bellas Artes de San Carlos - Museo de Bellas Artes de Valencia.jpg
+Q301 El Greco - Portrait of a Man - WGA10554.jpg
+Q303 Elvis Presley 1970.jpg
+Q306 Sebastian Pinera.JPG
+Q307 Galileo.arp.300pix.jpg
+Q326 Eduardo Frei Chiledebate.jpg
+Q329 Nicolas Sarkozy (2015-10-29) 03 (cropped).jpg
+Q331 Ricardo Lagos despedida (cropped).jpg
+Q335 Patricio Aylwin (1990).jpg
+Q346 Louis IX.jpg
+Q352 Bundesarchiv Bild 183-S33882, Adolf Hitler retouched.jpg
+Q353 Blancheofcastile.jpg
+Q354 Anefo 911-0177 Piet Kraak.jpg
+Q360 Julian Assange cropped (Norway, March 2010).jpg
+Q368 Pinochet de Civil.jpg
+Q377 Yanka Kupala.jpg
+Q379 Frantisek planicka x gianpiero combi.jpg
+Q392 Joan Baez Bob Dylan crop.jpg
+Q400 Jenna Jameson 2008.jpg
+Q407 Deep Throat poster 2.jpg
+Q409 Bob-Marley-in-Concert Zurich 05-30-80.jpg
+Q410 Carl Sagan Planetary Society.JPG
+Q440 Salvador Allende 2.jpg
+Q444 Lech Walesa - 2009.jpg
+Q448 Denis Diderot - Alix - Vanloo.png
+Q449 Brassens TNP 1966.jpg
+Q464 Seidel philip ludvig.jpg
+Q475 FreiMontalva.jpg
+Q489 Bill Maher by David Shankbone cropped.jpg
+Q493 Carjat Arthur Rimbaud 1872 n2.jpg
+Q498 Lowendal.jpg
+Q501 Baudelaire crop.jpg
+Q502 Stendhal.jpg
+Q504 ZOLA 1902B.jpg
+Q512 Vladimir Vysotsky.jpg"
 "\n")))
