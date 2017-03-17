@@ -11,9 +11,11 @@
  ((eval(read-string(slurp"cookie.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/memo")
  ((eval(read-string(slurp"memo.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/memoDev")
+ ((eval(read-string(slurp"memoDev.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/a9e")
   (.sendRedirect rs
    "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
 [:body"&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
-[:br]"try "[:a{:href"/memo"}"AlphaMemory"]]]))))))
+[:br]"try "[:a{:href"/memo"}"AlphaMemory"]]])))))))
