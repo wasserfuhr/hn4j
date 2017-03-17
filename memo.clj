@@ -87,7 +87,9 @@ function abc(l){for(i=0;i<p.length;i++)
  https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg
 )":onclick"d('Q12823')"}[:p#tQ12823{:style"background-color:#fff"}]]][:br]
 
+[:br{:style"clear:both"}]
+
 ;(map(fn[q](let[r(.split q" ")n(.trim(second r))]
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
 ;[:div{:style"clear:both"}"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)]
- [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production."]]])))
+[:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production."]]])))
