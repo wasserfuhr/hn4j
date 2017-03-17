@@ -67,10 +67,9 @@ function q(){try{for(var k in ps){
 var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
 function abc(l){for(i=0;i<p.length;i++)
  document.getElementById(p[i]).height=p[i].startsWith(l)?80:1}"]
-
 [:table
  [:tr
-  [:td{:rowspan 2}[:b{:style"font-size:200%"}"HiScore:"[:br][:span#hc 0]"/"[:span#hm 0]]]
+  [:td{:rowspan 4}[:b{:style"font-size:200%"}"HiScore:"[:br][:span#hc 0]"/"[:span#hm 0]]]
   [:td{:style"text-align:right"}"Which "[:i"first name"]" or "[:i"last name"]" starts with..."]
   [:td{:rowspan 2}[:b{:style"font-size:400%"}[:span#l"A"]"?"]]]
  [:tr
@@ -83,7 +82,6 @@ function abc(l){for(i=0;i<p.length;i++)
 [:div#moreDiv"More in "[:span#more 0]" seconds..."]
 
 [:div
-
 [:div#Q23{:style"width:105px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:105px 128px;background-repeat:no-repeat;background-image:url(
  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg
 )":onclick"d('Q23')"}[:p#tQ23{:style"background-color:#fff"}]]
@@ -110,11 +108,5 @@ function abc(l){for(i=0;i<p.length;i++)
 
 [:div#Q991{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 120px;background-repeat:no-repeat":onclick"d('Q991')"}[:p#tQ8016{:style"background-color:#fff"}]]
 
-][:br]
-
-[:br{:style"clear:both"}]
-
-;(map(fn[q](let[r(.split q" ")n(.trim(second r))]
-; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
-;[:div{:style"clear:both"}"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)]
+][:br{:style"clear:both"}]
 [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production."]])))
