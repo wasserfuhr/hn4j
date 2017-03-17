@@ -1,36 +1,6 @@
 Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
 Q42 douglas adams portrait cropped.jpg
 Q76 President Barack Obama.jpg
-Q352 Bundesarchiv Bild 183-S33882, Adolf Hitler retouched.jpg
-Q937 Albert Einstein Head.jpg
-Q991 Vasily Perov - Портрет Ф.М.Достоевского - Google Art Project.jpg
-Q12823 Susan Polgar 6.jpg
-Q5879 Goethe (Stieler 1828).jpg
-Q8016 Sir Winston S Churchill.jpg
-Q8023 Nelson Mandela-2008 (edit).jpg
-Q8704 Walt Disney 1946.JPG
-Q7243 L.N.Tolstoy Prokudin-Gorsky.jpg
-Q5152 Atatürk.jpg
-Q255 Beethovensmall.jpg
-Q692 Hw-shakespeare.png
-Q254 Barbara Krafft - Porträt Wolfgang Amadeus Mozart (1819).jpg
-Q1339 Johann Sebastian Bach.jpg
-Q9682 Elizabeth II greets NASA GSFC employees, May 8, 2007 edit.jpg
-Q855 CroppedStalin1943.jpg
-Q5383 David-Bowie Chicago 2002-08-08 photoby Adam-Bielawski-cropped.jpg
-Q762 Leonardo self.jpg
-Q11571 Shahter-Reak M 2015 (18).jpg
-Q5592 Miguel Ángel, por Daniele da Volterra (detalle).jpg
-Q567 Angela Merkel Juli 2010 - 3zu4.jpg
-Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
-Q882 Charlie Chaplin portrait.jpg
-Q6294 HillaryPA.jpg
-Q7200 Portrait of Alexander Pushkin (Orest Kiprensky, 1827).PNG
-Q8016 Sir Winston S Churchill.jpg
-Q12823 Susan Polgar 6.jpg
-Q19838 Steve Jobs Headshot 2010-CROP.jpg
-Q92764 Sergey Brin Ted 2010.jpg
-Q160305 Henry Hubchen.jpg
 Q80 Sir Tim Berners-Lee.jpg
 Q91 Abraham Lincoln November 1863.jpg
 Q157 Francois Hollande 2015.jpeg
@@ -48,6 +18,12 @@ Q296 Claude Monet 1899 Nadar.jpg
 Q297 Diego Velázquez Autorretrato 45 x 38 cm - Colección Real Academia de Bellas Artes de San Carlos - Museo de Bellas Artes de Valencia.jpg
 Q301 El Greco - Portrait of a Man - WGA10554.jpg
 Q303 Elvis Presley 1970.jpg
+Q352 Bundesarchiv Bild 183-S33882, Adolf Hitler retouched.jpg
+Q567 Angela Merkel Juli 2010 - 3zu4.jpg
+Q692 Hw-shakespeare.png
+Q882 Charlie Chaplin portrait.jpg
+Q937 Albert Einstein Head.jpg
+Q991 Vasily Perov - Портрет Ф.М.Достоевского - Google Art Project.jpg
 Q306 Sebastian Pinera.JPG
 Q307 Galileo.arp.300pix.jpg
 Q326 Eduardo Frei Chiledebate.jpg
@@ -80,3 +56,24 @@ Q501 Baudelaire crop.jpg
 Q502 Stendhal.jpg
 Q504 ZOLA 1902B.jpg
 Q512 Vladimir Vysotsky.jpg
+Q1339 Johann Sebastian Bach.jpg
+Q5152 Atatürk.jpg
+Q5879 Goethe (Stieler 1828).jpg
+Q7243 L.N.Tolstoy Prokudin-Gorsky.jpg
+Q8016 Sir Winston S Churchill.jpg
+Q8023 Nelson Mandela-2008 (edit).jpg
+Q8704 Walt Disney 1946.JPG
+Q12823 Susan Polgar 6.jpg
+Q9682 Elizabeth II greets NASA GSFC employees, May 8, 2007 edit.jpg
+Q855 CroppedStalin1943.jpg
+Q5383 David-Bowie Chicago 2002-08-08 photoby Adam-Bielawski-cropped.jpg
+Q762 Leonardo self.jpg
+Q11571 Shahter-Reak M 2015 (18).jpg
+Q5592 Miguel Ángel, por Daniele da Volterra (detalle).jpg
+Q6294 HillaryPA.jpg
+Q7200 Portrait of Alexander Pushkin (Orest Kiprensky, 1827).PNG
+Q8016 Sir Winston S Churchill.jpg
+Q12823 Susan Polgar 6.jpg
+Q19838 Steve Jobs Headshot 2010-CROP.jpg
+Q92764 Sergey Brin Ted 2010.jpg
+Q160305 Henry Hubchen.jpg
