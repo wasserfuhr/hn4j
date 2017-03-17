@@ -31,5 +31,5 @@ w(Double.(get u 2))]
 (.split
 ;"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
 ;Q42 douglas adams portrait cropped.jpg"
-;(slurp"picName.txt")
+(slurp"picName.txt")
 "\n")))
