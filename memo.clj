@@ -89,8 +89,5 @@ function abc(l){for(i=0;i<p.length;i++)
 
 ;(map(fn[q](let[r(.split q" ")n(.trim(second r))]
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
-
-[:br]
-[:br]
-[:div{:style"clear:both"}"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)]
+;[:div{:style"clear:both"}"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)]
  [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production."]]])))
