@@ -39,7 +39,18 @@ setInterval(function(){
 
 function d(i){
  s=document.getElementById(i).style
- s.borderColor=('yellow'==s.borderColor)?'#fff':'yellow'}
+ s.borderColor=('yellow'==s.borderColor)?'#fff':'yellow'
+ xhr=new XMLHttpRequest()
+ try{
+  xhr.open('get','/char')
+  xhr.onreadystatechange=function(){
+   if(xhr.readyState===4)
+    if(xhr.status===200)
+     h=xhr.responseText.split('.')
+    else
+     console.log('Error: '+xhr.status)}
+  xhr.send({'i':i})}
+ catch(e){console.log('Error: '+xhr.status)}}
 
 function q(){try{for(var k in ps){
   l=document.getElementById('l').innerHTML
