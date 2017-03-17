@@ -59,6 +59,7 @@ function q(){try{for(var k in ps){
   s.borderColor=('yellow'==s.borderColor)==m(l,ps[k])?'green':'red'}
   if('green'==s.borderColor)hc++
  hm+=6;
+ document.getElementById('hc').innerHTML=hc;
  document.getElementById('hm').innerHTML=hm;
  c='ABEGJOSPW'
  s=document.getElementById('l').innerHTML=c.charAt(Math.floor(Math.random()*c.length))
