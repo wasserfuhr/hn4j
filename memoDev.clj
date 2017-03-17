@@ -113,4 +113,4 @@ function abc(l){for(i=0;i<p.length;i++)
 [:div#Q991{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 120px;background-repeat:no-repeat":onclick"d('Q991')"}[:p#tQ8016{:style"background-color:#fff"}]]
 
 ][:br{:style"clear:both"}]
-[:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production."]])))
+[:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production. Images from [:a{:href"https://dresdenlabs.appspot.com/iw/WikiPedia/Wikidata"}"WikiData"]"."]])))
