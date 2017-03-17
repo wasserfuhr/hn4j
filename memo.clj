@@ -9,7 +9,7 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 " "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]];[:script{:src"/AtJs"}]
 [:script"
 var ps={
-'Q23':'GeorgeWashington',
+'Q23':'GeorgeWashington',//b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg
 'Q76':'BarackObama',
 'Q937':'AlbertEinstein',
 'Q5879':'JohannWolfgangVonGoethe',
@@ -90,5 +90,7 @@ function abc(l){for(i=0;i<p.length;i++)
 ;(map(fn[q](let[r(.split q" ")n(.trim(second r))]
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
 
+[:br]
+[:br]
 [:br]"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)
  [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production."]]])))
