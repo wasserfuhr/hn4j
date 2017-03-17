@@ -10,13 +10,13 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 [:script"
 var ps={"
 (map(fn[l](let[ll(.split l" ")](str"'"(first ll)"':'"(.trim(second ll))"',\n")))
-(.split"Q23 GeorgeWashington
+(.split
+"Q23 GeorgeWashington
 Q76 BarackObama
 Q937 AlbertEinstein
 Q5879 JohannWolfgangVonGoethe
 Q8016 WinstonChurchill
-Q12823 SusanPolgar""\n"))"
-}
+Q12823 SusanPolgar""\n"))"}
 var more=-1;
 
 //match
