@@ -9,7 +9,7 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 " "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]];[:script{:src"/AtJs"}]
 [:script"
 var ps={"
-(map(fn[l](first(.split l" ")))
+(map(fn[l](let[ll(.split l" ")](str"'"(first ll)"':'"(second ll)"',\n"))
 (.split"Q23 GeorgeWashington
 Q76 BarackObama""\n"))
 "//;',//b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg
