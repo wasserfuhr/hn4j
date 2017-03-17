@@ -18,6 +18,8 @@ Q5879 JohannWolfgangVonGoethe
 Q8016 WinstonChurchill
 Q12823 SusanPolgar""\n"))"}
 var more=-1;
+var hc=0;
+var hm=0;
 //Q991 FyodorDostoyevsky
 //match
 function m(l,n){
@@ -54,9 +56,11 @@ function d(i){
  catch(e){console.log('Error: '+xhr.status)}}
 
 function q(){try{for(var k in ps){
-  l=document.getElementById('l').innerHTML
+  l=document.getElementById('hc').innerHTML
   s=document.getElementById(k).style
   s.borderColor=('yellow'==s.borderColor)==m(l,ps[k])?'green':'red'}
+ hm+=6;
+ document.getElementById('hm').innerHTML=hm;
  c='ABEGJOSPW'
  s=document.getElementById('l').innerHTML=c.charAt(Math.floor(Math.random()*c.length))
  more=5
