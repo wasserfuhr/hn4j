@@ -29,7 +29,7 @@ w(Double.(get u 2))]
 :src\"https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"(first u)"px-"e"\"}]\n"))
 (catch Exception ex(str";"s0"e\n")))))
 (.split
-"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
-Q42 douglas adams portrait cropped.jpg"
+;"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
+;Q42 douglas adams portrait cropped.jpg"
 ;(slurp"picName.txt")
 "\n")))
