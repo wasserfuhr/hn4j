@@ -21,10 +21,12 @@ w(Double.(get u 2))]
 ;https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg
 ;(str s0" "k" "h" "w"\n"))
 ;(str s0" "k" "(Math/round h)"\n"))
-(str"<img id='"s0"'
-width="(Math/round(Math/min(*(/ h w)128)128.0))"
-height="(Math/round(Math/min(*(/ w h)128)128.0))"
-src='https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"(first u)"px-"e"'/>\n"))
+;(str"<img id='"s0"'
+;width="(Math/round(Math/min(*(/ h w)128)128.0))"
+;height="(Math/round(Math/min(*(/ w h)128)128.0))"
+;src='https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"(first u)"px-"e"'/>\n"))
+(str"[img#"s0"{:height 60 :width "(Math/round(Math/min(*(/ h w)60)60.0))"
+:src\"https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"(first u)"px-"e"\"]\n"))
 (catch Exception ex (str "*E*"s0"e\n")))))
 (.split
 "Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
