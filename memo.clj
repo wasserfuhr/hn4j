@@ -19,6 +19,9 @@ Q8016 WinstonChurchill
 Q12823 SusanPolgar""\n"))"}
 var more=-1;
 
+
+
+
 //match
 function m(l,n){
  for(var i=0;i<n.length;i++){var c=n.charAt(i)
@@ -26,6 +29,8 @@ function m(l,n){
  return false}
 
 setInterval(function(){
+ document.getElementById('Q991').style.backgroundImage="url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/192px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg)"
+
  document.getElementById('moreDiv').style.display=(more>0)?'block':'none'
  more--
  for(var k in ps){
@@ -83,6 +88,8 @@ function abc(l){for(i=0;i<p.length;i++)
 [:div#Q8016{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 128px;background-repeat:no-repeat;background-image:url(
  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg
 )":onclick"d('Q8016')"}[:p#tQ8016{:style"background-color:#fff"}]]
+
+[:div#Q991{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 120px;background-repeat:no-repeat":onclick"d('Q991')"}[:p#tQ8016{:style"background-color:#fff"}]]
 
 [:div#Q12823{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 128px;background-repeat:no-repeat;background-image:url(
  https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg
