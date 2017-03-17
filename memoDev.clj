@@ -1,12 +1,10 @@
 (fn[rq rs](let[c(.getAttribute rq"c")v(.getAttribute rq"vars")t"AlphaMemory"
 w(.split(slurp(str"https://floatingboat2013.appspot.com/rawHead/MemoPic"))"\n")
 x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
-[:head[:title t" « &alpha;"];(:can c)(:css c)(:vp c)
+[:head[:title t" &laquo; &alpha;"];(:can c)(:css c)(:vp c)
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]]
-[:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t
-; ((:pageEdit v)"/memo"t 8)
-" "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]];[:script{:src"/AtJs"}]
+[:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
 [:script"
 var ps={"
 (map(fn[l](let[ll(.split l" ")](str"'"(first ll)"':'"(.trim(second ll))"',\n")))
@@ -69,13 +67,16 @@ function q(){try{for(var k in ps){
 var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
 function abc(l){for(i=0;i<p.length;i++)
  document.getElementById(p[i]).height=p[i].startsWith(l)?80:1}"]
-[:form
+
 [:table
- [:tr[:td{:style"text-align:right"}"Which "[:i"first name"]" or "[:i"last name"]" starts with..."]
-  [:td{:rowspan 2}[:b{:style"font-size:400%"}[:span#l"A"]"?"]]
-  [:td{:rowspan 2}[:b{:style"font-size:200%"}"HiScore:"[:br][:span#hc 0]"/"[:span#hm 0]]]]
- [:tr[:td{:style"text-align:right"}"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" f&auml;ngt an mit..."]]
- [:tr[:td{:style"text-align:right"}"Click the images and then press..."]
+ [:tr
+  [:td{:rowspan 2}[:b{:style"font-size:200%"}"HiScore:"[:br][:span#hc 0]"/"[:span#hm 0]]]
+  [:td{:style"text-align:right"}"Which "[:i"first name"]" or "[:i"last name"]" starts with..."]
+  [:td{:rowspan 2}[:b{:style"font-size:400%"}[:span#l"A"]"?"]]]
+ [:tr
+  [:td{:style"text-align:right"}"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" f&auml;ngt an mit..."]]
+ [:tr
+  [:td{:style"text-align:right"}"Click the images and then press..."]
   [:td{:rowspan 2}[:input#lA{:name"A":type"button":value"Done":onclick"q();return false"}]]]
   [:td"Clicke die richtigen Bilder an und dann dr&uuml;cke..."]]]
 
@@ -116,4 +117,4 @@ function abc(l){for(i=0;i<p.length;i++)
 ;(map(fn[q](let[r(.split q" ")n(.trim(second r))]
 ; [:img{:id n :alt n :title n :src(str"/WiDaPic?q="(first r)):width 80 :height 80}]))w)
 ;[:div{:style"clear:both"}"Save your HiScore: "[:input{:value"you":size 4}]"@"(.getRemoteHost rq)]
-[:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production."]]])))
+[:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production."]])))
