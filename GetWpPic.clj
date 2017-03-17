@@ -19,8 +19,8 @@ w(Double.(get u 2))]
 ;
 ;https://floatingboat2013.appspot.com/WiDaPic?q=Q19837 =
 ;https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg
+;(str s0" "k" "h" "w"\n"))
 (str s0" "k" "(Math/round h)"\n"))
-
 ;(str"<img id='"s0"'
 ;width="(Math/round(Math/min(*(/ h w)128)128.0))"
 ;height="(Math/round(Math/min(*(/ w h)128)128.0))"
