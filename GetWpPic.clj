@@ -28,4 +28,7 @@ w(Double.(get u 2))]
 (str"[:img#r"s0"{:height 60 :width "(Math/round(*(/ h w)60))"
 :src\"https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"(first u)"px-"e"\"}]\n"))
 (catch Exception ex(str";"s0"e\n")))))
-(.split(slurp"picName.txt")"\n")))
+(.split
+
+;(slurp"picName.txt")
+"\n")))
