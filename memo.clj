@@ -9,7 +9,7 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 " "[:sup#t"&alpha;t2a87c67.4fx2710fc0"]];[:script{:src"/AtJs"}]
 [:script"
 var ps={"
-(map(fn[l](let[ll(.split l" ")](str"'"(first ll)"':'"(second ll)"',\n")))
+(map(fn[l](let[ll(.split l" ")](str"'"(first ll)"':'"(.trim(second ll))"',\n")))
 (.split"Q23 GeorgeWashington
 Q76 BarackObama
 Q937 AlbertEinstein
