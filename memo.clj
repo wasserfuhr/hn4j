@@ -5,6 +5,62 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
+[:div{:style"overflow:hidden;height:60px;width:750px"}
+[:div#rot{:style"overflow:hidden;height:60px;width:900px;margin-left:-50px"}
+ [:img#rQ23{:height 60 :width 49
+:src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
+ [:img#rQ76{:height 60 :width 48
+  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg"}]
+ [:img#rQ937{:height 60 :width 45
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/180px-Albert_Einstein_Head.jpg"}]
+ [:img#rQ991{:height 60 :width 48
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/192px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg"}]
+ [:img#rQ12823{:height 60 :width 48
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
+ [:img#rQ5879{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/195px-Goethe_%28Stieler_1828%29.jpg"}]
+ [:img#rQ8016{:height 60 :width 48
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg"}]
+ [:img#rQ254{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg/195px-Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg"}]
+ [:img#rQ9682{:height 60 :width 43
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Elizabeth_II_greets_NASA_GSFC_employees%2C_May_8%2C_2007_edit.jpg/173px-Elizabeth_II_greets_NASA_GSFC_employees%2C_May_8%2C_2007_edit.jpg"}]
+ [:img#rQ5592{:height 60 :width 52
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/207px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg"}]
+ [:img#rQ567{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Angela_Merkel_Juli_2010_-_3zu4.jpg/197px-Angela_Merkel_Juli_2010_-_3zu4.jpg"}]
+ [:img#rQ23{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
+ [:img#rQ7200{:height 60 :width 52
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Portrait_of_Alexander_Pushkin_%28Orest_Kiprensky%2C_1827%29.PNG/206px-Portrait_of_Alexander_Pushkin_%28Orest_Kiprensky%2C_1827%29.PNG"}]
+ [:img#rQ19838{:height 60 :width 61
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg"}]
+ [:img#rQ92764{:height 60 :width 63
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sergey_Brin_Ted_2010.jpg/253px-Sergey_Brin_Ted_2010.jpg"}]
+ [:img#rQ160305{:height 60 :width 80
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Henry_Hubchen.jpg/318px-Henry_Hubchen.jpg"}]
+ [:img#rQ80{:height 60 :width 90
+ :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sir_Tim_Berners-Lee.jpg/320px-Sir_Tim_Berners-Lee.jpg"}]
+  [:img#rQ91{:height 60 :width 49
+  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Abraham_Lincoln_November_1863.jpg/194px-Abraham_Lincoln_November_1863.jpg"}]
+   [:img#rQ157{:height 60 :width 44
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Francois_Hollande_2015.jpeg/175px-Francois_Hollande_2015.jpeg"}]
+    [:img#rQ181{:height 60 :width 48
+    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jimmy_Wales_Fundraiser_Appeal.JPG/191px-Jimmy_Wales_Fundraiser_Appeal.JPG"}]
+     [:img#rQ185{:height 60 :width 49
+     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/L_Sanger.jpg/195px-L_Sanger.jpg"}]
+  
+       [:img#rQ192{:height 60 :width 45
+       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/David_Cameron_official.jpg/180px-David_Cameron_official.jpg"}]
+        [:img#rQ206{:height 60 :width 58
+	:src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stephen_Harper_by_Remy_Steinegger.jpg/231px-Stephen_Harper_by_Remy_Steinegger.jpg"}]
+	 [:img#rQ207{:height 60 :width 45
+	 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/181px-George-W-Bush.jpeg"}]
+	  [:img#rQ254{:height 60 :width 49
+	  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg/195px-Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg"}]
+
+]]
+	  
 [:script"
 var ps={"
 (map(fn[l](let[ll(.split l" ")](str"'"(first ll)"':'"(.trim(second ll))"',\n")))
@@ -24,6 +80,11 @@ function m(l,n){
  for(var i=0;i<n.length;i++){var c=n.charAt(i)
   if(l==c&&c.toUpperCase()==c)return true}
  return false}
+
+var now=new Date().getTime()
+
+setInterval(function(){
+ document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'},50)
 
 setInterval(function(){
 // document.getElementById('Q991').style.backgroundImage='url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg/192px-Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg)'
@@ -113,4 +174,5 @@ function abc(l){for(i=0;i<p.length;i++)
 [:div#Q991{:style"width:96px;vertical-align:text-bottom;border:#fff solid 3px;height:128px;float:left;background-size:96px 120px;background-repeat:no-repeat":onclick"d('Q991')"}[:p#tQ8016{:style"background-color:#fff"}]]
 
 ][:br{:style"clear:both"}]
-[:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production."]])))
+   
+[:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production. Images from "[:a{:href"https://dresdenlabs.appspot.com/iw/WikiPedia/Wikidata"}"WikiData"]"."]])))
