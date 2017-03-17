@@ -55,10 +55,10 @@ function abc(l){for(i=0;i<p.length;i++)
 [:table
  [:tr[:td{:style"text-align:right"}"Which "[:i"first name"]" or "[:i"last name"]" starts with..."]
   [:td{:rowspan 2}[:b{:style"font-size:400%"}[:span#l"A"]"?"]]]
- [:tr[:td{:style"text-align:right"}"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" faengt an mit..."]]
+ [:tr[:td{:style"text-align:right"}"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" f&auml;ngt an mit..."]]
  [:tr[:td{:style"text-align:right"}"Click the images and then press..."]
   [:td{:rowspan 2}[:input#lA{:name"A":type"button":value"Done":onclick"q();return false"}]]]
-  [:td"Clicke die richtigen Bilder an und dann druecke..."]]]
+  [:td"Clicke die richtigen Bilder an und dann dr&uuml;cke..."]]]
 
 [:div#moreDiv"More in "[:span#more 0]" seconds..."]
 
