@@ -11,14 +11,11 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 var ps={"
 (map(fn[l](let[ll(.split l" ")](str"'"(first ll)"':'"(second ll)"',\n")))
 (.split"Q23 GeorgeWashington
-Q76 BarackObama""\n"))
-"//;',//b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg
-'Q23':'GeorgeWashington',//b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg
-'Q76':'BarackObama',
-'Q937':'AlbertEinstein',
-'Q5879':'JohannWolfgangVonGoethe',
-'Q8016':'WinstonChurchill',
-'Q12823':'SusanPolgar'
+Q76 BarackObama
+Q937 AlbertEinstein
+Q5879 JohannWolfgangVonGoethe
+Q8016 WinstonChurchill
+Q12823 SusanPolgar""\n"))
 }
 var more=-1;
 
