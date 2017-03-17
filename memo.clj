@@ -14,12 +14,11 @@ var ps={"
 "Q23 GeorgeWashington
 Q76 BarackObama
 Q937 AlbertEinstein
-Q991 FyodorDostoyevsky
 Q5879 JohannWolfgangVonGoethe
 Q8016 WinstonChurchill
 Q12823 SusanPolgar""\n"))"}
 var more=-1;
-
+//Q991 FyodorDostoyevsky
 //match
 function m(l,n){
  for(var i=0;i<n.length;i++){var c=n.charAt(i)
