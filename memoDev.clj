@@ -68,7 +68,8 @@ function abc(l){for(i=0;i<p.length;i++)
 [:form
 [:table
  [:tr[:td{:style"text-align:right"}"Which "[:i"first name"]" or "[:i"last name"]" starts with..."]
-  [:td{:rowspan 2}[:b{:style"font-size:400%"}[:span#l"A"]"?"]]]
+  [:td{:rowspan 2}[:b{:style"font-size:400%"}[:span#l"A"]"?"]]
+  [:td{:rowspan 2}[:b{:style"font-size:200%"}"HiScore:"[:br][:span#hc 0]"/"[:span#hm 0]]]]
  [:tr[:td{:style"text-align:right"}"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" f&auml;ngt an mit..."]]
  [:tr[:td{:style"text-align:right"}"Click the images and then press..."]
   [:td{:rowspan 2}[:input#lA{:name"A":type"button":value"Done":onclick"q();return false"}]]]
