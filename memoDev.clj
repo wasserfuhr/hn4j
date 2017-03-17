@@ -30,6 +30,10 @@ setInterval(function(){
 
  document.getElementById('moreDiv').style.display=(more>0)?'block':'none'
  more--
+ if(more==0){
+  var c='ABEGJOSPW'
+  document.getElementById('l').innerHTML=c.charAt(Math.floor(Math.random()*c.length))}
+
  for(var k in ps){
   document.getElementById('t'+k).innerHTML=ps[k]
   document.getElementById('t'+k).style.display=(more>0)?'block':'none'
@@ -61,8 +65,6 @@ function q(){try{for(var k in ps){
  hm+=6;
  document.getElementById('hc').innerHTML=hc;
  document.getElementById('hm').innerHTML=hm;
- var c='ABEGJOSPW'
- document.getElementById('l').innerHTML=c.charAt(Math.floor(Math.random()*c.length))
  more=5
 }catch(e){alert(e)}}
 
