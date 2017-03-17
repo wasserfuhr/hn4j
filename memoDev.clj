@@ -56,8 +56,8 @@ function d(i){
 function q(){try{for(var k in ps){
   l=document.getElementById('hc').innerHTML
   s=document.getElementById(k).style
-  s.borderColor=('yellow'==s.borderColor)==m(l,ps[k])?'green':'red'}
-  if('green'==s.borderColor)hc++
+  s.borderColor=('yellow'==s.borderColor)==m(l,ps[k])?'green':'red'
+  if('green'==s.borderColor)hc++}
  hm+=6;
  document.getElementById('hc').innerHTML=hc;
  document.getElementById('hm').innerHTML=hm;
