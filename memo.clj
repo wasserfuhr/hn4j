@@ -15,7 +15,7 @@ Q76 BarackObama
 Q937 AlbertEinstein
 Q5879 JohannWolfgangVonGoethe
 Q8016 WinstonChurchill
-Q12823 SusanPolgar""\n"))
+Q12823 SusanPolgar""\n"))"
 }
 var more=-1;
 
