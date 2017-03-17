@@ -28,7 +28,7 @@ w(Double.(get u 2))]
 (str"[:img#r"s0"{:height 60 :width "(Math/round(*(/ h w)60))"
 :src\"https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"(first u)"px-"e"\"}]\n"))
 (catch Exception ex(str";"s0"e\n")))))
-(.split
+(.split(slurp"picName.txt")
 "Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
 Q42 douglas adams portrait cropped.jpg
 Q76 President Barack Obama.jpg
@@ -110,5 +110,6 @@ Q498 Lowendal.jpg
 Q501 Baudelaire crop.jpg
 Q502 Stendhal.jpg
 Q504 ZOLA 1902B.jpg
-Q512 Vladimir Vysotsky.jpg"
+Q512 Vladimir Vysotsky.jpg
+"
 "\n")))
