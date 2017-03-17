@@ -25,8 +25,8 @@ w(Double.(get u 2))]
 ;width="(Math/round(Math/min(*(/ h w)128)128.0))"
 ;height="(Math/round(Math/min(*(/ w h)128)128.0))"
 ;src='https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"(first u)"px-"e"'/>\n"))
-(str"[img#"s0"{:height 60 :width "(Math/round(Math/min(*(/ h w)60)60.0))"
-:src\"https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"(first u)"px-"e"\"]\n"))
+(str"[:img#r"s0"{:height 60 :width "(Math/round(*(/ h w)60))"
+:src\"https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs k 0 1)"/"k"/"e"/"(first u)"px-"e"\"}]\n"))
 (catch Exception ex (str "*E*"s0"e\n")))))
 (.split
 "Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
