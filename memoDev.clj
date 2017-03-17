@@ -54,7 +54,7 @@ function d(i){
  catch(e){console.log('Error: '+xhr.status)}}
 
 function q(){try{for(var k in ps){
-  var l=document.getElementById('hc').innerHTML
+  var l=document.getElementById('l').innerHTML
   var s=document.getElementById(k).style
   s.borderColor=('yellow'==s.borderColor)==m(l,ps[k])?'green':'red'
   if('green'==s.borderColor)hc++}
