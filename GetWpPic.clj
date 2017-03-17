@@ -1,7 +1,7 @@
 (println(map(fn[l](let[
 s(.indexOf l" ")
 s0(subs l 0 s)
-s1(subs l (+ s 1))
+s1(.trim(subs l (+ s 1)))
 e(java.net.URLEncoder/encode (.replaceAll s1" ""_"))]
 (try(let[
 s(slurp(str"https://en.wikipedia.org/wiki/File:"e))
