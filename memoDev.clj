@@ -38,18 +38,19 @@ setInterval(function(){
  document.getElementById('more').innerHTML=more},1000);
 
 function d(i){
+ l=document.getElementById('l').innerHTML
  s=document.getElementById(i).style
  s.borderColor=('yellow'==s.borderColor)?'#fff':'yellow'
  xhr=new XMLHttpRequest()
  try{
-  xhr.open('get','/char')
+  xhr.open('get','/char/'+l+'/'+i)
   xhr.onreadystatechange=function(){
    if(xhr.readyState===4)
     if(xhr.status===200)
      h=xhr.responseText.split('.')
     else
      console.log('Error: '+xhr.status)}
-  xhr.send({'i':i})}
+  xhr.send(null)}
  catch(e){console.log('Error: '+xhr.status)}}
 
 function q(){try{for(var k in ps){
