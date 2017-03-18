@@ -10,9 +10,12 @@ n(.split(slurp"picName.txt")"\n")
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
 
 (map(fn[q](let[
- f(filter(fn[i](.startsWith i(str"Q"(read-string(str"0x"q))" ")))n)]
+ d(read-string(str"0x"q))
+ p(filter(fn[i](.startsWith i(str"Q"d" ")))s)
+ s(filter(fn[i](.startsWith i(str d" ")))n)]
 [:img{:id(str"i"q)
 :alt f
+:title s
 }]))
  (.split"5f3 5f6 5f8 5fc 391"" "))
  
