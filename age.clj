@@ -9,11 +9,9 @@ n(.split(slurp"picName.txt")"\n")
 ;[:script{:src"https://raw.githubusercontent.com/wasserfuhr/hn4j/master/WiDa.js"}]
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
 
-(map(fn[q][:img{:id(str"i"q)}]
-
- (filter(fn[i](.startsWith
- (str"Q"(read-string(str"0x"q)
-)
+(map(fn[q][:img{:id(str"i"q)
+:alt (filter(fn[i](.startsWith i(str"Q"(read-string(str"0x"q)))))n)
+}])
  (.split"5f3 5f6 5f8 5fc 391"" "))
  
  [:img#rQ326{:height 60 :width 42
