@@ -11,10 +11,10 @@ n(.split(slurp"picName.txt")"\n")
 
 (map(fn[q](let[
  d(read-string(str"0x"q))
- p(filter(fn[i](.startsWith i(str"Q"d" ")))s)
- s(filter(fn[i](.startsWith i(str d" ")))n)]
+ p(filter(fn[i](.startsWith i(str d" ")))s)
+ s(filter(fn[i](.startsWith i(str"Q"d" ")))n)]
 [:img{:id(str"i"q)
-:alt f
+:alt p
 :title s
 }]))
  (.split"5f3 5f6 5f8 5fc 391"" "))
