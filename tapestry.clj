@@ -3,7 +3,7 @@
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
-
+[:script{:src"https://raw.githubusercontent.com/wasserfuhr/hn4j/master/WiDa.js"}]
 [:img#rQ23{:height 60 :width 49
 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
  ;Q42e
@@ -869,5 +869,7 @@ pedia/commons/thumb/a/ac/Werkstattreihe_gemeinsam_f%C3%BCr_ein_starkes_Deutschla
    ;Q9079904e
 
 [:br{:style"clear:both"}]
-   
+[:script"for(var q in wd){
+ document.getElementById('r'+q).title=wd[q]
+ document.getElementById('r'+q).alt=wd[q]}"]
 [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production. Images from "[:a{:href"https://dresdenlabs.appspot.com/iw/WikiPedia/Wikidata"}"WikiData"]"."]]])))
