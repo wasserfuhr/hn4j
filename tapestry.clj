@@ -696,17 +696,13 @@
 																																													       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Shahter-Reak_M_2015_%2818%29.jpg/205px-Shahter-Reak_M_2015_%2818%29.jpg"}]
 																																													        [:img#rQ12823{:height 60 :width 48
 																																														:src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
-																																														 [:img#rQ19838{:height 60 :width 61
-																																														 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg"}]
+																																					 [:img#rQ19838{:height 60 :width 61
+																																				 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg"}]
 																																														  [:img#rQ92764{:height 60 :width 63
 																																														  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sergey_Brin_Ted_2010.jpg/253px-Sergey_Brin_Ted_2010.jpg"}]
 																																														   [:img#rQ160305{:height 60 :width 80
 																																														   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Henry_Hubchen.jpg/318px-Henry_Hubchen.jpg"}]
-						    [:img#rQ567{:height 60 :width 49
-						    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Angela_Merkel_Juli_2010_-_3zu4.jpg/197px-Angela_Merkel_Juli_2010_-_3zu4.jpg"}]
-						     ;Q692e
-						      [:img#rQ762{:height 60 :width 38
-						      :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Leonardo_self.jpg/153px-Leonardo_self.jpg"}]
+			
 						       [:img#rQ855{:height 60 :width 51
 						       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /CroppedStalin1943.jpg/205px-CroppedStalin1943.jpg"}]
 						        [:img#rQ882{:height 60 :width 45
