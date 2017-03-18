@@ -13,7 +13,7 @@
  r(- t(* d 1000));mod?
  a(format"%02x.%02x"d(quot(* 256 r)1000))]
 ;(.println *err*"\007")
-(println a i(subs uh 0 6)(.getRequestURI rq))
+(println a i(subs uh 0 6)(if(=="http"(.getScheme rq)"h""s")(.getRequestURI rq))
 (if(not(.exists uf))(spit uf ua))
 (if(.startsWith(.getRequestURI rq)"/cookie")
  ((eval(read-string(slurp"cookie.clj")))rq rs)
