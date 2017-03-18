@@ -871,6 +871,8 @@ pedia/commons/thumb/a/ac/Werkstattreihe_gemeinsam_f%C3%BCr_ein_starkes_Deutschla
 
 [:br{:style"clear:both"}]
 [:script"for(var q in wd){
- document.getElementById('r'+q).title=wd[q]
- document.getElementById('r'+q).alt=wd[q]}"]
+ d=document.getElementById('r'+q)
+ if(d){
+  d.title=wd[q]
+  d.alt=wd[q]}}"]
 [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production. Images from "[:a{:href"https://dresdenlabs.appspot.com/iw/WikiPedia/Wikidata"}"WikiData"]"."]]])))
