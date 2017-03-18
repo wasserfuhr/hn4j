@@ -4,7 +4,7 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
 [:head[:title t" &laquo; &alpha;"];(:can c)(:css c)(:vp c)
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]]
-[:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
+[:body
 [:div{:style"overflow:hidden;height:60px;width:750px"}
 [:div#rot{:style"overflow:hidden;height:60px;width:900px;margin-left:-50px"}
  [:img#rQ23{:height 60 :width 49
@@ -40,27 +40,26 @@ x(map #(.split(.trim %)" ")w)](hiccup.core/html"<!DOCTYPE html>"[:html
  [:img#rQ160305{:height 60 :width 80
    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Henry_Hubchen.jpg/318px-Henry_Hubchen.jpg"}]
  [:img#rQ80{:height 60 :width 90
- :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sir_Tim_Berners-Lee.jpg/320px-Sir_Tim_Berners-Lee.jpg"}]
-  [:img#rQ91{:height 60 :width 49
-  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Abraham_Lincoln_November_1863.jpg/194px-Abraham_Lincoln_November_1863.jpg"}]
-   [:img#rQ157{:height 60 :width 44
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sir_Tim_Berners-Lee.jpg/320px-Sir_Tim_Berners-Lee.jpg"}]
+ [:img#rQ91{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Abraham_Lincoln_November_1863.jpg/194px-Abraham_Lincoln_November_1863.jpg"}]
+ [:img#rQ157{:height 60 :width 44
    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Francois_Hollande_2015.jpeg/175px-Francois_Hollande_2015.jpeg"}]
-    [:img#rQ181{:height 60 :width 48
-    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jimmy_Wales_Fundraiser_Appeal.JPG/191px-Jimmy_Wales_Fundraiser_Appeal.JPG"}]
-     [:img#rQ185{:height 60 :width 49
-     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/L_Sanger.jpg/195px-L_Sanger.jpg"}]
-  
-       [:img#rQ192{:height 60 :width 45
-       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/David_Cameron_official.jpg/180px-David_Cameron_official.jpg"}]
-        [:img#rQ206{:height 60 :width 58
-	:src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stephen_Harper_by_Remy_Steinegger.jpg/231px-Stephen_Harper_by_Remy_Steinegger.jpg"}]
-	 [:img#rQ207{:height 60 :width 45
-	 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/181px-George-W-Bush.jpeg"}]
-	  [:img#rQ254{:height 60 :width 49
-	  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg/195px-Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg"}]
-
+ [:img#rQ181{:height 60 :width 48
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jimmy_Wales_Fundraiser_Appeal.JPG/191px-Jimmy_Wales_Fundraiser_Appeal.JPG"}]
+ [:img#rQ185{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/L_Sanger.jpg/195px-L_Sanger.jpg"}]
+ [:img#rQ192{:height 60 :width 45
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/David_Cameron_official.jpg/180px-David_Cameron_official.jpg"}]
+ [:img#rQ206{:height 60 :width 58
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stephen_Harper_by_Remy_Steinegger.jpg/231px-Stephen_Harper_by_Remy_Steinegger.jpg"}]
+ [:img#rQ207{:height 60 :width 45
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/181px-George-W-Bush.jpeg"}]
+ [:img#rQ254{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg/195px-Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg"}]
 ]]
-	  
+[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
+
 [:script"
 var ps={"
 (map(fn[l](let[ll(.split l" ")](str"'"(first ll)"':'"(.trim(second ll))"',\n")))
