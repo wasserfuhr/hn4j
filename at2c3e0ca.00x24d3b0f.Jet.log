@@ -1645,3 +1645,42 @@ java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Numbe
 2c4bc02.99 b04a39a3 5b35cd h /
 2c4bc02.de b04a39a3 5b35cd h /favicon.ico
 2017-03-18 17:54:05.870:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4bc1a.ea b04a39a3 5b35cd s /memo
+2c4bc1c.ee b04a39a3 5b35cd s /favicon.ico
+2017-03-18 17:54:31.932:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4bd52.5f 94fbf6cb 3a5a31 s /memo
+2c4bfd1.51 bce28137 1d5a65 h /
+2c4c02b.ad cf2e0d7e 6a88e8 h /wiki/PeterHankins
+2c4c19a.7e c73b96b5 45fe92 s /robots.txt
+2c4c19a.b2 c73b96b5 45fe92 s /memo
+2017-03-18 18:21:43.899:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+	at clojure.lang.Reflector.invokeNoArgInstanceMember(Reflector.java:301)
+	at clojure.core$eval279642$fn__279643.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval279637$fn__279638.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2c4c456.b0 42f95cc9 4b7fce h //rss.rdf
+2c4c561.e0 b04a39a3 5b35cd s /memo
+2c4c5ba.a9 b04a39a3 5b35cd s /char/A/Q937
+2c4c5cd.50 b04a39a3 5b35cd s /char/J/Q5879
+2c4c5d7.5c b04a39a3 5b35cd s /char/O/Q76
+2c4c65e.df 9750276e 433e9c h //robots.txt
+2c4c6ac.3d b04a39a3 5b35cd s /char/O/Q76
+2c4c6b8.51 b04a39a3 5b35cd s /char/O/Q76
+2c4c6bc.1d b04a39a3 5b35cd s /char/O/Q76
+2c4c6c6.ec b04a39a3 5b35cd s /char/O/Q76
+2c4c6d4.65 b04a39a3 5b35cd s /char/B/Q76
+2c4c711.6c 8e04d9a2 554020 h /rss.rdf
