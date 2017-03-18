@@ -17,6 +17,9 @@
 (if(not(.exists uf))(spit uf ua))
 (if(.startsWith(.getRequestURI rq)"/cookie")
  ((eval(read-string(slurp"cookie.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/favicon.ico")
+  (.sendRedirect rs
+   "https://upload.wikimedia.org/wikipedia/commons/a/a5/Greek_lc_alpha.png")
  (if(.startsWith(.getRequestURI rq)"/memoDev")
  ((eval(read-string(slurp"memoDev.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/memo")
@@ -34,4 +37,4 @@
 [:body
 [:p"Hi "(subs uh 0 6)"@"i]
 "&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
-[:br]"try "[:a{:href"https://i.sl4.eu/memo"}"AlphaMemory"]]]))))))))))
+[:br]"try "[:a{:href"https://i.sl4.eu/memo"}"AlphaMemory"]]])))))))))))
