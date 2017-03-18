@@ -1936,3 +1936,8 @@ java.lang.RuntimeException: Unmatched delimiter: ]
 2017-03-18 22:19:11.516:WARN:oejh.HttpGenerator:Ignoring extra content null
 2c4fa24.96 c30d29dc 7a122d h /favicon.ico
 2017-03-18 22:19:11.588:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4fae1.ce b04a39a3 5b35cd s /age
+2c4fae2.45 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:22:21.271:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4fb07.a8 c30d29dc 7a122d h //wiki/LockSchuppenAg
+2c4fb49.20 c30d29dc 7a122d h //rainer
