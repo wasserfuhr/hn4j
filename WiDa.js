@@ -1,5 +1,5 @@
-Clojure 1.8.0
-user=> 'Q23':'GeorgeWashington',
+var wd={
+'Q23':'GeorgeWashington',
 'Q42':'DouglasAdams',
 'Q76':'BarackObama',
 'Q80':'TimBernersLee',
@@ -2619,6 +2619,4 @@ user=> 'Q23':'GeorgeWashington',
 'Q2589454':'WolfgangDonsbach',
 'Q6860370':'MiloYiannopoulos',
 'Q9079904':'SteveJurvetson',
-'Q18176756':'BjoernHoecke',
-nil
-user=> 
+'Q18176756':'BjoernHoecke'}
