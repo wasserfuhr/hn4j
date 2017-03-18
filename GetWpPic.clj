@@ -1,4 +1,4 @@
-(println(map(fn[l](let[
+(print(map(fn[l](let[
 s(.indexOf l" ")
 s0(subs l 0 s)
 s1(.trim(subs l (+ s 1)))
