@@ -1,4 +1,4 @@
-(spit"aa"(map(fn[l](let[
+(print(apply str(map(fn[l](let[
 s(.indexOf l" ")
 s0(subs l 0 s)
 s1(.trim(subs l (+ s 1)))
@@ -38,4 +38,4 @@ Q1043 Carl von Linné.jpg
 Q1047 Bundesarchiv Bild 183-61849-0001, Indien, Otto Grotewohl bei Ministerpräsident Nehru cropped.jpg
 Q1048 Gaius Julius Caesar (100-44 BC).JPG"
 ;(slurp"picName.txt")
-"\n")))
+"\n"))))
