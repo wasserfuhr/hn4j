@@ -735,8 +735,7 @@
 									:src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Shahter-Reak_M_2015_%2818%29.jpg/205px-Shahter-Reak_M_2015_%2818%29.jpg"}]
 									 [:img#rQ12823{:height 60 :width 48
 									 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
-									  [:img#rQ19838{:height 60 :width 61
-									  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg"}]
+	
 									   [:img#rQ92764{:height 60 :width 63
 									   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sergey_Brin_Ted_2010.jpg/253px-Sergey_Brin_Ted_2010.jpg"}]
 									    [:img#rQ160305{:height 60 :width 80
@@ -749,8 +748,6 @@
  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2 /Virachand_Raghavji_Gandhi.jpg/221px-Virachand_Raghavji_Gandhi.jpg"}]
   [:img#rQ16382{:height 60 :width 52
   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Srimad_Rajcandra.jpg/208px-Srimad_Rajcandra.jpg"}]
-   [:img#rQ19837{:height 60 :width 61
-   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg"}]
     [:img#rQ19837{:height 60 :width 61
     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg"}]
      [:img#rQ20150{:height 60 :width 45
