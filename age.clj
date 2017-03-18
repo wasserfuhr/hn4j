@@ -9,8 +9,9 @@ s(.split(slurp"picSize.txt")"\n")
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
 
 (map(fn[q][:img{:id(str"i"q)}]
-;(read-string(str"0x"q)
-;(filter s(fn[i](.startsWith(str
+
+ (filter(fn[i](.startsWith
+ (str"Q"(read-string(str"0x"q)
 )
  (.split"5f3 5f6 5f8 5fc 391"" "))
  
