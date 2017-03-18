@@ -754,6 +754,120 @@
 									    [:img#rQ160305{:height 60 :width 80
 									    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Henry_Hubchen.jpg/318px-Henry_Hubchen.jpg"}]
 
+
+[:img#rQ16379{:height 60 :width 40
+:src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sabyasachi_Chakrabarty_-_Kolkata_2016-07-29_5213.JPG/159px-Sabyasachi_Chakrabarty_-_Kolkata_2016-07-29_5213.JPG"}]
+ [:img#rQ16381{:height 60 :width 21
+ :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2 /Virachand_Raghavji_Gandhi.jpg/221px-Virachand_Raghavji_Gandhi.jpg"}]
+  [:img#rQ16382{:height 60 :width 52
+  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Srimad_Rajcandra.jpg/208px-Srimad_Rajcandra.jpg"}]
+   [:img#rQ19837{:height 60 :width 61
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg"}]
+    [:img#rQ19837{:height 60 :width 61
+    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg/245px-Steve_Jobs_Headshot_2010-CROP.jpg"}]
+     [:img#rQ20150{:height 60 :width 45
+     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Psy_from_acrofan.jpg/180px-Psy_from_acrofan.jpg"}]
+      [:img#rQ22686{:height 60 :width 48
+      :src"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/192px-Donald_Trump_official_portrait.jpg"}]
+       [:img#rQ23481{:height 60 :width 54
+       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Friedrich_duerrenmatt_19890427.jpg/217px-Friedrich_duerrenmatt_19890427.jpg"}]
+        [:img#rQ23844{:height 60 :width 47
+	:src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/George_Clooney_2012.jpg/189px-George_Clooney_2012.jpg"}]
+	 ;Q34253e
+	  [:img#rQ34981{:height 60 :width 41
+	  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Isaac.Asimov01.jpg/165px-Isaac.Asimov01.jpg"}]
+	   [:img#rQ36215{:height 60 :width 40
+	   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mark_Zuckerberg_at_the_37th_G8_Summit_in_Deauville_018_v1.jpg/160px-Mark_Zuckerberg_at_the_37th_G8_Summit_in_Deauville_018_v1.jpg"}]
+	    [:img#rQ41421{:height 60 :width 42
+	    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Michael_Jordan.jpg/169px-Michael_Jordan.jpg"}]
+	     ;Q42101e
+	      ;Q43768e
+	       [:img#rQ43948{:height 60 :width 47
+	       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Joseph_v_Fraunhofer.jpg/188px-Joseph_v_Fraunhofer.jpg"}]
+	        [:img#rQ44194{:height 60 :width 43
+		:src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Sepp_Maier%2C_1978.jpg/170px-Sepp_Maier%2C_1978.jpg"}]
+		 ;Q44403e
+		  [:img#rQ47875{:height 60 :width 41
+		  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Robbie_Williams_2%2C_2012.jpg/163px-Robbie_Williams_2%2C_2012.jpg"}]
+		   [:img#rQ51666{:height 60 :width 40
+		   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristo_crucificado.jpg/161px-Cristo_crucificado.jpg"}]
+		    [:img#rQ57229{:height 60 :width 50
+		    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Sigmund_Jahn_cropped.jpg/199px-Sigmund_Jahn_cropped.jpg"}]
+		     [:img#rQ57364{:height 60 :width 42
+		     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/120216-D-TT977-152_%28cropped%29.jpg/166px-120216-D-TT977-152_%28cropped%29.jpg"}]
+		      ;Q60024e
+		       ;Q62285e
+		        [:img#rQ62892{:height 60 :width 55
+			:src"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Uwe_Tellkamp_Worms.jpg/218px-Uwe_Tellkamp_Worms.jpg"}]
+			 [:img#rQ62901{:height 60 :width 84
+			 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sebastian_Thrun_World_Economic_Forum_2013.jpg/320px-Sebastian_Thrun_World_Economic_Forum_2013.jpg"}]
+			  [:img#rQ63032{:height 60 :width 47
+			  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Albrecht_Daniel_Thaer%2C_Stich.JPG/186px-Albrecht_Daniel_Thaer%2C_Stich.JPG"}]
+			   [:img#rQ65932{:height 60 :width 47
+			   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/AnthonyHopkins10TIFF.jpg/188px-AnthonyHopkins10TIFF.jpg"}]
+			    [:img#rQ71074{:height 60 :width 40
+			    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Hasso_Plattner.JPG/160px-Hasso_Plattner.JPG"}]
+			     [:img#rQ76632{:height 60 :width 48
+			     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Theodor_Fontane.png/191px-Theodor_Fontane.png"}]
+			      [:img#rQ76658{:height 60 :width 42
+			      :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Frank-Walter_Steinmeier_Feb_2014_%28cropped%29.jpg/166px-Frank-Walter_Steinmeier_Feb_2014_%28cropped%29.jpg"}]
+			       [:img#rQ76826{:height 60 :width 92
+			       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/AdornoHorkheimerHabermasbyJeremyJShapiro2.png/320px-AdornoHorkheimerHabermasbyJeremyJShapiro2.png"}]
+			        [:img#rQ77391{:height 60 :width 53
+				:src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/SACHSEN_CDU_13.06.20130123_-_Portrait.jpg/213px-SACHSEN_CDU_13.06.20130123_-_Portrait.jpg"}]
+				 [:img#rQ84296{:height 60 :width 44
+				 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Boltzmann_age31.jpg/177px-Boltzmann_age31.jpg"}]
+				  [:img#rQ86081{:height 60 :width 57
+				  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20130922_Bundestagswahl_2013_in_Berlin_by_Moritz_Kosinsky0117.jpg/227px-20130922_Bundestagswahl_2013_in_Berlin_by_Moritz_Kosinsky0117.jpg"}]
+				   [:img#rQ92764{:height 60 :width 63
+				   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sergey_Brin_Ted_2010.jpg/253px-Sergey_Brin_Ted_2010.jpg"}]
+				    [:img#rQ107006{:height 60 :width 42
+				    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Claudia_Cardinale_Cannes_2010.jpg/169px-Claudia_Cardinale_Cannes_2010.jpg"}]
+				     [:img#rQ108447{:height 60 :width 46
+				     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Maas_Heiko.jpg/185px-Maas_Heiko.jpg"}]
+				      [:img#rQ135216{:height 60 :width 36
+				      :src"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%C5%BDiga_Turk_2012cropped.jpg/142px-%C5%BDiga_Turk_2012cropped.jpg"}]
+				       [:img#rQ152308{:height 60 :width 33
+				       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Queen_Silvia_of_Sweden%2C_June_8%2C_2013_%28cropped%29.jpg/131px-Queen_Silvia_of_Sweden%2C_June_8%2C_2013_%28cropped%29.jpg"}]
+				        ;Q156268e
+					 [:img#rQ160305{:height 60 :width 80
+					 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Henry_Hubchen.jpg/318px-Henry_Hubchen.jpg"}]
+					  [:img#rQ178369{:height 60 :width 90
+					  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/David_Allen.jpg/320px-David_Allen.jpg"}]
+					   ;Q188987e
+					    ;Q243969e
+					     [:img#rQ298341{:height 60 :width 48
+					     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Raymond_Kurzweil_Fantastic_Voyage.jpg/193px-Raymond_Kurzweil_Fantastic_Voyage.jpg"}]
+					      [:img#rQ312618{:height 60 :width 40
+					      :src"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jan_Ceulemans.jpg/159px-Jan_Ceulemans.jpg"}]
+					       ;Q312799e
+					        [:img#rQ317521{:height 60 :width 41
+						:src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/163px-Elon_Musk_2015.jpg"}]
+						 [:img#rQ318636{:height 60 :width 50
+						 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Neville-Marriner.jpg/201px-Neville-Marriner.jpg"}]
+						  [:img#rQ432473{:height 60 :width 46
+						  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Melania_Trump_%288_February_2016%29.jpg/185px-Melania_Trump_%288_February_2016%29.jpg"}]
+						   [:img#rQ435716{:height 60 :width 61
+						   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Thomas_J_Watson_Sr.jpg/246px-Thomas_J_Watson_Sr.jpg"}]
+						    [:img#rQ562799{:height 60 :width 40
+						    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /PeterZG-small.jpg/160px-PeterZG-small.jpg"}]
+						     [:img#rQ705525{:height 60 :width 40
+						     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Peter_Thiel_TechCrunch50.jpg/160px-Peter_Thiel_TechCrunch50.jpg"}]
+						      [:img#rQ828203{:height 60 :width 59
+						      :src"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Berti_Vogts_2012.jpg/236px-Berti_Vogts_2012.jpg"}]
+						       [:img#rQ1330449{:height 60 :width 45
+						       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2016-12-15_Martin_Dulig_%28Landtagsprojekt_Sachsen%29_by_Sandro_Halank.jpg/178px-2016-12-15_Martin_Dulig_%28Landtagsprojekt_Sachsen%29_by_Sandro_Halank.jpg"}]
+						        [:img#rQ1670311{:height 60 :width 90
+							:src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gauland2014.jpg/320px-Gauland2014.jpg"}]
+							 [:img#rQ1898276{:height 60 :width 107
+							 :src"https://upload.wikimedia.org/wikiStringIndexOutOfBoundsException String index out of range: -1  java.lang.String.substring (String.java:1955)
+pedia/commons/thumb/a/ac/Werkstattreihe_gemeinsam_f%C3%BCr_ein_starkes_Deutschland%2C_K%C3%B6ln-3546.jpg/320px-Werkstattreihe_gemeinsam_f%C3%BCr_ein_starkes_Deutschland%2C_K%C3%B6ln-3546.jpg"}]
+ [:img#rQ2589454{:height 60 :width 52
+ :src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Roemerberggespraeche-2013-wolfgang-donsbach-ffm-887.jpg/207px-Roemerberggespraeche-2013-wolfgang-donsbach-ffm-887.jpg"}]
+  [:img#rQ6860370{:height 60 :width 48
+  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Milo_Yiannopoulos%2C_Journalist%2C_Broadcaster_and_Entrepreneur-1441_%288961808556%29_cropped.jpg/192px-Milo_Yiannopoulos%2C_Journalist%2C_Broadcaster_and_Entrepreneur-1441_%288961808556%29_cropped.jpg"}]
+   ;Q9079904e
+
 [:br{:style"clear:both"}]
    
 [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production. Images from "[:a{:href"https://dresdenlabs.appspot.com/iw/WikiPedia/Wikidata"}"WikiData"]"."]]])))
