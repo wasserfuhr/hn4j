@@ -18,7 +18,7 @@ n(.split(slurp"picName.txt")"\n")
 [:img{:id(str"i"q)
 :alt (second a)
 :title (second b)
-}]))))
+}])))
  (.split"5f3 5f6 5f8 5fc 391"" "))
  
  [:img#rQ326{:height 60 :width 42
