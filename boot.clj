@@ -8,11 +8,16 @@
  f(fn[h]
    (apply str
        (map #(format "%02x"(bit-and % 0xff))h)))
+ ua(.getHeader rq"User-Agent")
+ uh(f(h(.getBytes ua)))
+ uf(File.(str"ua/"uh))
+ k))]]]))))))))))
  d(long(/ t 1000.0))
  r(- t(* d 1000));mod?
  a(format"%02x.%02x"d(quot(* 256 r)1000))]
 ;(.println *err*"\007")
 (println a i(.getRequestURI rq))
+(if(not(.exists uf))(spit uf ua))
 (if(.startsWith(.getRequestURI rq)"/cookie")
  ((eval(read-string(slurp"cookie.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/memoDev")
@@ -30,4 +35,5 @@
    "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
 [:body"&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
-[:br]"try "[:a{:href"https://i.sl4.eu/memo"}"AlphaMemory"]]]))))))))))
+[:br]"try "[:a{:href"https://i.sl4.eu/memo"}"AlphaMemory"]
+[:p(subs uh 6)]]]))))))))))
