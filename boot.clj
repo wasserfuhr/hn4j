@@ -9,7 +9,7 @@
    (apply str
        (map #(format "%02x"(bit-and % 0xff))h)))
  ua(.getHeader rq"User-Agent")
- uh(f(h(.getBytes ua)))
+ uh"ddddddd";(f(h(.getBytes ua)))
  uf(File.(str"ua/"uh))
  d(long(/ t 1000.0))
  r(- t(* d 1000));mod?
