@@ -15,7 +15,7 @@
  ((eval(read-string(slurp"memo.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/rq")
   (slurp"/root/rq.zip")
-  (if(.startsWith(.getRequestURI rq)"/tapestry")
+  (if(.startsWith(.getRequestURI rq)"/tap")
  ((eval(read-string(slurp"tapestry.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/char")
  ((eval(read-string(slurp"char.clj")))rq rs)
