@@ -50,14 +50,375 @@ Q501 Baudelaire crop.jpg
 Q502 Stendhal.jpg
 Q504 ZOLA 1902B.jpg
 Q512 Vladimir Vysotsky.jpg
+
+Q512 Vladimir Vysotsky.jpg
+Q517 Jacques-Louis David - The Emperor Napoleon in His Study at the Tuileries - Google Art Project 2.jpg
+Q529 Louis Pasteur, foto av Félix Nadar.jpg
+Q530 Ingemar Stenmark - 2011.jpg
+Q535 Victor Hugo.jpg
+Q539 Giuseppe Garibaldi (1866).jpg
+Q555 Rachel Maddow in Seattle cropped.png
+Q557 Patti Smith 2 2011 Shankbone.jpg
+Q558 Hedi Slimane.jpg
+Q559 Bourgelat médaillon.jpg
+Q562 Pierre Poivre (1719-1786).jpg
+Q563 BrigitteFontaine2009.jpg
 Q567 Angela Merkel Juli 2010 - 3zu4.jpg
+Q576 Jorge Alessandri Rodríguez.JPG
+Q579 Carlos Ibañez del Campo 1927.jpg
+Q590 Luís de Camões por François Gérard.jpg
+Q600 Ichiro Suzuki - Mariners.jpg
+Q603 Frédéric Taddei 2012 A.jpg
+Q605 EzraKleinCropped.jpg
+Q607 Michael R Bloomberg.jpg
+Q609 CatherinaeTekakwithaVirginis1690.jpg
+Q615 2015 UEFA Super Cup 64 crop.jpg
+Q619 Nikolaus Kopernikus.jpg
+Q624 Alessandro Del Piero.jpg
+Q632 Les Clayes sous Bois Monument Jean Moulin.jpg
+Q633 Neil Young in Nottingham 2009 (k).jpg
+Q635 Kleopatra-VII.-Altes-Museum-Berlin1.jpg
+Q636 Kate Bush at 1986 Comic Relief (cropped).png
+Q651 Vischer.jpg
+Q675 Ampere Andre 1825.jpg
+Q680 Volta A.jpg
+Q687 Molière - Nicolas Mignard (1658).jpg
 Q692 Hw-shakespeare.png
+Q714 Stevie Wonder.jpg
+Q720 YuanEmperorAlbumGenghisPortrait.jpg
+Q742 Jean-Baptiste Racine.PNG
+Q747 Pierre Corneille 2.jpg
+Q755 Paul Verlaine.jpeg
 Q762 Leonardo self.jpg
+Q765 Dario Fo-Cesena.jpg
+Q767 Mallarme.jpg
+Q814 Nicole "Coco" Austin at the Tribeca Film Festival.jpg
+Q815 Gabriel Gonzalez Videla.jpg
+Q820 Retrato del Presidente Juan Antonio Ríos.jpg
+Q835 Bułhakow.jpg
+Q838 Andrei Rublev (miniature, 16 c).jpg
+Q839 Georgina Cassar.JPG
+Q845 Presidente Pedro Aguirre Cerda.jpg
+Q848 Alessandri Ulk (1932).jpg
+Q849 Villon Francois 2.JPG
+Q853 Andrei Tarkovsky.jpg
 Q855 CroppedStalin1943.jpg
+Q857 Pdte Sanfuentes.jpg
+Q859 Head Platon Glyptothek Munich 548.jpg
+Q862 Joseph Brodsky 1988.jpg
+Q868 Aristotle Altemps Inv8575.jpg
+Q873 Streep san sebastian 2008 2.jpg
 Q882 Charlie Chaplin portrait.jpg
+Q885 Pilsudski 1910 1920 LOC hec 14263 restored.jpg
+Q892 Tolkien 1916.jpg
+Q905 Kafka portrait.jpg
+Q909 Jorge Luis Borges 1951, by Grete Stern.jpg
+Q913 Socrates Louvre.jpg
+Q920 Bernlef.jpg
+Q926 Nlc amundsen.jpg
+Q927 Harry Mulisch (1981).jpg
+Q930 Melnikov.jpg
+Q935 GodfreyKneller-IsaacNewton-1689.jpg
 Q937 Albert Einstein Head.jpg
+Q939 DpedroI-brasil-full.jpg
+Q946 Premier RP D Tusk.jpg
+Q949 Bardeen.jpg
+Q984 Miles franklin.jpg
+Q989 John Paul II Medal of Freedom 2004.jpg
 Q991 Vasily Perov - Портрет Ф.М.Достоевского - Google Art Project.jpg
+Q997 RIAN archive 25981 Academician Sakharov.jpg
+Q1001 Portrait Gandhi.jpg
+Q1023
+Q1031 France Prešeren - lithograph (1866, Preširnove poezije) 01.jpg
+Q1035 Charles Darwin 1880.jpg
+Q1043 Carl von Linné.jpg
+Q1047 Bundesarchiv Bild 183-61849-0001, Indien, Otto Grotewohl bei Ministerpräsident Nehru cropped.jpg
+Q1048 Gaius Julius Caesar (100-44 BC).JPG
+Q1051 Janez Regen 1929.jpg
+Q1056 Italo Balbo.jpg
+Q1058 PM Modi 2015.jpg
+Q1064 Francesco Hayez 040.jpg
+Q1067 Portrait de Dante.jpg
+Q1081
+Q1124 Bill Clinton portrait (2015).jpg
+Q1145 Attribué à Joseph Aved, Portrait de Jean-Philippe Rameau (vers 1728) - 001.jpg
+Q1149 Indira2.jpg
+Q1151 Berlioz Petit BNF Gallica-crop.jpg
+Q1178 Maurice Ravel 1925.jpg
+Q1189 Usain Bolt Rio 100m final 2016k.jpg
+Q1192 Jean-Baptiste Lully.jpeg
+Q1203 JohnLennonpeace.jpg
+Q1217 Hubert.Salentin.jpg
+Q1220 Presidente Napolitano.jpg
+Q1224 Ciampi ritratto.jpg
+Q1225 Bruce Springsteen - Roskilde Festival 2012.jpg
+Q1228 Oscar Luigi Scalfaro 3.jpg
+Q1230 Cossiga Francesco.jpg
+Q1233 Pertini ritratto.jpg
+Q1235 Giovanni Leone.jpg
+Q1238 Giuseppe Saragat.jpg
+Q1240 Antonio Segni.jpg
+Q1241 Giovanni Gronchi.jpg
+Q1242 Luigi Einaudi.jpg
+Q1245 De Nicola ritratto.jpg
+Q1253 Ban Ki-moon 1-2.jpg
+Q1254 Kofi Annan 2012 (cropped).jpg
+Q1257 Naelachohanboutrosghali-2.jpg
+Q1259 Javier Pérez de Cuéllar.JPG
+Q1260 Bundesarchiv Bild 183-M0921-014, Beglaubigungsschreiben DDR-Vertreter in UNO new.png
+Q1264 U Thant (1963).jpg
+Q1267 Dag Hammarskjold-2.jpg
+Q1268 Chopin, by Wodzinska.JPG
+Q1271 Trygve Lie 1938.jpg
+Q1275 Sr. Gladwyn Jebb.jpg
+Q1276 Leonard Cohen concert of the 2008 tour.jpg
+Q1290 Blaise pascal.jpg
+Q1294 RamonBarrosLuco.jpg
+Q1298 Retrato de Pedro Montt.JPG
+Q1300 Germán Riesco con banda presidencial-2.jpg
+Q1316 Saddam Hussein at trial, July 2004.JPEG
+Q1317 Osama bin Laden portrait.jpg
+Q1318 Anibal Zanartu.jpg
+Q1319 Federico Errázuriz Echaurren.jpg
+Q1320 Jorge Montt Álvarez.jpg
+Q1322 Presidente J.M Balmaceda.jpg
+Q1323 DomingoSantaMaria.JPG
+Q1324 Anibal Pinto 3.jpg
+Q1325 Friedrich Hayek portrait.jpg
+Q1326 FedericoErrazurizZañ.JPG
+Q1327 JoseJoaqPerez.JPG
+Q1328 Manuel Montt presidente-2.jpg
+Q1329 ManuelBulnes.JPG
+Q1330 JJPrieto.JPG
+Q1331 Blanco Encalada(2).jpeg
+Q1332 Ramón Freire color.jpg
+Q1333 FranciscoAntonioPinto.jpg
 Q1339 Johann Sebastian Bach.jpg
+Q1340 Vivaldi.jpg
+Q1379 Gary Gygax Gen Con 2007.JPG
+Q1381 Dave Arneson.png
+Q1394 Lenin in Switzerland.jpg
+Q1395 Leo Ortolani 2009.jpg
+Q1398 Publius Vergilius Maro1.jpg
+Q1399 Santi di Tito - Niccolo Machiavelli's portrait headcrop.jpg
+Q1401 Francesco Petrarch by Justo de Gante.jpg
+Q1402 Boccaccio by Morghen.jpg
+Q1403 Luigi Pirandello 1932.jpg
+Q1405 Statue-Augustus.jpg
+Q1407 Tiberius palermo.jpg
+Q1409 Gaius Caligula Head.jpg
+Q1411 Claudius (M.A.N. Madrid) 01.jpg
+Q1413 Nero pushkin.jpg
+Q1414
+Q1416 OthoDen.jpg
+Q1417 Aulus Vitellius (MRABASF Matritum) 01.jpg
+Q1419 Vespasianus01 pushkin edit.png
+Q1421 Titus of Rome.jpg
+Q1423 Bust Domitian Musei Capitolini MC1156.jpg
+Q1424 Nerva Tivoli Massimo.jpg
+Q1425 Traianus Glyptothek Munich 336.jpg
+Q1426 R federer.jpg
+Q1427 Bust Hadrian Musei Capitolini MC817.jpg
+Q1429 Antoninus Pius Glyptothek Munich 337 cropped.jpg
+Q1430 Marcus Aurelius Glyptothek Munich.jpg
+Q1433 Lucius Verus BM Sc1911.jpg
+Q1434 Kunsthistorisches Museum Vienna June 2006 024.jpg
+Q1436 Bust of the consul Gaius Fulvius Plautianus at Museo Pio-Clementino.jpg
+Q1440 DidiusJulianus.jpg
+Q1442 Septimius Severus Glyptothek Munich 357.jpg
+Q1446 Caracalla MAN Napoli Inv6033 n01.jpg
+Q1450 Bruno Mars keyboard.jpg
+Q1453 Alexandra Stan (2011) SAM 2829.jpg
+Q1463 Ferdinand Marcos.JPEG
+Q1464 President Benigno S. Aquino III.jpg
+Q1470 Escher.jpg
+Q1480 Corazon Aquino 1986.jpg
+Q1488 Brasillach portrait.jpg
+Q1496 Ferdinand Magellan.jpg
+Q1500 Jose rizal 01.jpg
+Q1503 Manuel L. Quezon (November 1942).jpg
+Q1511 RichardWagner.jpg
+Q1512 Robert Louis Stevenson Knox Series.jpg
+Q1514 Janis Joplin 1970.JPG
+Q1523 RamsesIIEgypt.jpg
+Q1526 StatueHeadOfParamessu-TitledFrontalView-RamessesI MuseumOfFineArtsBoston.png
+Q1528 Statue Pinudjem I im Karnak Tempel von Luxor.jpg
+Q1532 RamessesIV-SmitingHisEnemiesOnAnOstracon MuseumOfFineArtsBoston.jpg
+Q1541 CiceroBust.jpg
+Q1544 Tony garnier.jpg
+Q1545 Cyndi Lauper 2008.jpg
+Q1585 Georg Simon Ohm3.jpg
+Q1589 Luigi galvani.jpg
+Q1604 Tim Lincecum 2009.jpg
+Q1615 Neil Armstrong pose.jpg
+Q1618 Col Charles Lindbergh.jpg
+Q1625 Sigfrid Edstrom.jpg
+Q1628 David Burghley 1928.jpg
+Q1631 Édith Piaf 914-6440.jpg
+Q1634 Ad Paulen (1976).jpg
+Q1638 Primo Nebiolo.jpg
+Q1639 Lamine Diack Doha 2012.jpg
+Q1646 Françoise Sagan 02.jpg
+Q1651 London 2012 Yohan Blake.jpg
+Q1652 Justin Gatlin Istanbul 2012.jpg
+Q1654 Warren Weir 2012 Olympics (cropped).jpg
+Q1655 Kirani James Daegu 2011.jpg
+Q1656 Luguelín Santos Moscow 2013.jpg
+Q1657 Lalonde Gordon.JPG
+Q1659 David Rudisha KBC Night of Athletics 2010.jpg
+Q1660 Nijel Amos.jpg
+Q1662
+Q1665 Taoufik Makhloufi - May 2013.jpg
+Q1666 Jacques Brel 1955.jpg
+Q1668 2014 DécaNation - 800 m 08.jpg
+Q1669 Abdalaati Iguider Doha 2010.jpg
+Q1671 Mo Farah (cropped).jpg
+Q1672 Dejen Gebremeskel 2012.jpg
+Q1674 Tariku Bekele.jpg
+Q1677 Ezekiel Kemboi Moscow 2013.jpg
+Q1679 Mahiedine Mekissi Meeting Areva 2009.jpg
+Q1681 Meeting Areva 2011 3 000 m steeple.jpg
+Q1683 Aries Merritt, Bislet Games 2011.jpg
+Q1685 Jason Richardson.jpg
+Q1687 Hansle Parchment Beijing 2015.jpg
+Q1690 FelixSanchez400mHaiesLondres2012.jpg
+Q1691 2012-06-07 Bislett Games Javier Culson01.jpg
+Q1698 Gainsbourgb.jpg
+Q1699 Nesta Carter 2010.jpg
+Q1702 Stephen Kiprotich at the London 2012 Men's Olympic Marathon, 12 August 2012-2.jpg
+Q1704 2012 Olympic Mens Marathon 2.jpg
+Q1705 Wilson Kipsang Kiprotich running world record at Berlin marathon 2013.jpg
+Q1708 Erick Barrondo, Alexander Ivanov, Ding Chen, Zhan Wang.JPG
+Q1712 Erick Barrondo, Alexander Ivanov, Ding Chen, Zhan Wang.JPG
+Q1716 Renaud concert Zénith 2016 17.jpg
+Q1717 Sergey Kirdyapkin at Russian 2012 olympians.jpg
+Q1728 Jared Tallent 6371.jpg
+Q1732 Ivan Ukhov Doha 2010.jpg
+Q1736 Erik Kynard London 2012.jpg
+Q1738 Robbie Grabarz Helsinki 2012.jpg
+Q1739 Mutaz essa barshim.jpg
+Q1742 Renaud Lavillenie2 Barcelona 2010.jpg
+Q1743 BjoernOtto.jpg
+Q1744 Madonna La Vie en rose.jpg
+Q1745 Greg Rutherford Gold Medal in Long Jump crop.jpg
+Q1747 Mitchell Watt Daegu 2011.jpg
+Q1750 Will Claye Daegu 2011.jpg
+Q1751 Christian Taylor Daegu 2011.jpg
+Q1752 Aureus Macrinus-RIC 0079.jpg
+Q1753 Fabrizio Donato Turin 2009.JPG
+Q1755 Tomasz Majewski Turin 2009.JPG
+Q1758 David Storl Novi Sad 2009.JPG
+Q1760 2014 DécaNation - Shot put 10a.jpg
+Q1762 Bust of Elagabalus - Palazzo Nuovo - Musei Capitolini - Rome 2016 (2).jpg
+Q1766 Robert Harting Daegu 2011.jpg
+Q1768 Ella Fitzgerald 1962.JPG
+Q1769 Bust Alexander Severus Louvre Ma1051 n1.jpg
+Q1771 Ehsan Hadadi po lewej - on the left.JPG
+Q1775
+Q1776 Kanter, Gerd.IMG 8513.JPG
+Q1777 Maximinus Thrax Musei Capitolini MC473.jpg
+Q1778 Krisztián Pars 2010.jpg
+Q1779 Louis Armstrong restored.jpg
+Q1782 Gordianus elder pushkin.jpg
+Q1783 Primož Kozmus in military uniform in 2009.jpg
+Q1784 Koji Murofushi Daegu 2011.jpg
+Q1785 Charles Aznavour cropped.jpg
+Q1786 Jean de Carondelet 01 (cropped).jpg
+Q1787 Keshorn Walcott - 2012 Olympics-2.jpg
+Q1788
+Q1789 Ashton Eaton 2 Daegu 2011.jpg
+Q1790 Kim Wilde @ Messeturm (Frankfurt) 2007.jpg
+Q1791 Diptique de Jean Carondelet par Jan Gossaert au Louvre.jpg
+Q1793 20090819 WK2009 Trey Hardee.jpg
+Q1796 Leonel Suarez at TNT Fortuna Meeting in Kladno 15June2011 136.jpg
+Q1797 Pupienus Musei Capitolini MC477.jpg
+Q1798 FerryCarondelet-Vierge aux Saints.jpg
+Q1802 Daniel Balavoine.jpg
+Q1803 Sestertius Gordian II-RIC 0008 (obverse).jpg
+Q1804 Barbara 1 (Repetities 1968-03-07 Grand Gala du Disque Populaire).jpg
+Q1805 Balbinus Hermitage.jpg
+Q1812 Gordien III - Musée de Pergame - Berlin.jpg
+Q1817 Bust of emperor Philippus Arabus - Hermitage Museum.jpg
+Q1830 Emperor Traianus Decius (Mary Harrsch).jpg
+Q1835 Zinedine Zidane.jpg
+Q1839 Laurent Blanc 2011.jpg
+Q1868 Paul Otlet à son bureau (cropped).jpg
+Q1878 Portrait Schmidt Salomon.jpg
+Q1879
+Q1883
+Q1885 Jurgen Locadia.jpg
+Q1894 Memphis Depay (cropped).jpg
+Q1907 Hugo Lloris Euro 2012 v2.jpg
+Q1908 Lille v Sochaux Debuchy.jpg
+Q1909 Adil Rami 20120611.jpg
+Q1910 Yohan Cabaye.JPG
+Q1911 Olivier Giroud 2012.JPG
+Q1912 Karim Benzema Euro 2012.jpg
+Q1913 Malouda2012.JPG
+Q1915 Laurent Koscielny-cropped22.jpg
+Q1916 Patrice Evra Euro 2012.jpg
+Q1917 Philippe Mexès 2012-06-11.jpg
+Q1918 Franck Ribéry 20120611.jpg
+Q1919 Mathieu Valbuena 5393.jpg
+Q1920 Samir Nasri Euro 2012 v2.jpg
+Q1921 Matuidi PSG.jpg
+Q1922 Anthony Réveillère Euro 2012 vs Spain cropped.jpg
+Q1923 Jérémy Ménez (11-03-2012).JPG
+Q1924 Steve Mandanda 5312.jpg
+Q1925 M'Vila équipe de France.jpg
+Q1926 AlouDiarra.JPG
+Q1927 Marvin Martin (LOSC).JPG
+Q1928 Hatem Ben Arfa.jpg
+Q1929 Gael Clichy, Premier League parade 11-12.jpg
+Q1931 Cédric Carrasso 2008-07-09.JPG
+Q1933 Anja Pärson på Idrottsgalan 2013.jpg
+Q1934 Sidney Govou.jpg
+Q1935 Éric Abidal - 001.jpg
+Q1936 Djibril Cissé in Moscow.jpg
+Q1937 William Gallas & Cesc Fabregas.jpg
+Q1938 Bacary Sagna vs West Ham 2010.jpg
+Q1939 Nicolas Anelka 4720.jpg
+Q1940 André-Pierre Gignac 2008-10-05.jpg
+Q1942 Sebastien Squillaci Arsenal vs Birmingham 2010-11.jpg
+Q1943 Abou Diaby Arsenal vs Birmingham 2010-11.jpg
+Q1944 Toulalan3.jpg
+Q1945 Benjamin Raich Schladming 2008.jpg
+Q1950 Torino 2006 Sponsors Village Alberto Tomba attending Samsung charity auction sale.jpg
+Q1955 Gustav Thoeni.jpg
+Q1956 Hermann Maier 2.jpg
+Q1958 Vreni Schneider 1989 Paraguay stamp.jpg
+Q1962
+Q1984 Maria Walliser.jpg
+Q1991 Michela Figini 1987 Paraguay stamp.jpg
+Q1993
+Q2001 KubrickForLook.jpg
+Q2006 Deborah Compagnoni cropped.jpg
+Q2010
+Q2022 Cesare pavese.jpg
+Q2031 Marc Girardelli.JPG
+Q2038 Reagan Mitterrand 1984 (cropped).jpg
+Q2039 Titus Livius.png
+Q2040 NinoFarina.jpg
+Q2042 General Charles de Gaulle in 1945.jpg
+Q2054 Duble herma of Socrates and Seneca Antikensammlung Berlin 07.jpg
+Q2069 Fangio.png
+Q2071 David Lynch (cropped edit).jpg
+Q2072 20131011 HIRSCHER MARCEL Einkleidung (3).jpg
+Q2086 Alberto Ascari - El Gráfico 1587.jpg
+Q2097 Kjetil André Aamodt (bilde 01).JPG
+Q2098 Martialis.jpg
+Q2104 Mike Hawthorn 1958 Argentine GP.jpg
+Q2105 ChiracUSA.jpg
+Q2124 Valéry Giscard d'Estaing par Claude Truong-Ngoc février 2015.jpg
+Q2125 BrabhamJack1966B.jpg
+Q2129 Bode Miller Hinterstoder 2011.jpg
+Q2147 Giridharilal Kedia.jpg
+Q2153 Netaji Subhas Chandra Bose.jpg
+Q2161 Gaius Cornelius Tacitus mirror.jpg
+Q2172 NIH-lancearm2.jpg
+Q2185 Georges Pompidou (cropped 2).jpg
+Q2196 Pierre Desproges17.jpg
+Q2252 Aldrin.jpg
 Q5152 Atatürk.jpg
 Q5879 Goethe (Stieler 1828).jpg
 Q7243 L.N.Tolstoy Prokudin-Gorsky.jpg
