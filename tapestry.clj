@@ -856,6 +856,6 @@
 [:script"for(var q in wd){
  d=document.getElementById('r'+q)
  if(d){
-  d.title=wd[q]//+'\n'+q
+  d.title=wd[q]//+'n'+q
   d.alt=wd[q]}}"]
 [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production. Images from "[:a{:href"https://dresdenlabs.appspot.com/iw/WikiPedia/Wikidata"}"WikiData"]"."]]])))
