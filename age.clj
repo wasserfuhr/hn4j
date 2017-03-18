@@ -9,20 +9,23 @@ n(.split(slurp"picName.txt")"\n")
 ;[:script{:src"https://raw.githubusercontent.com/wasserfuhr/hn4j/master/WiDa.js"}]
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
 
+(read-string "0xff")
 (map(fn[q](let[
  d(read-string(str"0x"q))
  p(filter(fn[i](.startsWith i(str d" ")))s)
  s(filter(fn[i](.startsWith i(str"Q"d" ")))n)]
- (if(and (not-empty p) (not-empty s))
+ (if(and (not-empty p) (not-empty s)(not(.contains p"  ")))
  (let[a(.split(first p)" ")
-  b(.split(first s)" ")
+  bi(.indexOf(first s)" ")
+  b(subs(first s)bi)
 
   ]
 [:img{:id(str"i"q)
-:width(read-string(str"0x"(get a 2)))
-:height(read-string(str"0x"(get a 3)))
+:src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"(second a)"/")
+;:width(read-string(str"0x"(get a 2)))
+;:height(read-string(str"0x"(get a 3)))
 :alt(second a)
-:title(second b)
+:title b
 }]))))
  (.split"5f3 5f6 5f8 5fc 391"" "))
 
