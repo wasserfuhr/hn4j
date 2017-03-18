@@ -16,7 +16,7 @@
  a(format"%02x.%02x"d(quot(* 256 r)1000))]
 ;(.println *err*"\007")
 (println a i(.getRequestURI rq))
-;(if(not(.exists uf))(spit uf ua))
+(if(not(.exists uf))(spit uf ua))
 (if(.startsWith(.getRequestURI rq)"/cookie")
  ((eval(read-string(slurp"cookie.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/memoDev")
