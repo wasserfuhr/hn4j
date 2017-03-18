@@ -5,77 +5,68 @@
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
 ;[:script{:src"https://raw.githubusercontent.com/wasserfuhr/hn4j/master/WiDa.js"}]
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
-[:img#rQ23{:height 60 :width 49
-:src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
- ;Q42e
-  [:img#rQ76{:height 60 :width 48
-  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg"}]
-   [:img#rQ80{:height 60 :width 90
+ [:img#rQ23{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"}]
+ [:img#rQ76{:height 60 :width 48
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg"}]
+ [:img#rQ80{:height 60 :width 90
    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sir_Tim_Berners-Lee.jpg/320px-Sir_Tim_Berners-Lee.jpg"}]
-    [:img#rQ91{:height 60 :width 49
-    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Abraham_Lincoln_November_1863.jpg/194px-Abraham_Lincoln_November_1863.jpg"}]
-     [:img#rQ157{:height 60 :width 44
-     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Francois_Hollande_2015.jpeg/175px-Francois_Hollande_2015.jpeg"}]
-      [:img#rQ181{:height 60 :width 48
-      :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jimmy_Wales_Fundraiser_Appeal.JPG/191px-Jimmy_Wales_Fundraiser_Appeal.JPG"}]
-       [:img#rQ185{:height 60 :width 49
-       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/L_Sanger.jpg/195px-L_Sanger.jpg"}]
-        ;Q186e
-	 [:img#rQ192{:height 60 :width 45
-	 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/David_Cameron_official.jpg/180px-David_Cameron_official.jpg"}]
-	  [:img#rQ206{:height 60 :width 58
-	  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stephen_Harper_by_Remy_Steinegger.jpg/231px-Stephen_Harper_by_Remy_Steinegger.jpg"}]
-	   [:img#rQ207{:height 60 :width 45
-	   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/181px-George-W-Bush.jpeg"}]
-	    [:img#rQ254{:height 60 :width 49
-	    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg/195px-Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg"}]
-	     ;Q255e
-	      [:img#rQ260{:height 60 :width 49
-	      :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg/195px-Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg"}]
-	       [:img#rQ272{:height 60 :width 42
-	       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Paul_Morand.jpg/169px-Paul_Morand.jpg"}]
-	        [:img#rQ296{:height 60 :width 37
-		:src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Claude_Monet_1899_Nadar.jpg/147px-Claude_Monet_1899_Nadar.jpg"}]
-		 [:img#rQ297{:height 60 :width 49
-		 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg/197px-Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg"}]
-		  [:img#rQ301{:height 60 :width 54
-		  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/217px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg"}]
-		   [:img#rQ303{:height 60 :width 39
+ [:img#rQ91{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Abraham_Lincoln_November_1863.jpg/194px-Abraham_Lincoln_November_1863.jpg"}]
+ [:img#rQ157{:height 60 :width 44
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Francois_Hollande_2015.jpeg/175px-Francois_Hollande_2015.jpeg"}]
+ [:img#rQ181{:height 60 :width 48
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jimmy_Wales_Fundraiser_Appeal.JPG/191px-Jimmy_Wales_Fundraiser_Appeal.JPG"}]
+ [:img#rQ185{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/L_Sanger.jpg/195px-L_Sanger.jpg"}]
+ [:img#rQ192{:height 60 :width 45
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/David_Cameron_official.jpg/180px-David_Cameron_official.jpg"}]
+ [:img#rQ206{:height 60 :width 58
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stephen_Harper_by_Remy_Steinegger.jpg/231px-Stephen_Harper_by_Remy_Steinegger.jpg"}]
+ [:img#rQ207{:height 60 :width 45
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/181px-George-W-Bush.jpeg"}]
+ [:img#rQ254{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg/195px-Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg"}]
+ [:img#rQ260{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg/195px-Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg"}]
+ [:img#rQ272{:height 60 :width 42
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Paul_Morand.jpg/169px-Paul_Morand.jpg"}]
+ [:img#rQ296{:height 60 :width 37
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Claude_Monet_1899_Nadar.jpg/147px-Claude_Monet_1899_Nadar.jpg"}]
+ [:img#rQ297{:height 60 :width 49
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg/197px-Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg"}]
+ [:img#rQ301{:height 60 :width 54
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/217px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg"}]
+   [:img#rQ303{:height 60 :width 39
 		   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Elvis_Presley_1970.jpg/156px-Elvis_Presley_1970.jpg"}]
-		    [:img#rQ306{:height 60 :width 39
+    [:img#rQ306{:height 60 :width 39
 		    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sebastian_Pinera.JPG/156px-Sebastian_Pinera.JPG"}]
 		     ;Q307e
-		      [:img#rQ326{:height 60 :width 42
+      [:img#rQ326{:height 60 :width 42
 		      :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Eduardo_Frei_Chiledebate.jpg/166px-Eduardo_Frei_Chiledebate.jpg"}]
 		       ;Q329e
-		        [:img#rQ331{:height 60 :width 46
+	        [:img#rQ331{:height 60 :width 46
 			:src"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ricardo_Lagos_despedida_%28cropped%29.jpg/184px-Ricardo_Lagos_despedida_%28cropped%29.jpg"}]
-			 [:img#rQ335{:height 60 :width 55
+		 [:img#rQ335{:height 60 :width 55
 			 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Patricio_Aylwin_%281990%29.jpg/218px-Patricio_Aylwin_%281990%29.jpg"}]
-			  [:img#rQ346{:height 60 :width 47
+		  [:img#rQ346{:height 60 :width 47
 			  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Louis_IX.jpg/187px-Louis_IX.jpg"}]
-			   [:img#rQ352{:height 60 :width 38
+		   [:img#rQ352{:height 60 :width 38
 			   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0 /Bundesarchiv_Bild_183-S33882%2C_Adolf_Hitler_retouched.jpg/152px-Bundesarchiv_Bild_183-S33882%2C_Adolf_Hitler_retouched.jpg"}]
 			    ;Q353e
-			     [:img#rQ354{:height 60 :width 39
+		     [:img#rQ354{:height 60 :width 39
 			     :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Anefo_911-0177_Piet_Kraak.jpg/157px-Anefo_911-0177_Piet_Kraak.jpg"}]
-			      ;Q360e
-			       [:img#rQ368{:height 60 :width 35
+		       [:img#rQ368{:height 60 :width 35
 			       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pinochet_de_Civil.jpg/138px-Pinochet_de_Civil.jpg"}]
-			        ;Q377e
-				 ;Q379e
-				  [:img#rQ392{:height 60 :width 50
-				  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Joan_Baez_Bob_Dylan_crop.jpg/199px-Joan_Baez_Bob_Dylan_crop.jpg"}]
-				   [:img#rQ400{:height 60 :width 40
-				   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jenna_Jameson_2008.jpg/160px-Jenna_Jameson_2008.jpg"}]
-				    [:img#rQ407{:height 60 :width 46
-				    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deep_Throat_poster_2.jpg/183px-Deep_Throat_poster_2.jpg"}]
-				     ;Q409e
-				      ;Q410e
-				       ;Q440e
-				        [:img#rQ444{:height 60 :width 46
-					:src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lech_Walesa_-_2009.jpg/182px-Lech_Walesa_-_2009.jpg"}]
-					 [:img#rQ448{:height 60 :width 50
+			  [:img#rQ392{:height 60 :width 50
+			  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Joan_Baez_Bob_Dylan_crop.jpg/199px-Joan_Baez_Bob_Dylan_crop.jpg"}]
+			   [:img#rQ400{:height 60 :width 40
+			   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jenna_Jameson_2008.jpg/160px-Jenna_Jameson_2008.jpg"}]
+			    [:img#rQ407{:height 60 :width 46
+			    :src"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Deep_Throat_poster_2.jpg/183px-Deep_Throat_poster_2.jpg"}]
+			        [:img#rQ444{:height 60 :width 46
+				:src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lech_Walesa_-_2009.jpg/182px-Lech_Walesa_-_2009.jpg"}]
+				 [:img#rQ448{:height 60 :width 50
 					 :src"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Denis_Diderot_-_Alix_-_Vanloo.png/200px-Denis_Diderot_-_Alix_-_Vanloo.png"}]
 					  [:img#rQ449{:height 60 :width 40
 					  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Brassens_TNP_1966.jpg/158px-Brassens_TNP_1966.jpg"}]
