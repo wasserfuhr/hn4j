@@ -14,7 +14,7 @@ n(.split(slurp"picName.txt")"\n")
  d(read-string(str"0x"q))
  p(filter(fn[i](.startsWith i(str d" ")))s)
  s(filter(fn[i](.startsWith i(str"Q"d" ")))n)]
- (if(and (not-empty p)(not-empty s)(=(subs.contains p"  ")))
+ (if(and (not-empty p)(not-empty s)(not(.contains p"  ")))
  (let[a(.split(first p)" ")
   bi(.indexOf(first s)" ")
   b(subs(first s)bi)
