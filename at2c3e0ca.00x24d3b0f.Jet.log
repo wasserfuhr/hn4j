@@ -2517,3 +2517,503 @@ java.lang.NullPointerException
 java.lang.NullPointerException
 2c4fef3.2c b04a39a3 5b35cd s /favicon.ico
 2017-03-18 22:39:42.175:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4ff02.95 b04a39a3 5b35cd s /age
+2017-03-18 22:39:57.657:WARN:oejs.AbstractHttpConnection:/age
+java.lang.NullPointerException
+2c4ff02.f6 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:39:57.965:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4ff0a.18 b04a39a3 5b35cd s /age
+2017-03-18 22:40:05.163:WARN:oejs.AbstractHttpConnection:/age
+java.lang.NullPointerException
+2c4ff0a.71 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:40:05.445:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4ff14.78 b04a39a3 5b35cd s /age
+2017-03-18 22:40:15.524:WARN:oejs.AbstractHttpConnection:/age
+java.lang.NullPointerException
+2c4ff14.e0 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:40:15.877:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4ff1b.a5 b04a39a3 5b35cd s /age
+2017-03-18 22:40:22.730:WARN:oejs.AbstractHttpConnection:/age
+java.lang.NullPointerException
+2c4ff1c.07 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:40:23.030:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4ff6a.1b b04a39a3 5b35cd s /age
+2017-03-18 22:41:41.107:WARN:oejs.AbstractHttpConnection:/age
+java.lang.RuntimeException: Unmatched delimiter: )
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.LispReader$UnmatchedDelimiterReader.invoke(LispReader.java:1176)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$VectorReader.invoke(LispReader.java:1150)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$VectorReader.invoke(LispReader.java:1150)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.read(LispReader.java:196)
+	at clojure.lang.LispReader.read(LispReader.java:185)
+	at clojure.lang.RT.readString(RT.java:1835)
+	at clojure.lang.RT.readString(RT.java:1830)
+	at clojure.core$read_string.invokeStatic(core.clj:3687)
+	at clojure.core$read_string.invoke(core.clj:3677)
+	at clojure.core$eval396883$fn__396884.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval396878$fn__396879.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2c4ff6a.52 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:41:41.324:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4ff7f.14 b04a39a3 5b35cd s /age
+2017-03-18 22:42:02.081:WARN:oejs.AbstractHttpConnection:/age
+java.lang.RuntimeException: Unmatched delimiter: )
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.LispReader$UnmatchedDelimiterReader.invoke(LispReader.java:1176)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$VectorReader.invoke(LispReader.java:1150)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$VectorReader.invoke(LispReader.java:1150)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.read(LispReader.java:196)
+	at clojure.lang.LispReader.read(LispReader.java:185)
+	at clojure.lang.RT.readString(RT.java:1835)
+	at clojure.lang.RT.readString(RT.java:1830)
+	at clojure.core$read_string.invokeStatic(core.clj:3687)
+	at clojure.core$read_string.invoke(core.clj:3677)
+	at clojure.core$eval397151$fn__397152.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval397146$fn__397147.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2c4ff7f.44 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:42:02.268:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4ffa9.9d b04a39a3 5b35cd s /age
+2017-03-18 22:42:44.619:WARN:oejs.AbstractHttpConnection:/age
+java.lang.RuntimeException: Unmatched delimiter: )
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.LispReader$UnmatchedDelimiterReader.invoke(LispReader.java:1176)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$VectorReader.invoke(LispReader.java:1150)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$VectorReader.invoke(LispReader.java:1150)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.read(LispReader.java:196)
+	at clojure.lang.LispReader.read(LispReader.java:185)
+	at clojure.lang.RT.readString(RT.java:1835)
+	at clojure.lang.RT.readString(RT.java:1830)
+	at clojure.core$read_string.invokeStatic(core.clj:3687)
+	at clojure.core$read_string.invoke(core.clj:3677)
+	at clojure.core$eval397419$fn__397420.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval397414$fn__397415.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2c4ffa9.d2 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:42:44.827:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c4ffec.34 b04a39a3 5b35cd s /age
+2c4ffec.a1 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:43:51.633:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c50009.b9 b04a39a3 5b35cd s /age
+2017-03-18 22:44:20.792:WARN:oejs.AbstractHttpConnection:/age
+java.lang.NullPointerException
+2c5000a.02 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:44:21.009:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c50024.e4 b04a39a3 5b35cd s /age
+2c50025.55 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:44:48.336:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c50071.24 b04a39a3 5b35cd s /age
+2017-03-18 22:46:04.208:WARN:oejs.AbstractHttpConnection:/age
+java.lang.NullPointerException
+2c50071.73 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:46:04.452:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c50099.01 b04a39a3 5b35cd s /age
+2017-03-18 22:46:44.067:WARN:oejs.AbstractHttpConnection:/age
+java.lang.NullPointerException
+2c50099.90 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:46:44.566:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c500a2.94 b04a39a3 5b35cd s /age
+2017-03-18 22:46:53.583:WARN:oejs.AbstractHttpConnection:/age
+java.lang.RuntimeException: Unmatched delimiter: )
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.LispReader$UnmatchedDelimiterReader.invoke(LispReader.java:1176)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$VectorReader.invoke(LispReader.java:1150)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$VectorReader.invoke(LispReader.java:1150)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.read(LispReader.java:196)
+	at clojure.lang.LispReader.read(LispReader.java:185)
+	at clojure.lang.RT.readString(RT.java:1835)
+	at clojure.lang.RT.readString(RT.java:1830)
+	at clojure.core$read_string.invokeStatic(core.clj:3687)
+	at clojure.core$read_string.invoke(core.clj:3677)
+	at clojure.core$eval400334$fn__400335.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval400329$fn__400330.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2c500a2.c8 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:46:53.785:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c500d3.5f b04a39a3 5b35cd s /age
+2017-03-18 22:47:42.376:WARN:oejs.AbstractHttpConnection:/age
+java.lang.RuntimeException: Unmatched delimiter: )
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.LispReader$UnmatchedDelimiterReader.invoke(LispReader.java:1176)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$VectorReader.invoke(LispReader.java:1150)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$VectorReader.invoke(LispReader.java:1150)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.read(LispReader.java:196)
+	at clojure.lang.LispReader.read(LispReader.java:185)
+	at clojure.lang.RT.readString(RT.java:1835)
+	at clojure.lang.RT.readString(RT.java:1830)
+	at clojure.core$read_string.invokeStatic(core.clj:3687)
+	at clojure.core$read_string.invoke(core.clj:3677)
+	at clojure.core$eval400602$fn__400603.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval400597$fn__400598.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2c500d3.9e b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:47:42.620:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c500e5.90 b04a39a3 5b35cd s /age
+2c500e6.04 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:48:01.020:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c500f0.fb b04a39a3 5b35cd s /age
+2017-03-18 22:48:12.059:WARN:oejs.AbstractHttpConnection:/age
+java.lang.NullPointerException
+2c500f1.3d b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:48:12.244:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c50101.10 b04a39a3 5b35cd s /age
+2017-03-18 22:48:28.126:WARN:oejs.AbstractHttpConnection:/age
+java.lang.IllegalArgumentException: No matching method found: split for class clojure.lang.LazySeq
+	at clojure.lang.Reflector.invokeMatchingMethod(Reflector.java:53)
+	at clojure.lang.Reflector.invokeInstanceMethod(Reflector.java:28)
+	at clojure.core$eval402043$fn__402044$fn__402245$fn__402268.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$map$fn__4785.invoke(core.clj:2646)
+	at clojure.lang.LazySeq.sval(LazySeq.java:40)
+	at clojure.lang.LazySeq.seq(LazySeq.java:49)
+	at clojure.lang.RT.seq(RT.java:521)
+	at clojure.core$seq__4357.invokeStatic(core.clj:137)
+	at clojure.core$map$fn__4785.invoke(core.clj:2637)
+	at clojure.lang.LazySeq.sval(LazySeq.java:40)
+	at clojure.lang.LazySeq.seq(LazySeq.java:49)
+	at clojure.lang.RT.seq(RT.java:521)
+	at clojure.core$seq__4357.invokeStatic(core.clj:137)
+	at clojure.core$apply.invokeStatic(core.clj:641)
+	at clojure.core$apply.invoke(core.clj:641)
+	at hiccup.compiler$eval521$fn__522.invoke(compiler.clj:119)
+	at hiccup.compiler$eval473$fn__474$G__453__479.invoke(compiler.clj:99)
+	at clojure.core$eval402043$fn__402044$fn__402245.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval402043$fn__402044.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval401932$fn__401933.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval401927$fn__401928.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2c50101.4f b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:48:28.320:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c5011c.0b b04a39a3 5b35cd s /age
+2017-03-18 22:48:55.105:WARN:oejs.AbstractHttpConnection:/age
+java.lang.IllegalArgumentException: No matching method found: split for class clojure.lang.LazySeq
+	at clojure.lang.Reflector.invokeMatchingMethod(Reflector.java:53)
+	at clojure.lang.Reflector.invokeInstanceMethod(Reflector.java:28)
+	at clojure.core$eval402574$fn__402575$fn__402776$fn__402799.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$map$fn__4785.invoke(core.clj:2646)
+	at clojure.lang.LazySeq.sval(LazySeq.java:40)
+	at clojure.lang.LazySeq.seq(LazySeq.java:49)
+	at clojure.lang.RT.seq(RT.java:521)
+	at clojure.core$seq__4357.invokeStatic(core.clj:137)
+	at clojure.core$map$fn__4785.invoke(core.clj:2637)
+	at clojure.lang.LazySeq.sval(LazySeq.java:40)
+	at clojure.lang.LazySeq.seq(LazySeq.java:49)
+	at clojure.lang.RT.seq(RT.java:521)
+	at clojure.core$seq__4357.invokeStatic(core.clj:137)
+	at clojure.core$apply.invokeStatic(core.clj:641)
+	at clojure.core$apply.invoke(core.clj:641)
+	at hiccup.compiler$eval521$fn__522.invoke(compiler.clj:119)
+	at hiccup.compiler$eval473$fn__474$G__453__479.invoke(compiler.clj:99)
+	at clojure.core$eval402574$fn__402575$fn__402776.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval402574$fn__402575.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval402463$fn__402464.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval402458$fn__402459.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2c5011c.61 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:48:55.380:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c50134.b1 b04a39a3 5b35cd s /age
+2017-03-18 22:49:19.779:WARN:oejs.AbstractHttpConnection:/age
+java.lang.IllegalArgumentException: No matching method found: split for class clojure.lang.LazySeq
+	at clojure.lang.Reflector.invokeMatchingMethod(Reflector.java:53)
+	at clojure.lang.Reflector.invokeInstanceMethod(Reflector.java:28)
+	at clojure.core$eval403105$fn__403106$fn__403307$fn__403330.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$map$fn__4785.invoke(core.clj:2646)
+	at clojure.lang.LazySeq.sval(LazySeq.java:40)
+	at clojure.lang.LazySeq.seq(LazySeq.java:49)
+	at clojure.lang.RT.seq(RT.java:521)
+	at clojure.core$seq__4357.invokeStatic(core.clj:137)
+	at clojure.core$map$fn__4785.invoke(core.clj:2637)
+	at clojure.lang.LazySeq.sval(LazySeq.java:40)
+	at clojure.lang.LazySeq.seq(LazySeq.java:49)
+	at clojure.lang.RT.seq(RT.java:521)
+	at clojure.core$seq__4357.invokeStatic(core.clj:137)
+	at clojure.core$apply.invokeStatic(core.clj:641)
+	at clojure.core$apply.invoke(core.clj:641)
+	at hiccup.compiler$eval521$fn__522.invoke(compiler.clj:119)
+	at hiccup.compiler$eval473$fn__474$G__453__479.invoke(compiler.clj:99)
+	at clojure.core$eval403105$fn__403106$fn__403307.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval403105$fn__403106.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval402994$fn__402995.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval402989$fn__402990.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2c50134.fb b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:49:19.987:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c50141.52 b04a39a3 5b35cd s /age
+2c50141.c0 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:49:32.759:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c5015e.b3 b04a39a3 5b35cd s /age
+2017-03-18 22:50:01.758:WARN:oejs.AbstractHttpConnection:/age
+java.lang.IllegalArgumentException: No matching method found: split for class clojure.lang.LazySeq
+	at clojure.lang.Reflector.invokeMatchingMethod(Reflector.java:53)
+	at clojure.lang.Reflector.invokeInstanceMethod(Reflector.java:28)
+	at clojure.core$eval404167$fn__404168$fn__404369$fn__404392.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$map$fn__4785.invoke(core.clj:2646)
+	at clojure.lang.LazySeq.sval(LazySeq.java:40)
+	at clojure.lang.LazySeq.seq(LazySeq.java:49)
+	at clojure.lang.RT.seq(RT.java:521)
+	at clojure.core$seq__4357.invokeStatic(core.clj:137)
+	at clojure.core$map$fn__4785.invoke(core.clj:2637)
+	at clojure.lang.LazySeq.sval(LazySeq.java:40)
+	at clojure.lang.LazySeq.seq(LazySeq.java:49)
+	at clojure.lang.RT.seq(RT.java:521)
+	at clojure.core$seq__4357.invokeStatic(core.clj:137)
+	at clojure.core$apply.invokeStatic(core.clj:641)
+	at clojure.core$apply.invoke(core.clj:641)
+	at hiccup.compiler$eval521$fn__522.invoke(compiler.clj:119)
+	at hiccup.compiler$eval473$fn__474$G__453__479.invoke(compiler.clj:99)
+	at clojure.core$eval404167$fn__404168$fn__404369.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval404167$fn__404168.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval404056$fn__404057.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval404051$fn__404052.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2c5015e.fb b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:50:01.983:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c50187.b4 b04a39a3 5b35cd s /age
+2c50188.2e b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:50:43.183:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c5019f.70 42f95cc7 70a047 h //rss.rdf
+2c501ae.f5 b04a39a3 5b35cd s /age
+2017-03-18 22:51:22.056:WARN:oejs.AbstractHttpConnection:/age
+java.lang.IllegalArgumentException: No matching method found: split for class clojure.lang.LazySeq
+	at clojure.lang.Reflector.invokeMatchingMethod(Reflector.java:53)
+	at clojure.lang.Reflector.invokeInstanceMethod(Reflector.java:28)
+	at clojure.core$eval405363$fn__405364$fn__405565$fn__405588.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$map$fn__4785.invoke(core.clj:2646)
+	at clojure.lang.LazySeq.sval(LazySeq.java:40)
+	at clojure.lang.LazySeq.seq(LazySeq.java:49)
+	at clojure.lang.RT.seq(RT.java:521)
+	at clojure.core$seq__4357.invokeStatic(core.clj:137)
+	at clojure.core$map$fn__4785.invoke(core.clj:2637)
+	at clojure.lang.LazySeq.sval(LazySeq.java:40)
+	at clojure.lang.LazySeq.seq(LazySeq.java:49)
+	at clojure.lang.RT.seq(RT.java:521)
+	at clojure.core$seq__4357.invokeStatic(core.clj:137)
+	at clojure.core$apply.invokeStatic(core.clj:641)
+	at clojure.core$apply.invoke(core.clj:641)
+	at hiccup.compiler$eval521$fn__522.invoke(compiler.clj:119)
+	at hiccup.compiler$eval473$fn__474$G__453__479.invoke(compiler.clj:99)
+	at clojure.core$eval405363$fn__405364$fn__405565.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval405363$fn__405364.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval405252$fn__405253.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval405247$fn__405248.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2c501af.54 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:51:22.334:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c501d2.4e b04a39a3 5b35cd s /age
+2c501d2.cf b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:51:57.810:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c50240.76 b04a39a3 5b35cd s /age
+2c50240.ef b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:53:47.937:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c5025d.43 b04a39a3 5b35cd s /age
+2c5025d.a4 b04a39a3 5b35cd s /favicon.ico
+2017-03-18 22:54:16.645:WARN:oejh.HttpGenerator:Ignoring extra content null
