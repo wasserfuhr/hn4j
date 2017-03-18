@@ -31,13 +31,9 @@ w(Double.(get u 2))]
 ;(str";"s0"e\n")
 nil))))
 (.split
-"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
-Q42 douglas adams portrait cropped.jpg
-Q1001 Portrait Gandhi.jpg
-Q1031 France Prešeren - lithograph (1866, Preširnove poezije) 01.jpg
-Q1035 Charles Darwin 1880.jpg
-Q1043 Carl von Linné.jpg
-Q1047 Bundesarchiv Bild 183-61849-0001, Indien, Otto Grotewohl bei Ministerpräsident Nehru cropped.jpg
-Q1048 Gaius Julius Caesar (100-44 BC).JPG"
-;(slurp"picName.txt")
+;"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
+;Q42 douglas adams portrait cropped.jpg
+;Q1001 Portrait Gandhi.jpg
+;Q1048 Gaius Julius Caesar (100-44 BC).JPG"
+(slurp"picName.txt")
 "\n"))))
