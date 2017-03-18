@@ -1,6 +1,6 @@
 (ns x(:require[clojure.data.json :as json]))
 (println(apply str(map(fn[q](let[s(slurp
-(str"https://www.wikidata.org/wiki/Special:EntityData/"r".json")
+(str"https://www.wikidata.org/wiki/Special:EntityData/"q".json")
 ;(str"q/"q".json")
 )]
  (str q" "(:value(:datavalue(:mainsnak(first(:P18 (:claims
