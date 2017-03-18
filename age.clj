@@ -16,8 +16,8 @@ n(.split(slurp"picName.txt")"\n")
  (if(and p s)(let[a(.split(first p)" ")
  b(.split(first s)" ")]
 [:img{:id(str"i"q)
-:alt (second a)
-:title (second b)
+:alt a; (second a)
+:title b;(second b)
 }]))))
  (.split"5f3 5f6 5f8 5fc 391"" "))
  
