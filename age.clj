@@ -18,10 +18,9 @@ n(.split(slurp"picName.txt")"\n")
  (let[a(.split(first p)" ")
   bi(.indexOf(first s)" ")
   b(subs(first s)bi)
-
-  ]
+  e(java.net.URLEncoder/encode (.replaceAll b" ""_"))]
 [:img{:id(str"i"q)
-:src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"(second a)"/")
+:src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"(second a)"/"e)
 ;:width(read-string(str"0x"(get a 2)))
 ;:height(read-string(str"0x"(get a 3)))
 :alt(second a)
