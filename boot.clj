@@ -9,8 +9,8 @@
    (apply str
        (map #(format "%02x"(bit-and % 0xff))h)))
  ua(.getHeader rq"User-Agent")
- uh"ddddddd";(f(h(.getBytes ua)))
- ;uf(File.(str"ua/"uh))
+ uh(f(h(.getBytes ua)))
+ uf(java.io.File.(str"ua/"uh))
  d(long(/ t 1000.0))
  r(- t(* d 1000));mod?
  a(format"%02x.%02x"d(quot(* 256 r)1000))]
@@ -35,4 +35,4 @@
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
 [:body"&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
 [:br]"try "[:a{:href"https://i.sl4.eu/memo"}"AlphaMemory"]
-[:p(subs uh 6)]]]))))))))))
+[:small"ua:"(subs uh 6)]]]))))))))))
