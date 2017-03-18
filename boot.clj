@@ -35,4 +35,4 @@
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
 [:body"&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
 [:br]"try "[:a{:href"https://i.sl4.eu/memo"}"AlphaMemory"]
-[:small"ua:"(subs uh 6)]]]))))))))))
+[:br][:br][:small"ua:"(subs uh 0 6)]]]))))))))))
