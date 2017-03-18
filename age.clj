@@ -14,16 +14,21 @@ n(.split(slurp"picName.txt")"\n")
  d(read-string(str"0x"q))
  p(filter(fn[i](.startsWith i(str d" ")))s)
  s(filter(fn[i](.startsWith i(str"Q"d" ")))n)]
- (if(and (not-empty p) (not-empty s)(not(.contains p"  ")))
+ (if(and (not-empty p)(not-empty s)(=(subs.contains p"  ")))
  (let[a(.split(first p)" ")
   bi(.indexOf(first s)" ")
   b(subs(first s)bi)
   e(java.net.URLEncoder/encode (.replaceAll b" ""_"))]
 [:img{:id(str"i"q)
-:src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"(second a)"/"e)
+:src"https://i.sl4.eu/a9e3"
+:s1rc(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"(subs (second a)0 1)"/"(second a)"/"(.trim(subs e 1)))
 ;:width(read-string(str"0x"(get a 2)))
+;:width(read-string(str"0x"(get a 2)))
+:width (str"0x"(get a 2))
 ;:height(read-string(str"0x"(get a 3)))
 :alt(second a)
+:p p
+:s s
 :title b
 }]))))
  (.split"5f3 5f6 5f8 5fc 391"" "))
