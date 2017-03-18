@@ -24,6 +24,8 @@
  ((eval(read-string(slurp"memoDev.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/memo")
  ((eval(read-string(slurp"memo.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/age")
+ ((eval(read-string(slurp"age.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/rq")
   (slurp"/root/rq.zip")
   (if(.startsWith(.getRequestURI rq)"/tap")

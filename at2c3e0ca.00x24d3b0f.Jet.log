@@ -1801,3 +1801,7 @@ java.lang.NullPointerException
 2c4e98c.d7 25097ac9 e4b041 h /wiki/ZukunftsForschung
 2c4e990.b2 25097ac9 e4b041 h /wiki/CroQuet
 2c4e994.81 25097ac9 e4b041 h /wiki/AzLn
+2017-03-18 21:13:06.880:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-03-18 21:14:05.026:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
