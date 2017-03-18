@@ -11,7 +11,6 @@
  ua(.getHeader rq"User-Agent")
  uh(f(h(.getBytes ua)))
  uf(File.(str"ua/"uh))
- k))]]]))))))))))
  d(long(/ t 1000.0))
  r(- t(* d 1000));mod?
  a(format"%02x.%02x"d(quot(* 256 r)1000))]
