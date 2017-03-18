@@ -2,12 +2,10 @@
  ip(.split(.getRemoteHost rq)"\\.")
  i(apply str(map(fn[i](format"%02x"(Long. i)))ip))
  t(-(.getTime(java.util.Date.))1443408427000)
- h(fn[m] ; https://gist.github.com/kisom/1698245
-   (let[h(java.security.MessageDigest/getInstance"SHA-256")]
-      (. h update m)(.digest h)))
- f(fn[h]
-   (apply str
-       (map #(format "%02x"(bit-and % 0xff))h)))
+ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
+   (. h update m)(.digest h)))
+ f(fn[h](apply str(map
+  #(format "%02x"(bit-and % 0xff))h)))
  ua(.getHeader rq"User-Agent")
  uh(f(h(.getBytes ua)))
  uf(java.io.File.(str"ua/"uh))
@@ -33,6 +31,7 @@
   (.sendRedirect rs
    "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
-[:body"&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
-[:br]"try "[:a{:href"https://i.sl4.eu/memo"}"AlphaMemory"]
-[:br][:br][:small"ua:"(subs uh 0 6)]]]))))))))))
+[:body
+[:p"Hi "(subs uh 0 6)"@"i]
+"&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
+[:br]"try "[:a{:href"https://i.sl4.eu/memo"}"AlphaMemory"]]]))))))))))
