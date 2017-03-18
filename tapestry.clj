@@ -851,12 +851,12 @@ pedia/commons/thumb/a/ac/Werkstattreihe_gemeinsam_f%C3%BCr_ein_starkes_Deutschla
  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Roemerberggespraeche-2013-wolfgang-donsbach-ffm-887.jpg/207px-Roemerberggespraeche-2013-wolfgang-donsbach-ffm-887.jpg"}]
   [:img#rQ6860370{:height 60 :width 48
   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Milo_Yiannopoulos%2C_Journalist%2C_Broadcaster_and_Entrepreneur-1441_%288961808556%29_cropped.jpg/192px-Milo_Yiannopoulos%2C_Journalist%2C_Broadcaster_and_Entrepreneur-1441_%288961808556%29_cropped.jpg"}]
-   ;Q9079904e
+
 
 [:br{:style"clear:both"}]
 [:script"for(var q in wd){
  d=document.getElementById('r'+q)
  if(d){
-  d.title=wd[q]
+  d.title=wd[q]//+'\n'+q
   d.alt=wd[q]}}"]
 [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production. Images from "[:a{:href"https://dresdenlabs.appspot.com/iw/WikiPedia/Wikidata"}"WikiData"]"."]]])))
