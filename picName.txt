@@ -50,8 +50,6 @@ Q501 Baudelaire crop.jpg
 Q502 Stendhal.jpg
 Q504 ZOLA 1902B.jpg
 Q512 Vladimir Vysotsky.jpg
-
-Q512 Vladimir Vysotsky.jpg
 Q517 Jacques-Louis David - The Emperor Napoleon in His Study at the Tuileries - Google Art Project 2.jpg
 Q529 Louis Pasteur, foto av Félix Nadar.jpg
 Q530 Ingemar Stenmark - 2011.jpg
@@ -128,7 +126,6 @@ Q989 John Paul II Medal of Freedom 2004.jpg
 Q991 Vasily Perov - Портрет Ф.М.Достоевского - Google Art Project.jpg
 Q997 RIAN archive 25981 Academician Sakharov.jpg
 Q1001 Portrait Gandhi.jpg
-Q1023
 Q1031 France Prešeren - lithograph (1866, Preširnove poezije) 01.jpg
 Q1035 Charles Darwin 1880.jpg
 Q1043 Carl von Linné.jpg
@@ -139,7 +136,6 @@ Q1056 Italo Balbo.jpg
 Q1058 PM Modi 2015.jpg
 Q1064 Francesco Hayez 040.jpg
 Q1067 Portrait de Dante.jpg
-Q1081
 Q1124 Bill Clinton portrait (2015).jpg
 Q1145 Attribué à Joseph Aved, Portrait de Jean-Philippe Rameau (vers 1728) - 001.jpg
 Q1149 Indira2.jpg
@@ -209,7 +205,6 @@ Q1407 Tiberius palermo.jpg
 Q1409 Gaius Caligula Head.jpg
 Q1411 Claudius (M.A.N. Madrid) 01.jpg
 Q1413 Nero pushkin.jpg
-Q1414
 Q1416 OthoDen.jpg
 Q1417 Aulus Vitellius (MRABASF Matritum) 01.jpg
 Q1419 Vespasianus01 pushkin edit.png
@@ -267,7 +262,6 @@ Q1656 Luguelín Santos Moscow 2013.jpg
 Q1657 Lalonde Gordon.JPG
 Q1659 David Rudisha KBC Night of Athletics 2010.jpg
 Q1660 Nijel Amos.jpg
-Q1662
 Q1665 Taoufik Makhloufi - May 2013.jpg
 Q1666 Jacques Brel 1955.jpg
 Q1668 2014 DécaNation - 800 m 08.jpg
@@ -314,7 +308,6 @@ Q1766 Robert Harting Daegu 2011.jpg
 Q1768 Ella Fitzgerald 1962.JPG
 Q1769 Bust Alexander Severus Louvre Ma1051 n1.jpg
 Q1771 Ehsan Hadadi po lewej - on the left.JPG
-Q1775
 Q1776 Kanter, Gerd.IMG 8513.JPG
 Q1777 Maximinus Thrax Musei Capitolini MC473.jpg
 Q1778 Krisztián Pars 2010.jpg
@@ -325,7 +318,6 @@ Q1784 Koji Murofushi Daegu 2011.jpg
 Q1785 Charles Aznavour cropped.jpg
 Q1786 Jean de Carondelet 01 (cropped).jpg
 Q1787 Keshorn Walcott - 2012 Olympics-2.jpg
-Q1788
 Q1789 Ashton Eaton 2 Daegu 2011.jpg
 Q1790 Kim Wilde @ Messeturm (Frankfurt) 2007.jpg
 Q1791 Diptique de Jean Carondelet par Jan Gossaert au Louvre.jpg
@@ -344,8 +336,6 @@ Q1835 Zinedine Zidane.jpg
 Q1839 Laurent Blanc 2011.jpg
 Q1868 Paul Otlet à son bureau (cropped).jpg
 Q1878 Portrait Schmidt Salomon.jpg
-Q1879
-Q1883
 Q1885 Jurgen Locadia.jpg
 Q1894 Memphis Depay (cropped).jpg
 Q1907 Hugo Lloris Euro 2012 v2.jpg
@@ -387,13 +377,10 @@ Q1950 Torino 2006 Sponsors Village Alberto Tomba attending Samsung charity aucti
 Q1955 Gustav Thoeni.jpg
 Q1956 Hermann Maier 2.jpg
 Q1958 Vreni Schneider 1989 Paraguay stamp.jpg
-Q1962
 Q1984 Maria Walliser.jpg
 Q1991 Michela Figini 1987 Paraguay stamp.jpg
-Q1993
 Q2001 KubrickForLook.jpg
 Q2006 Deborah Compagnoni cropped.jpg
-Q2010
 Q2022 Cesare pavese.jpg
 Q2031 Marc Girardelli.JPG
 Q2038 Reagan Mitterrand 1984 (cropped).jpg
