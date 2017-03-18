@@ -844,9 +844,8 @@
 						       :src"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2016-12-15_Martin_Dulig_%28Landtagsprojekt_Sachsen%29_by_Sandro_Halank.jpg/178px-2016-12-15_Martin_Dulig_%28Landtagsprojekt_Sachsen%29_by_Sandro_Halank.jpg"}]
 						        [:img#rQ1670311{:height 60 :width 90
 							:src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gauland2014.jpg/320px-Gauland2014.jpg"}]
-							 [:img#rQ1898276{:height 60 :width 107
-							 :src"https://upload.wikimedia.org/wikiStringIndexOutOfBoundsException String index out of range: -1  java.lang.String.substring (String.java:1955)
-pedia/commons/thumb/a/ac/Werkstattreihe_gemeinsam_f%C3%BCr_ein_starkes_Deutschland%2C_K%C3%B6ln-3546.jpg/320px-Werkstattreihe_gemeinsam_f%C3%BCr_ein_starkes_Deutschland%2C_K%C3%B6ln-3546.jpg"}]
+ [:img#rQ1898276{:height 60 :width 107
+   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Werkstattreihe_gemeinsam_f%C3%BCr_ein_starkes_Deutschland%2C_K%C3%B6ln-3546.jpg/320px-Werkstattreihe_gemeinsam_f%C3%BCr_ein_starkes_Deutschland%2C_K%C3%B6ln-3546.jpg"}]
  [:img#rQ2589454{:height 60 :width 52
  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Roemerberggespraeche-2013-wolfgang-donsbach-ffm-887.jpg/207px-Roemerberggespraeche-2013-wolfgang-donsbach-ffm-887.jpg"}]
   [:img#rQ6860370{:height 60 :width 48
