@@ -43,4 +43,6 @@
 [:a{:href"https://i.sl4.eu/age"}"History"]" "
 [:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
 [:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
+[:br]
+" or create our future yourself:"[:textarea]
 ]]))))))))))))
