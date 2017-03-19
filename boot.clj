@@ -39,4 +39,8 @@
 [:body
 [:p"Hi "(subs uh 0 6)"@"i]
 "&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
-[:br]"try "[:a{:href"https://i.sl4.eu/memo"}"AlphaMemory"]]]))))))))))))
+[:br]"try "
+[:a{:href"https://i.sl4.eu/age"}"History"]" "
+[:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
+[:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
+]]))))))))))))
