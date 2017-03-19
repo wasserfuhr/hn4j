@@ -44,5 +44,6 @@
 [:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
 [:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
 [:br]
-" or create our future yourself:"[:textarea]
+" or create our future yourself:"[:br]
+[:textarea{:cols 64 :rows 32}]
 ]]))))))))))))
