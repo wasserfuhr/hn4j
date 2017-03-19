@@ -45,5 +45,5 @@
 [:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
 [:br]
 " or create our future yourself:"[:br]
-[:textarea{:cols 64 :rows 32}]
+[:textarea{:cols 32 :rows 32}]
 ]]))))))))))))
