@@ -62,3 +62,6 @@ java.lang.NullPointerException
 2c55112.48 b92e8913 5b35cd s /memo
 2c5515b.23 42f95ccb 4b7fce h //rss.rdf
 2c55226.be c73b96b4 45fe92 s /age
+2c552cc.2a b92e8913 5b35cd s /
+2c552cc.cf b92e8913 5b35cd s /favicon.ico
+2017-03-19 04:37:27.814:WARN:oejh.HttpGenerator:Ignoring extra content null

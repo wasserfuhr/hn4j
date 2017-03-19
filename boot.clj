@@ -58,6 +58,5 @@
       h=xhr.responseText.split('.')
      else
       console.log('Error: '+xhr.status)}
-   xhr.send(null)},1000)}}
-"]
+   xhr.send(null)}},1000)}"]
 ]]))))))))))))
