@@ -45,7 +45,19 @@
 [:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
 [:br]
 " or create our future yourself:"[:br]
-[:textarea#t{:cols 32 :rows 32}"This TextArea is stored in a BlockChain"]
+[:textarea#t{:cols 32 :rows 32}"This TextArea is stored in a BlockChain!
+*TopSecret*: VraagTeken verboten - please use »¿«
+
+where is DiebesGott¿¿
+
+hi DiebesGott!!! ;)
+
+:060435 z 9? AmSims
+InBox (3):
+ AmHaus: SchnarchKarte?
+ CatChen: EarlForest soon
+ HiPo: HautAnHaut!
+ JoKo: AlphaNet¿"]
 [:script"
  var last='This TextArea is stored in a BlockChain'
  setInterval(function(){
