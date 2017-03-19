@@ -50,6 +50,7 @@
  var last='This TextArea is stored in a BlockChain'
  setInterval(function(){
   if(last!=document.getElementById('t').value){
+   last=document.getElementById('t').value
    xhr=new XMLHttpRequest()
    xhr.open('get','/text/'+document.getElementById('t').value)
    xhr.onreadystatechange=function(){
