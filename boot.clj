@@ -45,9 +45,9 @@
 [:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
 [:br]
 " or create our future yourself:"[:br]
-[:textarea#t{:cols 32 :rows 32}]
+[:textarea#t{:cols 32 :rows 32}"This TextArea is stored in a BlockChain"]
 [:script"
- var last='This TextArea is stored in a BlockChain :042554'
+ var last='This TextArea is stored in a BlockChain'
  setInterval(function(){
   if(last!=document.getElementById('t').value){
    xhr=new XMLHttpRequest()
@@ -58,5 +58,5 @@
       h=xhr.responseText.split('.')
      else
       console.log('Error: '+xhr.status)}
-   xhr.send(null)}},1000)}"]
+   xhr.send(null)}},1000)"]
 ]]))))))))))))
