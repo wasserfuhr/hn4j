@@ -19,7 +19,7 @@ n(.split(slurp"picName.txt")"\n")]
    t.width=t.width/1.2
    t.height=t.height/1.2}
  else
-  t.stylemargin=(y-120)+'px 0 0'+(x-80)+'px'
+  t.style.margin=(120-y)+'px 0 0'+(x-80)+'px'
  console.log(q+': '+x+' '+y)}"]
 (map(fn[q](if(not(.startsWith q";"))(let[
  d(read-string(str"0x"q))
