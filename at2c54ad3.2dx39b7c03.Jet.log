@@ -1707,3 +1707,6 @@ java.lang.NullPointerException
 2c7a971.8b 8e04d9a2 19508a h /rss.rdf
 2c7aa24.57 42f942cd 043937 h /wiki/AnLicht
 2c7ab3d.bc b44c0f17 a04d28 h /wiki/JkLogLevel
+2c7aba9.04 42f942cd 043937 h /wiki/RadiKal
+2017-03-20 23:21:34.198:WARN:oejs.AbstractHttpConnection:/phpmyadmin/scripts/setup.php
+java.lang.NullPointerException
