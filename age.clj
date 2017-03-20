@@ -12,14 +12,14 @@ n(.split(slurp"picName.txt")"\n")]
  var x=e.pageX-t.offsetLeft
  var y=e.pageY-t.offsetTop
  if(y>200)
-  if(x<100){
+  if(x>100){
    t.width=t.width*1.2
    t.height=t.height*1.2}
   else{
    t.width=t.width/1.2
    t.height=t.height/1.2}
  else
-  t.style.margin=(120-y)+'px 0 0'+(x-80)+'px'
+  t.style.margin=(120-y)+'px 0 0'+(t.width/2-x)+'px'
  console.log(q+': '+x+' '+y)}"]
 (map(fn[q](if(not(.startsWith q";"))(let[
  d(read-string(str"0x"q))
