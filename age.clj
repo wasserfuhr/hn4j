@@ -11,7 +11,7 @@ n(.split(slurp"picName.txt")"\n")]
  var t=document.getElementById(q)
  var x=e.pageX-t.offsetLeft
  var y=e.pageY-t.offsetTop
- console.log(x+' '+y)}"]
+ console.log(q+': '+x+' '+y)}"]
 (map(fn[q](let[
  d(read-string(str"0x"q))
  p(filter(fn[i](.startsWith i(str d" ")))s)
