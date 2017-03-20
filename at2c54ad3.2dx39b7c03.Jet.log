@@ -1481,3 +1481,6 @@ java.lang.RuntimeException: Invalid token: https://upload.wikimedia.org/wikipedi
 2c73bce.93 05fffd31 e4b041 h /wiki/NamedEntity
 2c73bd2.4c 05fffd31 e4b041 h /wiki/CityOfDresdenEG
 2c73bd6.12 05fffd31 e4b041 h /wiki/RalpLippold
+2c73bfe.bd 4fc9d6c9 5b35cd s /age
+2c73c04.07 4fc9d6c9 5b35cd s /favicon.ico
+2017-03-20 15:24:47.031:WARN:oejh.HttpGenerator:Ignoring extra content null
