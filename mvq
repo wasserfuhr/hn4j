@@ -1,5 +1,4 @@
-Clojure 1.8.0
-user=> mv Q7747.json 1e43
+mv Q7747.json 1e43
 mv Q76.json 4c
 mv Q937.json 3a9
 mv Q7200.json 1c20
