@@ -1,4 +1,4 @@
-(fn[rq rs](let[c(.getAttribute rq"c")v(.getAttribute rq"vars")t"AlphaQuiz"
+(fn[rq rs](let[c(.getAttribute rq"c")v(.getAttribute rq"vars")t"AlphaHistory"
 s(.split(slurp"picSize.txt")"\n")
 n(.split(slurp"picName.txt")"\n")]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title t" &laquo; &alpha;"];(:can c)(:css c)(:vp c)
@@ -7,6 +7,20 @@ n(.split(slurp"picName.txt")"\n")]
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
 ;[:script{:src"https://raw.githubusercontent.com/wasserfuhr/hn4j/master/WiDa.js"}]
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
+[:script"function cl(e,q){
+ var t=document.getElementById(q)
+ var x=e.pageX-t.offsetLeft
+ var y=e.pageY-t.offsetTop
+ if(y>200)
+  if(x>100){
+   t.width=t.width*1.2
+   t.height=t.height*1.2}
+  else{
+   t.width=t.width/1.2
+   t.height=t.height/1.2}
+ else
+  t.style.margin=(120-y)*t.width+'px 0 0'+(t.width/2-x)*t.width+'px'
+ console.log(q+': '+x+' '+y)}"]
 (map(fn[q](if(not(.startsWith q";"))(let[
  d(read-string(str"0x"q))
  p(filter(fn[i](.startsWith i(str d" ")))s)
@@ -19,10 +33,10 @@ n(.split(slurp"picName.txt")"\n")]
   w(read-string(str"0x"(get a 3)))
   e(java.net.URLEncoder/encode(.replaceAll b" ""_"))]
 [:div{:style"width:200px;height:240px;overflow:hidden;float:left;text-align:center"}
- [:img{:id(str"i"q):width w :height h :title b
+ [:img{:id(str"i"q):width w :height h :title b :onclick(str"cl(event,'i"q"')")
   :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
    (subs (second a)0 1)"/"(second a)"/"(subs e 1)"/"w"px-"(subs e 1))}]])))))
- (.split"1f50 3a9 4f3 3e5 2fd 4e6 35e 188 1bc 4c"" "))
+ (.split(slurp"https://floatingboat2013.appspot.com/eval/58295037")" "))
 [:script"for(var q in wd){
  d=document.getElementById('r'+q)
  if(d){
