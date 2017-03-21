@@ -28,6 +28,8 @@
  ((eval(read-string(slurp"math.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/nobel")
  ((eval(read-string(slurp"nobel.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/nob")
+ ((eval(read-string(slurp"nobel.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/age")
  ((eval(read-string(slurp"age.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/rq")
@@ -76,4 +78,4 @@ InBox (3):
      else
       console.log('Error: '+xhr.status)}
    xhr.send(null)}},1000)"]
-]]))))))))))))))
+]])))))))))))))))
