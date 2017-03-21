@@ -3192,3 +3192,7 @@ java.lang.RuntimeException: Unmatched delimiter: ]
 2c88ec2.64 9e457636 fdc79c h /
 2c88fa2.bb 42f942d1 043937 h /wiki/UberHack
 2c890eb.53 42f942cd 043937 h /wiki/StartUpSim
+2c89131.d5 8e04d9a2 19508a h /rss.rdf
+2c8913d.25 adfc7bb8 17614e s /nob
+2c89147.9c c73b96b4 45fe92 s /robots.txt
+2c89147.d1 c73b96b4 45fe92 s /nob
