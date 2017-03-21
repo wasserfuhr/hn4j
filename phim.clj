@@ -1,5 +1,5 @@
 (fn[rq rs](let[c(.getAttribute rq"c")v(.getAttribute rq"vars")t"&Phi;Memory"
-s(.split(slurp"ttmp")"\n")
+s(.split(slurp"picSize.txt")"\n")
 n(.split(slurp"qpic")"\n")]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title t" &laquo; &alpha;"];(:can c)(:css c)(:vp c)
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
