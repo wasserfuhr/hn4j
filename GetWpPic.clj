@@ -35,5 +35,5 @@ nil))))
 ;Q42 douglas adams portrait cropped.jpg
 ;Q1001 Portrait Gandhi.jpg
 ;Q1048 Gaius Julius Caesar (100-44 BC).JPG"
-(slurp"picName.txt")
+(slurp"qpic0")
 "\n"))))
