@@ -24,7 +24,7 @@ n(.split(slurp"qpic")"\n")]
 (map(fn[q](if(not(.startsWith q";"))(let[
  d(read-string(str"0x"q))
  p(filter(fn[i](.startsWith i(str d" ")))s)
- s(filter(fn[i](.startsWith i(str"Q"d" ")))n)]
+ s(filter(fn[i](.startsWith i(str d" ")))n)]
  (if(and (not-empty p)(not-empty s)(not(.contains(first p)"  ")))
  (let[a(.split(first p)" ")
   bi(.indexOf(first s)" ")
