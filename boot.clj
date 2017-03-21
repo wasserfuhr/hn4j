@@ -29,7 +29,7 @@
  (if(.startsWith(.getRequestURI rq)"/nobel")
  ((eval(read-string(slurp"nobel.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/nob")
- ((eval(read-string(slurp"nobel.clj")))rq rs)
+ ((eval(read-string(slurp"nob.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/age")
  ((eval(read-string(slurp"age.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/rq")
