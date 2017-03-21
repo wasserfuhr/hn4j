@@ -36,7 +36,7 @@ n(.split(slurp"picName.txt")"\n")]
  [:img{:id(str"i"q):width w :height h :title b :onclick(str"cl(event,'i"q"')")
   :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
    (subs (second a)0 1)"/"(second a)"/"(subs e 1)"/"w"px-"(subs e 1))}]])))))
- (.split(slurp"https://floatingboat2013.appspot.com/eval/58295037")" "))
+ (.split(slurp"https://floatingboat2013.appspot.com/eval/50955033")" "))
 [:script"for(var q in wd){
  d=document.getElementById('r'+q)
  if(d){
