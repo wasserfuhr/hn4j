@@ -5,7 +5,7 @@ n(.split(slurp"picName.txt")"\n")]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title t" &laquo; &alpha;"];(:can c)(:css c)(:vp c)
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]]
-[:body[:h1{:style"background-color:c0dd00"}[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
+[:body[:h1{:style"background-color:#c0dd00"}[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
 ;[:script{:src"https://raw.githubusercontent.com/wasserfuhr/hn4j/master/WiDa.js"}]
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
 (map(fn[q](if(not(.startsWith q";"))(let[
