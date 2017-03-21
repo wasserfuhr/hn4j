@@ -24,6 +24,8 @@
  ((eval(read-string(slurp"memoDev.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/memo")
  ((eval(read-string(slurp"memo.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/phim")
+ ((eval(read-string(slurp"phim.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/math")
  ((eval(read-string(slurp"math.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/nobel")
@@ -78,4 +80,4 @@ InBox (3):
      else
       console.log('Error: '+xhr.status)}
    xhr.send(null)}},1000)"]
-]])))))))))))))))
+]]))))))))))))))))
