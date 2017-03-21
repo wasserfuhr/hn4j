@@ -23,6 +23,6 @@ n(.split(slurp"picName.txt")"\n")]
  [:img{:id(str"i"q):width w :height h
   :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
    (subs (second a)0 1)"/"(second a)"/"(subs e 1)"/"w"px-"(subs e 1))}]])))))
- (.split"1f50 3a9 4f3 3e5 2fd 4e6 35e 188 1bc 4c"" "))
+ (.split(slurp"https://floatingboat2013.appspot.com/eval/55905038"" "))
 [:br{:style"clear:both"}]
 [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production. Images from "[:a{:href"https://dresdenlabs.appspot.com/iw/WikiPedia/Wikidata"}"WikiData"]"."]]]))))
