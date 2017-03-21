@@ -1,5 +1,4 @@
-Clojure 1.8.0
-user=> 100b8 8a f0 bc
+100b8 8a f0 bc
 100d 57 f0 c0
 1013d e7 f0 b3
 1020 28 f0 c2
