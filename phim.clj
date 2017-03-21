@@ -10,7 +10,7 @@ n(.split(slurp"qpic")"\n")]
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
 (map(fn[q](if(not(.startsWith q";"))(let[
  d(read-string(str"0x"q))
- p(filter(fn[i](.startsWith i(str d" ")))s)
+ p(filter(fn[i](.startsWith i(str q" ")))s)
  s(filter(fn[i](.startsWith i(str"Q"d" ")))n)]
  (if(and (not-empty p)(not-empty s)(not(.contains(first p)"  ")))
  (let[a(.split(first p)" ")
