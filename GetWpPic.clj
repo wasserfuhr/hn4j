@@ -33,5 +33,5 @@ nil))))
 (.split
 ;17 Gilbert Stuart Williamstown Portrait of George Washington.jpg
 ;2a douglas adams portrait cropped.jpg
-(slurp"qpic0")
+(slurp"qpic")
 "\n"))))
