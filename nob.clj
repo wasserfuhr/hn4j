@@ -19,13 +19,9 @@ n(.split(slurp"picName.txt")"\n")]
   w(read-string(str"0x"(get a 3)))
   e(java.net.URLEncoder/encode(.replaceAll b" ""_"))]
 [:div{:style"width:200px;height:240px;overflow:hidden;float:left;text-align:center"}
- [:img{:id(str"i"q):width w :height h :title b
+ [:img{:id(str"i"q):width w :height h
   :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
    (subs (second a)0 1)"/"(second a)"/"(subs e 1)"/"w"px-"(subs e 1))}]])))))
  (.split"1f50 3a9 4f3 3e5 2fd 4e6 35e 188 1bc 4c"" "))
-[:script"for(var q in wd){
- d=document.getElementById('r'+q)
- if(d){
-  d.title=wd[q]//+'n'+q
-  d.alt=wd[q]}}"]
+[:br{:style"clear:both"}]
 [:footer"An "[:a{:href"https://dresdenlabs.appspot.com/"}"AlphaLabs"]" production. Images from "[:a{:href"https://dresdenlabs.appspot.com/iw/WikiPedia/Wikidata"}"WikiData"]"."]]]))))
