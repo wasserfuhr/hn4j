@@ -31,9 +31,7 @@ w(Double.(get u 2))]
 ;(str";"s0"e\n")
 nil))))
 (.split
-;"Q23 Gilbert Stuart Williamstown Portrait of George Washington.jpg
-;Q42 douglas adams portrait cropped.jpg
-;Q1001 Portrait Gandhi.jpg
-;Q1048 Gaius Julius Caesar (100-44 BC).JPG"
+;17 Gilbert Stuart Williamstown Portrait of George Washington.jpg
+;2a douglas adams portrait cropped.jpg
 (slurp"qpic0")
 "\n"))))
