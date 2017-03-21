@@ -2728,3 +2728,8 @@ java.lang.NumberFormatException: Invalid number: 0x<!DOCTYPE
 2c83b1e.5f 4fc9d6c9 5b35cd s /memo
 2c83b24.03 4fc9d6c9 5b35cd s /nob
 2c83b3b.89 4fc9d6c9 5b35cd s /nobel
+2c83ba4.40 4fc9d6c9 5b35cd s /nobel
+2c83baa.49 4fc9d6c9 5b35cd s /favicon.ico
+2017-03-21 09:35:33.289:WARN:oejh.HttpGenerator:Ignoring extra content null
+2c83bcf.f1 42f942cd 043937 h /wiki/TheSingularity
+2c83c13.0a 42f942cd 043937 h /wiki/RealRoman
