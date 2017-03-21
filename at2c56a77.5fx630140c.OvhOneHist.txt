@@ -1,0 +1,1000 @@
+ 1156  java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaSize.clj|more
+ 1157  more qls
+ 1158  java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaSize.clj|more
+ 1159  more qls
+ 1160  java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaSize.clj
+ 1161  emacs WiDaSize.clj;git commit -am"~WiDaSize.clj"
+ 1162  java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaSize.clj
+ 1163  emacs WiDaSize.clj;git commit -am"~WiDaSize.clj"
+ 1164  more qsl|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaSize.clj
+ 1165  more qls|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaSize.clj
+ 1166  more qls
+ 1167  cat qls|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaSize.clj
+ 1168  cat qls|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaSize.clj|xxd
+ 1169  emacs WiDaSize.clj;git commit -am"~WiDaSize.clj"
+ 1170  cat WiDaMan.clj
+ 1171  emacs WiDaSize.clj;git commit -am"~WiDaSize.clj"
+ 1172  java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaSize.clj|xxd
+ 1173  java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaSize.clj
+ 1174  java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1175  cat WiDaSize.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1176  more qls
+ 1177  emacs WiDaSize.clj;git commit -am"~WiDaSize.clj"
+ 1178  java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaSize.clj
+ 1179  cat WiDaSize.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1180  emacs WiDaSize.clj;git commit -am"~WiDaSize.clj"
+ 1181  cat WiDaSize.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1182  emacs WiDaSize.clj;git commit -am"~WiDaSize.clj"
+ 1183  cat WiDaSize.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1184  hig ema
+ 1185  emacs WiDaMan.clj;git commit -am "~WiDaMan.clj"
+ 1186  hig DaMan
+ 1187  more WiDaMan.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1188  cat WiDaSize.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1189  emacs WiDaMan.clj;git commit -am "~WiDaMan.clj"
+ 1190  more WiDaMan.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1191  hig bt
+ 1192  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1193  #at2c1de72.f6x1dd8fae
+ 1194  ls
+ 1195  cd git/hn4j/
+ 1196  more q/Q1264.json
+ 1197  hig Siz
+ 1198  cat WiDaSize.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1199  ls
+ 1200  emacs WiDaPic.clj
+ 1201  git add WiDaPic.clj
+ 1202  git commit -am"+WiDaPic.clj"
+ 1203  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1204  cat WiDaInstance.clj 
+ 1205  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1206  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1207  cat WiDaSize.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1208  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1209  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1210  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1211  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1212  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1213  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1214  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1215  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1216  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1217  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1218  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1219  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1220  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1221  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1222  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1223  java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main WiDaPic.clj
+ 1224  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1225  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1226  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1227  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1228  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1229  cat WiDaRaw.clj
+ 1230  ls
+ 1231  cat WiDaPic.clj
+ 1232  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1233  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1234  emacs WpPic.txt
+ 1235  git add WpPic.txt
+ 1236  git commit -am"+WpPic.txt"
+ 1237  curl https://floatingboat2013.appspot.com/raw/50785004 > GetWpPic.clj
+ 1238  git add GetWpPic.clj
+ 1239  git commit -am"+GetWpPic.clj"
+ 1240  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1241  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1242  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1243  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1244  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1245  ls
+ 1246  cat WpPic.txt
+ 1247  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1248  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1249  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1250  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1251  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1252  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1253  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1254  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1255  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1256  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1257  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1258  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1259  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1260  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1261  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1262  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1263  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1264  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1265  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1266  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1267  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1268  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1269  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1270  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1271  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1272  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1273  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1274  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1275  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1276  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1277  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1278  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1279  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1280  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1281  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1282  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1283  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1284  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1285  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1286  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1287  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1288  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1289  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1290  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1291  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1292  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1293  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1294  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1295  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1296  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1297  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1298  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1299  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1300  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1301  ls *t
+ 1302  cat WpPic.txt
+ 1303  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1304  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1305  hig boo
+ 1306  emacs boot.clj;git commit -am "~boot.clj"
+ 1307  hig curl
+ 1308  curl https://floatingboat2013.appspot.com/raw/55685037 > memo.clj
+ 1309  git add memo.clj
+ 1310  git commit -am"+memo.clj"
+ 1311  ls
+ 1312  ls -l
+ 1313  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1314  emacs memo.clj;git commit -am"+memo.clj"
+ 1315  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1316  emacs memo.clj;git commit -am"~memo.clj"
+ 1317  emacs memo.clj;git commit -am"+memo.clj"
+ 1318  cat boot.clj 
+ 1319  emacs memo.clj;git commit -am"+memo.clj"
+ 1320  more pw 
+ 1321  hig boo
+ 1322  emacs boot.clj;git commit -am "~boot.clj"
+ 1323  emacs cookie.clj
+ 1324  git add cookie.clj
+ 1325  git commit -am"+cookie.clj"
+ 1326  hig tail
+ 1327  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1328  more at2bb49aa.84x33bcd85.Jet.log
+ 1329  hig mem
+ 1330  emacs memo.clj;git commit -am"+memo.clj"
+ 1331  hig boo
+ 1332  emacs boot.clj;git commit -am "~boot.clj"
+ 1333  emacs memo.clj;git commit -am"+memo.clj"
+ 1334  hig WiDa
+ 1335  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1336  hig cat
+ 1337  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1338  hig Wp
+ 1339  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1340  hig mem
+ 1341  emacs memo.clj;git commit -am"+memo.clj"
+ 1342  history 
+ 1343  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1344  hig Get
+ 1345  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1346  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1347  emacs memo.clj;git commit -am"+memo.clj"
+ 1348  hig tail
+ 1349  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1350  emacs memo.clj;git commit -am"+memo.clj"
+ 1351  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1352  emacs memo.clj;git commit -am"+memo.clj"
+ 1353  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1354  emacs memo.clj;git commit -am"+memo.clj"
+ 1355  his
+ 1356  history 
+ 1357  hig bt
+ 1358  #!1837
+ 1359  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1360  #at2c26312.f8x22f5510
+ 1361  history 
+ 1362  hig his
+ 1363  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1364  cd git/hn4j/
+ 1365  emacs memo.clj;git commit -am"+memo.clj"
+ 1366  hig ta
+ 1367  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1368  emacs memo.clj;git commit -am"+memo.clj"
+ 1369  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1370  emacs memo.clj;git commit -am"+memo.clj"
+ 1371  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1372  emacs memo.clj;git commit -am"+memo.clj"
+ 1373  git pull
+ 1374  git push
+ 1375  git status
+ 1376  rm qls?
+ 1377  git add at2bb49aa.84x33bcd85.Jet.log at2be7897.8dx163fe47.OvhOneHist.txt at2c2632d.dcx22f5510.OvhOneHist.txt
+ 1378  git commit -am"+at2bb49aa.84x33bcd85.Jet.log +at2be7897.8dx163fe47.OvhOneHist.txt +at2c2632d.dcx22f5510.OvhOneHist.txt"
+ 1379  more qls
+ 1380  ls -l
+ 1381  ls vps334014/
+ 1382  git status
+ 1383  emacs .gitignore 
+ 1384  git commit -am"~-.gitignore"
+ 1385  git status
+ 1386  git add qls
+ 1387  git commit -am"+qls"
+ 1388  git status
+ 1389  git push
+ 1390  hig mem
+ 1391  emacs memo.clj;git commit -am"+memo.clj"
+ 1392  hig Pic
+ 1393  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1394  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1395  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1396  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1397  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1398  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1399  emacs memo.clj;git commit -am"+memo.clj"
+ 1400  hig tail
+ 1401  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1402  emacs memo.clj;git commit -am"+memo.clj"
+ 1403  hig his
+ 1404  hig bt
+ 1405  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1406  #at2c29ba2.b2x1bb36b0
+ 1407  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1408  exit
+ 1409  hig bt
+ 1410  #!1996
+ 1411  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1412  #at2c311fb.bcx1e026d0
+ 1413  cd git/hn4j/
+ 1414  hig me
+ 1415  emacs memo.clj;git commit -am"+memo.clj"
+ 1416  cp memo.clj memoDev.clj
+ 1417  git add memoDev.clj
+ 1418  git commit -am "cp memo.clj memoDev.clj"
+ 1419  hig boo
+ 1420  emacs boot.clj;git commit -am "~boot.clj"
+ 1421  emacs memoDev.clj;git commit -am"~memoDev.clj"
+ 1422  hig cp
+ 1423  ls +clj
+ 1424  ls *lj
+ 1425  ls -l *lj
+ 1426  cp cookie.clj char.clj
+ 1427  git add char.clj
+ 1428  git commit -am"cp cookie.clj char.clj"
+ 1429  hig bo
+ 1430  emacs boot.clj;git commit -am "~boot.clj"
+ 1431  hig tail
+ 1432  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1433  cat boot.clj 
+ 1434  emacs boot.clj;git commit -am "~boot.clj"
+ 1435  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1436  emacs memoDev.clj;git commit -am"~memoDev.clj"
+ 1437  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1438  ls -al at*
+ 1439  hig boot.clj
+ 1440  emacs boot.clj;git commit -am "~boot.clj"
+ 1441  hig De
+ 1442  emacs memoDev.clj;git commit -am"~memoDev.clj"
+ 1443  cp memoDev.clj memo.clj
+ 1444  git commit -am"cp memoDev.clj memo.clj"
+ 1445  git status
+ 1446  rm \#memo.clj#
+ 1447  emacs memoDev.clj;git commit -am"~memoDev.clj"
+ 1448  hig Get
+ 1449  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1450  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1451  emacs memoDev.clj;git commit -am"~memoDev.clj"
+ 1452  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1453  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1454  emacs +100 GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1455  emacs +100 memoDev.clj;git commit -am"~memoDev.clj"
+ 1456  hig tail
+ 1457  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1458  more at2bb49aa.84x33bcd85.Jet.log
+ 1459  emacs memoDev.clj;git commit -am"~memoDev.clj"
+ 1460  hig Ge
+ 1461  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1462  hig Inst
+ 1463  emacs WiDaInstance.clj;git commit -am "~WiDaInstance.clj"
+ 1464  ls *j
+ 1465  cat WiDaRaw.clj 
+ 1466  ls -l *j
+ 1467  cat WiDaPic.clj
+ 1468  hig Pic
+ 1469  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1470  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1471  hig Get
+ 1472  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1473  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1474  hig mem
+ 1475  emacs memoDev.clj;git commit -am"~memoDev.clj"
+ 1476  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1477  cp GetWpPic.clj galery.clj
+ 1478  mv galery.clj tapestry.clj 
+ 1479  git add tapestry.clj
+ 1480  git commit -am"cp GetWpPic.clj tapestry.clj"
+ 1481  hig mem
+ 1482  emacs memoDev.clj;git commit -am"~memoDev.clj"
+ 1483  cp memoDev.clj memo.clj
+ 1484  hig cp
+ 1485  git commit -am"cp memoDev.clj memo.clj"
+ 1486  emacs memoDev.clj;git commit -am"~memoDev.clj"
+ 1487  cat GetWpPic.clj 
+ 1488  hig Wp
+ 1489  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1490  cp GetWpPic.clj picName.txt
+ 1491  git add picName.txt
+ 1492  git commit -am"cp GetWpPic.clj picName.txt"
+ 1493  emacs picName.txt;git commit -am"~picName.txt"
+ 1494  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1495  hig Wp
+ 1496  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1497  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1498  cat picName.txt 
+ 1499  more picName.txt 
+ 1500  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1501  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1502  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1503  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1504  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1505  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1506  xxd picName.txt 
+ 1507  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1508  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1509  emacs tapestry.clj;git commit -am"~tapestry.clj"
+ 1510  ls -ls *j
+ 1511  cp memo.clj tapestry.clj
+ 1512  git commit -am "cp memo.clj tapestry.clj"
+ 1513  emacs tapestry.clj;git commit -am"~tapestry.clj"
+ 1514  hig boo
+ 1515  emacs boot.clj;git commit -am "~boot.clj"
+ 1516  emacs tapestry.clj;git commit -am"~tapestry.clj"
+ 1517  hig pic
+ 1518  emacs picName.txt;git commit -am"~picName.txt"
+ 1519  hig bt
+ 1520  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1521  #at2c38871.fax2042dec
+ 1522  exit
+ 1523  ls
+ 1524  sha26 at*
+ 1525  sha256sum at*
+ 1526  zip rq at*
+ 1527  apt-get install zip
+ 1528  zip rq at*
+ 1529  cd git/hn4j/
+ 1530  hig boot.clj 
+ 1531  hig bt
+ 1532  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1533  #at2c395ae.55x120b8cd
+ 1534  hig boo
+ 1535  emacs boot.clj;git commit -am "~boot.clj"
+ 1536  ls /root/
+ 1537  emacs boot.clj;git commit -am "~boot.clj"
+ 1538  hig tail
+ 1539  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1540  rm /root/rq.zip 
+ 1541  cd
+ 1542  ls
+ 1543  zip rq at2c*
+ 1544  ls
+ 1545  unzip -l rq.zip 
+ 1546  mv at2c39* git/hn4j/
+ 1547  rm rq.zip 
+ 1548  ls -l
+ 1549  cd git/hn4j/
+ 1550  git status
+ 1551  git add at2c29bb1.68x1bb36b0.OvhOneHist.txt at2c39348.30e560x6fbdf.e7d3f9b3.RqLogAw29.zip at2c39411.1eb850x6fbe5.120b8cdf.RqLogAw2a.zip 
+ 1552  git commit -am "+at2c29bb1.68x1bb36b0.OvhOneHist.txt +at2c39348.30e560x6fbdf.e7d3f9b3.RqLogAw29.zip +at2c39411.1eb850x6fbe5.120b8cdf.RqLogAw2a.zip"
+ 1553  ls -al
+ 1554  xxf 2c.sd 
+ 1555  xxd 2c.sd 
+ 1556  hig bo
+ 1557  emacs boot.clj;git commit -am "~boot.clj"
+ 1558  hig De
+ 1559  emacs memoDev.clj;git commit -am"~memoDev.clj"
+ 1560  hig tai
+ 1561  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1562  #curl https://floatingboat2013.appspot.com/raw/48805004|sort
+ 1563  sort -?
+ 1564  sort --help
+ 1565  curl https://floatingboat2013.appspot.com/raw/48805004|sort -k 1.1
+ 1566  curl https://floatingboat2013.appspot.com/raw/48805004|sort -n -k 1.2
+ 1567  hig pic
+ 1568  emacs picName.txt;git commit -am"~picName.txt"
+ 1569  hig ta
+ 1570  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1571  more at2bb49aa.84x33bcd85.Jet.log|grep 4fc9
+ 1572  hig bt
+ 1573  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1574  #at2c3ac28.9fx2418fae
+ 1575  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1576  exit
+ 1577  hig bt
+ 1578  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1579  #at2c3de28.adx1a0b036
+ 1580  ls
+ 1581  hig cert
+ 1582  ./certbot-auto auth
+ 1583  ./certbot-auto -?
+ 1584  ./certbot-auto --help
+ 1585  ./certbot-auto --help auto
+ 1586  hig java
+ 1587  hig Jet
+ 1588  ps aux
+ 1589  kill -9 3773
+ 1590  ./certbot-auto auth
+ 1591  ls
+ 1592  ls /etc/letsencrypt/keys/000*
+ 1593  hig Jet
+ 1594  hig ps
+ 1595  hig pw
+ 1596  cd git/hn4j/
+ 1597  a=`cat pw`   
+ 1598  hig Jet
+ 1599  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1600  echo $pw
+ 1601  ls
+ 1602  hig pw
+ 1603  pw=`cat pw`
+ 1604  ps aux
+ 1605  kill -9 7522
+ 1606  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1607  git status
+ 1608  ls -l *Jet*
+ 1609  hig Get
+ 1610  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1611  hig pic
+ 1612  emacs picName.txt;git commit -am"~picName.txt"
+ 1613  cp picName.txt picName0.txt 
+ 1614  hig Pic
+ 1615  more picName0.txt 
+ 1616  grep * Q360
+ 1617  ls -l *j
+ 1618  more WiDaPic.clj 
+ 1619  more picName0.txt 
+ 1620  more WiDaPic.clj 
+ 1621  hig WiDaP
+ 1622  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1623  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1624  hig picName.txt 
+ 1625  emacs picName.txt;git commit -am"~picName.txt"
+ 1626  grep picN *
+ 1627  hig GetW
+ 1628  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1629  hig tap
+ 1630  emacs tapestry.clj;git commit -am"~tapestry.clj"
+ 1631  cp picName.txt picName1.txt
+ 1632  hig pic
+ 1633  emacs picName.txt;git commit -am"~picName.txt"
+ 1634  history 
+ 1635  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1636  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1637  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1638  hig WiDa
+ 1639  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1640  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1641  cat WiDaRaw.clj 
+ 1642  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1643  cat WiDaRaw.clj 
+ 1644  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1645  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1646  emacs WiDaPic.clj;git commit -am"~WiDaPic.clj"
+ 1647  cat WiDaPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1648  hig picName.txt
+ 1649  emacs picName.txt;git commit -am"~picName.txt"
+ 1650  grep picN *
+ 1651  hig Wp
+ 1652  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1653  hig tap
+ 1654  emacs tapestry.clj;git commit -am"~tapestry.clj"
+ 1655  hig boo
+ 1656  emacs boot.clj;git commit -am "~boot.clj"
+ 1657  hig bt
+ 1658  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1659  #at2c3f8e0.4cx7a9511a
+ 1660  git status
+ 1661  git add at2c3ac36.c1x2418fae.OvhOneHist.txt at2c3e059.48x24d3b0f.Jet.log at2c3e0ca.00x24d3b0f.Jet.log picName0.txtpicName1.txt
+ 1662  git commit -am"+at2c3ac36.c1x2418fae.OvhOneHist.txt +at2c3e059.48x24d3b0f.Jet.log +at2c3e0ca.00x24d3b0f.Jet.log +picName0.txt +picName1.txt"
+ 1663  git status
+ 1664  git add at2c3ac36.c1x2418fae.OvhOneHist.txt at2c3e059.48x24d3b0f.Jet.log at2c3e0ca.00x24d3b0f.Jet.log picName0.txtpicName1.txt
+ 1665  git add at2c3ac36.c1x2418fae.OvhOneHist.txt at2c3e059.48x24d3b0f.Jet.log at2c3e0ca.00x24d3b0f.Jet.log picName0.txt picName1.txt
+ 1666  git commit -am"+at2c3ac36.c1x2418fae.OvhOneHist.txt +at2c3e059.48x24d3b0f.Jet.log +at2c3e0ca.00x24d3b0f.Jet.log +picName0.txt +picName1.txt"
+ 1667  git status
+ 1668  git push
+ 1669  hig bt
+ 1670  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1671  #at2c3f99c.9ax7a9511a
+ 1672  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1673  exit
+ 1674  hig bt
+ 1675  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1676  #at2c4718a.44xfa2caa1
+ 1677  a=`curl https://dresdenlabs.appspot.com/AtBc`;echo $a
+ 1678  a=`curl https://dresdenlabs.appspot.com/at`;echo $a
+ 1679  cd git/hn4j/
+ 1680  ls -l *Jet*
+ 1681  more at2c3e0ca.00x24d3b0f.Jet.log |grep char
+ 1682  more at2c3e0ca.00x24d3b0f.Jet.log |grep /char
+ 1683  ls
+ 1684  cat boot
+ 1685  cat boot.clj 
+ 1686  more at2c3e0ca.00x24d3b0f.Jet.log |grep /char
+ 1687  more at*.Jet.log |grep /char
+ 1688  ls -l at*.Jet.log
+ 1689  whois 176.74.57.163
+ 1690  apt-get install whois
+ 1691  whois 176.74.57.163
+ 1692  ls
+ 1693  ls -l *p
+ 1694  sha256sum at2c47a66.a8f5c4x6fc5a.f671bebe.RqLogAw2b.zip
+ 1695  git add at2c47a66.a8f5c4x6fc5a.f671bebe.RqLogAw2b.zip
+ 1696  git status
+ 1697  git add at2c47a66.a8f5c4x6fc5a.f671bebe.RqLogAw2b.zip
+ 1698  git commit -am"+at2c47a66.a8f5c4x6fc5a.f671bebe.RqLogAw2b.zip ~at2c3e0ca.00x24d3b0f.Jet.log"
+ 1699  git add at2c3f9a9.21x7a9511a.OvhOneHist.txt
+ 1700  git commit -am"+at2c3f9a9.21x7a9511a.OvhOneHist.txt"
+ 1701  unzip -l at2c47a66.a8f5c4x6fc5a.f671bebe.RqLogAw2b.zip
+ 1702  git status
+ 1703  hig ta
+ 1704  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1705  hig curl
+ 1706  curl https://floatingboat2013.appspot.com/rawHead/WiDaMan
+ 1707  ls -l *j
+ 1708  more WiDaSize.clj
+ 1709  more WiDaRaw.clj
+ 1710  #emacs WiDaJs.clj
+ 1711  emacs WiDaJs.clj
+ 1712  git add WiDaJs.clj
+ 1713  git commit -am"+WiDaJs.clj"
+ 1714  hig cloj
+ 1715  cat WiDaJs.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1716  emacs WiDaJs.clj;git commit -am"~WiDaJs.clj"
+ 1717  cat WiDaJs.clj
+ 1718  cat WiDaJs.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1719  emacs WiDaJs.clj;git commit -am"~WiDaJs.clj"
+ 1720  cat WiDaJs.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1721  emacs WiDaJs.clj;git commit -am"~WiDaJs.clj"
+ 1722  cat WiDaJs.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1723  emacs WiDaJs.clj;git commit -am"~WiDaJs.clj"
+ 1724  cat WiDaJs.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1725  cat WiDaJs.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main > WiDa.js
+ 1726  more WiDa.js
+ 1727  git add WiDa.js
+ 1728  git commit -am"+WiDa.js"
+ 1729  emacs WiDa.js;git commit -am"~WiDa.js"
+ 1730  git status
+ 1731  git push
+ 1732  hig tap
+ 1733  emacs tapestry.clj;git commit -am"~tapestry.clj"
+ 1734  hig grep
+ 1735  more at*.Jet.log |grep /char
+ 1736  ls -al
+ 1737  cat WpPic.txt
+ 1738  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1739  sendmail
+ 1740  apt-get install sendmail
+ 1741  sendmail
+ 1742  sendmail wasserfuhr@yahoo.com
+ 1743  sendmail -?
+ 1744  sendmail --help
+ 1745  sendmail --h
+ 1746  man sendmail
+ 1747  echo "hi!"|sendmail -fRaWa wasserfuhr@yahoo.com
+ 1748  echo "Subject:hi!"|sendmail -fRaWa wasserfuhr@yahoo.com
+ 1749  echo "Subject:HautAnHaut?"|sendmail -fRaWa vanpoucke@mailbox.org
+ 1750  hig boo
+ 1751  emacs boot.clj;git commit -am "~boot.clj"
+ 1752  mkdir ua
+ 1753  emacs boot.clj;git commit -am "~boot.clj"
+ 1754  hig tail
+ 1755  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1756  emacs boot.clj;git commit -am "~boot.clj"
+ 1757  ls
+ 1758  ls ua
+ 1759  emacs boot.clj;git commit -am "~boot.clj"
+ 1760  ls ua
+ 1761  emacs boot.clj;git commit -am "~boot.clj"
+ 1762  ls ua
+ 1763  more ua/5b35cdfdf4838e66d73d0992008e66644bbff8b081f63edcbafdaa82f428c3f7 
+ 1764  sha256sum ua/5b35cdfdf4838e66d73d0992008e66644bbff8b081f63edcbafdaa82f428c3f7 
+ 1765  emacs boot.clj;git commit -am "~boot.clj"
+ 1766  tail -f at2bb49aa.84x33bcd85.Jet.log
+ 1767  ls -l
+ 1768  ls -l a*
+ 1769  tail -f at2c3e0ca.00x24d3b0f.Jet.log
+ 1770  more ua/*
+ 1771  hig sen
+ 1772  echo "Subject:bODERfwODERzh?"|sendmail -fRaWa 1966_moni@web.de
+ 1773  ls ua
+ 1774  ls -l ua
+ 1775  hig tail
+ 1776  tail -f at2c3e0ca.00x24d3b0f.Jet.log
+ 1777  more ua/45fe9210f26176bb2b3d438a5cd3512707c01f66491128aeaa8c0ef23fd14d7a 
+ 1778  ls /var/spool/mail/
+ 1779  #ls /var/spool/mqueue/
+ 1780  hig sen
+ 1781  echo "Subject:hi!"|sendmail -fRaWa wasserfuhr@yahoo.com
+ 1782  echo "Subject:hi!"|sendmail -fRaWa wasserfuhr@yahoo.com -Fwasserfuhr@yahoo.com
+ 1783  ls /var/spool/mqueue/
+ 1784  ls /var/spool/mail
+ 1785  ls ua
+ 1786  ls -s ua
+ 1787  ls -ls ua
+ 1788  ls -lS ua
+ 1789  ls --?
+ 1790  ls --h
+ 1791  ls --help
+ 1792  ls -lt ua
+ 1793  cat ua/4b7fce940dfa358f764ca8fd7632489de8fdbd873d65686c0f56cb361bb5f4d4 
+ 1794  more ua/*
+ 1795  hig bo
+ 1796  emacs boot.clj;git commit -am "~boot.clj"
+ 1797  hig ua
+ 1798  ls -lt ua
+ 1799  cat ua/a04d2890e0c14dc29a3a584e4b1f1a530a003f8328d38df49e1b6d408529d2bd 
+ 1800  tail --help
+ 1801  hig tail
+ 1802  tail -f at2c3e0ca.00x24d3b0f.Jet.log
+ 1803  emacs boot.clj;git commit -am "~boot.clj"
+ 1804  tail -f at2c3e0ca.00x24d3b0f.Jet.log
+ 1805  emacs boot.clj;git commit -am "~boot.clj"
+ 1806  tail -f at2c3e0ca.00x24d3b0f.Jet.log
+ 1807  tail -c 1k -f at2c3e0ca.00x24d3b0f.Jet.log
+ 1808  tail -c 3k -f at2c3e0ca.00x24d3b0f.Jet.log
+ 1809  emacs boot.clj;git commit -am "~boot.clj"
+ 1810  tail -c 3k -f at2c3e0ca.00x24d3b0f.Jet.log
+ 1811  hig ua
+ 1812  ls -lt ua
+ 1813  cat ua/1d5a651ed15dbac729eb0f99e931c6fb4a9863886f84d01e8c05136e0798cfa9 
+ 1814  cat ua/6a88e860a06fb7162c385a215d8c7bec6ab6bd51d18a4d0ef5b3997509a7e1cf 
+ 1815  hig cha
+ 1816  more at2c3e0ca.00x24d3b0f.Jet.log |grep /char
+ 1817  more at*.Jet.log |grep /char
+ 1818  hig his
+ 1819  hig bt
+ 1820  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1821  #at2c4c71d.b0x90dfce3
+ 1822  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1823  ls -l
+ 1824  git add ua
+ 1825  git status
+ 1826  git add at2c4c72e.7ex90dfce3.OvhOneHist.txt
+ 1827  git commit -am"+..."
+ 1828  git status
+ 1829  git push
+ 1830  git status
+ 1831  hig tap
+ 1832  emacs tapestry.clj;git commit -am"~tapestry.clj"
+ 1833  grep :img *
+ 1834  hig Wp
+ 1835  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main > ttmp
+ 1836  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1837  hig tap
+ 1838  emacs tapestry.clj;git commit -am"~tapestry.clj"
+ 1839  hig mem
+ 1840  emacs memoDev.clj;git commit -am"~memoDev.clj"
+ 1841  hig ua
+ 1842  ls -lt ua
+ 1843  cat ua/6a88e860a06fb7162c385a215d8c7bec6ab6bd51d18a4d0ef5b3997509a7e1cf 
+ 1844  cat ua/433e9c7afb28afa101337e535372eb25ad1ec983a1f2e88e226ae0b42accdafe 
+ 1845  cat ua/043937ea8abaea325dbde1020b1bdd9f921dcbae7450dc9141c47a7d3473c917 
+ 1846  cat ua/7dfab184b2b9aaeaf9049a2651452d42f85797b83fb14d472ec5612361a1af34 
+ 1847  hig char
+ 1848  more at*.Jet.log |grep /char
+ 1849  hig tap
+ 1850  emacs tapestry.clj;git commit -am"~tapestry.clj"
+ 1851  emacs +999 tapestry.clj;git commit -am"~tapestry.clj"
+ 1852  ls -l
+ 1853  hig ua
+ 1854  ls -lt ua
+ 1855  git status
+ 1856  git add ua/*
+ 1857  hig comm
+ 1858  git commit -am"+..."
+ 1859  ls -l
+ 1860  more picName*
+ 1861  ls -l *j
+ 1862  cat WiDaPic.clj 
+ 1863  cp WiDaPic.clj bday.clj
+ 1864  git add bday.clj 
+ 1865  git commit -am"+bday.clj" 
+ 1866  emacs bday.clj;git commit -am"~bday.clj" 
+ 1867  hig clo
+ 1868  cat bday.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1869  emacs bday.clj;git commit -am"~bday.clj"
+ 1870  cat bday.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1871  emacs bday.clj;git commit -am"~bday.clj"
+ 1872  cat bday.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1873  emacs bday.clj;git commit -am"~bday.clj"
+ 1874  cat bday.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1875  emacs bday.clj;git commit -am"~bday.clj"
+ 1876  cat bday.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1877  emacs bday.clj;git commit -am"~bday.clj"
+ 1878  cat bday.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1879  emacs bday.clj;git commit -am"~bday.clj"
+ 1880  cat bday.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1881  cat bday.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main |sort -k 3
+ 1882  man sort
+ 1883  cat bday.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main |sort -k 3q
+ 1884  cat bday.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main |sort -k 3
+ 1885  hig Wp
+ 1886  cp tapestry.clj age.clj
+ 1887  git add age.clj
+ 1888  git commit -am"+age.clj"
+ 1889  #git commit -am"~age.clj"
+ 1890  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1891  cat boot.clj
+ 1892  ls
+ 1893  ls -l
+ 1894  more picName*
+ 1895  hig Wp
+ 1896  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1897  ls
+ 1898  hig age
+ 1899  cp /usr/local/bin/hig /usr/local/bin/hi
+ 1900  hi bo
+ 1901  emacs boot.clj;git commit -am "~boot.clj"
+ 1902  hi ag
+ 1903  #git commit -am"~age.clj"
+ 1904  emacs age.clj;git commit -am"~age.clj"
+ 1905  emacs boot.clj;git commit -am "~boot.clj"
+ 1906  ls -l
+ 1907  ls -l *t
+ 1908  cat pic*|sort|more
+ 1909  cat pic*|sort -u|more
+ 1910  ls pi*
+ 1911  cat pic*|sort -u > pn
+ 1912  wc pn
+ 1913  mv pn picName.txt
+ 1914  emacs picName0.txt
+ 1915  emacs picName1.txt
+ 1916  hi com
+ 1917  git commit -am"+..."
+ 1918  more picName.txt
+ 1919  hi cN
+ 1920  emacs picName.txt;git commit -am"~picName.txt"
+ 1921  tail picName.txt 
+ 1922  emacs picName.txt;git commit -am"~picName.txt"
+ 1923  more picName.txt 
+ 1924  hi Wp
+ 1925  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1926  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main > ttmp
+ 1927  cat ttmp 
+ 1928  more picName.txt 
+ 1929  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1930  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1931  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1932  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1933  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1934  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1935  cat aa
+ 1936  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1937  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1938  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1939  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1940  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj"
+ 1941  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main
+ 1942  emacs GetWpPic.clj;git commit -am"~GetWpPic.clj" > ttmp 
+ 1943  #cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main >> ttmp 
+ 1944  cat ttmp 
+ 1945  cat GetWpPic.clj|java -cp data.json-0.2.6.jar:clojure-1.8.0.jar clojure.main > ttmp 
+ 1946  more ttmp 
+ 1947  more ttmp |sort -n|more
+ 1948  #more ttmp 
+ 1949  git status
+ 1950  more aa
+ 1951  rm aa
+ 1952  git add ua/*
+ 1953  cat ua/3d8b22566852ac85d457d6997d7f2f8187555c2a45e944ee1378ccc8c2e72598 
+ 1954  cat ua/7ab07759b1135af32cda81d4c4254a9e39186d65477c658100667830a023e240 
+ 1955  cat ua/9caa3e08342c15ecbc94deb812d26cd75b1aaa450ecf595b72e323df8e8c1149 
+ 1956  cat ua/e4b041114023353df050002a76991832cae63d0d0154b0745d6ed42b1d97a918 
+ 1957  mv ttmp picSize.txt
+ 1958  hi co
+ 1959  git commit -am"+..."
+ 1960  git status
+ 1961  git add picSize.txt 
+ 1962  git commit -am"+picSize.txt"
+ 1963  emacs picSize.txt
+ 1964  sort -n picSize.txt|more
+ 1965  sort -n picSize.txt > pp
+ 1966  mv pp picSize.txt
+ 1967  git commit -am"~picSize.txt"
+ 1968  emacs picSize.txt;git commit -am"~picSize.txt"
+ 1969  tail picSize.txt
+ 1970  more picSize.txt
+ 1971  hi ag
+ 1972  emacs age.clj;git commit -am"~age.clj"
+ 1973  cat GetWpPic.clj 
+ 1974  emacs age.clj;git commit -am"~age.clj"
+ 1975  more picSize.txt
+ 1976  more picName.txt
+ 1977  emacs age.clj;git commit -am"~age.clj"
+ 1978  more picSize.txt 
+ 1979  emacs age.clj;git commit -am"~age.clj"
+ 1980  cat GetWpPic.clj 
+ 1981  emacs age.clj;git commit -am"~age.clj"
+ 1982  more picSize.txt 
+ 1983  more picName
+ 1984  more picName.txt 
+ 1985  emacs age.clj;git commit -am"~age.clj"
+ 1986  hi tai
+ 1987  tail -c 1k -f at2c3e0ca.00x24d3b0f.Jet.log
+ 1988  emacs age.clj;git commit -am"~age.clj"
+ 1989  tail -c 1k -f at2c3e0ca.00x24d3b0f.Jet.log
+ 1990  emacs age.clj;git commit -am"~age.clj"
+ 1991  tail -c 1k -f at2c3e0ca.00x24d3b0f.Jet.log
+ 1992  emacs age.clj;git commit -am"~age.clj"
+ 1993  cat GetWpPic.clj 
+ 1994  emacs age.clj;git commit -am"~age.clj"
+ 1995  hi bt
+ 1996  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 1997  #at2c50673.10x1c20b00
+ 1998  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1999  exit
+ 2000  hi bt
+ 2001  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 2002  #at2c50ab9.bfx8828b98
+ 2003  cd git/hn4j/
+ 2004  hi age.clj 
+ 2005  history 
+ 2006  hi ag
+ 2007  emacs age.clj;git commit -am"~age.clj"
+ 2008  more picSize.txt 
+ 2009  xxd picSize.txt|more
+ 2010  more picSize.txt
+ 2011  emacs age.clj;git commit -am"~age.clj"
+ 2012  xxd picName.txt|more
+ 2013  emacs picName.txt
+ 2014  ls
+ 2015  dos2unix
+ 2016  apt-get install dos2unix
+ 2017  dos2unix picName.txt |xxd@more
+ 2018  xxd picName.txt |more
+ 2019  emacs age.clj;git commit -am"~age.clj"
+ 2020  git status
+ 2021  git add ua/*
+ 2022  more ua/*
+ 2023  hi char
+ 2024  more at*.Jet.log |grep /char
+ 2025  hi tail
+ 2026  tail -c 1k -f at2c3e0ca.00x24d3b0f.Jet.log
+ 2027  tail -c 4k -f at2c3e0ca.00x24d3b0f.Jet.log
+ 2028  tail -c 8k -f at2c3e0ca.00x24d3b0f.Jet.log
+ 2029  tail -c 16k -f at2c3e0ca.00x24d3b0f.Jet.log
+ 2030  emacs age.clj;git commit -am"~age.clj"
+ 2031  git status
+ 2032  git push
+ 2033  tail -c 16k -f at2c3e0ca.00x24d3b0f.Jet.log
+ 2034  git status
+ 2035  git add ua/*
+ 2036  git add at2c5067d.d9x1c20b00.OvhOneHist.txt 
+ 2037  hi com
+ 2038  git commit -am"+..."
+ 2039  git commit -am"+~..."
+ 2040  hi char
+ 2041  more at*.Jet.log |grep /char
+ 2042  hi ag
+ 2043  emacs age.clj;git commit -am"~age.clj"
+ 2044  hi bo
+ 2045  emacs boot.clj;git commit -am "~boot.clj"
+ 2046  git status
+ 2047  git add ua/*
+ 2048  hi co
+ 2049  git commit -am"+~..."
+ 2050  git add ua/*
+ 2051  git commit -am"+~..."
+ 2052  ls -l ua
+ 2053  cat ua/8ec77f73cafd7ee66d7acc6cb90e28946240260ba0cd1fbd30d244e09c98edf3 
+ 2054  git status
+ 2055  git add ua/*
+ 2056  hi co
+ 2057  git commit -am"+~..."
+ 2058  cat Jet.java
+ 2059  hi key
+ 2060  hi jks
+ 2061  grep keystore *
+ 2062  ls /etc/letsencrypt/live/sl4.eu/
+ 2063  openssl pkcs12 -export -out keystore.pkcs12 -in /etc/letsencrypt/live/sl4.eu/fullchain.pem -inkey /etc/letsencrypt/keys/0001_key-certbot.pem 
+ 2064  more pm
+ 2065  cat pw
+ 2066  openssl pkcs12 -export -out keystore.pkcs12 -in /etc/letsencrypt/live/sl4.eu/fullchain.pem -inkey /etc/letsencrypt/keys/0001_key-certbot.pem 
+ 2067  ls
+ 2068  ls -l keystore.pkcs12 
+ 2069  grep pkcs *
+ 2070  #keytool -importkeystore -srckeystore keystore.pkcs12 -srcstoretype PKCS12 -destkeystore keystore.jks
+ 2071  ls /root/
+ 2072  keytool -importkeystore -srckeystore keystore.pkcs12 -srcstoretype PKCS12 -destkeystore /root/keystore.jks
+ 2073  cat pw
+ 2074  keytool -importkeystore -srckeystore keystore.pkcs12 -srcstoretype PKCS12 -destkeystore /root/keystore.jks
+ 2075  hi noh
+ 2076  ps aux
+ 2077  kill -9 7561
+ 2078  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 2079  ps aux
+ 2080  hi pw
+ 2081  pw=`cat pw`
+ 2082  ps aux
+ 2083  kill -9 19232
+ 2084  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 2085  git status
+ 2086  git add at2c54a96.eax39b7c03.Jet.log at2c54ad3.2dx39b7c03.Jet.log
+ 2087  hi co
+ 2088  git commit -am"+~..."
+ 2089  git status
+ 2090  ls -l keystore.pkcs12 
+ 2091  xxd keystore.pkcs12 
+ 2092  rm keystore.pkcs12
+ 2093  hi bo
+ 2094  emacs boot.clj;git commit -am "~boot.clj"
+ 2095  hi ta
+ 2096  hi tai
+ 2097  git status
+ 2098  tail -f at2c54ad3.2dx39b7c03.Jet.log
+ 2099  hi ua
+ 2100  git add ua/*
+ 2101  git statu
+ 2102  git status
+ 2103  hi co
+ 2104  git commit -am"+~..."
+ 2105  git status
+ 2106  git push
+ 2107  hi bo
+ 2108  emacs +999 boot.clj;git commit -am "~boot.clj"
+ 2109  hi ta
+ 2110  tail -f at2c54ad3.2dx39b7c03.Jet.log
+ 2111  cat boot.clj 
+ 2112  cp at2c54ad3.2dx39b7c03.Jet.log atTmp
+ 2113  emacs +9999 atTmp 
+ 2114  rm atTmp 
+ 2115  hi ta
+ 2116  tail -f at2c54ad3.2dx39b7c03.Jet.log
+ 2117  git status
+ 2118  hi ua
+ 2119  git add ua/*
+ 2120  hi co
+ 2121  git commit -am"+~..."
+ 2122  hi char
+ 2123  #emacs char.clj
+ 2124  cp char.clj text.clj
+ 2125  git add text.clj
+ 2126  git commit -am"cp char.clj text.clj"
+ 2127  emacs char.clj;git commit -am"~text.clj"
+ 2128  emacs text.clj;git commit -am"~text.clj"
+ 2129  hi ua
+ 2130  git add ua/*
+ 2131  hi ta
+ 2132  tail -f at2c54ad3.2dx39b7c03.Jet.log
+ 2133  cat ua/d92714eb6b0faed7e4d928e8cfcca42c1e7b3233fc9c0915a44690d8d50ec063 
+ 2134  grep d6fa66 *Jet*
+ 2135  grep 59eebc79 *Jet*
+ 2136  grep d92714 *Jet*
+ 2137  hi ta
+ 2138  tail -f at2c54ad3.2dx39b7c03.Jet.log
+ 2139  git status
+ 2140  hi ua
+ 2141  git add ua/*
+ 2142  hi bt
+ 2143  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 2144  #at2c56067.1ex1f40255
+ 2145  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 2146  #exit?
+ 2147  hi ta
+ 2148  tail -f at2c54ad3.2dx39b7c03.Jet.log
+ 2149  hi bo
+ 2150  emacs +999 boot.clj;git commit -am "~boot.clj"
+ 2151  tail -f at2c54ad3.2dx39b7c03.Jet.log
+ 2152  hi bt
+ 2153  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a
+ 2154  #at2c56a67.a1x630140c
+ 2155  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
