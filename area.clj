@@ -1,0 +1,83 @@
+(fn[rq rs](let[
+ ip(.split(.getRemoteHost rq)"\\.")
+ i(apply str(map(fn[i](format"%02x"(Long. i)))ip))
+ t(-(.getTime(java.util.Date.))1443408427000)
+ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
+   (. h update m)(.digest h)))
+ f(fn[h](apply str(map
+  #(format "%02x"(bit-and % 0xff))h)))
+ ua(.getHeader rq"User-Agent")
+ uh(f(h(.getBytes ua)))
+ uf(java.io.File.(str"ua/"uh))
+ d(long(/ t 1000.0))
+ r(- t(* d 1000));mod?
+ a(format"%02x.%02x"d(quot(* 256 r)1000))]
+;(.println *err*"\007")
+(println a i(subs uh 0 6)(if(=(.getScheme rq)"http")"h""s")(.getRequestURI rq))
+(if(not(.exists uf))(spit uf ua))
+(if(.startsWith(.getRequestURI rq)"/cookie")
+ ((eval(read-string(slurp"cookie.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/favicon.ico")
+  (.sendRedirect rs
+   "https://upload.wikimedia.org/wikipedia/commons/a/a5/Greek_lc_alpha.png")
+ (if(.startsWith(.getRequestURI rq)"/memoDev")
+ ((eval(read-string(slurp"memoDev.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/memo")
+ ((eval(read-string(slurp"memo.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/phim")
+ ((eval(read-string(slurp"phim.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/math")
+ ((eval(read-string(slurp"math.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/nobel")
+ ((eval(read-string(slurp"nobel.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/nob")
+ ((eval(read-string(slurp"nob.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/age")
+ ((eval(read-string(slurp"age.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/rq")
+  (slurp"/root/rq.zip")
+  (if(.startsWith(.getRequestURI rq)"/tap")
+ ((eval(read-string(slurp"tapestry.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/char")
+ ((eval(read-string(slurp"char.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/a9e")
+  (.sendRedirect rs
+   "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
+(hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
+[:body
+[:p"Hi "(subs uh 0 6)"@"i]
+"&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
+[:br]"try "
+[:a{:href"https://i.sl4.eu/age"}"History"]" "
+[:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
+[:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
+[:br]
+" or create our future yourself:"[:br]
+[:textarea#t{:cols 32 :rows 32}"This TextArea is stored in a BlockChain!
+*TopSecret*: VraagTeken verboten - please use »¿«
+
+where is DiebesGott¿¿
+
+hi DiebesGott!!! ;)
+
+:060435 z 9? AmSims
+InBox (3):
+ AmHaus: SchnarchKarte?
+ CatChen: EarlForest soon
+ HiPo: HautAnHaut!
+ JoKo: AlphaNet¿"]
+[:script"
+ var last='This TextArea is stored in a BlockChain'
+ setInterval(function(){
+  if(last!=document.getElementById('t').value){
+   last=document.getElementById('t').value
+   xhr=new XMLHttpRequest()
+   xhr.open('get','/text/'+document.getElementById('t').value)
+   xhr.onreadystatechange=function(){
+    if(xhr.readyState===4)
+     if(xhr.status===200)
+      h=xhr.responseText.split('.')
+     else
+      console.log('Error: '+xhr.status)}
+   xhr.send(null)}},1000)"]
+]]))))))))))))))))
