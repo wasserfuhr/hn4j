@@ -1,3 +1,3 @@
 (ns x(:require[clojure.data.json :as json]))
-(first(:bindings(:results
-  (json/read-str (slurp(str"wd/""0322"))] :key-fn keyword)))
+(let[m"03"d"22](first(:bindings(:results
+ (json/read-str (slurp(str"wd/"m d)) :key-fn keyword))))
