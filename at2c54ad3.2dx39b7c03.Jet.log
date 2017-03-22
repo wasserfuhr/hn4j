@@ -5366,3 +5366,35 @@ java.lang.NullPointerException
 2ca1f9a.ff 4fc9ca04 5b35cd h /test
 2ca1f9b.aa 4fc9ca04 5b35cd h /favicon.ico
 2017-03-22 20:00:22.672:WARN:oejh.HttpGenerator:Ignoring extra content null
+2ca1fbb.14 4fc9ca04 5b35cd h /test
+2017-03-22 20:00:54.082:WARN:oejs.AbstractHttpConnection:/test
+java.lang.IllegalArgumentException: No value supplied for key: true
+	at clojure.lang.PersistentHashMap.create(PersistentHashMap.java:77)
+	at clojure.core$hash_map.invokeStatic(core.clj:387)
+	at clojure.core$hash_map.doInvoke(core.clj:379)
+	at clojure.lang.RestFn.applyTo(RestFn.java:137)
+	at clojure.core$apply.invokeStatic(core.clj:646)
+	at clojure.java.io$writer.invokeStatic(io.clj:119)
+	at clojure.java.io$writer.doInvoke(io.clj:104)
+	at clojure.lang.RestFn.applyTo(RestFn.java:139)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$spit.invokeStatic(core.clj:6668)
+	at clojure.core$spit.doInvoke(core.clj:6668)
+	at clojure.lang.RestFn.invoke(RestFn.java:490)
+	at clojure.core$eval1179998$fn__1179999.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1179767$fn__1179768.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1179762$fn__1179763.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
