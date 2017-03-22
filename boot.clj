@@ -20,20 +20,22 @@
  (if(.startsWith(.getRequestURI rq)"/favicon.ico")
   (.sendRedirect rs
    "https://upload.wikimedia.org/wikipedia/commons/a/a5/Greek_lc_alpha.png")
+ (if(.startsWith(.getRequestURI rq)"/age")
+ ((eval(read-string(slurp"age.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/area")
+ ((eval(read-string(slurp"area.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/math")
+ ((eval(read-string(slurp"math.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/memoDev")
  ((eval(read-string(slurp"memoDev.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/memo")
  ((eval(read-string(slurp"memo.clj")))rq rs)
- (if(.startsWith(.getRequestURI rq)"/phim")
- ((eval(read-string(slurp"phim.clj")))rq rs)
- (if(.startsWith(.getRequestURI rq)"/math")
- ((eval(read-string(slurp"math.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/nobel")
  ((eval(read-string(slurp"nobel.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/nob")
  ((eval(read-string(slurp"nob.clj")))rq rs)
- (if(.startsWith(.getRequestURI rq)"/age")
- ((eval(read-string(slurp"age.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/phim")
+ ((eval(read-string(slurp"phim.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/rq")
   (slurp"/root/rq.zip")
   (if(.startsWith(.getRequestURI rq)"/tap")
@@ -55,16 +57,6 @@
 " or create our future yourself:"[:br]
 [:textarea#t{:cols 32 :rows 32}"This TextArea is stored in a BlockChain!
 *TopSecret*: VraagTeken verboten - please use »¿«
-
-where is DiebesGott¿¿
-
-hi DiebesGott!!! ;)
-
-:060435 z 9? AmSims
-InBox (3):
- AmHaus: SchnarchKarte?
- CatChen: EarlForest soon
- HiPo: HautAnHaut!
  JoKo: AlphaNet¿"]
 [:script"
  var last='This TextArea is stored in a BlockChain'
