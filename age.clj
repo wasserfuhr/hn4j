@@ -1,6 +1,6 @@
 (fn[rq rs](let[c(.getAttribute rq"c")v(.getAttribute rq"vars")t"AlphaHistory"
 s(.split(slurp"picSize.txt")"\n")
-n(.split(slurp"picName.txt")"\n")]
+n(.split(slurp"qpic")"\n")]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title t" &laquo; &alpha;"];(:can c)(:css c)(:vp c)
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]]
@@ -23,8 +23,8 @@ n(.split(slurp"picName.txt")"\n")]
  console.log(q+': '+x+' '+y)}"]
 (map(fn[q](if(not(.startsWith q";"))(let[
  d(read-string(str"0x"q))
- p(filter(fn[i](.startsWith i(str d" ")))s)
- s(filter(fn[i](.startsWith i(str"Q"d" ")))n)]
+ p(filter(fn[i](.startsWith i(str q" ")))s)
+ s(filter(fn[i](.startsWith i(str q" ")))n)]
  (if(and (not-empty p)(not-empty s)(not(.contains(first p)"  ")))
  (let[a(.split(first p)" ")
   bi(.indexOf(first s)" ")
