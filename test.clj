@@ -1,6 +1,9 @@
 (fn[rq rs](let[
- t(-(.getTime(java.util.Date.))1443408427000)
-  d(long(/ t 1000.0))
-   r(- t(* d 1000))]
-    (spit "event.log" "test 1\n" :append true))
-    (format"%02x.%02x"d(quot(* 256 r)1000))))
+ t(-(.getTime(java.util.Date.))(*(0x5608aa2b)1000))
+ d(long(/ t 1000.0))
+ r(- t(* d 1000))]
+ (spit(str"ad"(subs(format"%x" d)0 3))".log")
+  (format "%x %s\n" (quot(* 256 r)1000) "test" :append true))
+    
+    (d
+)))
