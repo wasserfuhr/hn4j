@@ -13,20 +13,20 @@ n(.split(slurp"qpic")"\n")]]
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
 (map(fn[q](if(not(.startsWith q";"))(let[
  d(read-string(str"0x"q))
-  p(filter(fn[i](.startsWith i(str q" ")))s)
-   s(filter(fn[i](.startsWith i(str q" ")))n)]
-    (if(and (not-empty p)(not-empty s)(not(.contains(first p)"  ")))
-     (let[a(.split(first p)" ")
-       bi(.indexOf(first s)" ")
-         b(subs(first s)bi)
-	   h(read-string(str"0x"(get a 2)))
-	     w(read-string(str"0x"(get a 3)))
-	       e(java.net.URLEncoder/encode(.replaceAll b" ""_"))]
-	       [:div{:style"width:200px;height:240px;overflow:hidden;float:left;text-align:center"}
+ p(filter(fn[i](.startsWith i(str q" ")))s)
+ s(filter(fn[i](.startsWith i(str q" ")))n)]
+(if(and (not-empty p)(not-empty s)(not(.contains(first p)"  ")))
+ (let[a(.split(first p)" ")
+   bi(.indexOf(first s)" ")
+   b(subs(first s)bi)
+   h(read-string(str"0x"(get a 2)))
+   w(read-string(str"0x"(get a 3)))
+   e(java.net.URLEncoder/encode(.replaceAll b" ""_"))]
+   [:div{:style"width:200px;height:240px;overflow:hidden;float:left;text-align:center"}
 	        [:img{:id(str"i"q):width w :height h
 		  :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
 		     (subs (second a)0 1)"/"(second a)"/"(subs e 1)"/"w"px-"(subs e 1))}]])))))
-		      (.split(slurp"https://floatingboat2013.appspot.com/eval/55905038")" "))
+		      (.split(slurp"qid")" "))
 		      
 [:br{:style"clear:both"}]
 [:script"for(var q in wd){
