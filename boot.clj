@@ -10,9 +10,8 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  uh(f(h(.getBytes ua)))
  uf(java.io.File.(str"ua/"uh))
  d(long(/ t 1000.0))
- a(format"%02x.%02x"d(quot(* 256 r)1000))
- d(long(/ t 1000.0))
-]
+ r(- t(* d 1000))
+ a(format"%02x.%02x"d(quot(* 256 r)1000))]
 ;(.println *err*"\007")
 (spit(str"ad"(subs(format"%x" d)0 3)".log")
  (format"%s %s %s %s\n"
