@@ -12,7 +12,6 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  d(long(/ t 1000.0))
  a(format"%02x.%02x"d(quot(* 256 r)1000))
  d(long(/ t 1000.0))
-
 ]
 ;(.println *err*"\007")
 (spit(str"ad"(subs(format"%x" d)0 3)".log")
