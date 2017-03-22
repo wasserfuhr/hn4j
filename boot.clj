@@ -1,8 +1,8 @@
 (fn[rq rs](let[
  ip(.split(.getRemoteHost rq)"\\.")
  i(apply str(map(fn[i](format"%02x"(Long. i)))ip))
- t(-(.getTime(java.util.Date.))1443408427000)
- h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
+ t(-(.getTime(java.util.Date.))(* 0x5608aa2b 1000))
+h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
    (. h update m)(.digest h)))
  f(fn[h](apply str(map
   #(format "%02x"(bit-and % 0xff))h)))
@@ -10,10 +10,15 @@
  uh(f(h(.getBytes ua)))
  uf(java.io.File.(str"ua/"uh))
  d(long(/ t 1000.0))
- r(- t(* d 1000));mod?
- a(format"%02x.%02x"d(quot(* 256 r)1000))]
+ a(format"%02x.%02x"d(quot(* 256 r)1000))
+ d(long(/ t 1000.0))
+
+]
 ;(.println *err*"\007")
-(println a i(subs uh 0 6)(if(=(.getScheme rq)"http")"h""s")(.getRequestURI rq))
+(spit(str"ad"(subs(format"%x" d)0 3)".log")
+ (format"%s %s %s %s\n"
+   a i(subs uh 0 6)(if(=(.getScheme rq)"http")"h""s")(.getRequestURI rq))
+  :append true)
 (if(not(.exists uf))(spit uf ua))
  (if(.startsWith(.getRequestURI rq)"/favicon.ico")
   (.sendRedirect rs
