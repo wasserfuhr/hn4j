@@ -40,6 +40,8 @@
  ((eval(read-string(slurp"phim.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/tap")
  ((eval(read-string(slurp"tap.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/test")
+ ((eval(read-string(slurp"test.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/a9e")
   (.sendRedirect rs
    "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
@@ -53,4 +55,4 @@
 [:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
 [:a{:href"https://i.sl4.eu/phim"}"Physics"]" "
 [:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
-]]))))))))))))))))
+]])))))))))))))))))
