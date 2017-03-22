@@ -1,1 +1,1 @@
-(apply str(map(fn[l](subs l 42))(.split(slurp"qls")"\n")))
+(apply str(map(fn[l](subs l 42))(.split(slurp"rct")"\n")))
