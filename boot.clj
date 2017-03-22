@@ -49,27 +49,10 @@
 [:body
 [:p"Hi "(subs uh 0 6)"@"i]
 "&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
-[:br]"try "
+[:br]Ttry "
 [:a{:href"https://i.sl4.eu/age"}"History"]" "
+[:a{:href"https://i.sl4.eu/math"}"Math"]" "
 [:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
+[:a{:href"https://i.sl4.eu/phim"}"Physics"]" "
 [:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
-[:br]
-" or create our future yourself:"[:br]
-[:textarea#t{:cols 32 :rows 32}"This TextArea is stored in a BlockChain!
-*TopSecret*: VraagTeken verboten - please use »¿«
- JoKo: AlphaNet¿"]
-[:script"
- var last='This TextArea is stored in a BlockChain'
- setInterval(function(){
-  if(last!=document.getElementById('t').value){
-   last=document.getElementById('t').value
-   xhr=new XMLHttpRequest()
-   xhr.open('get','/text/'+document.getElementById('t').value)
-   xhr.onreadystatechange=function(){
-    if(xhr.readyState===4)
-     if(xhr.status===200)
-      h=xhr.responseText.split('.')
-     else
-      console.log('Error: '+xhr.status)}
-   xhr.send(null)}},1000)"]
 ]])))))))))))))))))

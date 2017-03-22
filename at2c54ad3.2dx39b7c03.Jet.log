@@ -4541,3 +4541,7 @@ java.lang.RuntimeException: EOF while reading
 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
+2ca0ba9.0f 4fc9ca04 5b35cd h /
+2ca0baa.20 4fc9ca04 5b35cd h /favicon.ico
+2017-03-22 18:35:17.130:WARN:oejh.HttpGenerator:Ignoring extra content null
+2ca0baa.44 4fc9ca04 5b35cd h /text/This%20TextArea%20is%20stored%20in%20a%20BlockChain!*TopSecret*:%20VraagTeken%20verboten%20-%20please%20use%20%C2%BB%C2%BF%C2%AB%20JoKo:%20AlphaNet%C2%BF
