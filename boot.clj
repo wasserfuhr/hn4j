@@ -39,7 +39,7 @@
  (if(.startsWith(.getRequestURI rq)"/phim")
  ((eval(read-string(slurp"phim.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/tap")
- ((eval(read-string(slurp"tapestry.clj")))rq rs)
+ ((eval(read-string(slurp"tap.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/a9e")
   (.sendRedirect rs
    "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
