@@ -23,11 +23,10 @@ n(.split(slurp"qpic")"\n")]
    w(read-string(str"0x"(get a 3)))
    e(java.net.URLEncoder/encode(.replaceAll b" ""_"))]
    [:div{:style"width:200px;height:240px;overflow:hidden;float:left;text-align:center"}
-	        [:img{:id(str"i"q):width w :height h
-		  :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
-		     (subs (second a)0 1)"/"(second a)"/"(subs e 1)"/"w"px-"(subs e 1))}]])))))
-		      (.split(slurp"qid")" "))
-		      
+    [:img{:id(str"i"q):width w :height h :title e
+     :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
+     (subs (second a)0 1)"/"(second a)"/"(subs e 1)"/"w"px-"(subs e 1))}]])))))
+      (.split(slurp"qid")" "))		      
 [:br{:style"clear:both"}]
 [:script"for(var q in wd){
  d=document.getElementById('r'+q)
