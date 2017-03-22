@@ -5636,3 +5636,9 @@ java.lang.ClassCastException: java.lang.Long cannot be cast to clojure.lang.IFn
 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
+2ca466d.40 4fc9d6c9 5b35cd h /test
+2ca466e.6c 4fc9d6c9 5b35cd h /favicon.ico
+2017-03-22 22:46:01.424:WARN:oejh.HttpGenerator:Ignoring extra content null
+2ca4687.a3 4fc9d6c9 5b35cd h /test
+2ca4688.f6 4fc9d6c9 5b35cd h /favicon.ico
+2017-03-22 22:46:27.965:WARN:oejh.HttpGenerator:Ignoring extra content null
