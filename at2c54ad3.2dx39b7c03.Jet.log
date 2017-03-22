@@ -5809,3 +5809,5 @@ java.lang.RuntimeException: Unable to resolve symbol: r in this context
 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
+2017-03-22 22:59:52.001:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-22 23:00:17.556:WARN:oejh.HttpGenerator:Ignoring extra content null
