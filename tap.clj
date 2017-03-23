@@ -5,11 +5,6 @@ n(.split(slurp"qpic")"\n")]
 [:link{:rel"stylesheet":type"text/css":href"https://dresdenlabs.appspot.com/css"}]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
-;[:script{:src"https://raw.githubusercontent.com/wasserfuhr/hn4j/master/WiDa.js"}]
-[:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
- [:img#rQ23{:height 60 :width 49
-   :src"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg"}]
-
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
 (map(fn[q](if(not(.startsWith q";"))(let[
  d(read-string(str"0x"q))
