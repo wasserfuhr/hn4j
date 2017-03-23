@@ -39,6 +39,8 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  ((eval(read-string(slurp"nobel.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/nob")
  ((eval(read-string(slurp"nob.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/phimDev")
+ ((eval(read-string(slurp"phimDev.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/phim")
  ((eval(read-string(slurp"phim.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/tap")
@@ -58,4 +60,4 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
 [:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
 [:a{:href"https://i.sl4.eu/phim"}"Physics"]" "
 [:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
-]])))))))))))))))))
+]]))))))))))))))))))
