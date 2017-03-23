@@ -62,7 +62,7 @@ function abc(l){for(i=0;i<p.length;i++)
   [:td{:style"text-align:right"}"Welcher "[:i"Vor-"]" oder "[:i"Nachname"]" f&auml;ngt an mit..."]]
  [:tr
   [:td{:style"text-align:right"}"Click the images and then press..."]
-  [:td{:rowspan 2}[:input#lA{:name"A":type"button":value"Done":onclick"q();return false"}]]]
+  [:td{:rowspan 2}[:input#lA{:name"A":type"button":value"Done":onclick"q();return false"}]]
   [:td"Clicke die richtigen Bilder an und dann dr&uuml;cke..."]]]
 
 [:div#moreDiv"More in "[:span#more 0]" seconds..."]
