@@ -49,7 +49,8 @@ function q(){try{for(var k in ps){
   more=5
   }catch(e){alert(e)}}
 
-var p=["(apply str(map(fn[q](str"'"(second q)"',\n"))x))"]
+var p=[";(apply str(map(fn[q](str"'"(second q)"',\n"))x))
+"]
 function abc(l){for(i=0;i<p.length;i++)
  document.getElementById(p[i]).height=p[i].startsWith(l)?80:1}"]
 [:table
