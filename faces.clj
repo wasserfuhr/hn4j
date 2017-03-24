@@ -42,6 +42,7 @@ n(.split(slurp"qpic")"\n")]
    [:input{:type"button":value"A":onclick(str"alert('"(subs e 1)"')")}]
    [:input{:type"button":value"G":onclick(str"alert('"(subs e 1)"')")}]
    [:input{:type"button":value"O":onclick(str"alert('"(subs e 1)"')")}]
+   [:input{:type"button":value"W":onclick(str"alert('"(subs e 1)"')")}]
     [:br][:input{:type"button":value"?":onclick(str"alert('"(subs e 1)"')")}]])))))
       (.split"17 4c"" "))
    ;    (.split(slurp"qref")" "))
