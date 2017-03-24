@@ -9,10 +9,10 @@ n(.split(slurp"qpic")"\n")]
 [:script"function cl(e,q){
  var t=document.getElementById(q)
  var x=e.pageX-t.offsetLeft
- console.log( 
-  '/pred/'+q.substr(1)+'/'+
-   Math.round(256*x/t.width).toString(16)+
-   '/RaWa/HiPo')}"]
+ console.log(
+  '/pred/RaWa/HiPo/'+
+  Math.round(256*x/t.width).toString(16)+'/'+
+  q.substr(1))}"]
 (map(fn[q](if(not(.startsWith q";"))(let[
  d(read-string(str"0x"q))
  p(filter(fn[i](.startsWith i(str q" ")))s)
