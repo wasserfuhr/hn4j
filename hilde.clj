@@ -10,7 +10,7 @@ n(.split(slurp"qpic")"\n")]
  var t=document.getElementById(q)
  var x=e.pageX-t.offsetLeft
  console.log( 
-  '/pred/'+q.substr(1)+
+  '/pred/'+q.substr(1)+'/'+
    Math.round(256*x/t.width).toString(16)+
    '/RaWa/HiPo')}"]
 (map(fn[q](if(not(.startsWith q";"))(let[
