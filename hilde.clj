@@ -6,6 +6,20 @@ n(.split(slurp"qpic")"\n")]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"&raquo; "t]
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/WiDa.js"}]
+[:script"function cl(e,q){
+ var t=document.getElementById(q)
+ var x=e.pageX-t.offsetLeft
+ var y=e.pageY-t.offsetTop
+ if(y>200)
+  if(x>100){
+   t.width=t.width*1.2
+   t.height=t.height*1.2}
+  else{
+   t.width=t.width/1.2
+   t.height=t.height/1.2}
+ else
+  t.style.margin=(120-y)*t.width+'px 0 0'+(t.width/2-x)*t.width+'px'
+ console.log(q+': '+x+' '+y)}"]
 (map(fn[q](if(not(.startsWith q";"))(let[
  d(read-string(str"0x"q))
  p(filter(fn[i](.startsWith i(str q" ")))s)
@@ -18,7 +32,7 @@ n(.split(slurp"qpic")"\n")]
    w(read-string(str"0x"(get a 3)))
    e(java.net.URLEncoder/encode(.replaceAll b" ""_"))]
    [:div{:style"width:200px;height:240px;overflow:hidden;float:left;text-align:center"}
-    [:img{:id(str"i"q):width w :height h :title e
+    [:img{:id(str"i"q):width w :height h :onclick(str"cl(event,'i"q"')")
      :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
      (subs (second a)0 1)"/"(second a)"/"(subs e 1)"/"w"px-"(subs e 1))}]])))))
       (.split(slurp"qref")" "))
