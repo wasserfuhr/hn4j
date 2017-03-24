@@ -51,7 +51,7 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  nn(.getTime(java.util.Date.))]
 ;(.println *err*"\007")
 (spit(str"ad"(subs(format"%x" d)0 3)".log")
- (format"%s %s %s %s %3x %s\n"
+ (format"%s %s %s %s %03x %s\n"
    a i(subs uh 0 6)(if(=(.getScheme rq)"http")"h""s")(- nn n)(.getRequestURI rq))
   :append true)
 (if(not(.exists uf))(spit uf ua))
