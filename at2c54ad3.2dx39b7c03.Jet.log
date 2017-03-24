@@ -6647,3 +6647,5 @@ java.lang.RuntimeException: EOF while reading
 2017-03-24 16:06:49.091:WARN:oejs.AbstractHttpConnection:/
 java.lang.NullPointerException
 2017-03-24 16:16:03.602:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-24 16:47:37.709:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-24 17:08:57.789:WARN:oejh.HttpGenerator:Ignoring extra content null
