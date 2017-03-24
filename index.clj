@@ -1,0 +1,72 @@
+(fn[rq rs](let[
+ n(.getTime(java.util.Date.))
+ ip(.split(.getRemoteHost rq)"\\.")
+ i(apply str(map(fn[i](format"%02x"(Long. i)))ip))
+ t(- n(* 0x5608aa2b 1000))
+h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
+   (. h update m)(.digest h)))
+ f(fn[h](apply str(map
+  #(format "%02x"(bit-and % 0xff))h)))
+ ua(.getHeader rq"User-Agent")
+ uh(f(h(.getBytes ua)))
+ uf(java.io.File.(str"ua/"uh))
+ d(long(/ t 1000.0))
+ r(- t(* d 1000))
+ a(format"%02x.%02x"d(quot(* 256 r)1000))]
+;(.println *err*"\007")
+(spit(str"ad"(subs(format"%x" d)0 3)".log")
+ (format"%s %s %s %s %s\n"
+   a i(subs uh 0 6)(if(=(.getScheme rq)"http")"h""s")(.getRequestURI rq))
+  :append true)
+(if(not(.exists uf))(spit uf ua))
+ (if(.startsWith(.getRequestURI rq)"/favicon.ico")
+  (.sendRedirect rs
+   "https://upload.wikimedia.org/wikipedia/commons/a/a5/Greek_lc_alpha.png")
+ (if(.contains(.getRequestURI rq)"/wiki/")
+ ((eval(read-string(slurp"wiki.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/age")
+ ((eval(read-string(slurp"age.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/area")
+ ((eval(read-string(slurp"area.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/char")
+ ((eval(read-string(slurp"char.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/cookie")
+ ((eval(read-string(slurp"cookie.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/faces")
+ ((eval(read-string(slurp"faces.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/hilde")
+ ((eval(read-string(slurp"hilde.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/math")
+ ((eval(read-string(slurp"math.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/memoDev")
+ ((eval(read-string(slurp"memoDev.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/memo")
+ ((eval(read-string(slurp"memo.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/nobel")
+ ((eval(read-string(slurp"nobel.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/nob")
+ ((eval(read-string(slurp"nob.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/phimDev")
+ ((eval(read-string(slurp"phimDev.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/phim")
+ ((eval(read-string(slurp"phim.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/tap")
+ ((eval(read-string(slurp"tap.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/test")
+ ((eval(read-string(slurp"test.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/a9e")
+  (.sendRedirect rs
+   "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
+    ((eval(read-string(slurp"index.clj")))rq rs)
+;(hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
+[:body
+[:p"Hi "(subs uh 0 6)"@"i]
+"&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
+[:br][:br]"Try "
+[:a{:href"https://i.sl4.eu/age"}"History"]" "
+[:a{:href"https://i.sl4.eu/math"}"Math"]" "
+[:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
+[:a{:href"https://i.sl4.eu/phim"}"Physics"]" "
+[:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
+]])
+))))))))))))))))))))
