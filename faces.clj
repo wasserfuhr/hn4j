@@ -34,7 +34,7 @@ n(.split(slurp"qpic")"\n")]
    h(read-string(str"0x"(get a 2)))
    w(read-string(str"0x"(get a 3)))
    e(java.net.URLEncoder/encode(.replaceAll b" ""_"))]
-  [:div{:style"float:left;text-align:center"}
+  [:div{:style"float:left;text-align:center;font-size:200%"}
    [:div{:style"width:200px;height:240px;overflow:hidden;float:left"}
     [:img{:id(str"i"q):width w :height h :onclick(str"cl(event,'i"q"')") ;:style"
      :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
