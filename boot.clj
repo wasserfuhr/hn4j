@@ -21,6 +21,8 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  (if(.startsWith(.getRequestURI rq)"/favicon.ico")
   (.sendRedirect rs
    "https://upload.wikimedia.org/wikipedia/commons/a/a5/Greek_lc_alpha.png")
+ (if(.startsWith(.getRequestURI rq)"/wiki/")
+ ((eval(read-string(slurp"wiki.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/age")
  ((eval(read-string(slurp"age.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/area")
@@ -62,4 +64,4 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
 [:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
 [:a{:href"https://i.sl4.eu/phim"}"Physics"]" "
 [:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
-]])))))))))))))))))))
+]]))))))))))))))))))))
