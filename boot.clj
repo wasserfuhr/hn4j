@@ -31,6 +31,8 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  ((eval(read-string(slurp"char.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/cookie")
  ((eval(read-string(slurp"cookie.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/faces")
+ ((eval(read-string(slurp"faces.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/hilde")
  ((eval(read-string(slurp"hilde.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/math")
@@ -64,4 +66,4 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
 [:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
 [:a{:href"https://i.sl4.eu/phim"}"Physics"]" "
 [:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
-]]))))))))))))))))))))
+]])))))))))))))))))))))
