@@ -1,7 +1,8 @@
 (fn[rq rs](let[
+ n(.getTime(java.util.Date.))
  ip(.split(.getRemoteHost rq)"\\.")
  i(apply str(map(fn[i](format"%02x"(Long. i)))ip))
- t(-(.getTime(java.util.Date.))(* 0x5608aa2b 1000))
+ t(- n(* 0x5608aa2b 1000))
 h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
    (. h update m)(.digest h)))
  f(fn[h](apply str(map
@@ -56,7 +57,8 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  (if(.startsWith(.getRequestURI rq)"/a9e")
   (.sendRedirect rs
    "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
-(hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
+    ((eval(read-string(slurp"index.clj")))rq rs)
+;(hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]]
 [:body
 [:p"Hi "(subs uh 0 6)"@"i]
 "&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
@@ -66,4 +68,5 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
 [:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
 [:a{:href"https://i.sl4.eu/phim"}"Physics"]" "
 [:a{:href"https://i.sl4.eu/tap"}"Tapestry"]
-]])))))))))))))))))))))
+]])
+))))))))))))))))))))
