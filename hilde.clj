@@ -9,10 +9,20 @@ n(.split(slurp"qpic")"\n")]
 [:script"function cl(e,q){
  var t=document.getElementById(q)
  var x=e.pageX-t.offsetLeft
- console.log(
-  '/pred/RaWa/HiPo/'+
-  Math.round(256*x/t.width).toString(16)+'/'+
-  q.substr(1))}"]
+ xhr=new XMLHttpRequest()
+ try{
+  xhr.open('get',
+   '/pred/RaWa/HiPo/'+
+   Math.round(256*x/t.width).toString(16)+'/'+
+   q.substr(1))
+  xhr.onreadystatechange=function(){
+   if(xhr.readyState===4)
+    if(xhr.status===200)
+     h=xhr.responseText.split('.')
+    else
+     console.log('Error: '+xhr.status)}
+  xhr.send(null)}
+ catch(e){console.log('Error: '+xhr.status)}}"]
 (map(fn[q](if(not(.startsWith q";"))(let[
  d(read-string(str"0x"q))
  p(filter(fn[i](.startsWith i(str q" ")))s)
