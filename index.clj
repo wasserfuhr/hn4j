@@ -7,7 +7,7 @@
  uh(f(h(.getBytes ua)))]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]][:body
 [:p"Hi "(subs uh 0 6)"@i"]
-"&alpha;t"a": we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
+"&alpha;ta: we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
 [:br][:br]"Try "
 [:a{:href"https://i.sl4.eu/age"}"History"]" "
 [:a{:href"https://i.sl4.eu/math"}"Math"]" "
