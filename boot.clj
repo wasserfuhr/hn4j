@@ -12,16 +12,8 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  uf(java.io.File.(str"ua/"uh))
  d(long(/ t 1000.0))
  r(- t(* d 1000))
- a(format"%02x.%02x"d(quot(* 256 r)1000))]
-;(.println *err*"\007")
-(spit(str"ad"(subs(format"%x" d)0 3)".log")
- (format"%s %s %s %s %s\n"
-   a i(subs uh 0 6)(if(=(.getScheme rq)"http")"h""s")(.getRequestURI rq))
-  :append true)
-(if(not(.exists uf))(spit uf ua))
- (if(.startsWith(.getRequestURI rq)"/favicon.ico")
-  (.sendRedirect rs
-   "https://upload.wikimedia.org/wikipedia/commons/a/a5/Greek_lc_alpha.png")
+ a(format"%02x.%02x"d(quot(* 256 r)1000))
+ ret
  (if(.contains(.getRequestURI rq)"/wiki/")
  ((eval(read-string(slurp"wiki.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/age")
@@ -36,6 +28,8 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  ((eval(read-string(slurp"faces.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/hilde")
  ((eval(read-string(slurp"hilde.clj")))rq rs)
+ (if(.equals(.getRequestURI rq)"/")
+ ((eval(read-string(slurp"index.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/math")
  ((eval(read-string(slurp"math.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/memoDev")
@@ -53,8 +47,16 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  (if(.startsWith(.getRequestURI rq)"/tap")
  ((eval(read-string(slurp"tap.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/test")
- ((eval(read-string(slurp"test.clj")))rq rs)
+ ((eval(read-string(slurp"test.clj")))rq rs))))))))))))))))))
+ nn(.getTime(java.util.Date.))]
+;(.println *err*"\007")
+(spit(str"ad"(subs(format"%x" d)0 3)".log")
+ (format"%s %s %s %s %x %s\n"
+   a i(subs uh 0 6)(if(=(.getScheme rq)"http")"h""s")(-nn n)(.getRequestURI rq))
+  :append true)
+(if(not(.exists uf))(spit uf ua))
+(if(.startsWith(.getRequestURI rq)"/favicon.ico")
+ (.sendRedirect rs"https://upload.wikimedia.org/wikipedia/commons/a/a5/Greek_lc_alpha.png")
  (if(.startsWith(.getRequestURI rq)"/a9e")
-  (.sendRedirect rs
-   "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
-    ((eval(read-string(slurp"index.clj")))rq rs)))))))))))))))))))))
+  (.sendRedirect rs"https://upload.wikimedia.org/wikipedia/commons/6/6b/Gordon_Moore.jpg")
+  ret))))
