@@ -6065,3 +6065,24 @@ java.lang.RuntimeException: Unmatched delimiter: ]
 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
+2017-03-23 16:46:07.383:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-23 18:04:03.231:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-03-23 19:18:47.735:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-03-23 19:37:59.164:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-03-23 23:40:49.263:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-03-24 03:30:04.445:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-03-24 05:43:47.940:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-03-24 06:11:12.888:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-24 06:23:44.046:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-03-24 09:12:57.256:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-24 09:21:55.809:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-03-24 10:50:45.818:WARN:oejs.AbstractHttpConnection:/phpmyadmin/scripts/setup.php
+java.lang.NullPointerException
