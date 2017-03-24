@@ -34,16 +34,18 @@ n(.split(slurp"qpic")"\n")]
    h(read-string(str"0x"(get a 2)))
    w(read-string(str"0x"(get a 3)))
    e(java.net.URLEncoder/encode(.replaceAll b" ""_"))]
-  [:div{:style"float:left;text-align:center;font-size:200%"}
+  [:div{:style"float:left;text-align:center"}
    [:div{:style"width:200px;height:240px;overflow:hidden;float:left"}
     [:img{:id(str"i"q):width w :height h :onclick(str"cl(event,'i"q"')") ;:style"
      :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
      (subs (second a)0 1)"/"(second a)"/"(subs e 1)"/"w"px-"(subs e 1))}]]
+  [:small"first name or given name starts with...:"]
+  [:div{:style"font-size:300%"}
    [:input{:type"button":value"A":onclick(str"alert('"(subs e 1)"')")}]
    [:input{:type"button":value"G":onclick(str"alert('"(subs e 1)"')")}]
    [:input{:type"button":value"O":onclick(str"alert('"(subs e 1)"')")}]
-   [:input{:type"button":value"W":onclick(str"alert('"(subs e 1)"')")}]
-    [:br][:input{:type"button":value"?":onclick(str"alert('"(subs e 1)"')")}]])))))
+   [:input{:type"button":value"W":onclick(str"alert('"(subs e 1)"')")}]]
+   [:br][:input{:type"button":value"?":onclick(str"alert('"(subs e 1)"')")}]])))))
       (.split"17 4c"" "))
    ;    (.split(slurp"qref")" "))
 [:br{:style"clear:both"}]
