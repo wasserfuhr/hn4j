@@ -1,4 +1,4 @@
-(fn[rq rs](let[c(.getAttribute rq"c")v(.getAttribute rq"vars")t"AlphaTapestry"
+(fn[rq rs](let[c(.getAttribute rq"c")v(.getAttribute rq"vars")t"HildeMemory"
 s(.split(slurp"picSize.txt")"\n")
 n(.split(slurp"qpic")"\n")]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title t" &laquo; &alpha;"];(:can c)(:css c)(:vp c)
