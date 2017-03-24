@@ -39,7 +39,7 @@ n(.split(slurp"qpic")"\n")]
      :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
      (subs (second a)0 1)"/"(second a)"/"(subs e 1)"/"w"px-"(subs e 1))}]
     [:br][:input{:onclick"alert('+"e"+')']])))))
-      (.split(slurp"17 42")" "))
+      (.split"17 42"" "))
    ;    (.split(slurp"qref")" "))
 [:br{:style"clear:both"}]
 [:script"for(var q in wd){
