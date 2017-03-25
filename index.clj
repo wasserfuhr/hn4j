@@ -9,8 +9,8 @@
 [:p"Hi "(subs uh 0 6)"@i"]
 "&alpha;ta: we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
 [:br][:br]"Try "
-[:a{:href"https://i.sl4.eu/age"}"History"]" "
-[:a{:href"https://i.sl4.eu/math"}"Math"]" "
-[:a{:href"https://i.sl4.eu/memo"}"Memory"]" "
-[:a{:href"https://i.sl4.eu/phim"}"Physics"]" "
-[:a{:href"https://i.sl4.eu/tap"}"Tapestry"]]])))
+[:a{:href"https://sl4.eu/age"}"History"]" "
+[:a{:href"https://sl4.eu/math"}"Math"]" "
+[:a{:href"https://sl4.eu/memo"}"Memory"]" "
+[:a{:href"https://sl4.eu/phim"}"Physics"]" "
+[:a{:href"https://sl4.eu/tap"}"Tapestry"]]])))
