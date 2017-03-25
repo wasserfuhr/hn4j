@@ -1,0 +1,111 @@
+2017-03-25 15:35:22.038:INFO:oejs.Server:jetty-8.1.9.v20130131
+2017-03-25 15:35:22.083:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:80
+2017-03-25 15:35:22.262:INFO:oejus.SslContextFactory:Enabled Protocols [SSLv2Hello, TLSv1, TLSv1.1, TLSv1.2] of [SSLv2Hello, SSLv3, TLSv1, TLSv1.1, TLSv1.2]
+2017-03-25 15:35:22.299:INFO:oejs.AbstractConnector:Started SslSocketConnector@0.0.0.0:443
+2017-03-25 15:35:29.268:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:35:36.484:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:35:58.126:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:37:02.305:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:38:06.362:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:39:21.019:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:43:11.004:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:43:13.913:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:43:19.845:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:43:24.104:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:43:33.191:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:49:03.585:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:54:18.043:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:54:28.983:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:54:32.860:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:54:43.016:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:55:14.511:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:55:18.317:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:55:25.623:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:55:29.244:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 15:56:37.311:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:06:05.948:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:08:23.959:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:10:42.541:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:14:07.719:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:15:16.088:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:17:15.124:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:17:19.107:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:18:37.365:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:22:08.426:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:22:11.796:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:26:26.883:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:28:42.298:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:29:13.708:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:34:38.854:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:41:44.364:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:42:28.814:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:46:05.786:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+	at clojure.lang.Reflector.invokeNoArgInstanceMember(Reflector.java:301)
+	at clojure.core$eval4833$fn__4834.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval4828$fn__4829.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2017-03-25 16:49:29.899:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:50:59.659:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:53:58.756:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 16:57:08.345:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 17:04:15.837:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 17:07:09.767:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 17:11:06.522:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 17:18:46.818:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 17:25:30.491:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 17:33:10.464:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 17:39:12.397:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 17:39:50.006:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 17:41:15.395:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 17:47:36.763:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 17:54:47.285:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:03:11.986:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:03:40.655:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:06:46.702:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:10:51.626:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:12:37.365:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+	at clojure.lang.Reflector.invokeNoArgInstanceMember(Reflector.java:301)
+	at clojure.core$eval8039$fn__8040.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval8034$fn__8035.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:24)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.AsyncHttpConnection.handle(AsyncHttpConnection.java:82)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint.handle(SelectChannelEndPoint.java:628)
+	at org.eclipse.jetty.io.nio.SelectChannelEndPoint$1.run(SelectChannelEndPoint.java:52)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2017-03-25 18:18:07.292:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:19:08.925:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:23:27.188:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:25:05.977:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:25:43.869:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:33:40.981:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:40:21.509:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:47:54.572:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 18:54:43.688:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 19:01:36.598:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 19:02:33.063:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 19:09:29.481:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-25 19:16:42.796:WARN:oejh.HttpGenerator:Ignoring extra content null
