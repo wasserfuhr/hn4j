@@ -21,7 +21,7 @@ n(.split(slurp"qpic")"\n")]
     [:img{:id(str"i"q):width w :height h :title e
      :src(str"https://upload.wikimedia.org/wikipedia/commons/thumb/"
      (subs (second a)0 1)"/"(second a)"/"(subs e 1)"/"w"px-"(subs e 1))}]])))))
-      (.split(slurp"q163700.txt")" "))
+      (.split(slurp"qref")" "))
 [:br{:style"clear:both"}]
 [:script"for(var q in wd){
  d=document.getElementById('r'+q)
