@@ -3,6 +3,6 @@
 l(.getName f)
 q(read-string(str"0x"l))
 s(slurp(str"q/"l))]
- (str r" "(count(keys(:labels
+ (str f" "(count(keys(:labels
   ((keyword (str"Q"q))(:entities(json/read-str s :key-fn keyword))))))"\n")))
  (.listFiles(java.io.File."q")))))
