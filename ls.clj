@@ -1,0 +1,1 @@
+(apply str(map(fn[l](str(first(.split l" "))" "))(.split(slurp"hHip")"\n")))
