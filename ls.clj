@@ -1,1 +1,1 @@
-(apply str(map(fn[l](str(first(.split l" "))" "))(.split(slurp"hHip")"\n")))
+(apply str(map(fn[l](str l"\n"))(.listFiles(java.io.File."q"))))
