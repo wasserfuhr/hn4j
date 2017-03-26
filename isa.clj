@@ -2,9 +2,8 @@
 
 (map(fn[f](let[
 l(.getName f)
-n(subs l 2)
 q(read-string(str"0x"l))
 s(slurp(str"q/"l))]
- (print(format"%s %s\n"l(:value(:datavalue(:mainsnak(first(:P5(:claims
+ (print(format"%s %s\n"l(:value(:datavalue(:mainsnak(first(:P31(:claims
    ((keyword (str"Q"q))(:entities(json/read-str s :key-fn keyword)))))))))))))
    (.listFiles(java.io.File."q")))
