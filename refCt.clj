@@ -1,5 +1,8 @@
 (ns x(:require[clojure.data.json :as json]))
-(print(apply str(map(fn[r](let[
+(print(apply str(map(fn[f](let[
+l(.getName f)
+q(read-string(str"0x"l))
+s(slurp(str"q/"l))]
 q(read-string(str"0x"r))
 s(slurp(str"q/"r))]
  (str r" "(count(keys(:labels
