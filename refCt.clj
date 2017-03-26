@@ -4,4 +4,6 @@ q(read-string(str"0x"r))
 s(slurp(str"q/"r))]
  (str r" "(count(keys(:labels
   ((keyword (str"Q"q))(:entities(json/read-str s :key-fn keyword))))))"\n")))
- (.split(slurp"qidT")" "))))
+ (.split(slurp"qidT")" ")
+ (.listFiles(java.io.File."q"))
+)))
