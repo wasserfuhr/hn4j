@@ -1993,5 +1993,3 @@ fec3 d1 f0 e3
 fec7 92 f0 a2
 ff34 0  f0 9f
 ff4c 5a f0 cf
-nil
-user=> 
