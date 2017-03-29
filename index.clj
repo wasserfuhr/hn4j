@@ -62,7 +62,7 @@ document.bi=document.createElement('img');
  var i=document.getElementById('rot').childNodes[Math.floor(8*Math.random())]
 // var ii=document.createElement('img')
  //ii.alt=ct
- ii.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+im[ct%8]
+ i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+im[ct%8]
  //ii.style.width='45px'
  //ii.style.height='60px'
  //document.getElementById('rot').appendChild(ii);
