@@ -13,4 +13,8 @@
 [:a{:href"https://sl4.eu/math"}"Math"]" "
 [:a{:href"https://sl4.eu/memo"}"Memory"]" "
 [:a{:href"https://sl4.eu/phim"}"Physics"]" "
-[:a{:href"https://sl4.eu/tap"}"Tapestry"]]])))
+[:a{:href"https://sl4.eu/tap"}"Tapestry"]
+[:script"
+var now=new Date().getTime()
+setInterval(function(){
+ document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'},50)"]])))
