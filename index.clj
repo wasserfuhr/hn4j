@@ -8,7 +8,7 @@
  uh(f(h(.getBytes ua)))]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]][:body
 [:div{:style"overflow:hidden;height:60px;width:750px"}
-[:div#rot{:style"overflow:hidden;height:60px;width:900px;margin-left:-50px"}
+[:div#rot{:style"overflow:hidden;height:60px;width:900px;margin-let:-50px"}
  [:img{:style"height:60px"
  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
  [:img{:style"height:60px"
@@ -48,9 +48,7 @@ document.bi=document.createElement('img');
  var ii=document.createElement('img')
  ii.alt=ct
  ii.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+im[ct%8]
- ii.style.width='25%'
- ii.style.height=''
- ii.style.width='12%'
+ ii.style.width='45px'
  ii.style.height='60px'
  document.getElementById('rot').appendChild(ii);
  i.remove()
