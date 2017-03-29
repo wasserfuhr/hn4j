@@ -6,8 +6,8 @@ e(java.net.URLEncoder/encode
 q(str"https://query.wikidata.org/sparql?query="e"&format=json")]
 (print(apply str
  (map(fn[i](format"%x %s\n"(Long.(subs(:value(:h i))l))
- ;(Long.
+ (Long.
  (:value(:i i))
- ;)
+ )
  ))
  (:bindings(:results(json/read-str (slurp q) :key-fn keyword)))))))
