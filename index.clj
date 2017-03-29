@@ -18,9 +18,9 @@
 [:a{:href"https://sl4.eu/tap"}"Tapestry"]
 [:script"
 im=[
-'4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg'
-'0/0e/Goethe_%28Stieler_1828%29.jpg/195px-Goethe_%28Stieler_1828%29.jpg'
-'9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg'
+'4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg',
+'0/0e/Goethe_%28Stieler_1828%29.jpg/195px-Goethe_%28Stieler_1828%29.jpg',
+'9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg',
 'f/fc/Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg/195px-Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg']
 
 
