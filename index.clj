@@ -25,7 +25,7 @@
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/hilde.js"}]
 [:script"
 try{
-alert(
+//alert(
 // document.getElementById('rot').childNodes[63])
 }catch(e){alert(e)}
 
