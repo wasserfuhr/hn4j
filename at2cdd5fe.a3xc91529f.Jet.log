@@ -3767,3 +3767,4 @@ java.lang.RuntimeException: Unable to resolve symbol: img in this context
 2017-03-29 16:24:45.316:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-03-29 16:34:47.277:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-03-29 16:40:24.563:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 16:44:42.654:WARN:oejh.HttpGenerator:Ignoring extra content null
