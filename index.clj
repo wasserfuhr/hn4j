@@ -23,15 +23,8 @@
 [:a{:href"https://sl4.eu/memo"}"Memory"]" "
 [:a{:href"https://sl4.eu/phim"}"Physics"]" "
 [:a{:href"https://sl4.eu/tap"}"Tapestry"]
+[:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/hilde.js"}]
 [:script"
-im=[
-'4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg',
-
-'0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg/160px-Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg',
-'f/f3/Usain_Bolt_Rio_100m_final_2016k.jpg/139px-Usain_Bolt_Rio_100m_final_2016k.jpg',
-
-]
-
 ct=0;
 var now=new Date().getTime()
 setInterval(function(){
@@ -42,7 +35,7 @@ document.bi=document.createElement('img');
  var i=document.getElementById('rot').childNodes[Math.floor(64*Math.random())]
 // var ii=document.createElement('img')
  //ii.alt=ct
- i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+im[ct%24]
+ i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hm[ct%24]
  //ii.style.width='45px'
  //ii.style.height='60px'
  //document.getElementById('rot').appendChild(ii);
