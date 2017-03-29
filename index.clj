@@ -17,4 +17,4 @@
 [:script"
 var now=new Date().getTime()
 setInterval(function(){
- document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'},50)"]])))
+ document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'},50)"]]])))
