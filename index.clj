@@ -10,11 +10,11 @@
  uh(f(h(.getBytes ua)))]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]][:body
 ;[:div{:style"overflow:hidden;height:60px;width:750px"}
-;[:div#rot{:style"overflow:hidden;height:60px;width:900px;margin-let:-50px"}
+[:div#rot;{:style"overflow:hidden;height:60px;width:900px;margin-let:-50px"}
 (map(fn[i]
  [:img{:style"height:60px;width:45px"}]
  )(range 64))
-;]]
+];]
 [:p"Hi "(subs uh 0 6)"@"i]
 [:br][:br]"Try "
 [:a{:href"https://sl4.eu/age"}"History"]" "
