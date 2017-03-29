@@ -22,9 +22,9 @@
 [:a{:href"https://sl4.eu/memo"}"Memory"]" "
 [:a{:href"https://sl4.eu/phim"}"Physics"]" "
 [:a{:href"https://sl4.eu/tap"}"Tapestry"]
-[:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/hilde.js"}]
+;[:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/hilde.js"}]
 [:script(slurp"hilde.js")]
-
+[:script"
 try{
 //alert(
 // document.getElementById('rot').childNodes[63])
