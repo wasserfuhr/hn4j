@@ -7,8 +7,7 @@
  ua(.getHeader rq"User-Agent")
  uh(f(h(.getBytes ua)))]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]][:body
-[:div#rot
-(map(fn[i][:img{:id(str"i"i):alt i}])l)]
+[:div#rot(map(fn[i][:img{:id(str"i"i):alt i}])l)]
 [:p"Hi "(subs uh 0 6)"@i"]
 "&alpha;ta: we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
 [:br][:br]"Try "
@@ -23,7 +22,7 @@ var now=new Date().getTime()
 setInterval(function(){
 // document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'
 // document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'
-document.bi=document.createElement("img");
+document.bi=document.createElement('img');
  ct=(ct+1)%(count l)
  var i=document.getElementById('rot').childNodes[0]
  var ii=document.createElement('img')
