@@ -26,15 +26,15 @@
 [:script"
 try{
 alert(
- document.getElementById('rot').childNodes[63])
+// document.getElementById('rot').childNodes[63])
 }catch(e){alert(e)}
 
 try{
 var ct=0;
 var now=new Date().getTime()
 setInterval(function(){
- ct=(ct+1)%64
+ ct++
  var i=document.getElementById('rot').childNodes[Math.floor(64*Math.random())]
- i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%128]},10000)
+ i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%128]},1000)
 }catch(e){alert(e)}
 "]]])))
