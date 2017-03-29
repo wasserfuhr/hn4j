@@ -24,10 +24,14 @@
 [:a{:href"https://sl4.eu/tap"}"Tapestry"]
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/hilde.js"}]
 [:script"
+try{
 ct=0;
 var now=new Date().getTime()
 setInterval(function(){
  ct=(ct+1)%64
  var i=document.getElementById('rot').childNodes[Math.floor(64*Math.random())]
  i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%128]
-},1000)"]]])))
+}
+
+catch(e){alert e}
+,1000)"]]])))
