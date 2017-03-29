@@ -30,7 +30,6 @@ var now=new Date().getTime()
 setInterval(function(){
  ct=(ct+1)%64
  var i=document.getElementById('rot').childNodes[Math.floor(64*Math.random())]
- i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%128]
-,1000)
+ i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%128]},1000)
 }catch(e){alert e}
 "]]])))
