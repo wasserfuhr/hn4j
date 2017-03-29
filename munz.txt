@@ -1,7 +1,4 @@
-Wed Mar 29 13:52:21 CEST 2017
-Clojure 1.8.0
-user=> nil
-x=> c932 4206
+c932 4206
 c93f 3f5e
 c951 4ef2
 cf22 508a
