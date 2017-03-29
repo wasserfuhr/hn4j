@@ -23,7 +23,7 @@ setInterval(function(){
 // document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'
 // document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'
 document.bi=document.createElement('img');
- ct=(ct+1)%(count l)
+ ct=(ct+1)%"(count l)"
  var i=document.getElementById('rot').childNodes[0]
  var ii=document.createElement('img')
  ii.alt=ct

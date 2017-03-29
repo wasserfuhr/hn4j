@@ -3760,3 +3760,4 @@ java.lang.RuntimeException: Unable to resolve symbol: img in this context
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
 2017-03-29 16:17:39.931:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 16:18:07.416:WARN:oejh.HttpGenerator:Ignoring extra content null
