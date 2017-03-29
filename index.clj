@@ -52,12 +52,12 @@ setInterval(function(){
 // document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'
 document.bi=document.createElement('img');
  ct=(ct+1)%"(count l)"
- var i=document.getElementById('rot').childNodes[0]
- var ii=document.createElement('img')
- ii.alt=ct
+ var i=document.getElementById('rot').childNodes[Math.floor(8*Math.random())]
+// var ii=document.createElement('img')
+ //ii.alt=ct
  ii.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+im[ct%8]
- ii.style.width='45px'
- ii.style.height='60px'
- document.getElementById('rot').appendChild(ii);
- i.remove()
+ //ii.style.width='45px'
+ //ii.style.height='60px'
+ //document.getElementById('rot').appendChild(ii);
+ //i.remove()
 },1000)"]]])))
