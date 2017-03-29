@@ -25,6 +25,10 @@
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/hilde.js"}]
 [:script"
 try{
+alert(Math.floor(1.5))
+}catch(e){alert(e)}
+
+try{
 ct=0;
 var now=new Date().getTime()
 setInterval(function(){
