@@ -8,7 +8,8 @@
   #(format "%02x"(bit-and % 0xff))h)))
  ua(.getHeader rq"User-Agent")
  uh(f(h(.getBytes ua)))]
-(hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]][:body
+(hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]
+[:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]][:body
 ;[:div{:style"overflow:hidden;height:60px;width:750px"}
 [:div#rot;{:style"overflow:hidden;height:60px;width:900px;margin-let:-50px"}
 (map(fn[i]
