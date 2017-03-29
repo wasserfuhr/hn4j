@@ -21,7 +21,12 @@ im=[
 '4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg',
 '0/0e/Goethe_%28Stieler_1828%29.jpg/195px-Goethe_%28Stieler_1828%29.jpg',
 '9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg',
-'f/fc/Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg/195px-Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg']
+'f/fc/Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg/195px-Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg',
+'5/5f/Elizabeth_II_greets_NASA_GSFC_employees%2C_May_8%2C_2007_edit.jpg/173px-Elizabeth_II_greets_NASA_GSFC_employees%2C_May_8%2C_2007_edit.jpg',
+'5/5e/Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg/207px-Miguel_%C3%81ngel%2C_por_Daniele_da_Volterra_%28detalle%29.jpg',
+'2/2d/Angela_Merkel_Juli_2010_-_3zu4.jpg/197px-Angela_Merkel_Juli_2010_-_3zu4.jpg',
+'b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/197px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg'
+]
 
 ct=0;
 var now=new Date().getTime()
@@ -36,6 +41,8 @@ document.bi=document.createElement('img');
  ii.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+im[ct%4]
  ii.style.width='25%'
  ii.style.height='25%'
+ ii.style.width='12%'
+ ii.style.height='12%'
  document.getElementById('rot').appendChild(ii);
  i.remove()
 },1000)"]]])))
