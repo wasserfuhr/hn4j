@@ -7,14 +7,14 @@
  ua(.getHeader rq"User-Agent")
  uh(f(h(.getBytes ua)))]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]][:body
-[:div{:style"overflow:hidden;height:60px;width:750px"}
-[:div#rot{:style"overflow:hidden;height:60px;width:900px;margin-let:-50px"}
+;[:div{:style"overflow:hidden;height:60px;width:750px"}
+;[:div#rot{:style"overflow:hidden;height:60px;width:900px;margin-let:-50px"}
 (map(fn[i]
  [:img{:style"height:60px;width:45px"}]
- )(range 8))
-]]
+ )(range 64))
+;]]
 [:p"Hi "(subs uh 0 6)"@i"]
-"&alpha;ta: we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
+
 [:br][:br]"Try "
 [:a{:href"https://sl4.eu/age"}"History"]" "
 [:a{:href"https://sl4.eu/math"}"Math"]" "
@@ -40,7 +40,7 @@ setInterval(function(){
 // document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'
 document.bi=document.createElement('img');
  ct=(ct+1)%"(count l)"
- var i=document.getElementById('rot').childNodes[Math.floor(8*Math.random())]
+ var i=document.getElementById('rot').childNodes[Math.floor(64*Math.random())]
 // var ii=document.createElement('img')
  //ii.alt=ct
  i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+im[ct%8]
