@@ -47,9 +47,9 @@ document.bi=document.createElement('img');
  ii.alt=ct
  ii.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+im[ct%8]
  ii.style.width='25%'
- ii.style.height='25%'
+ ii.style.height=''
  ii.style.width='12%'
- ii.style.height='12%'
+ ii.style.height='60px'
  document.getElementById('rot').appendChild(ii);
  i.remove()
 },1000)"]]])))
