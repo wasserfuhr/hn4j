@@ -23,8 +23,6 @@ im=[
 '9/9c/Sir_Winston_S_Churchill.jpg/192px-Sir_Winston_S_Churchill.jpg',
 'f/fc/Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg/195px-Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_%281819%29.jpg']
 
-
-
 ct=0;
 var now=new Date().getTime()
 setInterval(function(){
@@ -34,8 +32,10 @@ document.bi=document.createElement('img');
  ct=(ct+1)%"(count l)"
  var i=document.getElementById('rot').childNodes[0]
  var ii=document.createElement('img')
- ii.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+im[ct%4]
  ii.alt=ct
+ ii.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+im[ct%4]
+ ii.width='25%'
+ ii.height='25%'
  document.getElementById('rot').appendChild(ii);
  i.remove()
 },1000)"]]])))
