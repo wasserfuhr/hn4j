@@ -25,7 +25,7 @@
 [:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/hilde.js"}]
 [:script"
 try{
-alert(Math.floor(1.5))
+alert(Math.random())
 }catch(e){alert(e)}
 
 try{
