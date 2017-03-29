@@ -8,6 +8,7 @@
  uh(f(h(.getBytes ua)))]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]][:body
 [:div#rot{:style"overflow:hidden;height:60px;width:900px;margin-left:-50px"}
+ [:img]
 ;(map(fn[i][:img{:id(str"i"i):alt i}])l)
 ]
 [:p"Hi "(subs uh 0 6)"@i"]
