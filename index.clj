@@ -35,7 +35,7 @@ document.bi=document.createElement('img');
  var i=document.getElementById('rot').childNodes[Math.floor(64*Math.random())]
 // var ii=document.createElement('img')
  //ii.alt=ct
- i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hm[ct%24]
+ i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%24]
  //ii.style.width='45px'
  //ii.style.height='60px'
  //document.getElementById('rot').appendChild(ii);
