@@ -1,5 +1,4 @@
 (fn[rq rs](let[
- l(.split"a71 9e2 4c 16b1 a7d 3a9 25e0 15c9 464 a2f 334d 3e9 1208 2365 2df2 237 16f7 438d af8 a27 26e8 8d7 85a3 572 23ff 7f6 248e 6d0 1b39 1cf8 c0 12f 90a6 817 5b 15ce 327f 9d 198a 1887 1f50 1169 3ab7 1cce 2896 15d4 4a5 11fc 7753 4e6 3261 2557 3fa9 15d9 7fa 116e 2552 1c53 1023b 4e5 2359 b5 876e 282f 592 3df 2cc3 22ad 1346 fe 234c 9ee a819 25f 94a1 5c8 3e5 10a5 326c 1209 652 14948 3217 4f0 b9 4f3 11abe 350 1dd5 2529 25875 76de2 16a43 375"" ")
  ip(.split(.getRemoteHost rq)"\\.")
  i(apply str(map(fn[i](format"%02x"(Long. i)))ip))
  h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
@@ -8,7 +7,7 @@
   #(format "%02x"(bit-and % 0xff))h)))
  ua(.getHeader rq"User-Agent")
  uh(f(h(.getBytes ua)))]
-(hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]
+(hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"&alpha &racut; &beta;"]
 [:meta{:name"viewport":content"width=device-width,initial-scale=1.0"}]][:body
 ;[:div{:style"overflow:hidden;height:60px;width:750px"}
 [:div#rot;{:style"overflow:hidden;height:60px;width:900px;margin-let:-50px"}
@@ -28,16 +27,7 @@
 ct=0;
 var now=new Date().getTime()
 setInterval(function(){
-// document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'
-// document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'
-document.bi=document.createElement('img');
- ct=(ct+1)%"(count l)"
+ ct=(ct+1)%64
  var i=document.getElementById('rot').childNodes[Math.floor(64*Math.random())]
-// var ii=document.createElement('img')
- //ii.alt=ct
- i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%24]
- //ii.style.width='45px'
- //ii.style.height='60px'
- //document.getElementById('rot').appendChild(ii);
- //i.remove()
+ i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%128]
 },1000)"]]])))
