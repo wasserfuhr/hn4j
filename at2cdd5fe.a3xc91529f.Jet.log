@@ -3783,3 +3783,4 @@ java.lang.RuntimeException: Unable to resolve symbol: img in this context
 2017-03-29 17:11:12.632:WARN:oejs.AbstractHttpConnection:/phpmyadmin/scripts/setup.php
 java.lang.NullPointerException
 2017-03-29 17:11:28.219:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 17:14:11.332:WARN:oejh.HttpGenerator:Ignoring extra content null
