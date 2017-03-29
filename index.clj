@@ -11,6 +11,8 @@
 [:div#rot{:style"overflow:hidden;height:60px;width:900px;margin-left:-50px"}
  [:img{:style"height:60px"
  :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
+ [:img{:style"height:60px"
+ :src"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Susan_Polgar_6.jpg/192px-Susan_Polgar_6.jpg"}]
 ;(map(fn[i][:img{:id(str"i"i):alt i}])l)
 ]]
 [:p"Hi "(subs uh 0 6)"@i"]
