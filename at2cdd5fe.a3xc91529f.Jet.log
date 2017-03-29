@@ -3209,3 +3209,5 @@ java.lang.RuntimeException: Unmatched delimiter: )
 2017-03-29 15:56:15.280:WARN:oejs.AbstractHttpConnection:/
 java.lang.NullPointerException
 2017-03-29 15:56:26.068:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 16:01:49.068:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 16:05:20.856:WARN:oejh.HttpGenerator:Ignoring extra content null

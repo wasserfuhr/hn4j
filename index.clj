@@ -6,6 +6,9 @@
  ua(.getHeader rq"User-Agent")
  uh(f(h(.getBytes ua)))]
 (hiccup.core/html"<!DOCTYPE html>"[:html[:head[:title"α β"]][:body
+[:div#rot]
+(map(fn[i]))
+(.split
 [:p"Hi "(subs uh 0 6)"@i"]
 "&alpha;ta: we are "[:a{:href"https://dresdenlabs.appspot.com/"}"&alpha;"]" approaching &beta;."
 [:br][:br]"Try "
@@ -17,4 +20,6 @@
 [:script"
 var now=new Date().getTime()
 setInterval(function(){
- document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'},50)"]]])))
+// document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'
+ document.getElementById('rot').style.marginLeft=(now-new Date().getTime())/500+'px'
+},1000)"]]])))
