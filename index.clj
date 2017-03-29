@@ -30,7 +30,7 @@ alert(
 }catch(e){alert(e)}
 
 try{
-ct=0;
+var ct=0;
 var now=new Date().getTime()
 setInterval(function(){
  ct=(ct+1)%64
