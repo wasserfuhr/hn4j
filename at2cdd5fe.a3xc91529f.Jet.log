@@ -4155,3 +4155,13 @@ java.lang.RuntimeException: Invalid token: //alert
 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
+2017-03-29 20:04:04.270:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 20:05:11.457:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 20:05:13.545:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 20:10:09.429:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 20:10:12.576:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 20:10:16.584:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 20:11:50.612:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 20:15:13.025:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 20:20:33.943:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-29 20:21:45.116:WARN:oejh.HttpGenerator:Ignoring extra content null
