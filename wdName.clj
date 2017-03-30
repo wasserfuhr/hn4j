@@ -8,4 +8,4 @@ s(slurp(str"q/"t))]
 ; (str t" "(:value(:en(:descriptions;(:labels
   ((keyword(str"Q"q))(:entities(json/read-str s :key-fn keyword))
   ))))"\n")))
- (.split(slurp"m33")"\n"))))
+ (.split(slurp"m330")"\n"))))
