@@ -1,4 +1,4 @@
-em(ns x(:require[clojure.data.json :as json]))
+(ns x(:require[clojure.data.json :as json]))
 (print(apply str(map(fn[f](let[
 r(.getName f)
 q(read-string(str"0x"r))
