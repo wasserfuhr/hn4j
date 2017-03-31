@@ -3,14 +3,7 @@
   (. h update m)(.digest h)))
  f(fn[h](apply str(map
   #(format "%02x"(bit-and % 0xff))h)))
- ua(.getHeader rq"User-Agent")
- uh(f(h(.getBytes ua)))]
-
-
-
-
-
-
+  
 
 
 var now=new Date().gesetInterval(function(){

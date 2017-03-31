@@ -1,12 +1,6 @@
-var hpic
-    
-	  try{
-
-
-    
-    hpic=['9/93/ChuckNorris200611292256.jpg/192px-ChuckNorris200611292256.jpg',
-	  
-	  'c/c8/Gerhard_Schr%C3%B6der_%28cropped%29.jpg/166px-Gerhard_Schr%C3%B6der_%28cropped%29.jpg',
+var hpic=[
+'9/93/ChuckNorris200611292256.jpg/192px-ChuckNorris200611292256.jpg',
+'c/c8/Gerhard_Schr%C3%B6der_%28cropped%29.jpg/166px-Gerhard_Schr%C3%B6der_%28cropped%29.jpg',
 '8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg',
 '5/58/CheHigh.jpg/187px-CheHigh.jpg',
 '0/0c/SchwarzeneggerJan2010.jpg/168px-SchwarzeneggerJan2010.jpg',
@@ -133,5 +127,3 @@ var hpic
 'e/e2/Jimmy_Wales_Fundraiser_Appeal.JPG/191px-Jimmy_Wales_Fundraiser_Appeal.JPG',
 '0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg/200px-Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg',
 '1/1c/Valls_Toulouse_2012.JPG/160px-Valls_Toulouse_2012.JPG']
-
-	      }catch(e){alert(e)}
