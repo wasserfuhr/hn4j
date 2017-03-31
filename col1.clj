@@ -1,1 +1,1 @@
-(apply str(map(fn[l](str(first(.split l" "))" "))(.split(slurp"m33")"\n")))
+(apply str(map(fn[l](str(first(.split l" "))" "))(.split(slurp"m333")"\n")))
