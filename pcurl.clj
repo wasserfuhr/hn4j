@@ -1,1 +1,2 @@
-(.split(slurp"hilde.js")"\n")
+(apply str(map(fn[l](.split l"/")
+ (.split(slurp"urPic")"\n")))

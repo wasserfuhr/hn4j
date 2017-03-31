@@ -63,4 +63,3 @@
 'f/f1/Reagan_Mitterrand_1984_%28cropped%29.jpg/180px-Reagan_Mitterrand_1984_%28cropped%29.jpg',
 'f/f3/Usain_Bolt_Rio_100m_final_2016k.jpg/139px-Usain_Bolt_Rio_100m_final_2016k.jpg',
 'f/f6/Ban_Ki-moon_1-2.jpg/192px-Ban_Ki-moon_1-2.jpg',
-var hpic=[
