@@ -1,6 +1,4 @@
-Fri Mar 31 19:16:36 CEST 2017
-Clojure 1.8.0
-user=> curl https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Francois_Hollande_2015.jpeg/64px-Francois_Hollande_2015.jpeg|wc
+curl https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Francois_Hollande_2015.jpeg/64px-Francois_Hollande_2015.jpeg|wc
 curl https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg/64px-Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg|wc
 curl https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg/64px-Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg|wc
 curl https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/SchwarzeneggerJan2010.jpg/64px-SchwarzeneggerJan2010.jpg|wc
@@ -65,6 +63,8 @@ curl https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/General_Charles_d
 curl https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Reagan_Mitterrand_1984_%28cropped%29.jpg/64px-Reagan_Mitterrand_1984_%28cropped%29.jpg|wc
 curl https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Usain_Bolt_Rio_100m_final_2016k.jpg/64px-Usain_Bolt_Rio_100m_final_2016k.jpg|wc
 curl https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ban_Ki-moon_1-2.jpg/64px-Ban_Ki-moon_1-2.jpg|wc
-nil
-user=> 
-Fri Mar 31 19:16:37 CEST 2017
+
+
+
+
+
