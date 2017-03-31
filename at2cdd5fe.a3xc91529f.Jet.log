@@ -5192,3 +5192,6 @@ java.lang.NullPointerException
 2017-03-31 13:33:18.787:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-03-31 13:34:52.256:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-03-31 13:38:26.179:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-31 13:44:44.362:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-31 13:52:04.971:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-03-31 13:59:01.533:WARN:oejh.HttpGenerator:Ignoring extra content null
