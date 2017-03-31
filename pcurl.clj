@@ -13,11 +13,6 @@
 
 
 
-
-
-
-try{
-var ct=0;
 var now=new Date().gesetInterval(function(){
 try{
  ct++
