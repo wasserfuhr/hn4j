@@ -1,2 +1,2 @@
-(apply str(map(fn[l](.split l"/"))
- (.split(slurp"urPic.txt")"\n")))
+(print(apply str(map(fn[l](str(first(.split l"/"))"\n"))
+ (.split(slurp"urPic.txt")"\n"))))
