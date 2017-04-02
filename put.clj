@@ -13,4 +13,5 @@
  f(java.io.File.(str"a/"h))]
  (if(not(.exists f))
   (clojure.java.io/copy bb f))
- h))
+ (format"%x %05x %s\n"
+  (-(/(.lastModified f)1000)0x5608aa2b)(.length f)h)))
