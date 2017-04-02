@@ -13,6 +13,7 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  d(long(/ t 1000.0))
  r(- t(* d 1000))
 ;
+ c(filter(fn[c](="0"(.getName c)))(.getCookies rq))
  a(format"%02x.%02x"d(quot(* 256 r)1000))
  ret
  (if(.contains(.getRequestURI rq)"/wiki/")
@@ -52,8 +53,9 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  nn(.getTime(java.util.Date.))]
 ;(.println *err*"\007")
 (spit(str"ad"(subs(format"%x" d)0 3)".log")
- (format"%s %s %s %s %03x %s\n"
-  a i(subs uh 0 6)(if(=(.getScheme rq)"http")"h""s")(- nn n)(.getRequestURI rq))
+ (format"%s %s %s %s %s %03x %s\n"
+  a i(subs uh 0 6)(if(=(.getScheme rq)"http")"h""s")
+  (if(= 1(count c))(subs(.getValue(first c))0 8)"????????")(- nn n)(.getRequestURI rq))
   :append true)
 (if(not(.exists uf))(spit uf ua))
 (if(.startsWith(.getRequestURI rq)"/favicon.ico")
