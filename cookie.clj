@@ -3,5 +3,5 @@
  c(javax.servlet.http.Cookie."0"r)]
  (.setMaxAge c(* 60 60 24 30))
  (.addCookie rs c)
- (apply str(map(fn[c](str(subs(str(.getName c)"       ")0 8)" "))
+ (apply str(map(fn[c](str"\n"(.getName c)"="(subs(str(.getValue c)"       ")0 8)" "))
   (.getCookies rq)))))
