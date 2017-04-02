@@ -17,7 +17,7 @@
 ];]
 [:p"Hi "(subs uh 0 6)"@"i]
 
-[:p"You are now OnBoard_ed on "[:a{:href"https://github.com/wasserfuhr/hn4j/blob/master/Jet.java"}"AlphaJet"]"."]
+[:p"You are now OnBoard "[:a{:href"https://github.com/wasserfuhr/hn4j/blob/master/Jet.java"}"AlphaJet"]"."]
 
 [:p"We will be "[:a{:href"https://floatingboat2013.appspot.com/ef/OnAlpha"}"&beta;"]" soon."]
 
