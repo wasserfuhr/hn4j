@@ -1,5 +1,5 @@
 (fn[rq rs](let[
- c(.getParameter rq"c")
+ c(.getParameter rq"h")
  hf(fn[m];https://gist.github.com/kisom/1698245
   (let[h(java.security.MessageDigest/getInstance"SHA-256")]
    (. h update m)(.digest h)))
@@ -12,4 +12,5 @@
  h(hh(hf bb))
  f(java.io.File.(str"a/"h))]
  (if(not(.exists f))
-  (clojure.java.io/copy bb f))))
+  (clojure.java.io/copy bb f))
+ h))
