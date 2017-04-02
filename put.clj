@@ -12,4 +12,4 @@
  h(hh(hf bb))
  f(java.io.File.(str"a/"h))]
  (if(not(.exists f))
-  (clojure.java.io/copy f bb))))
+  (clojure.java.io/copy bb f))))
