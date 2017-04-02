@@ -17,7 +17,7 @@
 ];]
 [:p"Hi "(subs uh 0 6)"@"i]
 
-[:p"We are soon [:a{:href"https://floatingboat2013.appspot.com/ef/OnAlpha"}"&beta;"]"."]
+[:p"We are soon "[:a{:href"https://floatingboat2013.appspot.com/ef/OnAlpha"}"&beta;"]"."]
 
 [:br][:br]"Try "
 [:a{:href"https://sl4.eu/age"}"History"]" "
