@@ -9,6 +9,7 @@
   (map(fn[i](let[b(read-string(str"0x"(subs c(* i 2)(*(+ i 1)2))))]
   (if(< b 128)b(- b 256))))
    (range(/(count c)2))))
- h(hh(hf bb))]
- (if(not(.exists(java.io.File.(str"a/"h))))
-  (spit(str"a/"h)bb))))
+ h(hh(hf bb))
+ f(java.io.File.(str"a/"h))]
+ (if(not(.exists f))
+  (clojure.java.io/copy f bb))))
