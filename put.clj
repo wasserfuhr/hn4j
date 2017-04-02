@@ -10,5 +10,5 @@
   (if(< b 128)b(- b 256))))
    (range(/(count c)2))))
  h(hh(hf bb))]
- (if(
+ (if(.exists(java.io.File.(str"a/"h))
  h)))
