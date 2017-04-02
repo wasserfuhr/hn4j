@@ -46,10 +46,12 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  ((eval(read-string(slurp"phimDev.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/phim")
  ((eval(read-string(slurp"phim.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/put")
+ ((eval(read-string(slurp"put.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/tap")
  ((eval(read-string(slurp"tap.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/test")
- ((eval(read-string(slurp"test.clj")))rq rs))))))))))))))))))
+ ((eval(read-string(slurp"test.clj")))rq rs)))))))))))))))))))
  nn(.getTime(java.util.Date.))]
 ;(.println *err*"\007")
 (spit(str"ad"(subs(format"%x" d)0 3)".log")
