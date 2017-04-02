@@ -1,4 +1,4 @@
-(fn[rq rs](let[;/fopper MindPrize
+(fn[rq rs](let[
  ;http://stackoverflow.com/questions/25345371/dynamically-generated-zip-downloading-results-corrupted-files
  os(.getOutputStream rs)
  n(slurp(str"https://floatingboat2013.appspot.com/btime"))
@@ -10,7 +10,7 @@
    (slurp(str"https://floatingboat2013.appspot.com/rawHead/"n))))))]
 (do
  (.setContentType rs"application/zip")
- (.setHeader rs"Content-Disposition"(str"attachment;filename="n"_mind.zip"))
+; (.setHeader rs"Content-Disposition"(str"attachment;filename="n"_mind.zip"))
  (f"4604546")
  (f"aw20")
  (f"/zip")
