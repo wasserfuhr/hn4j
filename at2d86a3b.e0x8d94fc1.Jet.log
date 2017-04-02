@@ -72,3 +72,4 @@ java.lang.NullPointerException
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
 2017-04-02 18:50:35.368:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 18:57:41.949:WARN:oejh.HttpGenerator:Ignoring extra content null
