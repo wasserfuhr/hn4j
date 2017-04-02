@@ -7,6 +7,6 @@
  n(java.util.Date.)
  bb(into-array Byte/TYPE
   (map(fn[i](read-string(str"0x"(subs c(* i 2)(*(+ i 1)2)))))
-   (range(count c)))
+   (range(count c))))
  h(hh(hf bb))]
  h)))
