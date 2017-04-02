@@ -10,5 +10,5 @@
   (if(< b 128)b(- b 256))))
    (range(/(count c)2))))
  h(hh(hf bb))]
- (if(not(.exists f(java.io.File.(str"a/"h))))
+ (if(not(.exists(java.io.File.(str"a/"h))))
   (spit(str"a/"h)bb))))
