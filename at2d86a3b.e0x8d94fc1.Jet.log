@@ -591,3 +591,13 @@ java.lang.RuntimeException: Unable to resolve symbol: uh in this context
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
 2017-04-02 22:19:24.522:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 22:25:11.798:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 22:25:15.819:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 22:26:45.494:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 22:26:49.350:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 22:27:37.782:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 22:28:36.896:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 22:28:40.714:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 22:29:07.493:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 22:31:35.530:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 22:33:33.447:WARN:oejh.HttpGenerator:Ignoring extra content null
