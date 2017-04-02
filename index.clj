@@ -15,7 +15,7 @@
  [:img{:style"height:60px;width:45px"}]
  )(range 64))
 ];]
-[:p"Hi "(subs uh 0 6)"@"i]
+[:p"Hi "(subs uh 0 6)"@"i"!"]
 
 [:p"You are now OnBoard "[:a{:href"https://github.com/wasserfuhr/hn4j/blob/master/Jet.java"}"AlphaJet"]"."]
 
