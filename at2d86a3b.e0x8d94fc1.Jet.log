@@ -782,3 +782,4 @@ java.lang.IllegalArgumentException: Value out of range for byte: 171
 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
+2017-04-02 23:01:23.393:WARN:oejh.HttpGenerator:Ignoring extra content null
