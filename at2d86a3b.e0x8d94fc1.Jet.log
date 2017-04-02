@@ -1004,3 +1004,5 @@ java.lang.IllegalArgumentException: No method in multimethod 'do-copy' for dispa
 2017-04-02 23:28:05.037:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-02 23:28:31.620:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-02 23:36:12.007:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 23:36:44.277:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 23:36:54.617:WARN:oejh.HttpGenerator:Ignoring extra content null
