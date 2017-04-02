@@ -19,7 +19,7 @@
 
 [:p"You are now OnBoard_ed on "[:a{:href"https://github.com/wasserfuhr/hn4j/blob/master/Jet.java"}"AlphaJet"]"."]
 
-[:p"We are soon "[:a{:href"https://floatingboat2013.appspot.com/ef/OnAlpha"}"&beta;"]"."]
+[:p"We will be "[:a{:href"https://floatingboat2013.appspot.com/ef/OnAlpha"}"&beta;"]" soon."]
 
 [:br][:br]"Currently, we are all into faces. Try "
 [:a{:href"https://sl4.eu/age"}"History"]" "
