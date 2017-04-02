@@ -1098,3 +1098,4 @@ java.lang.IllegalStateException: WRITER
 	at java.lang.Thread.run(Thread.java:745)
 2017-04-02 23:52:09.574:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-02 23:52:28.658:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-02 23:56:05.904:WARN:oejh.HttpGenerator:Ignoring extra content null
