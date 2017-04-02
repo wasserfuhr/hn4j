@@ -12,6 +12,7 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  uf(java.io.File.(str"ua/"uh))
  d(long(/ t 1000.0))
  r(- t(* d 1000))
+;
  a(format"%02x.%02x"d(quot(* 256 r)1000))
  ret
  (if(.contains(.getRequestURI rq)"/wiki/")
