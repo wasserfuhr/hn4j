@@ -29,13 +29,7 @@
 [:a{:href"https://sl4.eu/tap"}"Tapestry"]
 ;[:script{:src"https://rawgit.com/wasserfuhr/hn4j/master/hilde.js"}]
 [:script(slurp"hilde.js")]
-[:script"
-try{
-//alert(
-// document.getElementById('rot').childNodes[63])
-}catch(e){alert(e)}
-
-try{
+[:script"try{
 var ct=0;
 var now=new Date().getTime()
 setInterval(function(){
@@ -50,5 +44,5 @@ try{
 },1000)
 }catch(e){alert(e)}
 "]
-[:a{:href"https://floatingboat2013.appspot.com/"}"fl"]
+[:footer[:a{:href"https://floatingboat2013.appspot.com/"}"fl"]]
 ]])))
