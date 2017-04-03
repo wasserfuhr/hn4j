@@ -49,4 +49,6 @@ try{
 
 },1000)
 }catch(e){alert(e)}
-"]]])))
+"]
+[:a{:href"https://floatingboat2013.appspot.com/"}"fl"]
+]])))
