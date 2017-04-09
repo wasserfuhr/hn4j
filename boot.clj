@@ -31,6 +31,8 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  ((eval(read-string(slurp"get.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/hilde")
  ((eval(read-string(slurp"hilde.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/hls")
+ ((eval(read-string(slurp"hls.clj")))rq rs)
  (if(.equals(.getRequestURI rq)"/")
  ((eval(read-string(slurp"index.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/ls")
@@ -56,7 +58,7 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  (if(.startsWith(.getRequestURI rq)"/test")
  ((eval(read-string(slurp"test.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/zip")
- ((eval(read-string(slurp"zip.clj")))rq rs))))))))))))))))))))))
+ ((eval(read-string(slurp"zip.clj")))rq rs)))))))))))))))))))))))
  nn(.getTime(java.util.Date.))]
 ;(.println *err*"\007")
 (spit(str"ad"(subs(format"%x" d)0 3)".log")
