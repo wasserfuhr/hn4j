@@ -56147,3 +56147,9 @@ java.io.FileNotFoundException: mm3 (No such file or directory)
 2017-04-12 23:40:28.787:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-12 23:42:37.647:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-12 23:47:03.666:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-12 23:52:42.426:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-04-12 23:53:23.777:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-12 23:59:59.448:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-13 00:07:01.733:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-13 00:07:17.457:WARN:oejh.HttpGenerator:Ignoring extra content null
