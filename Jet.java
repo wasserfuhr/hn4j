@@ -10,6 +10,7 @@ import clojure.lang.*;
 public class Jet extends AbstractHandler{
  public void handle(String t,Request br,HttpServletRequest rq,HttpServletResponse rs)throws IOException,ServletException{
   try{
+   RT.loadResourceScript("clojure/data/json.clj");
    RT.loadResourceScript("hiccup/core.clj");
    String c="(fn[rq rs]((eval(read-string(slurp\"/root/git/hn4j/boot.clj\")))rq rs))";
    PushbackReader pr=new PushbackReader(new StringReader(c));
