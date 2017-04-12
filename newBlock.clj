@@ -4,4 +4,4 @@
  b(clojure.data.json/read-str(slurp(.getReader rq)):key-fn keyword)
  h(:hash b);(subs(slurp(str"https://blockchain.info/rawblock/"c"?format=hex"))0 160)
  ]
-(spit(str"blk/"(:height b))h)))
+(spit(str"blk/"(format"%x"(:height b)))h)))
