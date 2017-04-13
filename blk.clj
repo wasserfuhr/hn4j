@@ -8,7 +8,7 @@
 ]
 (> 0(.compareTo lh"70b4e"))
 (apply str
-(map(fn[t](:hash t))
+(map(fn[t](str(:hash t)"\n"))
  (:tx(clojure.data.json/read-str h :key-fn keyword)))))
 
 ))
