@@ -114,3 +114,6 @@ java.io.EOFException: JSON error (end-of-file)
 2017-04-13 02:13:38.139:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-13 02:14:49.088:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-13 02:20:28.776:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-13 02:27:38.629:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-13 02:33:53.270:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-13 02:39:50.215:WARN:oejh.HttpGenerator:Ignoring extra content null
