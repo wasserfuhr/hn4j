@@ -1,0 +1,1000 @@
+ 1252  #more alsort -k 2 -r -n allrefCt
+ 1253  more allrefCt
+ 1254  tail allrefCt
+ 1255  sort -k 2 -r -n allrefCt > refCt.txt
+ 1256  em wdName
+ 1257  cj wdName|more
+ 1258  df
+ 1259  more q/c9fd7
+ 1260  em wdName
+ 1261  ll
+ 1262  gs
+ 1263  more rct 
+ 1264  ls
+ 1265  more munz.txt 
+ 1266  more munzId.txt
+ 1267  em WiDaRaw
+ 1268  cj WiDaRaw
+ 1269  hi more
+ 1270  more q/c9fd7
+ 1271  more munzId.txt
+ 1272  emacs munzId.txt
+ 1273  cj WiDaRaw
+ 1274  more q/c9fd7
+ 1275  emacs munzId.txt
+ 1276  cj WiDaRaw
+ 1277  more q/c9fd7
+ 1278  cj wdName|more
+ 1279  cat wdName.clj
+ 1280  cat q/3e8317 
+ 1281  cat q/3e8317? 
+ 1282  mv q/3e8317? q/3e8317
+ 1283  cj wdName|more
+ 1284  cat q/20794f 
+ 1285  cat q/20794f? 
+ 1286  mv q/20794f? q/20794f
+ 1287  cj wdName|more
+ 1288  cat wdName.clj
+ 1289  emacs refCt.txt
+ 1290  emacs +39999 refCt.txt
+ 1291  cj wdName|more
+ 1292  emacs +39999 refCt.txt
+ 1293  cj wdName|more
+ 1294  more wdName.clj
+ 1295  tail refCt.txt
+ 1296  tail refCt.txt|xxd
+ 1297  emacs +39999 refCt.txt
+ 1298  tail refCt.txt|xxd
+ 1299  wc refCt.txt
+ 1300  emacs +39460 refCt.txt
+ 1301  tail refCt.txt|xxd
+ 1302  vi refCt.txt
+ 1303  vi +39500 refCt.txt
+ 1304  em wdName
+ 1305  cj wdName|more
+ 1306  em wdName
+ 1307  more refCt.txt
+ 1308  sort refCt.txt|more
+ 1309  sort refCt.txt|tail
+ 1310  sort -k 2 n refCt.txt|tail
+ 1311  sort -k 2 -n refCt.txt|tail
+ 1312  sort -k 2 -n -r refCt.txt|tail
+ 1313  sort -k 2 -n  refCt.txt|more
+ 1314  hi refCt
+ 1315  cj refCt > allrefCt
+ 1316  emacs allrefCt ;emacs +39999 allrefCt 
+ 1317  sort -k 2 -r -n allrefCt > m333
+ 1318  emacs m333
+ 1319  emacs +39990 m333
+ 1320  sort -k 2 m333|more
+ 1321  sort -k 2 m333|tail
+ 1322  sort -k 2 -n m333|tail
+ 1323  sort -k 2 -r -n m333|tail
+ 1324  sort -k 2 -r -n m333 > refCt.txt
+ 1325  hi cj
+ 1326  cj wdName|more
+ 1327  cat q/15a929?
+ 1328  mv q/15a929? q/15a929
+ 1329  cj wdName|more
+ 1330  cj wdName > wdName.txt
+ 1331  wc wdName.txt
+ 1332  emacs wdName.txt
+ 1333  emacs +256 wdName.txt
+ 1334  emacs +0x100 wdName.txt
+ 1335  emacs +2048 wdName.txt
+ 1336  emacs +4096 wdName.txt
+ 1337  emacs +8192 wdName.txt
+ 1338  emacs +16384 wdName.txt
+ 1339  wc wdName.txt
+ 1340  emacs +32768 wdName.txt
+ 1341  gs
+ 1342  git add ad2d5.log
+ 1343  more allrefCt
+ 1344  rm allrefCt
+ 1345  rm allrefCt~ 
+ 1346  gs
+ 1347  more m33
+ 1348  rm m33
+ 1349  gs
+ 1350  more m330
+ 1351  rm m330
+ 1352  rm m330~ 
+ 1353  gs
+ 1354  more m333
+ 1355  ls
+ 1356  mkdir p
+ 1357  grep 256 *j
+ 1358  cp index.clj pcurl.clj
+ 1359  git add pcurl.clj 
+ 1360  git commit -am"cp index.clj pcurl.clj"
+ 1361  em pcurl
+ 1362  wget https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg|sha256sum 
+ 1363  wget https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg|wc
+ 1364  wget https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg
+ 1365  curl https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg|wc
+ 1366  curl https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg|sha256sum
+ 1367  more wdName.txt
+ 1368  curl https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg|sha256sum
+ 1369  curl https://upload.wikimedia.org/wikipedia/commons/8d/President_Barack_Obama.jpg|wc
+ 1370  curl https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg|wc
+ 1371  curl https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/192px-President_Barack_Obama.jpg|wc
+ 1372  zip -9 4c.zip q/4c
+ 1373  ll 4c.zip q/4c
+ 1374  ll q -S|more
+ 1375  gs
+ 1376  rm 192px-President_Barack_Obama.jpg* 4c.zip
+ 1377  more m333
+ 1378  ls p
+ 1379  hi curl
+ 1380  curl https://upload.wikimedia.org/wikipedia/commons/9/93/ChuckNorris200611292256.jpg|wc
+ 1381  curl https://upload.wikimedia.org/wikipedia/commons/c/c8/Gerhard_Schr%C3%B6der_%28cropped%29.jpg|wc
+ 1382  curl https://upload.wikimedia.org/wikipedia/commons/5/58/CheHigh.jpg
+ 1383  ls
+ 1384  bt
+ 1385  #▒├2␍5␌2°␊.94│1121342 off you@3e9ef5c5
+ 1386  exit
+ 1387  bt
+ 1388  #at2d5c341.6dxab37cc9 on you@3e9ef5c5
+ 1389  history 
+ 1390  curl https://upload.wikimedia.org/wikipedia/commons/5/58/CheHigh.jpg|wc
+ 1391  curl https://upload.wikimedia.org/wikipedia/commons/0/0c/SchwarzeneggerJan2010.jpg|wc
+ 1392  em pcurl
+ 1393  cd git/hn4j/
+ 1394  em pcurl
+ 1395  cat index.clj 
+ 1396  cat hilde.js
+ 1397  emacs hilde.js
+ 1398  ffmpeg
+ 1399  apt-get install ffmpeg
+ 1400  more picSize.txt 
+ 1401  emacs picSize.txt 
+ 1402  more pcurl.clj
+ 1403  em pcurl
+ 1404  cat hilde.clj
+ 1405  em hilde
+ 1406  curl https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/ChuckNorris200611292256.jpg/64px-ChuckNorris200611292256.jpg|wc
+ 1407  curl https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/ChuckNorris200611292256.jpg/64px-ChuckNorris200611292256.jpg|sha256sum
+ 1408  ffmpeg
+ 1409  man ffmpeg
+ 1410  curl https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/ChuckNorris200611292256.jpg/64px-ChuckNorris200611292256.jpg|sha256sum 
+ 1411  curl https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/ChuckNorris200611292256.jpg/64px-ChuckNorris200611292256.jpg > p/68176fd06bdef6ca476a8e4c
+ 1412  ffmpg -i p/68176fd06bdef6ca476a8e4c4ab6129581ff5be4763544c784fa5b35a0b2c02b.jpg
+ 1413  ffmpeg -i p/68176fd06bdef6ca476a8e4c4ab6129581ff5be4763544c784fa5b35a0b2c02b.jpg
+ 1414  ll p/68176fd06bdef6ca476a8e4c4ab6129581ff5be4763544c784fa5b35a0b2c02b.jpg
+ 1415  em pcurl
+ 1416  cat hilde.js
+ 1417  sort hilde.js
+ 1418  sort -u hilde.js
+ 1419  sort -u hilde.js > urPic.txt
+ 1420  git add urPic.txt
+ 1421  hi co
+ 1422  git commit -am"+~..."
+ 1423  gs
+ 1424  git add at2d4d511.8ex1e7f036.OvhOneHist.txt ua
+ 1425  git commit -am"+~..."
+ 1426  gs
+ 1427  rm m333
+ 1428  rm m333~ 
+ 1429  rm m33
+ 1430  rm m33~ 
+ 1431  rm mm3
+ 1432  rm mm3~ 
+ 1433  emacs urPic.txt
+ 1434  em pcurl
+ 1435  cj pcurl
+ 1436  em pcurl
+ 1437  cj pcurl
+ 1438  em pcurl
+ 1439  cj pcurl
+ 1440  em pcurl
+ 1441  cj pcurl
+ 1442  em pcurl
+ 1443  cj pcurl
+ 1444  em pcurl
+ 1445  cj pcurl
+ 1446  em pcurl
+ 1447  cj pcurl
+ 1448  cat urPic.txt 
+ 1449  em pcurl
+ 1450  cj pcurl
+ 1451  em pcurl
+ 1452  cj pcurl
+ 1453  em pcurl
+ 1454  cj pcurl
+ 1455  #curl https://upload.wikimedia.org/wikipedia/commons/thumbf/f6Ban_Ki-moon_1-2.jpg/64-px/Ban_Ki-moon_1-2.jpg|wc
+ 1456  em pcurl
+ 1457  cj pcurl
+ 1458  curl https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6Ban_Ki-moon_1-2.jpg/64-px/Ban_Ki-moon_1-2.jpg|wc
+ 1459  em pcurl
+ 1460  cj pcurl
+ 1461  curl https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6Ban_Ki-moon_1-2.jpg/64px-Ban_Ki-moon_1-2.jpg|wc
+ 1462  curl https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ban_Ki-moon_1-2.jpg/64px-Ban_Ki-moon_1-2.jpg|wc
+ 1463  em pcurl
+ 1464  cj pcurl
+ 1465  cj pcurl > pcurl.sh
+ 1466  git add pcurl.sh
+ 1467  hi co
+ 1468  git commit -am"+~..."
+ 1469  emacs pcurl.sh
+ 1470  git commit -am"+~..."
+ 1471  chmod +x pcurl.sh
+ 1472  ./pcurl.sh
+ 1473  emacs pcurl.sh
+ 1474  em pcurl
+ 1475  cj pcurl
+ 1476  c=sha256sum
+ 1477  curl https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ban_Ki-moon_1-2.jpg/64px-Ban_Ki-moon_1-2.jpg|$c
+ 1478  em pcurl
+ 1479  cj pcurl
+ 1480  more pcurl.sh 
+ 1481  curl https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Konfuzius-1770.jpg/64px-Konfuzius-1770.jpg > tpic;sha256sum tpic
+ 1482  em pcurl
+ 1483  cj pcurl
+ 1484  more pcurl.sh 
+ 1485  curl https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/John_F_Kennedy.jpg/64px-John_F_Kennedy.jpg > tpic;a=`sha256sum tpic`;echo $a
+ 1486  wget
+ 1487  wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/John_F_Kennedy.jpg/64px-John_F_Kennedy.jpg > tpic;a=`sha256sum tpic`;echo $a
+ 1488  wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/John_F_Kennedy.jpg/64px-John_F_Kennedy.jpg > tpic;a=`sha256sum tpic`;echo aa$a
+ 1489  sha256 -?
+ 1490  sha256sum -?
+ 1491  sha256sum --help
+ 1492  wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/John_F_Kennedy.jpg/64px-John_F_Kennedy.jpg > tpic;a=`sha256sum tpic`;echo ${a:64}
+ 1493  wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/John_F_Kennedy.jpg/64px-John_F_Kennedy.jpg > tpic;a=`sha256sum tpic`;echo ${a:0:64}
+ 1494  #wget https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/John_F_Kennedy.jpg/64px-John_F_Kennedy.jpg > tpic;a=`sha256sum tpic`;echo ${a:0:64};mv tpic p/
+ 1495  more urPic.txt 
+ 1496  em pcurl
+ 1497  cj pcurl
+ 1498  em pcurl
+ 1499  cj pcurl
+ 1500  more pcurl.sh 
+ 1501  emacs urPic.txt
+ 1502  em pcurl
+ 1503  cj pcurl
+ 1504  more pcurl.sh 
+ 1505  em pcurl
+ 1506  cj pcurl
+ 1507  more pcurl.sh 
+ 1508  curl https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/John_F_Kennedy.jpg/64px-John_F_Kennedy.jpg > tpic;a=`sha256sum tpic`;b=${a:0:64};mv tpic p/$b..jpg
+ 1509  ffmpeg p/6ab639a064263620dd198fed30336ec98af9530d2a36043450e3a25b395dd371..jpg 
+ 1510  ffmpeg -i p/6ab639a064263620dd198fed30336ec98af9530d2a36043450e3a25b395dd371..jpg 
+ 1511  ll p/6ab639a064263620dd198fed30336ec98af9530d2a36043450e3a25b395dd371..jpg 
+ 1512  em pcurl
+ 1513  cj pcurl
+ 1514  ./pcurl.sh 
+ 1515  ll p
+ 1516  mv p/0b4cc157c290c355098f80ce7d336c93585db89151b4fac20d3c56d6dc9ecbf2.JPG p/0b4cc157c290c355098f80ce7d336c93585db89151b4fac20d3c56d6dc9ecbf2.jpg
+ 1517  rm p/6ab639a064263620dd198fed30336ec98af9530d2a36043450e3a25b395dd371..jpg 
+ 1518  mv p/b4ea6fa8f15500a6249630060783da348e720521d8888f8f4d05a5b9f32161ef.JPG p/b4ea6fa8f15500a6249630060783da348e720521d8888f8f4d05a5b9f32161ef.jpg
+ 1519  ll p
+ 1520  mv p/20c189c73c8644beceae84a6ec57f3c75ad7ce3e07c9ac08ba5a6359a1222675.JPG p/20c189c73c8644beceae84a6ec57f3c75ad7ce3e07c9ac08ba5a6359a1222675.jpg
+ 1521  mv p/8788698ce747eb66522ac704aeb3c6540fdfb38dd440e664a3d32768838a6168.jpeg, p/8788698ce747eb66522ac704aeb3c6540fdfb38dd440e664a3d32768838a6168.jpg
+ 1522  ll p
+ 1523  ll p|wc
+ 1524  history 
+ 1525  ll
+ 1526  l p
+ 1527  bt
+ 1528  #at2d60b65.c2x21f8c7f on you@3e9ef5c5
+ 1529  cd git/hn4j/
+ 1530  bt
+ 1531  ll p
+ 1532  git add p
+ 1533  hi co
+ 1534  git commit -am"+~..."
+ 1535  git push
+ 1536  grep raw *j
+ 1537  ll *j
+ 1538  cd l
+ 1539  cd p
+ 1540  l
+ 1541  grep raw *j
+ 1542  cd ..
+ 1543  grep raw *j
+ 1544  cd p
+ 1545  ll
+ 1546  cd ..
+ 1547  bt
+ 1548  #at2d625b0.45x18ff298 off you@3e9ef5c5
+ 1549  hi bt
+ 1550  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1551  exit
+ 1552  bt
+ 1553  #at2d6ea35.c5x1461eb9 on you@3e9ef5c5
+ 1554  ls
+ 1555  mkdir rq
+ 1556  cd rq
+ 1557  cd
+ 1558  cd git/hn4j/
+ 1559  gs
+ 1560  grep raw *j
+ 1561  curl https://floatingboat2013.appspot.com/eval/58515012|xxd|more
+ 1562  curl https://floatingboat2013.appspot.com/eval/58515013|xxd|more
+ 1563  em wdbd
+ 1564  grep Enc *j
+ 1565  cat munz.clj
+ 1566  em wdbd
+ 1567  cj wdbd
+ 1568  em wdbd
+ 1569  cj wdbd
+ 1570  em wdbd
+ 1571  cj wdbd
+ 1572  more wd/0401 
+ 1573  em WiDaRaw
+ 1574  cj WiDaRaw
+ 1575  bt
+ 1576  #at2d866b6.1cx8d94fc1 on you@3e9ef5c5
+ 1577  cd git/hn4j/
+ 1578  ls
+ 1579  hi java
+ 1580  grep *Ov* java
+ 1581  grep java *Ov*
+ 1582  #bt;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar :clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1583  hi pw
+ 1584  grep pw at2c*Ov*
+ 1585  pw=`cat pw`
+ 1586  bt;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar :clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1587  gs
+ 1588  rm 64px-John_F_Kennedy.jpg*
+ 1589  ll *log
+ 1590  ll -a *log
+ 1591  ls -la *log
+ 1592  gs
+ 1593  ps aux
+ 1594  #at2d8693a.7dx8d94fc1
+ 1595  cat .Jet.log 
+ 1596  ls -l .Jet.log 
+ 1597  mv .Jet.log at2d8693a.7dx8d94fc1.Jet.log
+ 1598  hi bt
+ 1599  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1600  ll *g
+ 1601  gs
+ 1602  git add ad2d6.log ad2d7.log ad2d8.log at2d625e1.91x18ff298.OvhOneHist.txt at2d8693a.7dx8d94fc1.Jet.log at2d86a3b.e0x8d94fc1.Jet.log
+ 1603  git commit -am"+ad2d6.log +ad2d7.log +ad2d8.log +at2d625e1.91x18ff298.OvhOneHist.txt +at2d8693a.7dx8d94fc1.Jet.log +at2d86a3b.e0x8d94fc1.Jet.log"
+ 1604  gs
+ 1605  more wdp
+ 1606  rm wdp
+ 1607  rm wdp2
+ 1608  rm wdp~
+ 1609  rm wdp2~ 
+ 1610  gs
+ 1611  more wdName.txt
+ 1612  gs
+ 1613  more qref
+ 1614  git add qref
+ 1615  gs
+ 1616  more rct 
+ 1617  ll rct 
+ 1618  gs
+ 1619  rm refCt.txt~
+ 1620  rm wdName.txt~
+ 1621  gs
+ 1622  df
+ 1623  du -b q
+ 1624  hi zip
+ 1625  cd q
+ 1626  zip -9 ../q.zip *
+ 1627  ll q*
+ 1628  cd ..
+ 1629  ll q.zip 
+ 1630  rm q.zip 
+ 1631  gs
+ 1632  more ad2d8.log
+ 1633  ll ad2d8.log
+ 1634  cat cookie.clj 
+ 1635  em cookie
+ 1636  em boot
+ 1637  gs
+ 1638  tail -f ad2d8.log 
+ 1639  em boot
+ 1640  cat cookie.clj
+ 1641  em cookie
+ 1642  gs
+ 1643  tail at2d86a3b.e0x8d94fc1.Jet.log 
+ 1644  tail -c 4k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1645  em cookie
+ 1646  em boot
+ 1647  em cookie
+ 1648  em boot
+ 1649  em cookie
+ 1650  em boot
+ 1651  tail ad2d8.log 
+ 1652  hi tail
+ 1653  tail -c 4k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1654  tail ad2d8.log 
+ 1655  tail -f ad2d8.log 
+ 1656  curl https://raw.githubusercontent.com/emn178/js-sha256/master/src/sha256.js|sha256sum 
+ 1657  grep raw *j
+ 1658  tail -f ad2d8.log 
+ 1659  em area
+ 1660  hi tail
+ 1661  tail -c 4k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1662  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1663  em area
+ 1664  tail -f ad2d8.log
+ 1665  grep test *j
+ 1666  em test
+ 1667  em boot
+ 1668  em put
+ 1669  curl https://floatingboat2013.appspot.com/raw/31915002 > put.clj
+ 1670  sha256sum put.clj
+ 1671  git add put.clj
+ 1672  em put
+ 1673  sha256sum put.clj
+ 1674  em put
+ 1675  hi tail
+ 1676  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1677  em put
+ 1678  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1679  em put
+ 1680  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1681  em put
+ 1682  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1683  em put
+ 1684  echo -n \0xabcd00807f 
+ 1685  echo "000000: f027 5c9a bf00"|xxd -r
+ 1686  echo "000000: f027 5c9a bf00"|xxd -r|sha256sum
+ 1687  echo "000000: abcd 0080 7f"|xxd -r|sha256sum
+ 1688  echo "000000: abcd 0080 7f00"|xxd -r|sha256sum
+ 1689  echo "000000: abcd 0080 7f00"|xxd -r|wc
+ 1690  echo "000000: abcd 0080 7f00"|xxd -r|wc|xxd
+ 1691  echo "000000: abcd 0080 7f00"|xxd -r|xxd
+ 1692  em put
+ 1693  echo "000000: abcd 0080 7f00"|xxd -r|sha256sum 
+ 1694  em put
+ 1695  ls
+ 1696  l p
+ 1697  mkdir a
+ 1698  em put
+ 1699  grep exis *j
+ 1700  em put
+ 1701  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1702  em put
+ 1703  sha256sum a/*
+ 1704  em put
+ 1705  rm a/f4b67af959b5ac50667e8312dc7c53634539e340222cca60da1fdd2d13ec921a 
+ 1706  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1707  em put
+ 1708  sha256sum a/*
+ 1709  ll a
+ 1710  sha256sum a/*
+ 1711  em put
+ 1712  grep last *j
+ 1713  cat ls
+ 1714  cat ls.clj 
+ 1715  em put
+ 1716  gs
+ 1717  git add ua
+ 1718  hi co
+ 1719  git commit -am"+~..."
+ 1720  git push
+ 1721  gs
+ 1722  ll rct
+ 1723  ll refCt.txt 
+ 1724  ll wdName.txt 
+ 1725  git add rct refCt.txt wdName.txt 
+ 1726  git commit -am"+rct +refCt.txt +wdName.txt"
+ 1727  gs
+ 1728  cat ls.clj 
+ 1729  cp ls.clj als.clj
+ 1730  git add als.clj
+ 1731  git commit -am"cp ls.clj als.clj"
+ 1732  curl https://floatingboat2013.appspot.com/raw/56515015 > zip.clj
+ 1733  git add zip.clj
+ 1734  git commit -am"+zip.clj"
+ 1735  em boot
+ 1736  hi tail
+ 1737  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1738  em zip
+ 1739  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1740  em zip
+ 1741  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1742  em boot
+ 1743  cat Jet.class
+ 1744  cat Jet.java 
+ 1745  emacs Jet.java 
+ 1746  grep javac *log
+ 1747  ll *log
+ 1748  ll *His*
+ 1749  grep javac *txt
+ 1750  javac -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servl-api-3.1.0.jar:. Jet.java
+ 1751  ll *ar
+ 1752  javac -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet.java
+ 1753  ps aux
+ 1754  #kill -9 1140
+ 1755  hi nohu
+ 1756  kill -9 1140
+ 1757  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1758  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1759  em boot
+ 1760  ll *ls*
+ 1761  em ls
+ 1762  em index
+ 1763  em tap
+ 1764  em age
+ 1765  grep lear *j
+ 1766  em age
+ 1767  grep /char *j
+ 1768  em memo
+ 1769  hi tail
+ 1770  tail -f ad2d8.log
+ 1771  gs
+ 1772  git add at2d8c96d.dbx448fc06.Jet.log ua
+ 1773  git commit -am"+at2d8c96d.dbx448fc06.Jet.log ~ua"
+ 1774  gs
+ 1775  git add a
+ 1776  git commit -am"+a/*"
+ 1777  ll a
+ 1778  emacs Jet.java
+ 1779  git commit -am"~Jet.java"
+ 1780  git push
+ 1781  gs
+ 1782  hi co
+ 1783  git commit -am"+~..."
+ 1784  gs
+ 1785  git pull
+ 1786  df
+ 1787  ll a
+ 1788  sha256sum a/*
+ 1789  em index
+ 1790  gs
+ 1791  git add ad2d9.log ua
+ 1792  git commit -am"+ad2d9.log ~ua"
+ 1793  gs
+ 1794  ll a
+ 1795  hi tai
+ 1796  tail -f ad2d8.log
+ 1797  tail -f ad2d9.log
+ 1798  ll a
+ 1799  cat a/31bf61bd8f17502c50ad1e9b7e8366bbcfb47a64579e88def2138466bf0e88b5 
+ 1800  ll a
+ 1801  cat a/31bf61bd8f17502c50ad1e9b7e8366bbcfb47a64579e88def2138466bf0e88b5 
+ 1802  ll a
+ 1803  hi tai
+ 1804  tail -f ad2d9.log
+ 1805  em put
+ 1806  tail -f ad2d9.log
+ 1807  ll a
+ 1808  hi tai
+ 1809  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1810  gs
+ 1811  tail -c8k at2d8c96d.dbx448fc06.Jet.log 
+ 1812  tail -f ad2d9.log
+ 1813  ll a
+ 1814  cat a/bd026dc670cef309a0ad9542584c51f61ee9fbd77c49580afe1496d50aa133ae 
+ 1815  ll a
+ 1816  cat a/5ab8dcb9e8bb6bc4c9e13950e2f5afceb4219a6f87dea878f6defc0ea32509e9 
+ 1817  ll a
+ 1818  gs
+ 1819  git add a ua
+ 1820  hi co
+ 1821  git commit -am"+~..."
+ 1822  git push
+ 1823  sha256sum a/*
+ 1824  gs
+ 1825  tail -f at2d8c96d.dbx448fc06.Jet.log 
+ 1826  gs
+ 1827  tail ad2d9.log
+ 1828  cat a/1b465273f49186d18362c4ca20b2f20eee6f89d639219b98f4c87fada6c1e82b 
+ 1829  gs
+ 1830  hi co
+ 1831  git commit -am"+~..."
+ 1832  gs
+ 1833  git push
+ 1834  bt
+ 1835  #at2d91716.0fx16e5152 off you@3e9ef5c5
+ 1836  hi bt
+ 1837  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1838  exit
+ 1839  bt
+ 1840  #at2dd1c05.2bx1c8d479 on you@3ed6bf41
+ 1841  cd git/hn4j/
+ 1842  gs
+ 1843  ll a
+ 1844  cat a/285a2e614c71a9ba7e9e844e4fa5c6694108e00f1a4ffc6c95ed7234c74dc770 
+ 1845  cat a/690295c43064f2fd68de72e8fe13163a0c3e34850cf0e1a39fd82bb5f43b5fc2 
+ 1846  ls -lT a
+ 1847  ls -lt a
+ 1848  em index
+ 1849  gs
+ 1850  git add a ad2da.log ad2db.log ad2dc.log ad2dd.log at at2d91744.bcx1422c2f.OvhOneHist.txt ua
+ 1851  git add a ad2da.log ad2db.log ad2dc.log ad2dd.log at2d91744.bcx1422c2f.OvhOneHist.txt ua
+ 1852  git commit -am"add a ad2da.log ad2db.log ad2dc.log ad2dd.log at2d91744.bcx1422c2f.OvhOneHist.txt ua"
+ 1853  git pull
+ 1854  git push
+ 1855  hi bt
+ 1856  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1857  exit
+ 1858  bt
+ 1859  #at2e08f41.6dx165da5a on you@2003:45:4d1c:d691:9c:315f:d407:dba8
+ 1860  history 
+ 1861  cd git/hn4j/
+ 1862  gs
+ 1863  git add a ad2e0.log ad2df.log ad2e0.log at2dd1f18.36xd4b2bde.OvhOneHist.txt ua
+ 1864  git commit -am"add a ad2e0.log ad2df.log ad2e0.log at2dd1f18.36xd4b2bde.OvhOneHist.txt ua"
+ 1865  gs
+ 1866  git pull
+ 1867  ll ad*
+ 1868  git add ad2de.log
+ 1869  git commit -am"add ad2de.log"
+ 1870  gs
+ 1871  git push
+ 1872  tail -f ad2e0.log
+ 1873  ll ad*
+ 1874  grep 5608aa2b *
+ 1875  grep 5608a *
+ 1876  cat snd.sh
+ 1877  hi sendmail
+ 1878  grep sendmail at2d*
+ 1879  grep sendmail at2c*
+ 1880  grep sendmail at2c*|grep pou
+ 1881  echo "Subject:HautAnHaut?"|sendmail -fRaWa vanpoucke@mailbox.org ;date
+ 1882  grep sendmail at2c*|grep ekcu
+ 1883  grep sendmail at2b*|grep ekcu
+ 1884  grep sendmail at2*|grep ekcu
+ 1885  echo "Subject:HautAnHaut GoogleMail?"|sendmail -fRaWa wasserfuhr@yahoo.com ;date
+ 1886  echo "Subject:HautAnHaut GoogleMail?"|sendmail -fRaWa eckuop@gmail.com ;date
+ 1887  echo "Subject:HautAnHaut GoogleMail?"|sendmail -fRaWa ekcuop@gmail.com ;date
+ 1888  echo "Subject:HautAnHaut GoogleMail 2?"|sendmail -fRaWa ekcuop@gmail.com ;date
+ 1889  echo "Subject:HautAnHaut0003?"|sendmail -fRaWa vanpoucke@mailbox.org ;date
+ 1890  bt
+ 1891  #at2e0c02c.36x6f0e99a off you@2003:45:4d1c:d635:9c:315f:d407:dba8
+ 1892  hi bt
+ 1893  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1894  exit
+ 1895  history 
+ 1896  bt
+ 1897  #at2e0c0e9.9bx6f0e99a on you@2003:45:4d1c:d635:9c:315f:d407:dba8
+ 1898  bt
+ 1899  #at2e0c102.e8x6f0e99a off you@2003:45:4d1c:d635:9c:315f:d407:dba8
+ 1900  exit
+ 1901  bt
+ 1902  #at2e19088.96xc25be99 on you@2003:45:4d1c:d635:9c:315f:d407:dba8
+ 1903  cd git/hn4j/
+ 1904  curl https://floatingboat2013.appspot.com/eval/60315006|sort -n 2 -r
+ 1905  curl https://floatingboat2013.appspot.com/eval/60315006 |sort -n 2 -r
+ 1906  wget https://floatingboat2013.appspot.com/eval/60315006 |sort -n 2 -r
+ 1907  sort 60315006 
+ 1908  sort -n 2 -r 60315006 
+ 1909  sort -k 2 -r 60315006 
+ 1910  curl https://floatingboat2013.appspot.com/eval/58685002|sort -k -n 2 -r
+ 1911  curl https://floatingboat2013.appspot.com/eval/58685002|sort -k 2 -nr
+ 1912  mv 60315006 OLD/curl60315006 
+ 1913  gs
+ 1914  git add OLD/curl60315006 a ad2e1.log at2e0c093.4ex6f0e99a.OvhOneHist.txt ua
+ 1915  git commit -am"add OLD/curl60315006 a ad2e1.log at2e0c093.4ex6f0e99a.OvhOneHist.txt ua"
+ 1916  gs
+ 1917  git push
+ 1918  curl https://floatingboat2013.appspot.com/eval/58685002|sort -k 2 -nr
+ 1919  curl https://floatingboat2013.appspot.com/eval/57865005|xxd|more
+ 1920  curl https://floatingboat2013.appspot.com/eval/57865005 > tmp578
+ 1921  curl https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/FileSizeLd42af.txt|sort -k 2 -n -r|more
+ 1922  curl https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/FileSizeLd42af.txt|sort -k 2 -n -r|wc
+ 1923  #curl https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/FileSizeLd42af.txt|sort -k 2 -n -r >OLD
+ 1924  0332e1dc299a9fda22153e690fdca03dc1d2effa6018514b45a812cde44c23ee 17819282
+ 1925  3825f61ad33d67bc82b55fed016f6629074662fdf9193a4659aa080764e48589 17817870
+ 1926  90e8a2d12f2b4339265b6628d552bb6b1b9289c9ef6c486e0fc174a4aca33312 17815730
+ 1927  2dc451fb0eb4efd6af85ac953a673b592b0dc202d1bd0a1e571a980b2311a4e9 17443768
+ 1928  835f75f4985e3baadd1b9ee2eb5d8005c9025d6e5db08d71a883f4598feeb850 17371975
+ 1929  36479d4494c252a2aa89e9cce076774f92d2bf963bf62332b28ed859c0650199 17370202
+ 1930  df5c856a65632a399dc6028b0a3848a6e8109ce4941047405c2b6803737f41bb 17275136
+ 1931  c952769c1781067b4d0ce12bccc310241a06c851439acff029e64bafe1a27b98 17188098
+ 1932  fd8f66be13e3f73be6affdbaf4cf174fa1d3c56efa8c3084890740576360984e 17006273
+ 1933  386edd6afdeb28827661d0f5419cbbf96a9db627a6f73ee2308629053112b644 16990514
+ 1934  53d6383df7a23b9227e2457f00e6a686ed6528783eef16e8a84e524450e0f672 16954415
+ 1935  edbc9ac12f8d2c23249d3561104e3c566dd939f18485f7fca251decc6a2aaf91 16921175
+ 1936  b986ab8748148628887ed3f47daf05fbaccd5d5b3eeb8a3a1a3a777ebb667919 16909425
+ 1937  957bba84c5341d48422d4ff7bc6ef6944011ad3df615be3a80f45ec5bfc0429d 16866183
+ 1938  0d7ca20636a8f7c3aa8ca0da0e1f2b5883d6fc52d325093ff09ba6d411fae437 16809906
+ 1939  2a09746e657048cf89c7e6c73eb14cd9d8b73f6207a57e2b837c1b587dbad061 16776901
+ 1940  39ab9d288d7ca8b42f9483d83bc05e79c0c64c5cfe870c4ae9ddd04a5a883dc5 16731569
+ 1941  e1796c086aeb6229682bbd3fcf86af2b88cdb2d2ad61ad002c46ff6a64553f70 16718952
+ 1942  cb52605108143a64d61fcf938342b4f2a7198888275236c1e9941bc5a48164af 16672257
+ 1943  144c072fd057e554eb608783a5b8d4008bb736588e2dbf32b84fb1e6d15d4dea 16650479
+ 1944  0eecc382e7fab9a1a72ef961863595a640b51582ea15b75c3143fa7e825047dd 16538748
+ 1945  2c2217727a464ea6001525669aee96fc39e855c746678cd2569c1528e702f8cd 16515492
+ 1946  f43c862957c25fb3971bcb1b690b6b28a837944685a6df08ce97db7676efd47d 16511652
+ 1947  3765ea23b37931fc9dd72f3ffd95846c2c2ad5c9f7772a7053625a9160b2d292 16501152
+ 1948  hi
+ 1949  history 
+ 1950  curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af|wc
+ 1951  curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af|more
+ 1952  #curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af > hasi1
+ 1953  #curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af > hasi2.hsx
+ 1954  curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af|xxd|more
+ 1955  curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af > 2.hasi
+ 1956  curl https://floatingboat2013.appspot.com/eval/57865005|xxd|more
+ 1957  curl https://floatingboat2013.appspot.com/eval/57865005>1.hasi
+ 1958  git add 1.hasi 2.hasi
+ 1959  git commit -am"add 1.hasi 2.hasi"
+ 1960  git push
+ 1961  wc *hasi
+ 1962  sha256sum *hasi
+ 1963  ll *hasi
+ 1964  bt
+ 1965  #at2e1b93a.efxc20cb9e
+ 1966  cat ls.clj
+ 1967  cp ls.clj hls.clj
+ 1968  git add hls.clj
+ 1969  git commit -am"cp ls.clj hls.clj"
+ 1970  gs
+ 1971  git add ua tmp578 
+ 1972  hi co
+ 1973  git commit -am"+~..."
+ 1974  cat tmp578 
+ 1975  git mv tmp578 OLD
+ 1976  git commit -am"git mv tmp578 OLD"
+ 1977  ll
+ 1978  gs
+ 1979  tail -f ad2e1.log 
+ 1980  em hls
+ 1981  em boot
+ 1982  em hls
+ 1983  curl https://sl4.eu/hls|xxd|more
+ 1984  curl https://sl4.eu/hls > 3.hasi
+ 1985  cat 1.hasi 
+ 1986  more 1.hasi 
+ 1987  bt
+ 1988  #at2e1d401.c7xbcfde26
+ 1989  gs
+ 1990  git add 3.hasi ad2e2.log ua
+ 1991  git commit -am"add 3.hasi ad2e2.log ua"
+ 1992  gs
+ 1993  bt
+ 1994  #at2e22d1b.02x20074bc off you@2003:45:4d1c:d623:85f8:b033:9810:2582
+ 1995  hi bt
+ 1996  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1997  exit
+ 1998  bt
+ 1999  #at2e57bca.37x7311a46 on you@3e9ef5c5
+ 2000  curl d57ae3cac0aef7247f10c2b43bed7d45f9def5d0032ba77fc182222765c8f931 156
+ 2001  03c073387ca92bc2930d5351fe3de5013e1db9743c0942b44cf0b33216f3f650 137
+ 2002  23faa40fe6263f662745c17abf9ba199aca0afa90d9918b111430aacc2fc4c11 11b
+ 2003  0acd5baacf4ff4db6aef15bd1a791625af27000d4daf3c27aeff9e7ba99ec1e3 d4
+ 2004  6605d8e435b994d5c525268df0be62116e7c4ef203d388c8bd09a592a45f170d d4
+ 2005  547514f6dbc3eb98844cfe4bec8d8d80c62f245338336707498bb97e62fcc637 d3
+ 2006  9567eb0e7fa7d9d87f7f97b69b08c85d11a25c345ff128d1f183de6b0bb613e1 bf
+ 2007  690295c43064f2fd68de72e8fe13163a0c3e34850cf0e1a39fd82bb5f43b5fc2 bc
+ 2008  888abd134d28de87d4dfdfd3ff6ebdeeab957926d90167bbcc59b21af5c928f3 bb
+ 2009  09acebb89cad99b6064b57881daaa3d6fc31cfb1c5287bd4a7b51cd92f7c861e bb
+ 2010  285a2e614c71a9ba7e9e844e4fa5c6694108e00f1a4ffc6c95ed7234c74dc770 b8
+ 2011  5ab8dcb9e8bb6bc4c9e13950e2f5afceb4219a6f87dea878f6defc0ea32509e9 9e
+ 2012  1b465273f49186d18362c4ca20b2f20eee6f89d639219b98f4c87fada6c1e82b 9e
+ 2013  3bd273b4c100aec8d7a4e7ade54dd0ca3071ad375dce68509e8cbe5fe92e486d 91
+ 2014  d9f626f376c5368ca2d3813f46ef423e4b41ce646412fc8373407413005d2994 6b
+ 2015  bd026dc670cef309a0ad9542584c51f61ee9fbd77c49580afe1496d50aa133ae 3e
+ 2016  bd9e920c85a1de467ece4780e4a075b42808e73754e340a2b7523dce19fef944 28
+ 2017  31bf61bd8f17502c50ad1e9b7e8366bbcfb47a64579e88def2138466bf0e88b5 d
+ 2018  f4b67af959b5ac50667e8312dc7c53634539e340222cca60da1fdd2d13ec921a 6
+ 2019  curl https://sl4.eu/hls|xxd|more
+ 2020  ll *si
+ 2021  cd git/hn4j/
+ 2022  ll *si
+ 2023  curl https://sl4.eu/hls>4.hasi
+ 2024  ll *si
+ 2025  sha256sum *si
+ 2026  rm 4.hasi
+ 2027  gs
+ 2028  git add ad2e3.log ad2e4.log ad2e5.log at2e22d4d.fdx20074bc.OvhOneHist.txt ua
+ 2029  git commit -ma"git add ad2e3.log ad2e4.log ad2e5.log at2e22d4d.fdx20074bc.OvhOneHist.txt ua"
+ 2030  gs
+ 2031  hi co
+ 2032  git commit -am"+~..."
+ 2033  gs
+ 2034  git push
+ 2035  gs
+ 2036  tail at2d8c96d.dbx448fc06.Jet.log 
+ 2037  tail ad2e5.log
+ 2038  hi grep
+ 2039  grep /char *j
+ 2040  grep /char *g
+ 2041  ll ad*
+ 2042  ls
+ 2043  l w
+ 2044  ls w
+ 2045  ll -S wd|moe
+ 2046  ll -S wd|more
+ 2047  ll -S q|more
+ 2048  cat q/19e4bbb 
+ 2049  cat q/1b80ea6 
+ 2050  wget https://github.com/wasserfuhr/AllHashes/archive/master.zip
+ 2051  unzip -l master.zip |more
+ 2052  gs
+ 2053  ll master.zip 
+ 2054  rm master.zip 
+ 2055  hi co
+ 2056  git commit -am"+~..."
+ 2057  git push
+ 2058  git help archive
+ 2059  lynx
+ 2060  apt-get install lynx-cur
+ 2061  lynx
+ 2062  #lynx https://en.wikipedia.org/wiki/Universe
+ 2063  lynx
+ 2064  lynx -?
+ 2065  lynx -dump https://en.wikipedia.org/wiki/Universe|more
+ 2066  lynx -? |grep secure
+ 2067  lynx -? |grep ttps
+ 2068  lynx -dump http://en.wikipedia.org/wiki/Universe|more
+ 2069  lynx --with-ssl -dump https://en.wikipedia.org/wiki/Universe|more
+ 2070  lynx -dump https://en.wikipedia.org/wiki/Universe|moreq
+ 2071  lynx -dump https://en.wikipedia.org/wiki/Universe|more
+ 2072  apt-get install lynx-ssl
+ 2073  lynx -version
+ 2074  lynx -dump https://www.google.com/|more
+ 2075  gs
+ 2076  py
+ 2077  python
+ 2078  cat boot.clj
+ 2079  curl https://blockchain.info/rawblock/000000000000000000726d1228035944bb13891b4488ef9572cd5d2ecc54e106?format=hex |more
+ 2080  curl https://blockchain.info/rawblock/000000000000000000726d1228035944bb13891b4488ef9572cd5d2ecc54e106?format=hex|more
+ 2081  mkdir blk
+ 2082  curl https://blockchain.info/rawblock/000000000000000000726d1228035944bb13891b4488ef9572cd5d2ecc54e106 > blk/70b31
+ 2083  wc blk/70b31 
+ 2084  ll *j
+ 2085  cat char.clj 
+ 2086  cat put.clj
+ 2087  #cp put.clj blk.clj
+ 2088  curl https://blockchain.info/rawblock/00000000000000000166ff12ddad1fc76dd6310bf35f4b99fbe7671503cce9cd > blk/70b35
+ 2089  cp put.clj blk.clj
+ 2090  git add blk.clj
+ 2091  git commit -am"cp put.clj blk.clj"
+ 2092  em boot
+ 2093  em blk
+ 2094  cp blk.clj newBlock.clj
+ 2095  git add newBlock.clj
+ 2096  git commit -am"cp blk.clj newBlock.clj
+ 2097  git commit -am"cp blk.clj newBlock.clj"
+ 2098  em boot
+ 2099  em newBlock
+ 2100  cat haha 
+ 2101  curl -d '{"event":"new-block","url":"https://sl4.eu/newBlock"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+ 2102  cat haha 
+ 2103  ll
+ 2104  cat haha
+ 2105  tail ad2e5.log 
+ 2106  cat ua/36576ea5b4f386b3e19c2839c160dfddb0b0b761710e08d04640a1d52e20c180 
+ 2107  cat ua/a13a25bd8d0b4282dbab68a2cd6ebe7eacd252ca9900eb5825799f4ca8a35244 
+ 2108  em newBlock
+ 2109  gs
+ 2110  ll blk
+ 2111  ll a
+ 2112  ll ua
+ 2113  ll -S ua
+ 2114  cat ua/108040ac289a13952927ac14f658a0b06cf24612c43375801b63f87be11191f7 
+ 2115  cat ua/8ec77f73cafd7ee66d7acc6cb90e28946240260ba0cd1fbd30d244e09c98edf3 
+ 2116  cat ua/dfdc1552be1961e439813020f88724668f0aad8a8086366183afcb0859224e72
+ 2117  cat ua/9ee4eb62f81ac7faf8b6c9bc007f2dff16bc7ea1e7be6271e9028c51a30538d2 
+ 2118  ll -S ua|more
+ 2119  cat ua/f88c103c2efba1f81b203bbb84b423f49a15a944831aee3645cf725fe2c9b60e 
+ 2120  ls
+ 2121  em newBlock
+ 2122  grep json *j
+ 2123  cat boot.clj 
+ 2124  more boot.clj 
+ 2125  grep json *j
+ 2126  #clojure.data.json/read-str s :key-fn keyword
+ 2127  ll *j
+ 2128  em blk
+ 2129  gs
+ 2130  tail at2d8c96d.dbx448fc06.Jet.log 
+ 2131  tail -c 4k at2d8c96d.dbx448fc06.Jet.log 
+ 2132  cat Jet.java
+ 2133  ps aux
+ 2134  grep Dpw *Hist*
+ 2135  ll *r
+ 2136  cat hh
+ 2137  cat h
+ 2138  cat haha 
+ 2139  grep Dpw *Hist*
+ 2140  grep pw *Hist*
+ 2141  em put
+ 2142  pw=`cat pw`
+ 2143  #a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar;cloj
+ 2144  #a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 2145  ps aux
+ 2146  kill -9 2900
+ 2147  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 2148  gs
+ 2149  tail at2e5fd69.06x16e2445.Jet.log 
+ 2150  tail -c 4k at2e5fd69.06x16e2445.Jet.log 
+ 2151  tail -c 8k at2e5fd69.06x16e2445.Jet.log |more
+ 2152  unzip -l data.json-0.2.6.jar|more
+ 2153  emacs Jet.java
+ 2154  javac Jet.java
+ 2155  hi javac
+ 2156  javac -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet.java
+ 2157  ps aux
+ 2158  kill -9 21110
+ 2159  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 2160  gs
+ 2161  cat at2e5fe80.84x204dbbe.Jet.log 
+ 2162  em blk
+ 2163  em newBlock
+ 2164  ll haha 
+ 2165  cat haha 
+ 2166  more haha 
+ 2167  em blk
+ 2168  em newBlock
+ 2169  ll blk
+ 2170  cat blk/70b45 
+ 2171  em newBlock
+ 2172  cat newBlock.clj
+ 2173  ll blk
+ 2174  rm blk/70b3*
+ 2175  gs
+ 2176  git add a ad2e6.log at2e5fd69.06x16e2445.Jet.log at2e5fe80.84x204dbbe.Jet.log blk/ ua
+ 2177  git commit -am"git add a ad2e6.log at2e5fd69.06x16e2445.Jet.log at2e5fe80.84x204dbbe.Jet.log blk/ ua"
+ 2178  gs
+ 2179  more haha 
+ 2180  ll haha 
+ 2181  git mv OLD
+ 2182  git add haha
+ 2183  gs
+ 2184  hi co
+ 2185  git commit -am"+~..."
+ 2186  git mv haha OLD
+ 2187  git commit -am"+~..."
+ 2188  gs
+ 2189  git push
+ 2190  gs
+ 2191  ll blk
+ 2192  gs
+ 2193  git rm blk/70b45 
+ 2194  cat blk/70b46 
+ 2195  more OLD/haha 
+ 2196  ll blk
+ 2197  gs
+ 2198  git add blk ua
+ 2199  git commit -am"git add blk ua"
+ 2200  gs
+ 2201  tail at2e5fe80.84x204dbbe.Jet.log 
+ 2202  gs
+ 2203  ll blk
+ 2204  em newBlock
+ 2205  emacs bcHead
+ 2206  ll blk
+ 2207  ll
+ 2208  ll blk
+ 2209  ll *si
+ 2210  wc *si
+ 2211  more 2.hasi 
+ 2212  em hls
+ 2213  ll a
+ 2214  curl https://sl4.eu/hls>4.hasi
+ 2215  xxd 4.hasi|more
+ 2216  em hls
+ 2217  #sha256sum q
+ 2218  cd q
+ 2219  sha256sum *|more
+ 2220  sha256sum *>qsha
+ 2221  ll qsha 
+ 2222  cd ..
+ 2223  hi hasi
+ 2224  sha256sum *hasi
+ 2225  ll *si
+ 2226  emacs meta.hasi
+ 2227  xxd meta.hasi 
+ 2228  sha256sum meta.hasi 
+ 2229  ll blk
+ 2230  gs
+ 2231  cat bcHead 
+ 2232  em newBlock
+ 2233  em blk
+ 2234  cat bcHead 
+ 2235  em blk
+ 2236  em newBlock
+ 2237  ll blk
+ 2238  cat blk/70b55
+ 2239  ll blk
+ 2240  cat bcHead 
+ 2241  gs
+ 2242  git add 4.hasi bcHead blk meta.hasi
+ 2243  git commit -am"git add 4.hasi bcHead blk meta.hasi"
+ 2244  gs
+ 2245  ls
+ 2246  bt
+ 2247  #at2e62cb9.4fx22e83d3
+ 2248  cat bcHead 
+ 2249  #at2e62cb9.4fx22e83d3 off you@2003:45:4d1c:d652:99e5:e1aa:ea9c:8d8c
+ 2250  hi bt
+ 2251  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
