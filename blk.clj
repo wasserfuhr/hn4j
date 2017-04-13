@@ -5,5 +5,5 @@
 ;  (spit(str"blk/"hb)bh)
   ;(if(<
 ]
-(.compareTo"4c"16)))
+(.compareTo lh"4c"))
 ;(format"%x"(:a (clojure.data.json/read-str "{\"a\":16}" :key-fn keyword)))))
