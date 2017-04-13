@@ -178,3 +178,4 @@ java.lang.RuntimeException: EOF while reading
 	at java.lang.Thread.run(Thread.java:745)
 2017-04-13 03:24:26.797:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-13 03:25:11.036:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-13 03:25:37.940:WARN:oejh.HttpGenerator:Ignoring extra content null
