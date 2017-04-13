@@ -8,7 +8,8 @@
 ]
 (> 0(.compareTo lh"70b4e"))
 
-(count(:tx(clojure.data.json/read-str h :key-fn keyword)))
+(map(fn[t](:hash t))
+ (:tx(clojure.data.json/read-str h :key-fn keyword))))
 
 ))
 ;(format"%x"(:a (clojure.data.json/read-str "{\"a\":16}" :key-fn keyword)))))
