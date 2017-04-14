@@ -12,7 +12,7 @@
 ;[:div{:style"overflow:hidden;height:60px;width:750px"}
 [:div#rot;{:style"overflow:hidden;height:60px;width:900px;margin-let:-50px"}
 (map(fn[i]
- [:img{:style"height:0px;width:0px"}]
+ [:img{:style"height:60px;width:45px;display:none"}]
  )(range 64))
 ];]
 [:p"Hi "(subs uh 0 6)"@"i"!"]
@@ -38,9 +38,10 @@ try{
  //if(ct<2)alert(1)
  var i=document.getElementById('rot').childNodes[Math.floor(64*Math.random())]
  i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%128]
- i.style='height:60px;width:45px'
+ i.style='height:60px;width:45px;display:block'
  i.height=60
  i.width=45
+
 }catch(e){alert(e)}
 
 },1000)
