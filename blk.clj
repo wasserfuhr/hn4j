@@ -2,9 +2,9 @@
  c(filter(fn[c](="0"(.getName c)))(.getCookies rq))
  h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
    (. h update m)(.digest h)))
- ;f(fn[h](apply str(map#(format"%02x"(bit-and % 0xff))h)))
+ f(fn[h](apply str(map#(format"%02x"(bit-and % 0xff))h)))
  ]
- (count c)))
+ (first c)))
 ; lh(slurp"bcHead")
 ;(f(h(.getBytes(.getValue(first c)))))))
 ;(spit(str"blk/"hb)bh)]
