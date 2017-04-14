@@ -4389,3 +4389,11 @@ java.lang.RuntimeException: Unable to resolve symbol: map# in this context
 2017-04-14 15:44:18.920:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-14 15:44:24.759:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-14 15:44:30.824:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-14 15:48:37.076:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-14 15:48:46.600:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-14 15:48:53.578:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-14 15:49:25.257:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-14 15:50:36.304:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-14 15:57:19.300:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-14 15:57:40.699:WARN:oejs.AbstractHttpConnection:/blk
+java.lang.NullPointerException
