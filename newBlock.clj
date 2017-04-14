@@ -4,7 +4,7 @@
  hb(format"%x"(:height b))
  lh(slurp"bcHead")
  bh(subs(slurp(str"https://blockchain.info/rawblock/"h"?format=hex"))0 160)]
-(spit(str"blk/"hb)bh)
+(spit(str"bh/"hb)bh)
 (spit"bcHead"hb)
 ;(if(<(.compareToLong/parseLong(:height b)16)
 ))
