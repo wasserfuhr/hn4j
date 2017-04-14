@@ -39,6 +39,8 @@ try{
  var i=document.getElementById('rot').childNodes[Math.floor(64*Math.random())]
  i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%128]
  i.style='height:60px;width:45px'
+ i.height=60
+ i.width=45
 }catch(e){alert(e)}
 
 },1000)
