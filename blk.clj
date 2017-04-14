@@ -4,7 +4,8 @@
    (. h update m)(.digest h)))
  f(fn[h](apply str(map#(format"%02x"(bit-and % 0xff))h)))
  ]
- (.getName(first c))))
+ c))
+; (.getName(first c))))
 ; lh(slurp"bcHead")
 ;(f(h(.getBytes(.getValue(first c)))))))
 ;(spit(str"blk/"hb)bh)]
