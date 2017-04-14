@@ -44,6 +44,8 @@ try{
 },1000)
 }catch(e){alert(e)}
 "]
-[:p[:a{:href"https://floatingboat2013.appspot.com/ad"}"ad"]]
-[:footer[:a{:href"https://floatingboat2013.appspot.com/"}"fl"]]
-]])))
+[:p
+[:a{:href"https://floatingboat2013.appspot.com/ad"}"ad"]" "
+[:a{:href"https://floatingboat2013.appspot.com/"}"fl"]" "
+[:a{:href"/hls"}"hls"]" "
+[:a{:href"/ls"}"ls"]]]])))
