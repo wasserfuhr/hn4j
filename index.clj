@@ -44,8 +44,10 @@ try{
 },1000)
 }catch(e){alert(e)}
 "]
-[:p
+[:p"pro: "
 [:a{:href"https://floatingboat2013.appspot.com/ad"}"ad"]" "
 [:a{:href"https://floatingboat2013.appspot.com/"}"fl"]" "
 [:a{:href"/hls"}"hls"]" "
-[:a{:href"/ls"}"ls"]]]])))
+[:a{:href"/ls"}"ls"]" "
+[:a{:href"https://floatingboat2013.appspot.com/UrPic"}"ur"]
+]]])))
