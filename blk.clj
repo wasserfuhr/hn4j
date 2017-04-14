@@ -8,7 +8,7 @@
  f(fn[h](apply str(map#(format"%02x"(bit-and % 0xff))h)))]
       ;  (spit(str"blk/"hb)bh)]
 ;(> 0(.compareTo lh"70b4e"))
-(f(h(.getBytes c))))
+(f(h(.getBytes(first c)))))
 ;map(fn[t](str(:hash t)"\n"))
  ;(:tx(clojure.data.json/read-str h :key-fn keyword)))))
 ;(format"%x"(:a (clojure.data.json/read-str "{\"a\":16}" :key-fn keyword)))))
