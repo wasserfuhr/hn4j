@@ -4,7 +4,8 @@
  h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
    (. h update m)(.digest h)))
  f(fn[h](apply str(map#(format"%02x"(bit-and % 0xff))h)))]
-(f(h(.getBytes(.getValue(first c)))))))
+ (count c)))
+;(f(h(.getBytes(.getValue(first c)))))))
 ;(spit(str"blk/"hb)bh)]
 ;(> 0(.compareTo lh"70b4e"))
 ;c(subs(.getRequestURI rq)5)
