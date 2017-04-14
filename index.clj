@@ -37,8 +37,8 @@ try{
  ct++
  //if(ct<2)alert(1)
  var i=document.getElementById('rot').childNodes[Math.floor(64*Math.random())]
-// i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%128]
- i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/William_Shatner_at_Comic-Con_2012_cropped.jpg/214px-William_Shatner_at_Comic-Con_2012_cropped.jpg'
+ i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/'+hpic[ct%128]
+// i.src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/William_Shatner_at_Comic-Con_2012_cropped.jpg/214px-William_Shatner_at_Comic-Con_2012_cropped.jpg'
  i.style='height:60px;width:45px'
 }catch(e){alert(e)}
 
