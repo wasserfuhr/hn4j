@@ -1,0 +1,1000 @@
+ 1300  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1301  em area
+ 1302  tail -f ad2d8.log
+ 1303  grep test *j
+ 1304  em test
+ 1305  em boot
+ 1306  em put
+ 1307  curl https://floatingboat2013.appspot.com/raw/31915002 > put.clj
+ 1308  sha256sum put.clj
+ 1309  git add put.clj
+ 1310  em put
+ 1311  sha256sum put.clj
+ 1312  em put
+ 1313  hi tail
+ 1314  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1315  em put
+ 1316  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1317  em put
+ 1318  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1319  em put
+ 1320  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1321  em put
+ 1322  echo -n \0xabcd00807f 
+ 1323  echo "000000: f027 5c9a bf00"|xxd -r
+ 1324  echo "000000: f027 5c9a bf00"|xxd -r|sha256sum
+ 1325  echo "000000: abcd 0080 7f"|xxd -r|sha256sum
+ 1326  echo "000000: abcd 0080 7f00"|xxd -r|sha256sum
+ 1327  echo "000000: abcd 0080 7f00"|xxd -r|wc
+ 1328  echo "000000: abcd 0080 7f00"|xxd -r|wc|xxd
+ 1329  echo "000000: abcd 0080 7f00"|xxd -r|xxd
+ 1330  em put
+ 1331  echo "000000: abcd 0080 7f00"|xxd -r|sha256sum 
+ 1332  em put
+ 1333  ls
+ 1334  l p
+ 1335  mkdir a
+ 1336  em put
+ 1337  grep exis *j
+ 1338  em put
+ 1339  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1340  em put
+ 1341  sha256sum a/*
+ 1342  em put
+ 1343  rm a/f4b67af959b5ac50667e8312dc7c53634539e340222cca60da1fdd2d13ec921a 
+ 1344  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1345  em put
+ 1346  sha256sum a/*
+ 1347  ll a
+ 1348  sha256sum a/*
+ 1349  em put
+ 1350  grep last *j
+ 1351  cat ls
+ 1352  cat ls.clj 
+ 1353  em put
+ 1354  gs
+ 1355  git add ua
+ 1356  hi co
+ 1357  git commit -am"+~..."
+ 1358  git push
+ 1359  gs
+ 1360  ll rct
+ 1361  ll refCt.txt 
+ 1362  ll wdName.txt 
+ 1363  git add rct refCt.txt wdName.txt 
+ 1364  git commit -am"+rct +refCt.txt +wdName.txt"
+ 1365  gs
+ 1366  cat ls.clj 
+ 1367  cp ls.clj als.clj
+ 1368  git add als.clj
+ 1369  git commit -am"cp ls.clj als.clj"
+ 1370  curl https://floatingboat2013.appspot.com/raw/56515015 > zip.clj
+ 1371  git add zip.clj
+ 1372  git commit -am"+zip.clj"
+ 1373  em boot
+ 1374  hi tail
+ 1375  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1376  em zip
+ 1377  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1378  em zip
+ 1379  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1380  em boot
+ 1381  cat Jet.class
+ 1382  cat Jet.java 
+ 1383  emacs Jet.java 
+ 1384  grep javac *log
+ 1385  ll *log
+ 1386  ll *His*
+ 1387  grep javac *txt
+ 1388  javac -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servl-api-3.1.0.jar:. Jet.java
+ 1389  ll *ar
+ 1390  javac -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet.java
+ 1391  ps aux
+ 1392  #kill -9 1140
+ 1393  hi nohu
+ 1394  kill -9 1140
+ 1395  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1396  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1397  em boot
+ 1398  ll *ls*
+ 1399  em ls
+ 1400  em index
+ 1401  em tap
+ 1402  em age
+ 1403  grep lear *j
+ 1404  em age
+ 1405  grep /char *j
+ 1406  em memo
+ 1407  hi tail
+ 1408  tail -f ad2d8.log
+ 1409  gs
+ 1410  git add at2d8c96d.dbx448fc06.Jet.log ua
+ 1411  git commit -am"+at2d8c96d.dbx448fc06.Jet.log ~ua"
+ 1412  gs
+ 1413  git add a
+ 1414  git commit -am"+a/*"
+ 1415  ll a
+ 1416  emacs Jet.java
+ 1417  git commit -am"~Jet.java"
+ 1418  git push
+ 1419  gs
+ 1420  hi co
+ 1421  git commit -am"+~..."
+ 1422  gs
+ 1423  git pull
+ 1424  df
+ 1425  ll a
+ 1426  sha256sum a/*
+ 1427  em index
+ 1428  gs
+ 1429  git add ad2d9.log ua
+ 1430  git commit -am"+ad2d9.log ~ua"
+ 1431  gs
+ 1432  ll a
+ 1433  hi tai
+ 1434  tail -f ad2d8.log
+ 1435  tail -f ad2d9.log
+ 1436  ll a
+ 1437  cat a/31bf61bd8f17502c50ad1e9b7e8366bbcfb47a64579e88def2138466bf0e88b5 
+ 1438  ll a
+ 1439  cat a/31bf61bd8f17502c50ad1e9b7e8366bbcfb47a64579e88def2138466bf0e88b5 
+ 1440  ll a
+ 1441  hi tai
+ 1442  tail -f ad2d9.log
+ 1443  em put
+ 1444  tail -f ad2d9.log
+ 1445  ll a
+ 1446  hi tai
+ 1447  tail -c8k at2d86a3b.e0x8d94fc1.Jet.log 
+ 1448  gs
+ 1449  tail -c8k at2d8c96d.dbx448fc06.Jet.log 
+ 1450  tail -f ad2d9.log
+ 1451  ll a
+ 1452  cat a/bd026dc670cef309a0ad9542584c51f61ee9fbd77c49580afe1496d50aa133ae 
+ 1453  ll a
+ 1454  cat a/5ab8dcb9e8bb6bc4c9e13950e2f5afceb4219a6f87dea878f6defc0ea32509e9 
+ 1455  ll a
+ 1456  gs
+ 1457  git add a ua
+ 1458  hi co
+ 1459  git commit -am"+~..."
+ 1460  git push
+ 1461  sha256sum a/*
+ 1462  gs
+ 1463  tail -f at2d8c96d.dbx448fc06.Jet.log 
+ 1464  gs
+ 1465  tail ad2d9.log
+ 1466  cat a/1b465273f49186d18362c4ca20b2f20eee6f89d639219b98f4c87fada6c1e82b 
+ 1467  gs
+ 1468  hi co
+ 1469  git commit -am"+~..."
+ 1470  gs
+ 1471  git push
+ 1472  bt
+ 1473  #at2d91716.0fx16e5152 off you@3e9ef5c5
+ 1474  hi bt
+ 1475  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1476  exit
+ 1477  bt
+ 1478  #at2dd1c05.2bx1c8d479 on you@3ed6bf41
+ 1479  cd git/hn4j/
+ 1480  gs
+ 1481  ll a
+ 1482  cat a/285a2e614c71a9ba7e9e844e4fa5c6694108e00f1a4ffc6c95ed7234c74dc770 
+ 1483  cat a/690295c43064f2fd68de72e8fe13163a0c3e34850cf0e1a39fd82bb5f43b5fc2 
+ 1484  ls -lT a
+ 1485  ls -lt a
+ 1486  em index
+ 1487  gs
+ 1488  git add a ad2da.log ad2db.log ad2dc.log ad2dd.log at at2d91744.bcx1422c2f.OvhOneHist.txt ua
+ 1489  git add a ad2da.log ad2db.log ad2dc.log ad2dd.log at2d91744.bcx1422c2f.OvhOneHist.txt ua
+ 1490  git commit -am"add a ad2da.log ad2db.log ad2dc.log ad2dd.log at2d91744.bcx1422c2f.OvhOneHist.txt ua"
+ 1491  git pull
+ 1492  git push
+ 1493  hi bt
+ 1494  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1495  exit
+ 1496  bt
+ 1497  #at2e08f41.6dx165da5a on you@2003:45:4d1c:d691:9c:315f:d407:dba8
+ 1498  history 
+ 1499  cd git/hn4j/
+ 1500  gs
+ 1501  git add a ad2e0.log ad2df.log ad2e0.log at2dd1f18.36xd4b2bde.OvhOneHist.txt ua
+ 1502  git commit -am"add a ad2e0.log ad2df.log ad2e0.log at2dd1f18.36xd4b2bde.OvhOneHist.txt ua"
+ 1503  gs
+ 1504  git pull
+ 1505  ll ad*
+ 1506  git add ad2de.log
+ 1507  git commit -am"add ad2de.log"
+ 1508  gs
+ 1509  git push
+ 1510  tail -f ad2e0.log
+ 1511  ll ad*
+ 1512  grep 5608aa2b *
+ 1513  grep 5608a *
+ 1514  cat snd.sh
+ 1515  hi sendmail
+ 1516  grep sendmail at2d*
+ 1517  grep sendmail at2c*
+ 1518  grep sendmail at2c*|grep pou
+ 1519  echo "Subject:HautAnHaut?"|sendmail -fRaWa vanpoucke@mailbox.org ;date
+ 1520  grep sendmail at2c*|grep ekcu
+ 1521  grep sendmail at2b*|grep ekcu
+ 1522  grep sendmail at2*|grep ekcu
+ 1523  echo "Subject:HautAnHaut GoogleMail?"|sendmail -fRaWa wasserfuhr@yahoo.com ;date
+ 1524  echo "Subject:HautAnHaut GoogleMail?"|sendmail -fRaWa eckuop@gmail.com ;date
+ 1525  echo "Subject:HautAnHaut GoogleMail?"|sendmail -fRaWa ekcuop@gmail.com ;date
+ 1526  echo "Subject:HautAnHaut GoogleMail 2?"|sendmail -fRaWa ekcuop@gmail.com ;date
+ 1527  echo "Subject:HautAnHaut0003?"|sendmail -fRaWa vanpoucke@mailbox.org ;date
+ 1528  bt
+ 1529  #at2e0c02c.36x6f0e99a off you@2003:45:4d1c:d635:9c:315f:d407:dba8
+ 1530  hi bt
+ 1531  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1532  exit
+ 1533  history 
+ 1534  bt
+ 1535  #at2e0c0e9.9bx6f0e99a on you@2003:45:4d1c:d635:9c:315f:d407:dba8
+ 1536  bt
+ 1537  #at2e0c102.e8x6f0e99a off you@2003:45:4d1c:d635:9c:315f:d407:dba8
+ 1538  exit
+ 1539  bt
+ 1540  #at2e19088.96xc25be99 on you@2003:45:4d1c:d635:9c:315f:d407:dba8
+ 1541  cd git/hn4j/
+ 1542  curl https://floatingboat2013.appspot.com/eval/60315006|sort -n 2 -r
+ 1543  curl https://floatingboat2013.appspot.com/eval/60315006 |sort -n 2 -r
+ 1544  wget https://floatingboat2013.appspot.com/eval/60315006 |sort -n 2 -r
+ 1545  sort 60315006 
+ 1546  sort -n 2 -r 60315006 
+ 1547  sort -k 2 -r 60315006 
+ 1548  curl https://floatingboat2013.appspot.com/eval/58685002|sort -k -n 2 -r
+ 1549  curl https://floatingboat2013.appspot.com/eval/58685002|sort -k 2 -nr
+ 1550  mv 60315006 OLD/curl60315006 
+ 1551  gs
+ 1552  git add OLD/curl60315006 a ad2e1.log at2e0c093.4ex6f0e99a.OvhOneHist.txt ua
+ 1553  git commit -am"add OLD/curl60315006 a ad2e1.log at2e0c093.4ex6f0e99a.OvhOneHist.txt ua"
+ 1554  gs
+ 1555  git push
+ 1556  curl https://floatingboat2013.appspot.com/eval/58685002|sort -k 2 -nr
+ 1557  curl https://floatingboat2013.appspot.com/eval/57865005|xxd|more
+ 1558  curl https://floatingboat2013.appspot.com/eval/57865005 > tmp578
+ 1559  curl https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/FileSizeLd42af.txt|sort -k 2 -n -r|more
+ 1560  curl https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/FileSizeLd42af.txt|sort -k 2 -n -r|wc
+ 1561  #curl https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/FileSizeLd42af.txt|sort -k 2 -n -r >OLD
+ 1562  0332e1dc299a9fda22153e690fdca03dc1d2effa6018514b45a812cde44c23ee 17819282
+ 1563  3825f61ad33d67bc82b55fed016f6629074662fdf9193a4659aa080764e48589 17817870
+ 1564  90e8a2d12f2b4339265b6628d552bb6b1b9289c9ef6c486e0fc174a4aca33312 17815730
+ 1565  2dc451fb0eb4efd6af85ac953a673b592b0dc202d1bd0a1e571a980b2311a4e9 17443768
+ 1566  835f75f4985e3baadd1b9ee2eb5d8005c9025d6e5db08d71a883f4598feeb850 17371975
+ 1567  36479d4494c252a2aa89e9cce076774f92d2bf963bf62332b28ed859c0650199 17370202
+ 1568  df5c856a65632a399dc6028b0a3848a6e8109ce4941047405c2b6803737f41bb 17275136
+ 1569  c952769c1781067b4d0ce12bccc310241a06c851439acff029e64bafe1a27b98 17188098
+ 1570  fd8f66be13e3f73be6affdbaf4cf174fa1d3c56efa8c3084890740576360984e 17006273
+ 1571  386edd6afdeb28827661d0f5419cbbf96a9db627a6f73ee2308629053112b644 16990514
+ 1572  53d6383df7a23b9227e2457f00e6a686ed6528783eef16e8a84e524450e0f672 16954415
+ 1573  edbc9ac12f8d2c23249d3561104e3c566dd939f18485f7fca251decc6a2aaf91 16921175
+ 1574  b986ab8748148628887ed3f47daf05fbaccd5d5b3eeb8a3a1a3a777ebb667919 16909425
+ 1575  957bba84c5341d48422d4ff7bc6ef6944011ad3df615be3a80f45ec5bfc0429d 16866183
+ 1576  0d7ca20636a8f7c3aa8ca0da0e1f2b5883d6fc52d325093ff09ba6d411fae437 16809906
+ 1577  2a09746e657048cf89c7e6c73eb14cd9d8b73f6207a57e2b837c1b587dbad061 16776901
+ 1578  39ab9d288d7ca8b42f9483d83bc05e79c0c64c5cfe870c4ae9ddd04a5a883dc5 16731569
+ 1579  e1796c086aeb6229682bbd3fcf86af2b88cdb2d2ad61ad002c46ff6a64553f70 16718952
+ 1580  cb52605108143a64d61fcf938342b4f2a7198888275236c1e9941bc5a48164af 16672257
+ 1581  144c072fd057e554eb608783a5b8d4008bb736588e2dbf32b84fb1e6d15d4dea 16650479
+ 1582  0eecc382e7fab9a1a72ef961863595a640b51582ea15b75c3143fa7e825047dd 16538748
+ 1583  2c2217727a464ea6001525669aee96fc39e855c746678cd2569c1528e702f8cd 16515492
+ 1584  f43c862957c25fb3971bcb1b690b6b28a837944685a6df08ce97db7676efd47d 16511652
+ 1585  3765ea23b37931fc9dd72f3ffd95846c2c2ad5c9f7772a7053625a9160b2d292 16501152
+ 1586  hi
+ 1587  history 
+ 1588  curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af|wc
+ 1589  curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af|more
+ 1590  #curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af > hasi1
+ 1591  #curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af > hasi2.hsx
+ 1592  curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af|xxd|more
+ 1593  curl https://floatingboat2013.appspot.com/eval/60315008?n=SortedFileSizeLd42af > 2.hasi
+ 1594  curl https://floatingboat2013.appspot.com/eval/57865005|xxd|more
+ 1595  curl https://floatingboat2013.appspot.com/eval/57865005>1.hasi
+ 1596  git add 1.hasi 2.hasi
+ 1597  git commit -am"add 1.hasi 2.hasi"
+ 1598  git push
+ 1599  wc *hasi
+ 1600  sha256sum *hasi
+ 1601  ll *hasi
+ 1602  bt
+ 1603  #at2e1b93a.efxc20cb9e
+ 1604  cat ls.clj
+ 1605  cp ls.clj hls.clj
+ 1606  git add hls.clj
+ 1607  git commit -am"cp ls.clj hls.clj"
+ 1608  gs
+ 1609  git add ua tmp578 
+ 1610  hi co
+ 1611  git commit -am"+~..."
+ 1612  cat tmp578 
+ 1613  git mv tmp578 OLD
+ 1614  git commit -am"git mv tmp578 OLD"
+ 1615  ll
+ 1616  gs
+ 1617  tail -f ad2e1.log 
+ 1618  em hls
+ 1619  em boot
+ 1620  em hls
+ 1621  curl https://sl4.eu/hls|xxd|more
+ 1622  curl https://sl4.eu/hls > 3.hasi
+ 1623  cat 1.hasi 
+ 1624  more 1.hasi 
+ 1625  bt
+ 1626  #at2e1d401.c7xbcfde26
+ 1627  gs
+ 1628  git add 3.hasi ad2e2.log ua
+ 1629  git commit -am"add 3.hasi ad2e2.log ua"
+ 1630  gs
+ 1631  bt
+ 1632  #at2e22d1b.02x20074bc off you@2003:45:4d1c:d623:85f8:b033:9810:2582
+ 1633  hi bt
+ 1634  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1635  exit
+ 1636  bt
+ 1637  #at2e57bca.37x7311a46 on you@3e9ef5c5
+ 1638  curl d57ae3cac0aef7247f10c2b43bed7d45f9def5d0032ba77fc182222765c8f931 156
+ 1639  03c073387ca92bc2930d5351fe3de5013e1db9743c0942b44cf0b33216f3f650 137
+ 1640  23faa40fe6263f662745c17abf9ba199aca0afa90d9918b111430aacc2fc4c11 11b
+ 1641  0acd5baacf4ff4db6aef15bd1a791625af27000d4daf3c27aeff9e7ba99ec1e3 d4
+ 1642  6605d8e435b994d5c525268df0be62116e7c4ef203d388c8bd09a592a45f170d d4
+ 1643  547514f6dbc3eb98844cfe4bec8d8d80c62f245338336707498bb97e62fcc637 d3
+ 1644  9567eb0e7fa7d9d87f7f97b69b08c85d11a25c345ff128d1f183de6b0bb613e1 bf
+ 1645  690295c43064f2fd68de72e8fe13163a0c3e34850cf0e1a39fd82bb5f43b5fc2 bc
+ 1646  888abd134d28de87d4dfdfd3ff6ebdeeab957926d90167bbcc59b21af5c928f3 bb
+ 1647  09acebb89cad99b6064b57881daaa3d6fc31cfb1c5287bd4a7b51cd92f7c861e bb
+ 1648  285a2e614c71a9ba7e9e844e4fa5c6694108e00f1a4ffc6c95ed7234c74dc770 b8
+ 1649  5ab8dcb9e8bb6bc4c9e13950e2f5afceb4219a6f87dea878f6defc0ea32509e9 9e
+ 1650  1b465273f49186d18362c4ca20b2f20eee6f89d639219b98f4c87fada6c1e82b 9e
+ 1651  3bd273b4c100aec8d7a4e7ade54dd0ca3071ad375dce68509e8cbe5fe92e486d 91
+ 1652  d9f626f376c5368ca2d3813f46ef423e4b41ce646412fc8373407413005d2994 6b
+ 1653  bd026dc670cef309a0ad9542584c51f61ee9fbd77c49580afe1496d50aa133ae 3e
+ 1654  bd9e920c85a1de467ece4780e4a075b42808e73754e340a2b7523dce19fef944 28
+ 1655  31bf61bd8f17502c50ad1e9b7e8366bbcfb47a64579e88def2138466bf0e88b5 d
+ 1656  f4b67af959b5ac50667e8312dc7c53634539e340222cca60da1fdd2d13ec921a 6
+ 1657  curl https://sl4.eu/hls|xxd|more
+ 1658  ll *si
+ 1659  cd git/hn4j/
+ 1660  ll *si
+ 1661  curl https://sl4.eu/hls>4.hasi
+ 1662  ll *si
+ 1663  sha256sum *si
+ 1664  rm 4.hasi
+ 1665  gs
+ 1666  git add ad2e3.log ad2e4.log ad2e5.log at2e22d4d.fdx20074bc.OvhOneHist.txt ua
+ 1667  git commit -ma"git add ad2e3.log ad2e4.log ad2e5.log at2e22d4d.fdx20074bc.OvhOneHist.txt ua"
+ 1668  gs
+ 1669  hi co
+ 1670  git commit -am"+~..."
+ 1671  gs
+ 1672  git push
+ 1673  gs
+ 1674  tail at2d8c96d.dbx448fc06.Jet.log 
+ 1675  tail ad2e5.log
+ 1676  hi grep
+ 1677  grep /char *j
+ 1678  grep /char *g
+ 1679  ll ad*
+ 1680  ls
+ 1681  l w
+ 1682  ls w
+ 1683  ll -S wd|moe
+ 1684  ll -S wd|more
+ 1685  ll -S q|more
+ 1686  cat q/19e4bbb 
+ 1687  cat q/1b80ea6 
+ 1688  wget https://github.com/wasserfuhr/AllHashes/archive/master.zip
+ 1689  unzip -l master.zip |more
+ 1690  gs
+ 1691  ll master.zip 
+ 1692  rm master.zip 
+ 1693  hi co
+ 1694  git commit -am"+~..."
+ 1695  git push
+ 1696  git help archive
+ 1697  lynx
+ 1698  apt-get install lynx-cur
+ 1699  lynx
+ 1700  #lynx https://en.wikipedia.org/wiki/Universe
+ 1701  lynx
+ 1702  lynx -?
+ 1703  lynx -dump https://en.wikipedia.org/wiki/Universe|more
+ 1704  lynx -? |grep secure
+ 1705  lynx -? |grep ttps
+ 1706  lynx -dump http://en.wikipedia.org/wiki/Universe|more
+ 1707  lynx --with-ssl -dump https://en.wikipedia.org/wiki/Universe|more
+ 1708  lynx -dump https://en.wikipedia.org/wiki/Universe|moreq
+ 1709  lynx -dump https://en.wikipedia.org/wiki/Universe|more
+ 1710  apt-get install lynx-ssl
+ 1711  lynx -version
+ 1712  lynx -dump https://www.google.com/|more
+ 1713  gs
+ 1714  py
+ 1715  python
+ 1716  cat boot.clj
+ 1717  curl https://blockchain.info/rawblock/000000000000000000726d1228035944bb13891b4488ef9572cd5d2ecc54e106?format=hex |more
+ 1718  curl https://blockchain.info/rawblock/000000000000000000726d1228035944bb13891b4488ef9572cd5d2ecc54e106?format=hex|more
+ 1719  mkdir blk
+ 1720  curl https://blockchain.info/rawblock/000000000000000000726d1228035944bb13891b4488ef9572cd5d2ecc54e106 > blk/70b31
+ 1721  wc blk/70b31 
+ 1722  ll *j
+ 1723  cat char.clj 
+ 1724  cat put.clj
+ 1725  #cp put.clj blk.clj
+ 1726  curl https://blockchain.info/rawblock/00000000000000000166ff12ddad1fc76dd6310bf35f4b99fbe7671503cce9cd > blk/70b35
+ 1727  cp put.clj blk.clj
+ 1728  git add blk.clj
+ 1729  git commit -am"cp put.clj blk.clj"
+ 1730  em boot
+ 1731  em blk
+ 1732  cp blk.clj newBlock.clj
+ 1733  git add newBlock.clj
+ 1734  git commit -am"cp blk.clj newBlock.clj
+ 1735  git commit -am"cp blk.clj newBlock.clj"
+ 1736  em boot
+ 1737  em newBlock
+ 1738  cat haha 
+ 1739  curl -d '{"event":"new-block","url":"https://sl4.eu/newBlock"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+ 1740  cat haha 
+ 1741  ll
+ 1742  cat haha
+ 1743  tail ad2e5.log 
+ 1744  cat ua/36576ea5b4f386b3e19c2839c160dfddb0b0b761710e08d04640a1d52e20c180 
+ 1745  cat ua/a13a25bd8d0b4282dbab68a2cd6ebe7eacd252ca9900eb5825799f4ca8a35244 
+ 1746  em newBlock
+ 1747  gs
+ 1748  ll blk
+ 1749  ll a
+ 1750  ll ua
+ 1751  ll -S ua
+ 1752  cat ua/108040ac289a13952927ac14f658a0b06cf24612c43375801b63f87be11191f7 
+ 1753  cat ua/8ec77f73cafd7ee66d7acc6cb90e28946240260ba0cd1fbd30d244e09c98edf3 
+ 1754  cat ua/dfdc1552be1961e439813020f88724668f0aad8a8086366183afcb0859224e72
+ 1755  cat ua/9ee4eb62f81ac7faf8b6c9bc007f2dff16bc7ea1e7be6271e9028c51a30538d2 
+ 1756  ll -S ua|more
+ 1757  cat ua/f88c103c2efba1f81b203bbb84b423f49a15a944831aee3645cf725fe2c9b60e 
+ 1758  ls
+ 1759  em newBlock
+ 1760  grep json *j
+ 1761  cat boot.clj 
+ 1762  more boot.clj 
+ 1763  grep json *j
+ 1764  #clojure.data.json/read-str s :key-fn keyword
+ 1765  ll *j
+ 1766  em blk
+ 1767  gs
+ 1768  tail at2d8c96d.dbx448fc06.Jet.log 
+ 1769  tail -c 4k at2d8c96d.dbx448fc06.Jet.log 
+ 1770  cat Jet.java
+ 1771  ps aux
+ 1772  grep Dpw *Hist*
+ 1773  ll *r
+ 1774  cat hh
+ 1775  cat h
+ 1776  cat haha 
+ 1777  grep Dpw *Hist*
+ 1778  grep pw *Hist*
+ 1779  em put
+ 1780  pw=`cat pw`
+ 1781  #a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar;cloj
+ 1782  #a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1783  ps aux
+ 1784  kill -9 2900
+ 1785  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1786  gs
+ 1787  tail at2e5fd69.06x16e2445.Jet.log 
+ 1788  tail -c 4k at2e5fd69.06x16e2445.Jet.log 
+ 1789  tail -c 8k at2e5fd69.06x16e2445.Jet.log |more
+ 1790  unzip -l data.json-0.2.6.jar|more
+ 1791  emacs Jet.java
+ 1792  javac Jet.java
+ 1793  hi javac
+ 1794  javac -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet.java
+ 1795  ps aux
+ 1796  kill -9 21110
+ 1797  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1798  gs
+ 1799  cat at2e5fe80.84x204dbbe.Jet.log 
+ 1800  em blk
+ 1801  em newBlock
+ 1802  ll haha 
+ 1803  cat haha 
+ 1804  more haha 
+ 1805  em blk
+ 1806  em newBlock
+ 1807  ll blk
+ 1808  cat blk/70b45 
+ 1809  em newBlock
+ 1810  cat newBlock.clj
+ 1811  ll blk
+ 1812  rm blk/70b3*
+ 1813  gs
+ 1814  git add a ad2e6.log at2e5fd69.06x16e2445.Jet.log at2e5fe80.84x204dbbe.Jet.log blk/ ua
+ 1815  git commit -am"git add a ad2e6.log at2e5fd69.06x16e2445.Jet.log at2e5fe80.84x204dbbe.Jet.log blk/ ua"
+ 1816  gs
+ 1817  more haha 
+ 1818  ll haha 
+ 1819  git mv OLD
+ 1820  git add haha
+ 1821  gs
+ 1822  hi co
+ 1823  git commit -am"+~..."
+ 1824  git mv haha OLD
+ 1825  git commit -am"+~..."
+ 1826  gs
+ 1827  git push
+ 1828  gs
+ 1829  ll blk
+ 1830  gs
+ 1831  git rm blk/70b45 
+ 1832  cat blk/70b46 
+ 1833  more OLD/haha 
+ 1834  ll blk
+ 1835  gs
+ 1836  git add blk ua
+ 1837  git commit -am"git add blk ua"
+ 1838  gs
+ 1839  tail at2e5fe80.84x204dbbe.Jet.log 
+ 1840  gs
+ 1841  ll blk
+ 1842  em newBlock
+ 1843  emacs bcHead
+ 1844  ll blk
+ 1845  ll
+ 1846  ll blk
+ 1847  ll *si
+ 1848  wc *si
+ 1849  more 2.hasi 
+ 1850  em hls
+ 1851  ll a
+ 1852  curl https://sl4.eu/hls>4.hasi
+ 1853  xxd 4.hasi|more
+ 1854  em hls
+ 1855  #sha256sum q
+ 1856  cd q
+ 1857  sha256sum *|more
+ 1858  sha256sum *>qsha
+ 1859  ll qsha 
+ 1860  cd ..
+ 1861  hi hasi
+ 1862  sha256sum *hasi
+ 1863  ll *si
+ 1864  emacs meta.hasi
+ 1865  xxd meta.hasi 
+ 1866  sha256sum meta.hasi 
+ 1867  ll blk
+ 1868  gs
+ 1869  cat bcHead 
+ 1870  em newBlock
+ 1871  em blk
+ 1872  cat bcHead 
+ 1873  em blk
+ 1874  em newBlock
+ 1875  ll blk
+ 1876  cat blk/70b55
+ 1877  ll blk
+ 1878  cat bcHead 
+ 1879  gs
+ 1880  git add 4.hasi bcHead blk meta.hasi
+ 1881  git commit -am"git add 4.hasi bcHead blk meta.hasi"
+ 1882  gs
+ 1883  ls
+ 1884  bt
+ 1885  #at2e62cb9.4fx22e83d3
+ 1886  cat bcHead 
+ 1887  #at2e62cb9.4fx22e83d3 off you@2003:45:4d1c:d652:99e5:e1aa:ea9c:8d8c
+ 1888  hi bt
+ 1889  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1890  exit
+ 1891  #curl https://app.originstamp.org/e24e258e-9615-4c76-b699-a35267da7e57
+ 1892  bt
+ 1893  #at2e6b719.21x796f992 on you@2003:45:4d1c:d652:99e5:e1aa:ea9c:8d8c
+ 1894  curl https://app.originstamp.org/e24e258e-9615-4c76-b699-a35267da7e57|sha256sum
+ 1895  curl https://app.originstamp.org/7de11cf2-e724-49cf-bc3a-57501b891c9c|sha256sum
+ 1896  l a
+ 1897  cd git/hn4j/
+ 1898  ll a
+ 1899  #curl https://app.originstamp.org/7de11cf2-e724-49cf-bc3a-57501b891c9c > a/d11c6811f908934bff78ce4966316e0fb008277050637845fc36fa35981cf579
+ 1900  cat a/00000000017cdb1c9977a875ce0101a51045fa6e0014e0ff34916795976cf5fc |xxd
+ 1901  gs
+ 1902  ll blk
+ 1903  ll ua
+ 1904  python
+ 1905  apt-get install python-pip
+ 1906  #apt-get install python-pip
+ 1907  history 
+ 1908  pip install ecdsa
+ 1909  python
+ 1910  bt
+ 1911  #at2e6d4ac.24x5c3e2b7 off you@2003:45:4d1c:d652:99e5:e1aa:ea9c:8d8c
+ 1912  hi bt
+ 1913  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1914  exit
+ 1915  bt
+ 1916  #at2e6ddc4.83x14ecd77 on you@2003:45:4d1c:d652:21d7:9ad6:8fdf:2d26
+ 1917  curl https://app.originstamp.org/a1a15315-9998-4b56-92fa-87b28a1b6bdb|sha256sum
+ 1918  ll a/d11
+ 1919  cd git/hn4j/
+ 1920  ll a/d
+ 1921  curl https://app.originstamp.org/a1a15315-9998-4b56-92fa-87b28a1b6bdb > a/d11c6811f908934bff78ce4966316e0fb008277050637845fc36fa35981cf579
+ 1922  sha256sum a/*
+ 1923  ll g*
+ 1924  em hls
+ 1925  curl https://app.originstamp.org/e05ca176-8bc5-4371-8d29-01f45d1e35b4|sha256sum 
+ 1926  curl https://app.originstamp.org/235f636e-983e-465f-a9f8-9af8eee30ef1|sha256sum 
+ 1927  curl https://app.originstamp.org/4c5ed8d6-57b4-4053-b790-93e6a60a3f3b|sha256sum 
+ 1928  curl https://app.originstamp.org/4c5ed8d6-57b4-4053-b790-93e6a60a3f3b |sha256sum 
+ 1929  curl https://app.originstamp.org/4c5ed8d6-57b4-4053-b790-93e6a60a3f3b |wc
+ 1930  curl https://app.originstamp.org/4c5ed8d6-57b4-4053-b790-93e6a60a3f3b |more
+ 1931  curl -X GET -H "Content-Type: application/json" -H "Authorization: 32e5f102-791a-4093-acc6-9b5464541500" http://api.originstamp.org/api/05c2422f44ddd24ba3f25848773a8fcb48435f8f966381da4732c40a7255780c
+ 1932  curl -X GET -H "Content-Type: application/json" -H "Authorization: 32e5f102-791a-4093-acc6-9b5464541500" http://api.originstamp.org/api/39692913d86100ed01d21d310a5516b2f1818c758ed0a6f45afa973c9395ae61
+ 1933  curl -X GET -H "Content-Type: application/json" -H "Authorization: 32e5f102-791a-4093-acc6-9b5464541500" http://api.originstamp.org/api/download/seed/0154e817e74373d52b0802462287191ebba36cbf8f5be4b452c7e615416e1654
+ 1934  curl -X GET -H "Content-Type: application/json" -H "Authorization: 32e5f102-791a-4093-acc6-9b5464541500" http://api.originstamp.org/api/download/seed/39692913d86100ed01d21d310a5516b2f1818c758ed0a6f45afa973c9395ae61
+ 1935  curl -X GET -H "Content-Type: application/json" -H "Authorization: 32e5f102-791a-4093-acc6-9b5464541500" http://api.originstamp.org/api/download/seed/39692913d86100ed01d21d310a5516b2f1818c758ed0a6f45afa973c9395ae61 > seed.txt
+ 1936  more seed.txt 
+ 1937  sha256sum seed.txt 
+ 1938  mv seed.txt a/0154e817e74373d52b0802462287191ebba36cbf8f5be4b452c7e615416e1654
+ 1939  hi hasi
+ 1940  ll *si
+ 1941  #curl https://sl4.eu/hls > 5.hasi
+ 1942  curl https://floatingboat2013.appspot.com/raw/56765007|sha256sum 
+ 1943  #curl https://floatingboat2013.appspot.com/raw/56765007 > a/573df3baed322215385ac4e04ae96ab9ed1b892367655df873fb81eb2a159c67
+ 1944  ll blk
+ 1945  cat blk/70ba1 
+ 1946  curl https://floatingboat2013.appspot.com/raw/62315007|sha256sum 
+ 1947  curl https://floatingboat2013.appspot.com/raw/62315007 > a/e0e0cdc3974603bbfba2f2b00b001d3d8d741731cdc1ef00d8902614760d5a05
+ 1948  hi hasi
+ 1949  #curl https://sl4.eu/hls > 5.hasi
+ 1950  curl https://sl4.eu/hls > 5.hasi
+ 1951  sha256sum 5.hasi
+ 1952  more 5.hasi 
+ 1953  curl https://raw.githubusercontent.com/emn178/js-sha256/master/src/sha256.js|sha256sum 
+ 1954  curl https://raw.githubusercontent.com/emn178/js-sha256/master/src/sha256.js > a/5b0667ff62f82c9e65d760ddde0071595a8672d656ee03c4073a1df38c233c21
+ 1955  bt
+ 1956  #at2e6f15c.72x1f38de4
+ 1957  history 
+ 1958  hi ori
+ 1959  curl -X GET -H "Content-Type: application/json" -H "Authorization: 32e5f102-791a-4093-acc6-9b5464541500" http://api.originstamp.org/api/download/seed/693853400d33b52fb538a6ed3fbc5317b349f6ef5797a29221b73aa94ec6b3bd|more
+ 1960  curl -X GET -H "Content-Type: application/json" -H "Authorization: d55e3c10-7cb6-4069-b4d7-c8526b6854fb" http://api.originstamp.org/api/download/seed/693853400d33b52fb538a6ed3fbc5317b349f6ef5797a29221b73aa94ec6b3bd|more
+ 1961  curl -X GET -H "Content-Type: application/json" -H "Authorization: d55e3c10-7cb6-4069-b4d7-c8526b6854fb" http://api.originstamp.org/api/download/seed/693853400d33b52fb538a6ed3fbc5317b349f6ef5797a29221b73aa94ec6b3bd|sha256sum 
+ 1962  gs
+ 1963  cat bcHead 
+ 1964  git add 5.hasi a ad2e7.log at2e62db6.34x22e83d3.OvhOneHist.txt at2e6d4d4.3bx5c3e2b7.OvhOneHist.txt blk ua
+ 1965  git commit -am"git add 5.hasi a ad2e7.log at2e62db6.34x22e83d3.OvhOneHist.txt at2e6d4d4.3bx5c3e2b7.OvhOneHist.txt blk ua"
+ 1966  gs
+ 1967  curl -X GET -H "Content-Type: application/json" -H "Authorization: d55e3c10-7cb6-4069-b4d7-c8526b6854fb" http://api.originstamp.org/api/download/seed/693853400d33b52fb538a6ed3fbc5317b349f6ef5797a29221b73aa94ec6b3bd|sha256sum 
+ 1968  curl -X GET -H "Content-Type: application/json" -H "Authorization: d55e3c10-7cb6-4069-b4d7-c8526b6854fb" http://api.originstamp.org/api/download/seed/693853400d33b52fb538a6ed3fbc5317b349f6ef5797a29221b73aa94ec6b3bd|more
+ 1969  curl -X GET -H "Content-Type: application/json" -H "Authorization: 5a7bad33-ef76-4158-8a91-0f9ceccea964" http://api.originstamp.org/api/download/seed/693853400d33b52fb538a6ed3fbc5317b349f6ef5797a29221b73aa94ec6b3bd|more
+ 1970  curl -X GET -H "Content-Type: application/json" -H "Authorization: 5a7bad33-ef76-4158-8a91-0f9ceccea964" http://api.originstamp.org/api/download/seed/693853400d33b52fb538a6ed3fbc5317b349f6ef5797a29221b73aa94ec6b3bd|sha256sum 
+ 1971  curl -X GET -H "Content-Type: application/json" -H "Authorization: 5a7bad33-ef76-4158-8a91-0f9ceccea964" http://api.originstamp.org/api/download/seed/fa8052b6cc6c8d94db36463881a4e30c9d7d2ac2296b34cbe49c3797b2266daf|sha256sum 
+ 1972  #l a/638a1d956ca793dc5bf6c83047545d09ddf0e26a06f5380fa297f16d8589b19c 
+ 1973  curl -X GET -H "Content-Type: application/json" -H "Authorization: 5a7bad33-ef76-4158-8a91-0f9ceccea964" http://api.originstamp.org/api/download/seed/fa8052b6cc6c8d94db36463881a4e30c9d7d2ac2296b34cbe49c3797b2266daf > a/d63e3bb2e1cd349dbb2a06d9db3883184729515c7e43ecf49c77ca239ed12589
+ 1974  shasum a
+ 1975  sha256sum a
+ 1976  sha256sum a/*
+ 1977  curl -X GET -H "Content-Type: application/json" -H "Authorization: 5a7bad33-ef76-4158-8a91-0f9ceccea964" http://api.originstamp.org/api/download/seed/fa8052b6cc6c8d94db36463881a4e30c9d7d2ac2296b34cbe49c3797b2266daf|sha256sum 
+ 1978  curl -X GET -H "Content-Type: application/json" -H "Authorization: 5a7bad33-ef76-4158-8a91-0f9ceccea964" http://api.originstamp.org/api/download/seed/fa8052b6cc6c8d94db36463881a4e30c9d7d2ac2296b34cbe49c3797b2266daf|more
+ 1979  curl -X GET -H "Content-Type: application/json" -H "Authorization: 07343ae7-117d-454a-89c2-7afa421e358f5a7bad33-ef76-4158-8a91-0f9ceccea964" http://api.originstamp.org/api/download/seed/fa8052b6cc6c8d94db36463881a4e30c9d7d2ac2296b34cbe49c3797b2266daf|more
+ 1980  curl -X GET -H "Content-Type: application/json" -H "Authorization: 07343ae7-117d-454a-89c2-7afa421e358f" http://api.originstamp.org/api/download/seed/fa8052b6cc6c8d94db36463881a4e30c9d7d2ac2296b34cbe49c3797b2266daf|sha256sum 
+ 1981  curl -X GET -H "Content-Type: application/json" -H "Authorization: 07343ae7-117d-454a-89c2-7afa421e358f" http://api.originstamp.org/api/download/seed/fa8052b6cc6c8d94db36463881a4e30c9d7d2ac2296b34cbe49c3797b2266daf > a/d63e3bb2e1cd349dbb2a06d9db3883184729515c7e43ecf49c77ca239ed12589 
+ 1982  curl -X GET -H "Content-Type: application/json" -H "Authorization: 07343ae7-117d-454a-89c2-7afa421e358f" http://api.originstamp.org/api/download/seed/fa8052b6cc6c8d94db36463881a4e30c9d7d2ac2296b34cbe49c3797b2266daf |more
+ 1983  gs
+ 1984  git add a blk ua
+ 1985  git commit -am"git add a blk ua"
+ 1986  gs
+ 1987  em blk
+ 1988  cat blk/70bb1
+ 1989  sha256sum 5.hasi 
+ 1990  cat 5.hasi 
+ 1991  more a/0154e817e74373d52b0802462287191ebba36cbf8f5be4b452c7e615416e1654 
+ 1992  cat blk/70bb1
+ 1993  bt
+ 1994  #at2e75e9b.75xd6e0316 off you@2003:45:4d1c:d652:21d7:9ad6:8fdf:2d26
+ 1995  hi bt
+ 1996  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1997  exit
+ 1998  bt
+ 1999  #at2e820ac.c1x1624d5d on at2e820ac.c1x1624d5d
+ 2000  cd git/hn4j/
+ 2001  cat a/dd47ea09f2b76d8edb9d32b5f71bb94277ac8d8d1d607e546ca112dad2bfa722 
+ 2002  em cookie
+ 2003  em blk
+ 2004  em cookie
+ 2005  em boot
+ 2006  git add a ad2e8.log at2e75ebf.c4xd6e0316.OvhOneHist.txt blk ua
+ 2007  git commit -am"git add a ad2e8.log at2e75ebf.c4xd6e0316.OvhOneHist.txt blk ua"
+ 2008  git mv blk bh
+ 2009  em newBlock
+ 2010  gs
+ 2011  git push
+ 2012  gs
+ 2013  # c(filter(fn[c](="0"(.getName c)))(.getCookies rq))
+ 2014  em blk
+ 2015  cat boot.clj 
+ 2016  em blk
+ 2017  gs
+ 2018  tail -c4k at2e5fe80.84x204dbbe.Jet.log 
+ 2019  em blk
+ 2020  tail -c4k at2e5fe80.84x204dbbe.Jet.log 
+ 2021  em blk
+ 2022  em boot
+ 2023  em blk
+ 2024  tail -c4k at2e5fe80.84x204dbbe.Jet.log 
+ 2025  em blk
+ 2026  sha256sum 5.hasi 
+ 2027  ls
+ 2028  mkdir rq
+ 2029  cd rq
+ 2030  n=0000
+ 2031  a=dresdenlabs
+ 2032  a=floatingboat2013
+ 2033  a=knot-net
+ 2034  a=new-egypt
+ 2035  h=2c0;i=2c1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2036  ll
+ 2037  h=2c1;i=2c2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2038  h=2c2;i=2c3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2039  h=2c3;i=2c4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2040  h=2c4;i=2c5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2041  h=2c5;i=2c6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2042  h=2c6;i=2c7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2043  h=2c7;i=2c8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2044  h=2c8;i=2c9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2045  h=2c9;i=2ca;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2046  h=2ca;i=2cb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2047  h=2cb;i=2cc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2048  h=2cc;i=2cd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2049  h=2cd;i=2ce;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2050  h=2ce;i=2cf;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2051  h=2cf;i=2d0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2052  a=knot-net
+ 2053  h=2c0;i=2c1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2054  h=2c1;i=2c2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2055  h=2c2;i=2c3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2056  h=2c3;i=2c4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2057  h=2c4;i=2c5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2058  h=2c5;i=2c6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2059  h=2c6;i=2c7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2060  h=2c7;i=2c8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2061  h=2c8;i=2c9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2062  h=2c9;i=2ca;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2063  h=2ca;i=2cb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2064  h=2cb;i=2cc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2065  h=2cc;i=2cd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2066  h=2cd;i=2ce;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2067  h=2ce;i=2cf;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2068  h=2cf;i=2d0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2069  a=floatingboat2013
+ 2070  h=2c0;i=2c1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2071  h=2c1;i=2c2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2072  h=2c2;i=2c3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2073  h=2c3;i=2c4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2074  h=2c4;i=2c5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2075  h=2c5;i=2c6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2076  h=2c6;i=2c7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2077  h=2c7;i=2c8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2078  h=2c8;i=2c9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2079  h=2c9;i=2ca;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2080  h=2ca;i=2cb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2081  h=2cb;i=2cc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2082  h=2cc;i=2cd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2083  h=2cd;i=2ce;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2084  h=2ce;i=2cf;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2085  h=2cf;i=2d0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2086  a=dresdenlabs
+ 2087  h=2c0;i=2c1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2088  h=2c1;i=2c2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2089  h=2c2;i=2c3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2090  h=2c3;i=2c4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2091  h=2c4;i=2c5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2092  h=2c5;i=2c6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2093  h=2c6;i=2c7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2094  h=2c7;i=2c8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2095  h=2c8;i=2c9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2096  h=2c9;i=2ca;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2097  h=2ca;i=2cb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2098  h=2cb;i=2cc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2099  h=2cc;i=2cd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2100  h=2cd;i=2ce;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2101  h=2ce;i=2cf;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2102  h=2cf;i=2d0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2103  ll
+ 2104  ll ../*p
+ 2105  ll ../*ip
+ 2106  bt
+ 2107  #zip ../at2e8345d.80x1c3a967.
+ 2108  #at2e605d7.676c8cx70b45.2301561d
+ 2109  #zip ../at2e8345d.80x1c3a967.
+ 2110  zip ../at2e83543.03d70cx70c18.18774d48.RqLogAw2c.zip *
+ 2111  ll
+ 2112  ll ../at2e83543.03d70cx70c18.18774d48.RqLogAw2c.zip
+ 2113  cd ..
+ 2114  em hls
+ 2115  cd rq
+ 2116  more 2c9.knot-net.rlog
+ 2117  mv rq rq2c
+ 2118  cd ..
+ 2119  mv rq rq2c
+ 2120  mkdir rq2d
+ 2121  cd rq2d
+ 2122  a=new-egypt
+ 2123  h=2d0;i=2d1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2124  h=2d1;i=2d2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2125  h=2d2;i=2d3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2126  h=2d3;i=2d4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2127  h=2d4;i=2d5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2128  h=2d5;i=2d6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2129  h=2d6;i=2d7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2130  h=2d7;i=2d8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2131  h=2d8;i=2d9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2132  h=2d9;i=2da;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2133  h=2da;i=2db;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2134  h=2db;i=2dc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2135  h=2dc;i=2dd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2136  h=2dd;i=2de;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2137  h=2de;i=2df;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2138  h=2df;i=2e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2139  a=knot-net
+ 2140  h=2d0;i=2d1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2141  h=2d1;i=2d2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2142  h=2d2;i=2d3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2143  h=2d3;i=2d4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2144  h=2d4;i=2d5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2145  h=2d5;i=2d6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2146  h=2d6;i=2d7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2147  h=2d7;i=2d8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2148  h=2d8;i=2d9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2149  h=2d9;i=2da;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2150  h=2da;i=2db;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2151  h=2db;i=2dc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2152  h=2dc;i=2dd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2153  h=2dd;i=2de;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2154  h=2de;i=2df;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2155  h=2df;i=2e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2156  a=floatingboat2013
+ 2157  h=2d0;i=2d1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2158  h=2d1;i=2d2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2159  h=2d2;i=2d3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2160  h=2d3;i=2d4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2161  h=2d4;i=2d5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2162  h=2d5;i=2d6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2163  h=2d6;i=2d7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2164  h=2d7;i=2d8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2165  h=2d8;i=2d9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2166  h=2d9;i=2da;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2167  h=2da;i=2db;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2168  h=2db;i=2dc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2169  h=2dc;i=2dd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2170  h=2dd;i=2de;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2171  h=2de;i=2df;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2172  h=2df;i=2e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2173  a=dresdenlabs
+ 2174  h=2d0;i=2d1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2175  h=2d1;i=2d2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2176  h=2d2;i=2d3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2177  h=2d3;i=2d4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2178  h=2d4;i=2d5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2179  h=2d5;i=2d6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2180  h=2d6;i=2d7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2181  h=2d7;i=2d8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2182  h=2d8;i=2d9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2183  h=2d9;i=2da;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2184  h=2da;i=2db;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2185  h=2db;i=2dc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2186  h=2dc;i=2dd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2187  h=2dd;i=2de;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2188  h=2de;i=2df;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2189  h=2df;i=2e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 2190  ll *fl*
+ 2191  tail 2df.floatingboat2013.rlog 
+ 2192  hi zi
+ 2193  zip ../at2e8391e.758108x70c18.18774d48.RqLogAw2d.zip *
+ 2194  cd ..
+ 2195  em hls
+ 2196  cat a/dd47ea09f2b76d8edb9d32b5f71bb94277ac8d8d1d607e546ca112dad2bfa722 
+ 2197  cat a/ab1ba1482aa99516dc55b711c4db2f49a3ffe8653055e48e2fa9fe460c5209d7 
+ 2198  emacs merkle.py
+ 2199  curl https://floatingboat2013.appspot.com/raw/61275004 > merkle.py
+ 2200  python merkle.py 
+ 2201  em blk
+ 2202  gs
+ 2203  wget https://floatingboat2013.appspot.com/eval/60395007
+ 2204  mv 60395007 at2e84356.11x129dfa4_mind.zip
+ 2205  ll at2e84356.11x129dfa4_mind.zip
+ 2206  sha256sum at2e84356.11x129dfa4_mind.zip
+ 2207  unzip -l at2e84356.11x129dfa4_mind.zip
+ 2208  #at2e84356.11x129dfa4_mind
+ 2209  sha256sum at2e84356.11x129dfa4_mind.zip
+ 2210  cp at2e84356.11x129dfa4_mind.zip a/e17cef1cfabd060ab64c3efb61a4c32f936bcb2e470a47b52e237cedb83c9b29
+ 2211  hi hasi
+ 2212  #curl https://sl4.eu/hls > 5.hasi
+ 2213  curl https://sl4.eu/hls > 6.hasi
+ 2214  more 6.hasi
+ 2215  em hls
+ 2216  curl https://sl4.eu/hls > 6.hasi
+ 2217  more 6.hasi
+ 2218  sha256sum 6.hasi 
+ 2219  wc 6.hasi 
+ 2220  more 6.hasi 
+ 2221  l
+ 2222  hi tok
+ 2223  hi iri
+ 2224  hi ori
+ 2225  curl -X GET -H "Content-Type: application/json" -H "Authorization: 07343ae7-117d-454a-89c2-7afa421e358f" http://api.originstamp.org/api/download/seed/fa8052b6cc6c8d94db36463881a4e30c9d7d2ac2296b34cbe49c3797b2266daf |more
+ 2226  curl -X GET -H "Content-Type: application/json" -H "Authorization: 6b3cd31d-6512-4b76-bbf9-d928c1e76eb8" http://api.originstamp.org/api/download/seed/d1f949919646db5d55b6d3400c688fc9fabcf370dccc4c6ff643a870530780e6|sha256sum 
+ 2227  curl -X GET -H "Content-Type: application/json" -H "Authorization: 6b3cd31d-6512-4b76-bbf9-d928c1e76eb8" http://api.originstamp.org/api/download/seed/d1f949919646db5d55b6d3400c688fc9fabcf370dccc4c6ff643a870530780e6|wc
+ 2228  curl -X GET -H "Content-Type: application/json" -H "Authorization: 6b3cd31d-6512-4b76-bbf9-d928c1e76eb8" http://api.originstamp.org/api/download/seed/d1f949919646db5d55b6d3400c688fc9fabcf370dccc4c6ff643a870530780e6 > a/87f0ed7735b86404dce46ef62ea1ad15a846cdc4ac0828f11929c7438966c81e
+ 2229  more a/87f0ed7735b86404dce46ef62ea1ad15a846cdc4ac0828f11929c7438966c81e 
+ 2230  #curl https://blockchain.info/block-index/1486409?format=hex > 
+ 2231  mkdir bb
+ 2232  curl https://blockchain.info/block-index/1486409?format=hex > bb/70c25
+ 2233  cat bb/
+ 2234  mpre bb/70c25 
+ 2235  more bb/70c25 
+ 2236  em boot
+ 2237  em index
+ 2238  cat a/5edae7bae08ec14c006dd6ef226626640d7bbc1d9772fcf905bc26394b9a11dc 
+ 2239  gs
+ 2240  ll ?mer*
+ 2241  rm ?mer*
+ 2242  git add 6.hasi a bh ua
+ 2243  git commit -am"git add 6.hasi a bh ua"
+ 2244  gs
+ 2245  git add at2e83543.03d70cx70c18.18774d48.RqLogAw2c.zip at2e8391e.758108x70c18.18774d48.RqLogAw2d.zip at2e84356.11x129dfa4_mind.zip merkle.py
+ 2246  git commit -am"git add at2e83543.03d70cx70c18.18774d48.RqLogAw2c.zip at2e8391e.758108x70c18.18774d48.RqLogAw2d.zip at2e84356.11x129dfa4_mind.zip merkle.py"
+ 2247  gs
+ 2248  ll bb
+ 2249  hi bb
+ 2250  curl https://blockchain.info/block-index/1486409?format=json > bb/70c25
+ 2251  more bb/70c25 
+ 2252  ll bb/70c25 
+ 2253  curl https://blockchain.info/block-height/461745?format=json > bb/70bb1
+ 2254  more bb/70bb1 
+ 2255  cat a/89865a3e0416f68c08af7a58f204430d8ac81d72eeca39a1a87c9eb06c8fbd54 
+ 2256  cat a/85014f2bf15714fb227dcb248ea9aa65efec928680a30cb72db4e75d00e820fd 
+ 2257  em index
+ 2258  gs
+ 2259  rm rq2c/*
+ 2260  rm rq2d/*
+ 2261  rmdir rq2c rq2d
+ 2262  git add aa bh
+ 2263  git commit -am"git add aa bh"
+ 2264  gs
+ 2265  git add a bh
+ 2266  git commit -am"git add a bh"
+ 2267  gs
+ 2268  ll bb
+ 2269  gs
+ 2270  cat bcHead 
+ 2271  ll g*
+ 2272  cat index.clj 
+ 2273  cat a/91a91f11752c41344b443c4b3e84cfba7a6bc5659341e8d45bd45a08ee319a48 
+ 2274  gs
+ 2275  git add a bh ua
+ 2276  git commit -am"git add a bh ua"
+ 2277  gs
+ 2278  ll ad*
+ 2279  gs
+ 2280  grep ChromeOS ua/*
+ 2281  grep ChromeOs ua/*
+ 2282  grep Chrome ua/*
+ 2283  grep ChrOS ua/*
+ 2284  grep CrOS ua/*
+ 2285  ll ua
+ 2286  cat bcHead 
+ 2287  cat a/f132c5dfe3452640325a11607feab040ad970ac0d3040519bfea9768f5410287 
+ 2288  gs
+ 2289  tail ad2e8.log 
+ 2290  cat ua/71f2b901a352178494bc8bf7a1b7c7be85ecd06a8e6e1929c7a38bae61456757 
+ 2291  gs
+ 2292  git add a bh ua
+ 2293  git commit -am"git add a bh ua"
+ 2294  gs
+ 2295  bt
+ 2296  #at2e8c7f0.d8xd08f3bf off you@3e9ef5c5
+ 2297  hi bt
+ 2298  #!1996
+ 2299  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
