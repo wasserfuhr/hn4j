@@ -6,7 +6,7 @@ public class Ur extends Thread{
    long t=(lastSec+1)*1000-c;
    if(t<=0){
     System.out.println(c);
-    Runtime.getRuntime().exec("/home/rawa/git/AllHashes/job.sh");
+    Runtime.getRuntime().exec("/root/job.sh");
     lastSec=c/1000;
    }else{
     sleep(t/2);}}
