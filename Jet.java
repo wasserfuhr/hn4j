@@ -21,6 +21,7 @@ public class Jet extends AbstractHandler{
   }finally{}
   br.setHandled(true);}
  public static void main(String[] a)throws Exception{
+  new Ur().start();
   Server s=new Server();
   SelectChannelConnector connector=new SelectChannelConnector();
   connector.setPort(80);
