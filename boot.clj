@@ -22,7 +22,7 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  (if(.startsWith(.getRequestURI rq)"/area")
  ((eval(read-string(slurp"area.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/bcHead")
- ((eval(read-string(slurp"blk.clj")))rq rs)
+ ((eval(read-string(slurp"bcHead.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/blk")
  ((eval(read-string(slurp"blk.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/char")
