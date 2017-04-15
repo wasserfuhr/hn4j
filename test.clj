@@ -9,4 +9,4 @@
   ;c(subs(.getRequestURI rq)5)
  (apply str
   (map(fn[t](str(:hash t)"\n"))
-   (:tx(clojure.data.json/read-str(slurp"bb/70c25"):key-fn keyword))))))
+   (:tx(clojure.data.json/read-str(slurp"bb/70cbf"):key-fn keyword))))))
