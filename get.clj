@@ -3,6 +3,15 @@
  hf(fn[m];https://gist.github.com/kisom/1698245
   (let[h(java.security.MessageDigest/getInstance"SHA-256")]
    (. h update m)(.digest h)))
- hh(fn[m](apply str(map #(format"%02x" %)m)))]
- (hh(.getBytes(slurp(str"a/"c))))))
+ hh(fn[m](apply str(map #(format"%02x" %)m)))
+ file(java.io.File.(str"a/"c))
+;http://stackoverflow.com/questions/23018870/how-to-read-a-whole-binary-file-nippy-into-byte-array-in-clojure
+(let [result (byte-array (.length file))]
+    (with-open [in (java.io.DataInputStream. (clojure.java.io/input-stream file))]
+          (.readFully in result))
+	      result))
+]
+ (hh(.getBytes(slurp
+ 
+ )))))
  
