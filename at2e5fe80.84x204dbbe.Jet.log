@@ -5243,3 +5243,7 @@ java.io.FileNotFoundException: mm3 (No such file or directory)
 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
+2017-04-15 15:44:24.034:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-15 15:50:27.693:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-15 15:56:35.766:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-15 15:58:34.909:WARN:oejh.HttpGenerator:Ignoring extra content null
