@@ -21,6 +21,8 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  ((eval(read-string(slurp"age.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/area")
  ((eval(read-string(slurp"area.clj")))rq rs)
+ (if(.startsWith(.getRequestURI rq)"/bcHead")
+ ((eval(read-string(slurp"blk.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/blk")
  ((eval(read-string(slurp"blk.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/char")
@@ -62,7 +64,7 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  (if(.startsWith(.getRequestURI rq)"/test")
  ((eval(read-string(slurp"test.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/zip")
- ((eval(read-string(slurp"zip.clj")))rq rs)))))))))))))))))))))))))
+ ((eval(read-string(slurp"zip.clj")))rq rs))))))))))))))))))))))))))
  nn(.getTime(java.util.Date.))]
 ;(.println *err*"\007")
 (spit(str"ad"(subs(format"%x" d)0 3)".log")
