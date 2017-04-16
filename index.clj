@@ -51,8 +51,8 @@ function t(){try{
      h=''
     else
      console.log('Error: '+xhr.status)}
-  xhr.send(null)}}
- catch(e){console.log('Error: '+xhr.status)}
+  xhr.send(null)}
+ catch(e){console.log('Error: '+xhr.status)}}
  c.fillStyle='#000'
  c.fillRect(0,0,256,16)
  c.fillStyle='#0f0'
@@ -78,7 +78,7 @@ function t(){try{
 64:'His name is <a href=\"/wiki/AlanTuring\" target=\"_\">AlanTuring</a>',
 68:'He predicted that computers could become intelligent and indistinguishable from a human chat partner during our lifetime',
 72:'How do you feel? <input id=\"f\"/>.',
-80:'This is the HomePage of &laquo;AlphaLabs&raquo;',
+80:'This is the HomePage of &laquo;AlphaLabs&raquo;.',
 84:'We love IntelligentArt.',
 88:'AreYouReady?',
 128:'?',
