@@ -68,7 +68,7 @@ function t(){try{
 68:'He predicted that computers could become intelligent and indistinguishable from a human chat partner during our lifetime',
 72:'How do you feel? <input id=\"f\"/>.',
 80:'This is the HomePage of &laquo;AlphaLabs&raquo;',
-84:'We love IntelligentArt',
+84:'We love IntelligentArt.',
 88:'AreYouReady?',
 256:'<a href=a>de</a>.'}
  if(say[t0])
