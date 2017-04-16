@@ -7,16 +7,16 @@ body{
 a{color:#0f1}"]]
 [:body
  [:canvas#ac{:width 256 :height 16}][:br]
-  [:div#say]
-   [:hr]
-    "α";((:pageEdit v)(str"/"t)t 8)
+ [:div#say]
+ [:hr]
+   "α";((:pageEdit v)(str"/"t)t 8)
      [:small
        [:a{:href"https://floatingboat2013.appspot.com/ad"}"ad"]" "
-         [:a{:href"https://floatingboat2013.appspot.com/"}"fl"]" "
-	   [:a{:href"https://sl4.eu/hls"}"hls"]" "
-	     [:a{:href"https://sl4.eu/ls"}"ls"]" "
-	       [:a{:href"https://floatingboat2013.appspot.com/UrPic"}"ur"]]
-	        [:script"try{
+        [:a{:href"https://floatingboat2013.appspot.com/"}"fl"]" "
+     [:a{:href"https://sl4.eu/hls"}"hls"]" "
+     [:a{:href"https://sl4.eu/ls"}"ls"]" "
+       [:a{:href"https://floatingboat2013.appspot.com/UrPic"}"ur"]]
+  [:script"try{
 var start=new Date().getTime()
 var bt='(subs bt 13)'
 var c=document.getElementById('ac').getContext('2d')
@@ -49,13 +49,15 @@ function t(){try{
  }catch(e){}
  say={2:'...',
 6:'WelCome!',
-8:'What you see here is called a BinaryCounter.',
-12:'The left most cube changes every second,',
-16:'the next one every 2 seconds,',
-20:'the next one every 4 seconds,',
-24:'the next one every 8 seconds,',
-28:'the next one every 16 seconds,',
-32:'and so on.',
+8:'What you see on top is called a BinaryCounter.',
+12:'It was invented many years ago by this man:',
+14:'<img src=\'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg/64px-Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg\'/>',
+16:'The left most cube changes every second,',
+20:'the next one every 2 seconds,',
+24:'the next one every 4 seconds,',
+28:'the next one every 8 seconds,',
+32:'the next one every 16 seconds,',
+36:'and so on.',
 40:'On your SmartPhone or LapTop, a BinaryCounter works at least 1000 times per second.',
 42:'What is your name? <input/>.',
 256:'<a href=a>de</a>.'}
