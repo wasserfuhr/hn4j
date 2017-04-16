@@ -28,7 +28,7 @@ function bits(v,x,y){
    c.fillRect(x*64+i*16,y*16,16,16)}
 function t(){try{
  var t0=Math.floor((new Date().getTime()-start)/1000)
- if([2,4,8,16,32,64,128,256,512].indexOf(t0)>0){
+ if(([2,4,8].indexOf(t0)>0)||((t0&15)==0)){
  var l=0
  xhr=new XMLHttpRequest()
  try{
