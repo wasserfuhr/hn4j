@@ -37,7 +37,7 @@ function t(){try{
   xhr.onreadystatechange=function(){
    if(xhr.readyState===4)
     if(xhr.status===200){
-     h=''}
+     h=''
     else
      console.log('Error: '+xhr.status)}
   xhr.send(null)}
@@ -48,7 +48,7 @@ function t(){try{
   xhr.onreadystatechange=function(){
    if(xhr.readyState===4)
     if(xhr.status===200){
-     h=''}
+     h=''
     else
      console.log('Error: '+xhr.status)}
   xhr.send(null)}
