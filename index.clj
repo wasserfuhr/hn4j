@@ -52,7 +52,7 @@ function t(){try{
 8:'What you see on top is called a BinaryCounter.',
 12:'It was invented many years ago by this man:',
 14:'<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg/64px-Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg\"/>',
-16:'His name is <a href=\"/wiki/GottfriedWilhelmLeibniz\">GottfriedWilhelmLeibniz</a>',
+16:'His name is <a href=\"/wiki/GottfriedWilhelmLeibniz\" target=\"_\">GottfriedWilhelmLeibniz</a>',
 18:'The left most cube changes every second,',
 20:'the next one every 2 seconds,',
 24:'the next one every 4 seconds,',
