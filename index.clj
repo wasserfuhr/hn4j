@@ -10,7 +10,7 @@ a{color:#0f1}"]]
  [:div#say]
  [:hr]
  "&alpha;"
- [:small
+ [:small"pro: "
   [:a{:href"https://floatingboat2013.appspot.com/ad"}"ad"]" "
   [:a{:href"https://floatingboat2013.appspot.com/"}"fl"]" "
   [:a{:href"https://sl4.eu/hls"}"hls"]" "
