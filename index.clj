@@ -1,6 +1,4 @@
-(fn[rq rs]
-(hiccup.core/html"<!DOCTYPE html>"[:html
-
+(fn[rq rs](hiccup.core/html"<!DOCTYPE html>"[:html
 [:head[:title#ti t" « α"][:style{:type"text/css"}"
 body{
  background:#000;
@@ -74,5 +72,4 @@ function t(){try{
 }catch(e){alert(e)}}
 setInterval(t,1000)
 }catch(e){alert(e)}"]
-
 ])))
