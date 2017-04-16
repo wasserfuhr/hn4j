@@ -32,7 +32,7 @@ function t(){try{
  var l=0
  xhr=new XMLHttpRequest()
  try{
-  xhr.open('get','https://sl4.eu/alive')
+  xhr.open('get','https://sl4.eu/alive'+t0.toString(16))
   xhr.onreadystatechange=function(){
    if(xhr.readyState===4)
     if(xhr.status===200){
