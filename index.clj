@@ -70,16 +70,13 @@ function t(){try{
 80:'This is the HomePage of &laquo;AlphaLabs&raquo;',
 84:'We love IntelligentArt.',
 88:'AreYouReady?',
-256:'<a href=a>de</a>.'}
+128:'?',
+256:'??'}
  if(say[t0])
   s.innerHTML=say[t0]+'<br/>'+s.innerHTML;
  for(var i=0;i<7;i++){
   var v=(t0>>(4*i))&15
   bits(v,i,0)}
-// c.strokeStyle='#0f0'
-// c.strokeRect(0,0,448,48)
-// for(i=1;i<8;i++)
-//  c.strokeRect(i*32,0,0.5,2048)
 }catch(e){alert(e)}}
 setInterval(t,1000)
 }catch(e){alert(e)}"]
