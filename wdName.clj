@@ -4,11 +4,10 @@ r(.split f" ")
 t(first r)
 q(read-string(str"0x"t))
 s(slurp(str"q/"t))
-es(:entities(json/read-str s :key-fn keyword))]
+es(:entities(json/read-str s :key-fn keyword))
+e((keyword(str"Q"q))es)]
 ; (str t" "(:value(:en(:labels
 ; (str t" "(count(:sitelinks
-; (str t" "(:value(:en(:descriptions
- (str t" "(:value(:en(:labels
-  ((keyword(str"Q"q))es)
-  )))"\n")))
+ (str t" "(:value(:en(:labels e)))" --- "
+  (:value(:en(:descriptions e)))"\n")))
  (.split(.trim(slurp"r0416"))"\n"))))
