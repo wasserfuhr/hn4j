@@ -10,4 +10,4 @@ s(slurp(str"q/"t))]
  (str t" "(:value(:en(:labels
   ((keyword(str"Q"q))(:entities(json/read-str s :key-fn keyword))
   ))))"\n")))
- (.split(.trim(slurp"rc0416"))"\n"))))
+ (.split(.trim(slurp"r0416"))"\n"))))
