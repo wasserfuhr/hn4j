@@ -20,7 +20,6 @@ a{color:#0f1}"]]
 var start=new Date().getTime()
 var bt='(subs bt 13)'
 var c=document.getElementById('ac').getContext('2d')
-var n=document.getElementById('n')
 var ti=document.getElementById('ti')
 var s=document.getElementById('say')
 function bits(v,x,y){
@@ -33,7 +32,8 @@ function t(){try{
  var l=0
  xhr=new XMLHttpRequest()
  try{
-  xhr.open('get','https://sl4.eu/alive/'+t0.toString(16)+'/'+n.value)
+  var n=document.getElementById('n')
+  xhr.open('get','https://sl4.eu/alive/'+t0.toString(16)+n?('/'+n.value):'')
   xhr.onreadystatechange=function(){
    if(xhr.readyState===4)
     if(xhr.status===200){
