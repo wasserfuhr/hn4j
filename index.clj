@@ -64,9 +64,12 @@ function t(){try{
 42:'What is your name? <input id=\"n\"/>.',
 56:'Many, many years later, this guy was born:',
 60:'<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/64px-Alan_Turing_Aged_16.jpg\"/>',
-64:'His name is <a href=\"/wiki/AlanTuring\" target=\"_\">AlanTurin</a>',
+64:'His name is <a href=\"/wiki/AlanTuring\" target=\"_\">AlanTuring</a>',
 68:'He predicted that computers could become intelligent and indistinguashable from a human chat partner during our lifetime',
 72:'How do you feel? <input id=\"f\"/>.',
+80:'This is the HomePage of &laquo;AlphaLabs&raquo;',
+84:'We love IntelligentArt',
+88:'AreYouReady?',
 256:'<a href=a>de</a>.'}
  if(say[t0])
   s.innerHTML=say[t0]+'<br/>'+s.innerHTML;
