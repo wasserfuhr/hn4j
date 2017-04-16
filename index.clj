@@ -9,7 +9,7 @@ a{color:#0f1}"]]
  [:canvas#ac{:width 256 :height 16}][:br]
  [:div#say]
  [:hr]
- "&alpha;"
+ "&alpha; "
  [:small"pro: "
   [:a{:href"https://floatingboat2013.appspot.com/ad"}"ad"]" "
   [:a{:href"https://floatingboat2013.appspot.com/"}"fl"]" "
