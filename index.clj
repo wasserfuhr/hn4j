@@ -1,14 +1,5 @@
-(fn[rq rs](let[
- ip(.split(.getRemoteHost rq)"\\.")
- i(apply str(map(fn[i](format"%02x"(Long. i)))ip))
- h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
-  (. h update m)(.digest h)))
- f(fn[h](apply str(map
-  #(format "%02x"(bit-and % 0xff))h)))
- ua(.getHeader rq"User-Agent")
- uh(f(h(.getBytes ua)))]
+(fn[rq rs]
 (hiccup.core/html"<!DOCTYPE html>"[:html
-
 
 [:head[:title#ti t" « α"][:style{:type"text/css"}"
 body{
