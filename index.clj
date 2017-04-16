@@ -36,23 +36,23 @@ function t(){try{
   xhr.open('get','/alive/'+t0.toString(16)+(n?('/'+n.value):''))
   xhr.onreadystatechange=function(){
    if(xhr.readyState===4)
-    if(xhr.status===200){
+    if(xhr.status===200)
      h=''
     else
      console.log('Error: '+xhr.status)}
   xhr.send(null)}
- catch(e){console.log('Error: '+xhr.status)}}
+ catch(e){console.log('Error: '+xhr.status)}
  try{
   var f=document.getElementById('f')
   xhr.open('get','/feel/'+t0.toString(16)+(f?('/'+f.value):''))
   xhr.onreadystatechange=function(){
    if(xhr.readyState===4)
-    if(xhr.status===200){
+    if(xhr.status===200)
      h=''
     else
      console.log('Error: '+xhr.status)}
-  xhr.send(null)}
- catch(e){console.log('Error: '+xhr.status)}}
+  xhr.send(null)}}
+ catch(e){console.log('Error: '+xhr.status)}
  c.fillStyle='#000'
  c.fillRect(0,0,256,16)
  c.fillStyle='#0f0'
