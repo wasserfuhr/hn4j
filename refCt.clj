@@ -1,6 +1,6 @@
 (ns x(:require[clojure.data.json :as json]))
 (print(apply str(map(fn[f](let[
-l (.getName f)
+l f;(.getName f)
 q(read-string(str"0x"l))
 s(slurp(str"q/"l))]
  (str l" "(count(keys(:sitelinks
