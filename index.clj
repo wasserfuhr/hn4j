@@ -48,7 +48,6 @@ function t(){try{
   ti.innerHTML='BitCount « αt'+t0.toString(16)
  }catch(e){}
  say={2:'...',
-4:'What is your name? <input/>.',
 6:'WelCome!',
 8:'What you see here is called a BinaryCounter.',
 12:'The left most cube changes every second,',
