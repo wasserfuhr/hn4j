@@ -72,4 +72,4 @@ function t(){try{
 }catch(e){alert(e)}}
 setInterval(t,1000)
 }catch(e){alert(e)}"]
-])))
+]]))
