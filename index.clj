@@ -32,7 +32,7 @@ function t(){try{
  var l=0
  xhr=new XMLHttpRequest()
  try{
-  xhr.open('get','https://sl4.eu/alive'+t0.toString(16))
+  xhr.open('get','https://sl4.eu/alive/'+t0.toString(16))
   xhr.onreadystatechange=function(){
    if(xhr.readyState===4)
     if(xhr.status===200){
@@ -45,14 +45,15 @@ function t(){try{
  c.fillRect(0,0,256,16)
  c.fillStyle='#0f0'
  try{
-  ti.innerHTML='BitCount « αt'+t0.toString(16)
+  ti.innerHTML='α « αt'+t0.toString(16)
  }catch(e){}
  say={2:'...',
 6:'WelCome!',
 8:'What you see on top is called a BinaryCounter.',
 12:'It was invented many years ago by this man:',
 14:'<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg/64px-Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg\"/>',
-16:'The left most cube changes every second,',
+16:'His name is <a href=\"/wiki/GottfriedWilhelmLeibniz\">GottfriedWilhelmLeibniz</a>',
+18:'The left most cube changes every second,',
 20:'the next one every 2 seconds,',
 24:'the next one every 4 seconds,',
 28:'the next one every 8 seconds,',
