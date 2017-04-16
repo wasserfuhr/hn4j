@@ -45,7 +45,7 @@ function t(){try{
  c.fillRect(0,0,256,16)
  c.fillStyle='#0f0'
  try{
-  ti.innerHTML='α « αt'+t0.toString(16)
+  ti.innerHTML='&alpha; « &alpha;t'+t0.toString(16)
  }catch(e){}
  say={2:'...',
 6:'WelCome!',
