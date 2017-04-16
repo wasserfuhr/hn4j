@@ -9,7 +9,7 @@ a{color:#0f1}"]]
  [:canvas#ac{:width 256 :height 16}][:br]
   [:div#say]
    [:hr]
-    "α"((:pageEdit v)(str"/"t)t 8)
+    "α";((:pageEdit v)(str"/"t)t 8)
      [:small
        [:a{:href"https://floatingboat2013.appspot.com/ad"}"ad"]" "
          [:a{:href"https://floatingboat2013.appspot.com/"}"fl"]" "
