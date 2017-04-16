@@ -1,4 +1,4 @@
-(fn[rq rs](hiccup.core/html"<!DOCTYPE html>"[:html
+(fn[rq rs](let[t""](hiccup.core/html"<!DOCTYPE html>"[:html
 [:head[:title#ti t" « α"][:style{:type"text/css"}"
 body{
  background:#000;
@@ -18,7 +18,7 @@ a{color:#0f1}"]]
 	       [:a{:href"https://floatingboat2013.appspot.com/UrPic"}"ur"]]
 	        [:script"try{
 var start=new Date().getTime()
-var bt='"(subs bt 13)"'
+var bt='(subs bt 13)'
 var c=document.getElementById('ac').getContext('2d')
 var ti=document.getElementById('ti')
 var s=document.getElementById('say')
@@ -72,4 +72,4 @@ function t(){try{
 }catch(e){alert(e)}}
 setInterval(t,1000)
 }catch(e){alert(e)}"]
-]]))
+]])))
