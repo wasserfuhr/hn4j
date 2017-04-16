@@ -54,7 +54,7 @@ function t(){try{
 14:'<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg/64px-Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg\"/>',
 16:'His name is <a href=\"/wiki/GottfriedWilhelmLeibniz\" target=\"_\">GottfriedWilhelmLeibniz</a>',
 18:'The left most cube changes every second,',
-20:'the next one every 2 seconds,',
+20:'the next one to the right every 2 seconds,',
 24:'the next one every 4 seconds,',
 28:'the next one every 8 seconds,',
 32:'the next one every 16 seconds,',
