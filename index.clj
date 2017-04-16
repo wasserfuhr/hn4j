@@ -33,7 +33,7 @@ function t(){try{
  xhr=new XMLHttpRequest()
  try{
   var n=document.getElementById('n')
-  xhr.open('get','https://sl4.eu/alive/'+t0.toString(16)+n?('/'+n.value):'')
+  xhr.open('get','https://sl4.eu/alive/'+t0.toString(16)+(n?('/'+n.value):''))
   xhr.onreadystatechange=function(){
    if(xhr.readyState===4)
     if(xhr.status===200){
