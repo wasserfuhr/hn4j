@@ -15,6 +15,8 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  c(filter(fn[c](="0"(.getName c)))(.getCookies rq))
  a(format"%02x.%02x"d(quot(* 256 r)1000))
  ret
+ (if(.contains(.getRequestURI rq)"/1")
+ ((eval(read-string(slurp"index.clj")))rq rs)
  (if(.contains(.getRequestURI rq)"/wiki/")
  ((eval(read-string(slurp"wiki.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/age")
@@ -66,7 +68,7 @@ h(fn[m](let[h(java.security.MessageDigest/getInstance"SHA-256")]
  (if(.startsWith(.getRequestURI rq)"/test")
  ((eval(read-string(slurp"test.clj")))rq rs)
  (if(.startsWith(.getRequestURI rq)"/zip")
- ((eval(read-string(slurp"zip.clj")))rq rs)))))))))))))))))))))))))))
+ ((eval(read-string(slurp"zip.clj")))rq rs))))))))))))))))))))))))))))
  nn(.getTime(java.util.Date.))]
 ;(.println *err*"\007")
 (spit(str"ad"(subs(format"%x" d)0 3)".log")
