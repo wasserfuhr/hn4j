@@ -71,7 +71,7 @@ function t(){try{
 28:'the next one every 8 seconds,',
 32:'the next one every 16 seconds,',
 36:'and so on.',
-40:'On your SmartPhone or LapTop, a BinaryCounter works at least 1000 times per second.',
+40:'On our SmartPhone and LapTop, a BinaryCounter ticks at least 1000 times per second.',
 42:'What is your name? <input id=\"n\"/>.',
 56:'Many, many years later, this guy was born:',
 60:'<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/64px-Alan_Turing_Aged_16.jpg\"/>',
