@@ -13,7 +13,7 @@ a{color:#0f1}"]]
  [:small"pro: "
   [:a{:href"https://floatingboat2013.appspot.com/ad"}"ad"]" "
   [:a{:href"https://floatingboat2013.appspot.com/"}"fl"]" "
-  [:a{:href"https://sl4.eu/hls"}"hls"]" "
+  [:a{:href"https://sl4.eu/hls"}"hl"]" "
   [:a{:href"https://sl4.eu/ls"}"ls"]" "
   [:a{:href"https://floatingboat2013.appspot.com/UrPic"}"ur"]]
 [:script"try{
