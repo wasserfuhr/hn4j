@@ -1,5 +1,5 @@
-(fn[rq rs](let[t""](hiccup.core/html"<!DOCTYPE html>"[:html
-[:head[:title#ti t" « α"][:style{:type"text/css"}"
+(fn[rq rs](let[t"&alpha;"](hiccup.core/html"<!DOCTYPE html>"[:html
+[:head[:title#ti t" « &alpha;0"][:style{:type"text/css"}"
 body{
  background:#000;
  color:#0f0;
