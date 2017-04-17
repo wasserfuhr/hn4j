@@ -38,7 +38,7 @@ function t(){
 }}"]
  [:a{:href"/edit"}"edit"];((:pageEdit v)"/ad""ad"8)
  [:sup#t"αt2d9062c.d126e8x7056e.163e6139"]][:script{:src"/AtJs"}]
- [:form{:onsubmit"t()"}
+ [:form{:onsubmit"t();return false"}
  "="[:input#c]
   [:input{:type"submit":value"!":onclick"t()"}]]
  [:br]
