@@ -40,10 +40,10 @@ function t(){
  [:a{:href"/edit"}"edit"];((:pageEdit v)"/ad""ad"8)
  [:sup#t"αt2d9062c.d126e8x7056e.163e6139"]][:script{:src"/AtJs"}]
  "="[:input#c]
- [:input{:type"submit":value"try":onclick"t()"}]
+ [:input{:type"submit":value"!":onclick"t()"}]
  [:input{:type"submit":value"now":onclick"n()"}]
  [:input{:type"submit":value"ok":onclick"o()"}]
- [:br][:textarea#a{:name"content":cols 80 :rows 40 :autofocus true}]
+ [:br]
   [:textarea#out{:name"content":cols 80 :rows 40}
    (slurp(.getInputStream(.exec(Runtime/getRuntime)"echo `date;ls -l`")))]
  ;(:footer v)
