@@ -8,13 +8,6 @@
 [:head[:title"/sh « α"]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "
 [:script"
-function n(){
- a=document.getElementById('a')
- b=((new Date().getTime()/1000)-0x5608aa2b).toString(16)
- a.value=b.substr(0,10)+
-  'x"(subs bh 2)".18610067 \\n'+a.value
- a.focus()
- a.setSelectionRange(20,20)}
 function t(){
  document.getElementsByTagName('body')[0].style.backgroundColor='yellow'
  c=document.getElementById('c').value
@@ -41,9 +34,10 @@ function t(){
  [:sup#t"αt2d9062c.d126e8x7056e.163e6139"]][:script{:src"/AtJs"}]
  "="[:input#c]
  [:input{:type"submit":value"!":onclick"t()"}]
- [:input{:type"submit":value"now":onclick"n()"}]
- [:input{:type"submit":value"ok":onclick"o()"}]
  [:br]
+ [:select#s{:multiple true}
+  [:option{:value"ls -l"}]]
+  [:br]
   [:textarea#out{:name"content":cols 80 :rows 40}
    (slurp(.getInputStream(.exec(Runtime/getRuntime)"echo `date;ls -l`")))]
  ;(:footer v)
