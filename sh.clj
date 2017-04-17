@@ -8,14 +8,11 @@
 [:head[:title"/sh « α"]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "
 [:script"
+ce=document.getElementById('c').e
 function t(){
  document.getElementsByTagName('body')[0].style.backgroundColor='yellow'
- c=document.getElementById('c').value
+ c=ce.value
  d=unescape(encodeURIComponent(c))
- s=''
- for(i=0;i<d.length;i++){
-  h=d.charCodeAt(i).toString(16)
-  s+=h.length==2?h:'0'+h}
  xhr=new XMLHttpRequest()
  try{
   xhr.open('get','/exec/'+d)
@@ -36,7 +33,7 @@ function t(){
  [:input{:type"submit":value"!":onclick"t()"}]
  [:br]
  [:select#s{:multiple true}
-  [:option{:value 2}"gs"]
+  [:option{:value 2 :onclick"ce.value=this.innerHTML"}"gs"]
   [:option{:value 1}"ls -l"]]
  [:br]
   [:textarea#out{:name"content":cols 80 :rows 40}
