@@ -5,6 +5,8 @@
  bh(slurp"https://sl4.eu/bcHead")
  hh(fn[m](apply str(map #(format"%02x"%)m)))]
 (hiccup.core/html"<!DOCTYPE html>"[:html
+[:link {:href"https://dresdenlabs.appspot.com/css"
+ :rel"stylesheet":type"text/css"}]
 [:head[:title"/sh « α"]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "
 [:script"
