@@ -3,9 +3,9 @@
   (let[h(java.security.MessageDigest/getInstance"SHA-256")]
    (. h update m)(.digest h)))
  bh(slurp"https://sl4.eu/bcHead")
- hh(fn[m](apply str(map #(format"%02x"%)m)))
-
-  ((:ht c)[:head[:title"/ad « α"](:can c)(:css c)(:vp c)]
+ hh(fn[m](apply str(map #(format"%02x"%)m)))]
+(hiccup.core/html"<!DOCTYPE html>"[:html
+[:head[:title"/ad « α"](:can c)(:css c)(:vp c)]
 [:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "
 [:script"
 function n(){
@@ -46,4 +46,4 @@ function t(){
  [:br][:textarea#a{:name"content":cols 80 :rows 40 :autofocus true}]
   [:textarea#out{:name"content":cols 80 :rows 40}
    (slurp(.getOutputStream(.exec Runtime/getRuntime()"ls")))]
- (:footer v)])))
+ (:footer v)]]))
