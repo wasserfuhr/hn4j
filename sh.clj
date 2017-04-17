@@ -40,7 +40,7 @@ function t(){
  [:sup#t"αt2d9062c.d126e8x7056e.163e6139"]][:script{:src"/AtJs"}]
  [:form{:onsubmit"t();return false"}
  "="[:input#c]
-  [:input{:type"submit":value"!":onclick"t()"}]]
+  [:input{:type"submit":value"!"}]]
  [:br]
  [:select#s{:multiple true}
   [:option#o8{:onclick"cl(this)"}"gs"]
