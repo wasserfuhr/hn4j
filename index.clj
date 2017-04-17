@@ -16,7 +16,7 @@ a{color:#0f1}"]]
   [:a{:href"https://sl4.eu/hls"}"hl"]" "
   [:a{:href"https://www.youtube.com/watch?v=UdhMPn4zNoY"}"ig"]" "
   [:a{:href"https://sl4.eu/ls"}"ls"]" "
-  [:a{:href"https://sl4.eu/ls"}"sh"]" "
+  [:a{:href"https://sl4.eu/sh"}"sh"]" "
   [:a{:href"https://floatingboat2013.appspot.com/UrPic"}"ur"]]
 [:script"try{
 var start=new Date().getTime()
