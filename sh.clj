@@ -30,7 +30,7 @@ function t(){
    if(xhr.readyState===4)
     if(xhr.status===200){
      document.getElementsByTagName('body')[0].style.backgroundColor='#fff'
-     document.getElementById('out').value=xhr.responseText.split}
+     document.getElementById('out').value=xhr.responseText}
     else
      console.log('Error: '+xhr.status)}
   xhr.send(null)}
