@@ -12,7 +12,7 @@
    (let[e(.exec(Runtime/getRuntime)"/root/git/hn4j/exec.sh")
     err(slurp(.getErrorStream e))]
     (if(>(count err)0)(do
-      (.setStatus rs 404)
+      (.setStatus rs 202)
       err))
      (slurp(.getInputStream e))))
   "No permission")))
