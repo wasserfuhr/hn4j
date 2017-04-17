@@ -10,12 +10,16 @@
 [:script"
 ce=document.getElementById('c')
 function cl(t){
- ce.value=document.getElementById(t).innerHTML
+ ce.value=t.innerHTML
 }
 function t(){
  document.getElementsByTagName('body')[0].style.backgroundColor='yellow'
  c=ce.value
  d=unescape(encodeURIComponent(c))
+ for(i=0;i<8;i++)
+  document.getElementById('o'+i).innerHTML=
+   document.getElementById('o'+(i+1)).innerHTML
+ document.getElementById('o8').innerHTML=c
  xhr=new XMLHttpRequest()
  try{
   xhr.open('get','/exec/'+d)
@@ -36,9 +40,15 @@ function t(){
  [:input{:type"submit":value"!":onclick"t()"}]
  [:br]
  [:select#s{:multiple true}
-  [:option#o8{:onclick"cl('o8')"}"gs"]
+  [:option#o8{:onclick"cl(this)"}"gs"]
   [:option#o7{:onclick"cl('o7')"}"ls -l"]
-  [:option{:value 1}"ls -l"]]
+  [:option#o6{:onclick"cl('o')"}""]
+  [:option#o5{:onclick"cl('o')"}""]
+  [:option#o4{:onclick"cl('o')"}""]
+  [:option#o3{:onclick"cl('o')"}""]
+  [:option#o2{:onclick"cl('o')"}""]
+  [:option#o1{:onclick"cl('o')"}""]
+  [:option#o0{:onclick"cl('o')"}""]]
  [:br]
   [:textarea#out{:name"content":cols 80 :rows 40}
    (slurp(.getInputStream(.exec(Runtime/getRuntime)"echo `date;ls -l`")))]
