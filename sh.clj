@@ -10,7 +10,7 @@
 [:script"
 ce=document.getElementById('c')
 function cl(t){
- ce.value=t.innerHTML
+ ce.value=t.id
 }
 function t(){
  document.getElementsByTagName('body')[0].style.backgroundColor='yellow'
