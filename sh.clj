@@ -44,4 +44,5 @@ function t(){
  [:input{:type"submit":value"now":onclick"n()"}]
  [:input{:type"submit":value"ok":onclick"o()"}]
  [:br][:textarea#a{:name"content":cols 80 :rows 40 :autofocus true}]
+  [:textarea#out{:name"content":cols 80 :rows 40}]
  (:footer v)])))
