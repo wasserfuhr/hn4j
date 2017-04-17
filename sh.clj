@@ -5,15 +5,13 @@
  bh(slurp"https://sl4.eu/bcHead")
  hh(fn[m](apply str(map #(format"%02x"%)m)))]
 (hiccup.core/html"<!DOCTYPE html>"[:html
-[:link {:href"https://dresdenlabs.appspot.com/css"
- :rel"stylesheet":type"text/css"}]
-[:head[:title"/sh « α"]]
-[:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "
+[:head[:title"/sh &laquo; &alpha;"]
+ [:link {:href"https://dresdenlabs.appspot.com/css"
+ :rel"stylesheet":type"text/css"}]]
+[:body[:h1[:span#as[:a#aa{:href"/"}"&alpha;"]]"» "
 [:script"
 ce=document.getElementById('c')
-function cl(t){
- ce.value=t.innerHTML
-}
+function cl(t){ce.value=t.innerHTML}
 function t(){
  document.getElementsByTagName('body')[0].style.backgroundColor='yellow'
  c=ce.value
