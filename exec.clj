@@ -9,5 +9,10 @@
  (if u(do
   (spit"exec.sh"
    (java.net.URLDecoder/decode(subs(.getRequestURI rq)6)))
-  (slurp(.getInputStream(.exec(Runtime/getRuntime)"/root/git/hn4j/exec.sh"))))
+   (let[e(.exec(Runtime/getRuntime)"/root/git/hn4j/exec.sh")
+    err(slurp(.getErroStream e))]
+    (if(>(count err)0)(do
+      (.setStatus rs 500)
+      err))
+     (slurp(.getInputStream e))))
   "No permission")))
