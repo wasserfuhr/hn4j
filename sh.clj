@@ -51,9 +51,7 @@ function t(){
   [:option#o2{:onclick"cl(this)"}""]
   [:option#o1{:onclick"cl(this)"}""]
   [:option#o0{:onclick"cl(this)"}""]]
- [:br]
-  [:textarea#out{:name"content":cols 80 :rows 40}
-   (slurp(.getInputStream(.exec(Runtime/getRuntime))))]
-[:script"ce=document.getElementById('c')"]
+ [:br][:textarea#out{:name"content":cols 80 :rows 40}]
+ [:script"ce=document.getElementById('c')"]
  ;(:footer v)
  ]])))
