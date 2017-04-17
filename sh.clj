@@ -8,7 +8,7 @@
 [:head[:title"/sh « α"]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "
 [:script"
-ce=document.getElementById('c').e
+ce=document.getElementById('c')
 function t(){
  document.getElementsByTagName('body')[0].style.backgroundColor='yellow'
  c=ce.value
