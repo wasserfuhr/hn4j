@@ -748,3 +748,9 @@
 2ec60eb.3c 3e9ef5c5 4aacef s a991d690 02e /exec/gs
 2ec6106.29 3e9ef5c5 4aacef s a991d690 014 /exec/ls%20-l%20r*
 2ec611d.9d 3e9ef5c5 4aacef s a991d690 02a /exec/git%20add%20r0416%20rc0416
+2ec6127.ec 3e9ef5c5 4aacef s a991d690 035 /exec/git%20commit%20-am%22git%20add%20r0416%20rc0416%22
+2ec613b.e6 3e9ef5c5 4aacef s a991d690 01e /exec/git%20mv%20r0416%20OLD
+2ec6143.27 3e9ef5c5 4aacef s a991d690 016 /exec/git%20mv%20rc0416%20OLD
+2ec6154.28 3e9ef5c5 4aacef s a991d690 01e /exec/gs
+2ec6171.4d 3e9ef5c5 4aacef s a991d690 02c /exec/grep%20ua%20at2e*log
+2ec61b2.fd 3e9ef5c5 4aacef s a991d690 01b /exec/grep%20ua%20at2e*
