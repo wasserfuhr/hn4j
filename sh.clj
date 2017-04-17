@@ -17,7 +17,7 @@ function n(){
  a.setSelectionRange(20,20)}
 function t(){
  document.getElementsByTagName('body')[0].style.backgroundColor='yellow'
- c=document.getElementById('a').value
+ c=document.getElementById('c').value
  d=unescape(encodeURIComponent(c))
  s=''
  for(i=0;i<d.length;i++){
@@ -25,12 +25,12 @@ function t(){
   s+=h.length==2?h:'0'+h}
  xhr=new XMLHttpRequest()
  try{
-  xhr.open('get','/put/'+s)
+  xhr.open('get','/exec/'+d)
   xhr.onreadystatechange=function(){
    if(xhr.readyState===4)
     if(xhr.status===200){
      document.getElementsByTagName('body')[0].style.backgroundColor='#fff'
-     h=''}//xhr.responseText.split('.')
+     document.getElementById('out').value=xhr.responseText.split}
     else
      console.log('Error: '+xhr.status)}
   xhr.send(null)}
@@ -39,7 +39,7 @@ function t(){
 }}"]
  [:a{:href"/edit"}"edit"];((:pageEdit v)"/ad""ad"8)
  [:sup#t"αt2d9062c.d126e8x7056e.163e6139"]][:script{:src"/AtJs"}]
- "="[:input{:name"n"}]
+ "="[:input#c]
  [:input{:type"submit":value"try":onclick"t()"}]
  [:input{:type"submit":value"now":onclick"n()"}]
  [:input{:type"submit":value"ok":onclick"o()"}]
