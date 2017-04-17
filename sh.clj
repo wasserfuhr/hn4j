@@ -38,8 +38,8 @@ function t(){
 }}"]
  [:a{:href"/edit"}"edit"];((:pageEdit v)"/ad""ad"8)
  [:sup#t"αt2d9062c.d126e8x7056e.163e6139"]][:script{:src"/AtJs"}]
- "="[:input#c]
- [:form{:onsubmit"t()"}[:input{:type"submit":value"!":onclick"t()"}]]
+ "="[:input#c]]
+ [:form{:onsubmit"t()"}[:input{:type"submit":value"!":onclick"t()"}]
  [:br]
  [:select#s{:multiple true}
   [:option#o8{:onclick"cl(this)"}"gs"]
