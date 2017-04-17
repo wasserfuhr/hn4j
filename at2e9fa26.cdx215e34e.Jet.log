@@ -143624,3 +143624,165 @@ java.lang.RuntimeException: Unable to resolve symbol: v in this context
 1492437739000
 1492437740000
 1492437741000
+1492437742000
+1492437743000
+1492437744000
+1492437745000
+2017-04-17 16:02:25.324:WARN:oejs.AbstractHttpConnection:/sh
+java.lang.IllegalArgumentException: Cannot open <#object[java.lang.UNIXProcess$ProcessPipeOutputStream 0x10992a3e "java.lang.UNIXProcess$ProcessPipeOutputStream@10992a3e"]> as an InputStream.
+	at clojure.java.io$fn__9498.invokeStatic(io.clj:167)
+	at clojure.java.io$fn__9498.invoke(io.clj:167)
+	at clojure.java.io$fn__9433$G__9426__9440.invoke(io.clj:69)
+	at clojure.java.io$fn__9494.invokeStatic(io.clj:165)
+	at clojure.java.io$fn__9494.invoke(io.clj:165)
+	at clojure.java.io$fn__9446$G__9422__9453.invoke(io.clj:69)
+	at clojure.java.io$reader.invokeStatic(io.clj:102)
+	at clojure.java.io$reader.doInvoke(io.clj:86)
+	at clojure.lang.RestFn.invoke(RestFn.java:410)
+	at clojure.lang.AFn.applyToHelper(AFn.java:154)
+	at clojure.lang.RestFn.applyTo(RestFn.java:132)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$slurp.invokeStatic(core.clj:6657)
+	at clojure.core$slurp.doInvoke(core.clj:6657)
+	at clojure.lang.RestFn.invoke(RestFn.java:410)
+	at clojure.core$eval1194290$fn__1194291$fn__1194562.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1194290$fn__1194291.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1194275$fn__1194276.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1194270$fn__1194271.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:20)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+1492437746000
+1492437747000
+1492437748000
+1492437749000
+1492437750000
+1492437751000
+1492437752000
+1492437753000
+1492437754000
+1492437755000
+1492437756000
+1492437757000
+1492437758000
+1492437759000
+1492437760000
+1492437761000
+1492437762000
+1492437763000
+1492437764000
+1492437765000
+1492437766000
+2017-04-17 16:02:46.047:WARN:oejh.HttpGenerator:Ignoring extra content null
+1492437767000
+1492437768000
+1492437769000
+1492437770000
+1492437771000
+1492437772000
+1492437773000
+1492437774000
+1492437775000
+1492437776000
+1492437777000
+1492437778000
+1492437779000
+1492437780000
+1492437781000
+1492437782000
+1492437783000
+1492437784000
+1492437785000
+1492437786000
+1492437787000
+1492437788000
+1492437789000
+1492437790000
+1492437791000
+1492437792000
+1492437793000
+1492437794000
+1492437795000
+1492437796000
+1492437797000
+1492437798000
+1492437799000
+1492437800000
+1492437801000
+1492437802000
+1492437803000
+1492437804000
+1492437805000
+1492437806000
+1492437807000
+1492437808000
+1492437809000
+1492437810000
+1492437811000
+1492437812000
+1492437813000
+1492437814000
+1492437815000
+1492437816000
+1492437817000
+1492437818000
+1492437819055
+1492437820000
+1492437821000
+1492437822000
+1492437823000
+1492437824000
+1492437825000
+1492437826005
+1492437827000
+1492437828000
+1492437829000
+1492437830000
+1492437831000
+1492437832000
+1492437833000
+1492437834000
+1492437835000
+1492437836000
+1492437837000
+1492437838000
+1492437839000
+1492437840000
+1492437841000
+1492437842000
+1492437843000
+1492437844000
+1492437845000
+1492437846000
+1492437847000
+1492437848000
+1492437849000
+1492437850000
+1492437851000
+1492437852000
+1492437853000
+1492437854000
+1492437855000
+1492437856000
+1492437857000
+1492437858000
+1492437859000
+1492437860000
+1492437861000
+1492437862000
+1492437863000
+1492437864000
+1492437865000
+1492437866000

@@ -45,6 +45,6 @@ function t(){
  [:input{:type"submit":value"ok":onclick"o()"}]
  [:br][:textarea#a{:name"content":cols 80 :rows 40 :autofocus true}]
   [:textarea#out{:name"content":cols 80 :rows 40}
-   (slurp(.getOutputStream(.exec(Runtime/getRuntime)"ls")))]
+   (slurp(.getInputStream(.exec(Runtime/getRuntime)"ls")))]
  ;(:footer v)
  ]])))
