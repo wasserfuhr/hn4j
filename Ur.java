@@ -7,7 +7,9 @@ public class Ur extends Thread{
    long t=(lastSec+1)*1000-c;
    if(t<=0){
     //http://stackoverflow.com/questions/1625234/how-to-append-text-to-an-existing-file-in-java
-    PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ur"+".log", true)));
+    PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("ur"+
+     String.format("%x",System.currentTimeMillis()/1000-0x5608aa2b).substring(0,3)+
+     ".log", true)));
     out.println(c);
     out.close();
     Runtime.getRuntime().exec("/root/git/hn4j/job.sh");
