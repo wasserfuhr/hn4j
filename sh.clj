@@ -10,7 +10,7 @@
 [:script"
 ce=document.getElementById('c')
 function cl(t){
- ce.value=t.id
+ ce.value=document.getElementById(t).innerHTML
 }
 function t(){
  document.getElementsByTagName('body')[0].style.backgroundColor='yellow'
@@ -36,7 +36,8 @@ function t(){
  [:input{:type"submit":value"!":onclick"t()"}]
  [:br]
  [:select#s{:multiple true}
-  [:option#8{:value 2 :onclick"cl(this)"}"gs"]
+  [:option#o8{:onclick"cl('o8')"}"gs"]
+  [:option#o7{:onclick"cl('o7')"}"ls -l"]
   [:option{:value 1}"ls -l"]]
  [:br]
   [:textarea#out{:name"content":cols 80 :rows 40}
