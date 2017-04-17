@@ -148008,3 +148008,63 @@ java.io.IOException: error=13, Permission denied
 1492441786000
 1492441787000
 1492441788000
+1492441789000
+1492441790000
+1492441791000
+1492441792005
+2017-04-17 17:09:52.056:WARN:oejs.AbstractHttpConnection:/sh
+java.lang.RuntimeException: Unmatched delimiter: ]
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.LispReader$UnmatchedDelimiterReader.invoke(LispReader.java:1176)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1200)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.read(LispReader.java:196)
+	at clojure.lang.LispReader.read(LispReader.java:185)
+	at clojure.lang.RT.readString(RT.java:1835)
+	at clojure.lang.RT.readString(RT.java:1830)
+	at clojure.core$read_string.invokeStatic(core.clj:3687)
+	at clojure.core$read_string.invoke(core.clj:3677)
+	at clojure.core$eval1230034$fn__1230035.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1230029$fn__1230030.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:20)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+1492441793000
+1492441794000
+1492441795000
+1492441796000
+1492441797000
+1492441798000
+1492441799000
+1492441800000
+1492441801000
+1492441802000
+1492441803000
+1492441804000
+1492441805000
+1492441806000
+1492441807000
+1492441808000
+1492441809000
+1492441810000
+1492441811000

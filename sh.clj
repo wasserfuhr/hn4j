@@ -36,7 +36,7 @@ function t(){
  [:input{:type"submit":value"!":onclick"t()"}]
  [:br]
  [:select#s{:multiple true}
-  [:option{:value 2}"gs"]]
+  [:option{:value 2}"gs"]
   [:option{:value 1}"ls -l"]]
  [:br]
   [:textarea#out{:name"content":cols 80 :rows 40}
