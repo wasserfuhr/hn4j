@@ -36,8 +36,9 @@ function t(){
  [:input{:type"submit":value"!":onclick"t()"}]
  [:br]
  [:select#s{:multiple true}
-  [:option{:value"ls -l"}]]
-  [:br]
+  [:option{:value 2}"gs"]]
+  [:option{:value 1}"ls -l"]]
+ [:br]
   [:textarea#out{:name"content":cols 80 :rows 40}
    (slurp(.getInputStream(.exec(Runtime/getRuntime)"echo `date;ls -l`")))]
  ;(:footer v)
