@@ -9,6 +9,9 @@
 [:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "
 [:script"
 ce=document.getElementById('c')
+function cl(t){
+ ce.value=t.innerHTML
+}
 function t(){
  document.getElementsByTagName('body')[0].style.backgroundColor='yellow'
  c=ce.value
@@ -33,7 +36,7 @@ function t(){
  [:input{:type"submit":value"!":onclick"t()"}]
  [:br]
  [:select#s{:multiple true}
-  [:option{:value 2 :onclick"ce.value=this.innerHTML"}"gs"]
+  [:option#8{:value 2 :onclick"cl(this)"}"gs"]
   [:option{:value 1}"ls -l"]]
  [:br]
   [:textarea#out{:name"content":cols 80 :rows 40}
