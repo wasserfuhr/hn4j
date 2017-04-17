@@ -11,8 +11,10 @@
    (java.net.URLDecoder/decode(subs(.getRequestURI rq)6)))
    (let[e(.exec(Runtime/getRuntime)"/root/git/hn4j/exec.sh")
     err(slurp(.getErrorStream e))]
-    (if(>(count err)0)(do
+    (if(=(.exitValue e)0)
+     (slurp(.getInputStream e))
+     (do
       (.setStatus rs 202)
       err))
-     (slurp(.getInputStream e))))
+     )))
   "No permission")))
