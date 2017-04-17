@@ -28,8 +28,9 @@ function t(){
     if(xhr.status===200){
      document.getElementsByTagName('body')[0].style.backgroundColor='#fff'
      document.getElementById('out').value=xhr.responseText}
-    else
-     console.log('Error: '+xhr.status)}
+    else{
+     document.getElementsByTagName('body')[0].style.backgroundColor='#red'
+     document.getElementById('out').value=xhr.responseText}}
   xhr.send(null)}
  catch(e){console.log('Error: '+xhr.status)
   document.getElementsByTagName('body')[0].style.backgroundColor='red'
