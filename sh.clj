@@ -42,5 +42,6 @@ function t(){
  [:br]
   [:textarea#out{:name"content":cols 80 :rows 40}
    (slurp(.getInputStream(.exec(Runtime/getRuntime)"echo `date;ls -l`")))]
+[:script"ce=document.getElementById('c')"]
  ;(:footer v)
  ]])))
