@@ -1,10 +1,10 @@
-(fn[rq rs](let[v(.getAttribute rq"vars")c(.getAttribute rq"c")
+(fn[rq rs](let[
  hf(fn[m];https://gist.github.com/kisom/1698245
   (let[h(java.security.MessageDigest/getInstance"SHA-256")]
    (. h update m)(.digest h)))
  bh(slurp"https://sl4.eu/bcHead")
  hh(fn[m](apply str(map #(format"%02x"%)m)))
- rd #(.sendRedirect rs%)]
+
   ((:ht c)[:head[:title"/ad « α"](:can c)(:css c)(:vp c)]
 [:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "
 [:script"
