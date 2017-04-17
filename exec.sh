@@ -1,1 +1,1 @@
-curl https://sl4.eu/hls
+gs

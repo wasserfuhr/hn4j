@@ -106,3 +106,8 @@ java.lang.IllegalArgumentException: No matching field found: exec for class java
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
 2017-04-17 21:13:29.751:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-17 21:15:49.312:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-17 21:16:48.554:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-17 21:20:10.137:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-17 21:28:17.138:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-17 21:36:06.622:WARN:oejh.HttpGenerator:Ignoring extra content null

@@ -45,7 +45,7 @@ function t(){
   [:option#o8{:onclick"cl(this)"}"gs"]
   [:option#o7{:onclick"cl(this)"}"ls -l"]
   [:option#o6{:onclick"cl(this)"}"grep /exec/ ad*log"]
-  [:option#o5{:onclick"cl(this)"}""]
+  [:option#o5{:onclick"cl(this)"}"git add a bh ua;git commit -am\"git add a bh ua\""]
   [:option#o4{:onclick"cl(this)"}""]
   [:option#o3{:onclick"cl(this)"}""]
   [:option#o2{:onclick"cl(this)"}""]
