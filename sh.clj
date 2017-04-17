@@ -18,7 +18,7 @@ function t(){
  document.getElementsByTagName('body')[0].style.backgroundColor='yellow'
  c=ce.value
  d=unescape(encodeURIComponent(c))
- for(i=0;i<8;i++)
+ for(var i=0;i<8;i++)
   document.getElementById('o'+i).innerHTML=
    document.getElementById('o'+(i+1)).innerHTML
  document.getElementById('o8').innerHTML=c
@@ -44,14 +44,14 @@ function t(){
  [:br]
  [:select#s{:multiple true}
   [:option#o8{:onclick"cl(this)"}"gs"]
-  [:option#o7{:onclick"cl('o7')"}"ls -l"]
-  [:option#o6{:onclick"cl('o')"}""]
-  [:option#o5{:onclick"cl('o')"}""]
-  [:option#o4{:onclick"cl('o')"}""]
-  [:option#o3{:onclick"cl('o')"}""]
-  [:option#o2{:onclick"cl('o')"}""]
-  [:option#o1{:onclick"cl('o')"}""]
-  [:option#o0{:onclick"cl('o')"}""]]
+  [:option#o7{:onclick"cl(this)"}"ls -l"]
+  [:option#o6{:onclick"cl(this)"}""]
+  [:option#o5{:onclick"cl(this)"}""]
+  [:option#o4{:onclick"cl(this)"}""]
+  [:option#o3{:onclick"cl(this)"}""]
+  [:option#o2{:onclick"cl(this)"}""]
+  [:option#o1{:onclick"cl(this)"}""]
+  [:option#o0{:onclick"cl(this)"}""]]
  [:br]
   [:textarea#out{:name"content":cols 80 :rows 40}
    (slurp(.getInputStream(.exec(Runtime/getRuntime)"echo `date;ls -l`")))]
