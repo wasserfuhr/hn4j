@@ -44,7 +44,7 @@ function t(){
  [:select#s{:multiple true}
   [:option#o8{:onclick"cl(this)"}"gs"]
   [:option#o7{:onclick"cl(this)"}"ls -l"]
-  [:option#o6{:onclick"cl(this)"}""]
+  [:option#o6{:onclick"cl(this)"}"grep /exec/ ad*log"]
   [:option#o5{:onclick"cl(this)"}""]
   [:option#o4{:onclick"cl(this)"}""]
   [:option#o3{:onclick"cl(this)"}""]
@@ -53,7 +53,7 @@ function t(){
   [:option#o0{:onclick"cl(this)"}""]]
  [:br]
   [:textarea#out{:name"content":cols 80 :rows 40}
-   (slurp(.getInputStream(.exec(Runtime/getRuntime)"echo `date;ls -l`")))]
+   (slurp(.getInputStream(.exec(Runtime/getRuntime))))]
 [:script"ce=document.getElementById('c')"]
  ;(:footer v)
  ]])))
