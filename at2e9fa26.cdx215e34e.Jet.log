@@ -144743,3 +144743,150 @@ java.lang.IllegalArgumentException: Cannot open <#object[java.lang.UNIXProcess$P
 1492438820000
 1492438821000
 1492438822000
+1492438823000
+1492438824000
+1492438825001
+2017-04-17 16:20:25.109:WARN:oejs.AbstractHttpConnection:/sh
+java.io.IOException: Cannot run program "date;ls": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at java.lang.Runtime.exec(Runtime.java:620)
+	at java.lang.Runtime.exec(Runtime.java:450)
+	at java.lang.Runtime.exec(Runtime.java:347)
+	at clojure.core$eval1202616$fn__1202617$fn__1202888.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1202616$fn__1202617.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1202601$fn__1202602.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1202596$fn__1202597.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:20)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: 
+java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method)
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:248)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	at java.lang.Runtime.exec(Runtime.java:620)
+	at java.lang.Runtime.exec(Runtime.java:450)
+	at java.lang.Runtime.exec(Runtime.java:347)
+	at clojure.core$eval1202616$fn__1202617$fn__1202888.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1202616$fn__1202617.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1202601$fn__1202602.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1202596$fn__1202597.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:20)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+1492438826000
+1492438827000
+1492438828000
+1492438829000
+1492438830000
+1492438831000
+1492438832000
+1492438833000
+1492438834000
+1492438835000
+1492438836000
+1492438837000
+1492438838000
+1492438839000
+1492438840000
+1492438841000
+1492438842000
+1492438843000
+1492438844000
+1492438845000
+1492438846000
+1492438847000
+1492438848000
+1492438849000
+1492438850000
+1492438851000
+1492438852000
+1492438853000
+1492438854000
+1492438855000
+1492438856000
+1492438857000
+1492438858000
+1492438859000
+1492438860000
+1492438861000
+1492438862000
+1492438863000
+1492438864000
+1492438865000
+1492438866000
+1492438867000
+1492438868000
+1492438869000
+1492438870000
+1492438871000
+1492438872000
+1492438873000
+1492438874000
+1492438875000
+1492438876000
+1492438877000
+1492438878000
+1492438879000
+1492438880000
+1492438881000
+1492438882000
+1492438883000
+1492438884000
+1492438885000
+1492438886000
+1492438887000
+1492438888000
+1492438889000
+1492438890000
+1492438891000
+1492438892000
+1492438893000
+1492438894000
+1492438895000
+1492438896000
+1492438897000
+1492438898000
+1492438899000
+1492438900000
+1492438901000
+1492438902000
+1492438903000
+1492438904000
+1492438905000
+1492438906000
+1492438907000
+1492438908000
+1492438909000
+1492438910000
+1492438911000
+1492438912000
+1492438913000
+1492438914000
+1492438915000
+1492438916000
