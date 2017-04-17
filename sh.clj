@@ -5,7 +5,7 @@
  bh(slurp"https://sl4.eu/bcHead")
  hh(fn[m](apply str(map #(format"%02x"%)m)))]
 (hiccup.core/html"<!DOCTYPE html>"[:html
-[:head[:title"/ad « α"](:can c)(:css c)(:vp c)]
+[:head[:title"/sh « α"]]
 [:body[:h1[:span#as[:a#aa{:href"/"}"α"]]"» "
 [:script"
 function n(){
@@ -37,7 +37,7 @@ function t(){
  catch(e){console.log('Error: '+xhr.status)
   document.getElementsByTagName('body')[0].style.backgroundColor='red'
 }}"]
- [:a{:href"/edit"}"edit"]((:pageEdit v)"/ad""ad"8)
+ [:a{:href"/edit"}"edit"];((:pageEdit v)"/ad""ad"8)
  [:sup#t"αt2d9062c.d126e8x7056e.163e6139"]][:script{:src"/AtJs"}]
  "="[:input{:name"n"}]
  [:input{:type"submit":value"try":onclick"t()"}]

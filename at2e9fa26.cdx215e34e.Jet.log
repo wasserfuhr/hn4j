@@ -142999,3 +142999,117 @@ java.lang.RuntimeException: Unable to resolve symbol: rs% in this context
 1492437429000
 1492437430000
 1492437431000
+1492437432000
+1492437433000
+1492437434000
+2017-04-17 15:57:14.701:WARN:oejs.AbstractHttpConnection:/sh
+java.lang.RuntimeException: EOF while reading
+	at clojure.lang.Util.runtimeException(Util.java:221)
+	at clojure.lang.LispReader.readDelimitedList(LispReader.java:1204)
+	at clojure.lang.LispReader$ListReader.invoke(LispReader.java:1049)
+	at clojure.lang.LispReader.read(LispReader.java:263)
+	at clojure.lang.LispReader.read(LispReader.java:196)
+	at clojure.lang.LispReader.read(LispReader.java:185)
+	at clojure.lang.RT.readString(RT.java:1835)
+	at clojure.lang.RT.readString(RT.java:1830)
+	at clojure.core$read_string.invokeStatic(core.clj:3687)
+	at clojure.core$read_string.invoke(core.clj:3677)
+	at clojure.core$eval1191683$fn__1191684.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval1191678$fn__1191679.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:20)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+1492437435000
+1492437436000
+1492437437000
+1492437438000
+1492437439000
+1492437440000
+1492437441000
+1492437442000
+1492437443000
+1492437444000
+1492437445000
+1492437446000
+1492437447000
+1492437448000
+1492437449000
+1492437450000
+1492437451000
+1492437452000
+1492437453000
+1492437454000
+1492437455000
+1492437456000
+1492437457000
+1492437458000
+1492437459000
+1492437460000
+1492437461000
+1492437462000
+1492437463000
+1492437464000
+1492437465000
+1492437466000
+1492437467000
+1492437468000
+1492437469000
+1492437470000
+1492437471000
+1492437472000
+1492437473000
+1492437474000
+1492437475000
+1492437476000
+1492437477000
+1492437478000
+1492437479000
+1492437480000
+1492437481000
+1492437482000
+1492437483000
+1492437484000
+1492437485000
+1492437486000
+1492437487000
+1492437488000
+1492437489000
+1492437490000
+1492437491000
+1492437492000
+1492437493000
+1492437494000
+1492437495000
+1492437496000
+1492437497000
+1492437498000
+1492437499000
+1492437500000
+1492437501000
+1492437502000
+1492437503000
+1492437504000
+1492437505000
+1492437506000
+1492437507000
+1492437508000
+1492437509000
+1492437510000
+1492437511000
+1492437512000
+1492437513000
+1492437514000
+1492437515000
+1492437516000
