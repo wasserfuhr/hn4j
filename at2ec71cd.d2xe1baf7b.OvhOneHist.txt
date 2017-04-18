@@ -1,0 +1,1000 @@
+ 1170  xxd rw
+ 1171  sha256sum rw
+ 1172  cat put.clj 
+ 1173  curl https://floatingboat2013.appspot.com/eval/58785007|xxd
+ 1174  curl https://floatingboat2013.appspot.com/raw/16115001|xxd
+ 1175  gs
+ 1176  cat rw
+ 1177  sha256sum rw
+ 1178  mv rw a/211a7895ad8b0ba2f46d128881f67c5a50647a08cb6207a1d9567dd5a5d3c482
+ 1179  hi add
+ 1180  git add a bh ua;git commit -am"git add a bh ua"
+ 1181  gs
+ 1182  l
+ 1183  ll bb
+ 1184  hi hei
+ 1185  curl https://blockchain.info/block-height/462015?format=json > bb/70cbf
+ 1186  em test
+ 1187  more bb/70cbf 
+ 1188  curl https://blockchain.info/block-index/1483238?format=json > bb/70cbf
+ 1189  curl https://sl4.eu/test > btx/70cbf
+ 1190  xxd btx/70cbf|more
+ 1191  xxd btx/70cbf|tail
+ 1192  cat bh/70cbf
+ 1193  #cat bh/70cbf
+ 1194  gs
+ 1195  ll bh
+ 1196  gs
+ 1197  tail at2e5fe80.84x204dbbe.Jet.log 
+ 1198  tail -c 16k at2e5fe80.84x204dbbe.Jet.log|more
+ 1199  tail ad2e9.log 
+ 1200  tail -c4k ad2e9.log 
+ 1201  cat newBlock.clj 
+ 1202  hi newB
+ 1203  curl -d '{"event":"new-block","url":"https://sl4.eu/newBlock"}' https://api.blockcypher.com/v1/btc/main/hooks?token=d15f83dd9f4e46e19ee0bb49c1a2f3ce
+ 1204  cat newBlock.clj 
+ 1205  gs
+ 1206  #(subs(slurp(str"https://blockchain.info/rawblock/"h"?format=hex"))0 160)
+ 1207  emacs bh/70cbf
+ 1208  emacs seeedd
+ 1209  sha256sum seeedd
+ 1210  cat a/ade34c4e4d45e6866f4528e8f2e555fcff77da0043b0edd0ca64d4c0eef8bf54 
+ 1211  cat a/9b6a8a2db5438ed6c707b71a726c431416a06e8fa4d576326784a1dca1a6a649 
+ 1212  cat a/904211424848496afbbdd403a45be1d654fb97c83f350568fcda9f9824ed5484 
+ 1213  emacs boot
+ 1214  em boot
+ 1215  ll *j
+ 1216  cp hls.clj bcHead.clj
+ 1217  git add bcHead.clj 
+ 1218  git commit -am"cp hls.clj bcHead.clj"
+ 1219  em bcHead
+ 1220  em boot
+ 1221  bt
+ 1222  curl https://magazin.spiegel.de/EpubDelivery/image/title/SP/2017/16/300|wc
+ 1223  gs
+ 1224  sha256sum seeedd 
+ 1225  mv seeedd a/c34375c0039e30d260edac8199a99974eb1eca09422200533bc00a343bc10b3e
+ 1226  more bb/70cbf 
+ 1227  grep 1MKftFV6MttPnuntZgRFNcNT8u9vfpYdsq bb/70cbf 
+ 1228  emacs bb/70cbf 
+ 1229  pip install pybitcoin
+ 1230  python
+ 1231  #https://bitcoin.stackexchange.com/questions/8057/how-do-i-get-the-public-bitcoin-address-from-a-given-private-key-in-wallet-impor
+ 1232  cat a/e238e1f461b59262c7927169a9c64d7206d1e87b40043fa279b1b201edd8f743 
+ 1233  gs
+ 1234  hi add
+ 1235  git add a bh ua;git commit -am"git add a bh ua"
+ 1236  gs
+ 1237  ll btx
+ 1238  cat bcHead
+ 1239  more a/e17cef1cfabd060ab64c3efb61a4c32f936bcb2e470a47b52e237cedb83c9b29 
+ 1240  bt
+ 1241  #▒├2␊9␊803.26│237␌°1␍ off you@2003:45:4d1c:d628:7896:8c4f:b613:e0a6
+ 1242  you@2003:45:4d1c:d628:7896:8c4f:b613:e0a6
+ 1243  history 
+ 1244  bt
+ 1245  #at2e9e8f4.07x1e4996c on you@2003:45:4d1c:d628:7896:8c4f:b613:e0a6
+ 1246  #xxd a/87
+ 1247  cd git/hn4j/
+ 1248  xxd a/87f0ed7735b86404dce46ef62ea1ad15a846cdc4ac0828f11929c7438966c81e |more
+ 1249  l bb
+ 1250  gs
+ 1251  ll ad*
+ 1252  ll i
+ 1253  ll *i
+ 1254  cat *i|sort -k 2|more
+ 1255  l
+ 1256  du a
+ 1257  du -?
+ 1258  du --help
+ 1259  du
+ 1260  df
+ 1261  df -?
+ 1262  df --help
+ 1263  df -B1
+ 1264  cat Jet.java 
+ 1265  l U*
+ 1266  gs
+ 1267  gi ad
+ 1268  hi ad
+ 1269  git add a bh ua;git commit -am"git add a bh ua"
+ 1270  gs
+ 1271  wget https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/Ur.java
+ 1272  git add Ur.java
+ 1273  git commit -am"wget https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/Ur.java"
+ 1274  javac Ur.java 
+ 1275  emacs Ur.java
+ 1276  git commit -am"~Ur.java"
+ 1277  emacs job.sh
+ 1278  git add job.sh
+ 1279  git commit -am"git add job.sh"
+ 1280  chmod +x job.sh
+ 1281  ./job.sh
+ 1282  cat df
+ 1283  cat Ur.java
+ 1284  emacs Jet.java
+ 1285  hi javac
+ 1286  javac -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet.java
+ 1287  hi Jet
+ 1288  hi pw
+ 1289  pw=`cat pw`
+ 1290  ps aux
+ 1291  kill -9 21230
+ 1292  hi pw
+ 1293  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1294  ll df
+ 1295  gs
+ 1296  more at2e9f8f5.4fx215e34e.Jet.log 
+ 1297  gs
+ 1298  emacs Jet.java
+ 1299  hi javac
+ 1300  javac -cp jetty-all-8.1.9.v20130131.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet.java
+ 1301  ps aux
+ 1302  hi com
+ 1303  hi comm
+ 1304  git commit -am"+~..."
+ 1305  ps aux
+ 1306  kill -9 18126
+ 1307  hi Jet
+ 1308  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1309  ll df
+ 1310  pwd
+ 1311  emacs Ur.java 
+ 1312  javac Ur.java 
+ 1313  ps aux
+ 1314  kill -9 18208
+ 1315  hi Jet
+ 1316  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1317  ll df
+ 1318  gs
+ 1319  git add df
+ 1320  cat df
+ 1321  grep df vda
+ 1322  grep vda1 df
+ 1323  ll /root/
+ 1324  mv /root/Gordon_Moore.jpg OLD/
+ 1325  ll /root/rq
+ 1326  rmdir /root/rq
+ 1327  du
+ 1328  du /
+ 1329  du -?
+ 1330  du --h
+ 1331  du --help 
+ 1332  du -d 2
+ 1333  du -d 2 /
+ 1334  du -d 1 /
+ 1335  du -d 1 /usr
+ 1336  du --help 
+ 1337  du -d 1 -B 1 /
+ 1338  du -d 1 -B 1024 /
+ 1339  du -d 1 -B 1024 /var
+ 1340  du -d 1 -B 1024 /var/lib
+ 1341  du -d 1 -B 1024 /var/lib/docker/
+ 1342  du -d 1 -B 1024 /var/lib/docker/devicemapper/
+ 1343  gs
+ 1344  git add OLD/Gordon_Moore.jpg at2e9f8f5.4fx215e34e.Jet.log at2e9f9c1.bdx215e34e.Jet.log at2e9fa26.cdx215e34e.Jet.log 
+ 1345  git commit -am"git add OLD/Gordon_Moore.jpg at2e9f8f5.4fx215e34e.Jet.log at2e9f9c1.bdx215e34e.Jet.log at2e9fa26.cdx215e34e.Jet.log"
+ 1346  gs
+ 1347  cat a/8a9498753fc13e86f2249ebafc3585c0955e7427cf6a68adad464ca712a37a39 
+ 1348  curl https://floatingboat2013.appspot.com/raw/59295015|sha256sum 
+ 1349  curl https://floatingboat2013.appspot.com/raw/59295015 > a/0b7d19471177eaa1fc5df2d967024b92d9d6c6802f2d4dffe6de4c49c98fe686
+ 1350  sha256sum a/*
+ 1351  l
+ 1352  cd ..
+ 1353  git clone https://github.com/wasserfuhr/a.git
+ 1354  ls
+ 1355  cd a
+ 1356  curl http://sl4.eu/get/0b7d19471177eaa1fc5df2d967024b92d9d6c6802f2d4dffe6de4c49c98fe686 > 0b7d19471177eaa1fc5df2d967024b92d9d6c6802f2d4dffe6de4c49c98fe686
+ 1357  xxd 0b7d19471177eaa1fc5df2d967024b92d9d6c6802f2d4dffe6de4c49c98fe686 
+ 1358  hi com
+ 1359  git commit -am"+~..."
+ 1360  git add 0b7d19471177eaa1fc5df2d967024b92d9d6c6802f2d4dffe6de4c49c98fe686
+ 1361  git commit -am"+~..."
+ 1362  git push
+ 1363  mkdir md
+ 1364  cd md
+ 1365  curl https://floatingboat2013.appspot.com/rawHead/md0101 >  0101
+ 1366  curl https://floatingboat2013.appspot.com/rawHead/md0102 >  0102
+ 1367  curl https://floatingboat2013.appspot.com/rawHead/md0103 >  0103
+ 1368  curl https://floatingboat2013.appspot.com/rawHead/md0104 >  0104
+ 1369  curl https://floatingboat2013.appspot.com/rawHead/md0105 >  0105
+ 1370  ll
+ 1371  curl https://floatingboat2013.appspot.com/rawHead/md0724 >  0724
+ 1372  cat 0724 
+ 1373  more *
+ 1374  grep Exce *
+ 1375  grep -?
+ 1376  grep --he
+ 1377  grep -l Exce *
+ 1378  curl https://floatingboat2013.appspot.com/rawHead/md0101 >  0101
+ 1379  curl https://floatingboat2013.appspot.com/rawHead/md0102 >  0102
+ 1380  curl https://floatingboat2013.appspot.com/rawHead/md0103 >  0103
+ 1381  curl https://floatingboat2013.appspot.com/rawHead/md0104 >  0104
+ 1382  curl https://floatingboat2013.appspot.com/rawHead/md0105 >  0105
+ 1383  curl https://floatingboat2013.appspot.com/rawHead/md0106 >  0106
+ 1384  curl https://floatingboat2013.appspot.com/rawHead/md0107 >  0107
+ 1385  curl https://floatingboat2013.appspot.com/rawHead/md0108 >  0108
+ 1386  curl https://floatingboat2013.appspot.com/rawHead/md0109 >  0109
+ 1387  curl https://floatingboat2013.appspot.com/rawHead/md0110 >  0110
+ 1388  curl https://floatingboat2013.appspot.com/rawHead/md0111 >  0111
+ 1389  curl https://floatingboat2013.appspot.com/rawHead/md0112 >  0112
+ 1390  curl https://floatingboat2013.appspot.com/rawHead/md0113 >  0113
+ 1391  curl https://floatingboat2013.appspot.com/rawHead/md0114 >  0114
+ 1392  curl https://floatingboat2013.appspot.com/rawHead/md0115 >  0115
+ 1393  curl https://floatingboat2013.appspot.com/rawHead/md0116 >  0116
+ 1394  curl https://floatingboat2013.appspot.com/rawHead/md0117 >  0117
+ 1395  curl https://floatingboat2013.appspot.com/rawHead/md0118 >  0118
+ 1396  curl https://floatingboat2013.appspot.com/rawHead/md0119 >  0119
+ 1397  curl https://floatingboat2013.appspot.com/rawHead/md0120 >  0120
+ 1398  curl https://floatingboat2013.appspot.com/rawHead/md0121 >  0121
+ 1399  curl https://floatingboat2013.appspot.com/rawHead/md0122 >  0122
+ 1400  curl https://floatingboat2013.appspot.com/rawHead/md0123 >  0123
+ 1401  curl https://floatingboat2013.appspot.com/rawHead/md0124 >  0124
+ 1402  curl https://floatingboat2013.appspot.com/rawHead/md0125 >  0125
+ 1403  curl https://floatingboat2013.appspot.com/rawHead/md0126 >  0126
+ 1404  curl https://floatingboat2013.appspot.com/rawHead/md0127 >  0127
+ 1405  curl https://floatingboat2013.appspot.com/rawHead/md0128 >  0128
+ 1406  curl https://floatingboat2013.appspot.com/rawHead/md0129 >  0129
+ 1407  curl https://floatingboat2013.appspot.com/rawHead/md0130 >  0130
+ 1408  curl https://floatingboat2013.appspot.com/rawHead/md0131 >  0131
+ 1409  curl https://floatingboat2013.appspot.com/rawHead/md0201 >  0201
+ 1410  curl https://floatingboat2013.appspot.com/rawHead/md0202 >  0202
+ 1411  curl https://floatingboat2013.appspot.com/rawHead/md0203 >  0203
+ 1412  curl https://floatingboat2013.appspot.com/rawHead/md0204 >  0204
+ 1413  curl https://floatingboat2013.appspot.com/rawHead/md0205 >  0205
+ 1414  curl https://floatingboat2013.appspot.com/rawHead/md0206 >  0206
+ 1415  curl https://floatingboat2013.appspot.com/rawHead/md0207 >  0207
+ 1416  curl https://floatingboat2013.appspot.com/rawHead/md0208 >  0208
+ 1417  curl https://floatingboat2013.appspot.com/rawHead/md0209 >  0209
+ 1418  curl https://floatingboat2013.appspot.com/rawHead/md0210 >  0210
+ 1419  curl https://floatingboat2013.appspot.com/rawHead/md0211 >  0211
+ 1420  curl https://floatingboat2013.appspot.com/rawHead/md0212 >  0212
+ 1421  curl https://floatingboat2013.appspot.com/rawHead/md0213 >  0213
+ 1422  curl https://floatingboat2013.appspot.com/rawHead/md0214 >  0214
+ 1423  curl https://floatingboat2013.appspot.com/rawHead/md0215 >  0215
+ 1424  curl https://floatingboat2013.appspot.com/rawHead/md0216 >  0216
+ 1425  curl https://floatingboat2013.appspot.com/rawHead/md0217 >  0217
+ 1426  curl https://floatingboat2013.appspot.com/rawHead/md0218 >  0218
+ 1427  curl https://floatingboat2013.appspot.com/rawHead/md0219 >  0219
+ 1428  curl https://floatingboat2013.appspot.com/rawHead/md0220 >  0220
+ 1429  curl https://floatingboat2013.appspot.com/rawHead/md0221 >  0221
+ 1430  curl https://floatingboat2013.appspot.com/rawHead/md0222 >  0222
+ 1431  curl https://floatingboat2013.appspot.com/rawHead/md0223 >  0223
+ 1432  curl https://floatingboat2013.appspot.com/rawHead/md0224 >  0224
+ 1433  curl https://floatingboat2013.appspot.com/rawHead/md0225 >  0225
+ 1434  curl https://floatingboat2013.appspot.com/rawHead/md0226 >  0226
+ 1435  curl https://floatingboat2013.appspot.com/rawHead/md0227 >  0227
+ 1436  curl https://floatingboat2013.appspot.com/rawHead/md0228 >  0228
+ 1437  curl https://floatingboat2013.appspot.com/rawHead/md0229 >  0229
+ 1438  curl https://floatingboat2013.appspot.com/rawHead/md0230 >  0230
+ 1439  curl https://floatingboat2013.appspot.com/rawHead/md0231 >  0231
+ 1440  curl https://floatingboat2013.appspot.com/rawHead/md0301 >  0301
+ 1441  curl https://floatingboat2013.appspot.com/rawHead/md0302 >  0302
+ 1442  curl https://floatingboat2013.appspot.com/rawHead/md0303 >  0303
+ 1443  curl https://floatingboat2013.appspot.com/rawHead/md0304 >  0304
+ 1444  curl https://floatingboat2013.appspot.com/rawHead/md0305 >  0305
+ 1445  curl https://floatingboat2013.appspot.com/rawHead/md0306 >  0306
+ 1446  curl https://floatingboat2013.appspot.com/rawHead/md0307 >  0307
+ 1447  curl https://floatingboat2013.appspot.com/rawHead/md0308 >  0308
+ 1448  curl https://floatingboat2013.appspot.com/rawHead/md0309 >  0309
+ 1449  curl https://floatingboat2013.appspot.com/rawHead/md0310 >  0310
+ 1450  curl https://floatingboat2013.appspot.com/rawHead/md0311 >  0311
+ 1451  curl https://floatingboat2013.appspot.com/rawHead/md0312 >  0312
+ 1452  curl https://floatingboat2013.appspot.com/rawHead/md0313 >  0313
+ 1453  curl https://floatingboat2013.appspot.com/rawHead/md0314 >  0314
+ 1454  curl https://floatingboat2013.appspot.com/rawHead/md0315 >  0315
+ 1455  curl https://floatingboat2013.appspot.com/rawHead/md0316 >  0316
+ 1456  curl https://floatingboat2013.appspot.com/rawHead/md0317 >  0317
+ 1457  curl https://floatingboat2013.appspot.com/rawHead/md0318 >  0318
+ 1458  curl https://floatingboat2013.appspot.com/rawHead/md0319 >  0319
+ 1459  curl https://floatingboat2013.appspot.com/rawHead/md0320 >  0320
+ 1460  curl https://floatingboat2013.appspot.com/rawHead/md0321 >  0321
+ 1461  curl https://floatingboat2013.appspot.com/rawHead/md0322 >  0322
+ 1462  curl https://floatingboat2013.appspot.com/rawHead/md0323 >  0323
+ 1463  curl https://floatingboat2013.appspot.com/rawHead/md0324 >  0324
+ 1464  curl https://floatingboat2013.appspot.com/rawHead/md0325 >  0325
+ 1465  curl https://floatingboat2013.appspot.com/rawHead/md0326 >  0326
+ 1466  curl https://floatingboat2013.appspot.com/rawHead/md0327 >  0327
+ 1467  curl https://floatingboat2013.appspot.com/rawHead/md0328 >  0328
+ 1468  curl https://floatingboat2013.appspot.com/rawHead/md0329 >  0329
+ 1469  curl https://floatingboat2013.appspot.com/rawHead/md0330 >  0330
+ 1470  curl https://floatingboat2013.appspot.com/rawHead/md0331 >  0331
+ 1471  curl https://floatingboat2013.appspot.com/rawHead/md0401 >  0401
+ 1472  curl https://floatingboat2013.appspot.com/rawHead/md0402 >  0402
+ 1473  curl https://floatingboat2013.appspot.com/rawHead/md0403 >  0403
+ 1474  curl https://floatingboat2013.appspot.com/rawHead/md0404 >  0404
+ 1475  curl https://floatingboat2013.appspot.com/rawHead/md0405 >  0405
+ 1476  curl https://floatingboat2013.appspot.com/rawHead/md0406 >  0406
+ 1477  curl https://floatingboat2013.appspot.com/rawHead/md0407 >  0407
+ 1478  curl https://floatingboat2013.appspot.com/rawHead/md0408 >  0408
+ 1479  curl https://floatingboat2013.appspot.com/rawHead/md0409 >  0409
+ 1480  curl https://floatingboat2013.appspot.com/rawHead/md0410 >  0410
+ 1481  curl https://floatingboat2013.appspot.com/rawHead/md0411 >  0411
+ 1482  curl https://floatingboat2013.appspot.com/rawHead/md0412 >  0412
+ 1483  curl https://floatingboat2013.appspot.com/rawHead/md0413 >  0413
+ 1484  curl https://floatingboat2013.appspot.com/rawHead/md0414 >  0414
+ 1485  curl https://floatingboat2013.appspot.com/rawHead/md0415 >  0415
+ 1486  curl https://floatingboat2013.appspot.com/rawHead/md0416 >  0416
+ 1487  curl https://floatingboat2013.appspot.com/rawHead/md0417 >  0417
+ 1488  curl https://floatingboat2013.appspot.com/rawHead/md0418 >  0418
+ 1489  curl https://floatingboat2013.appspot.com/rawHead/md0419 >  0419
+ 1490  curl https://floatingboat2013.appspot.com/rawHead/md0420 >  0420
+ 1491  curl https://floatingboat2013.appspot.com/rawHead/md0421 >  0421
+ 1492  curl https://floatingboat2013.appspot.com/rawHead/md0422 >  0422
+ 1493  curl https://floatingboat2013.appspot.com/rawHead/md0423 >  0423
+ 1494  curl https://floatingboat2013.appspot.com/rawHead/md0424 >  0424
+ 1495  curl https://floatingboat2013.appspot.com/rawHead/md0425 >  0425
+ 1496  curl https://floatingboat2013.appspot.com/rawHead/md0426 >  0426
+ 1497  curl https://floatingboat2013.appspot.com/rawHead/md0427 >  0427
+ 1498  curl https://floatingboat2013.appspot.com/rawHead/md0428 >  0428
+ 1499  curl https://floatingboat2013.appspot.com/rawHead/md0429 >  0429
+ 1500  curl https://floatingboat2013.appspot.com/rawHead/md0430 >  0430
+ 1501  curl https://floatingboat2013.appspot.com/rawHead/md0431 >  0431
+ 1502  curl https://floatingboat2013.appspot.com/rawHead/md0501 >  0501
+ 1503  curl https://floatingboat2013.appspot.com/rawHead/md0502 >  0502
+ 1504  curl https://floatingboat2013.appspot.com/rawHead/md0503 >  0503
+ 1505  curl https://floatingboat2013.appspot.com/rawHead/md0504 >  0504
+ 1506  curl https://floatingboat2013.appspot.com/rawHead/md0505 >  0505
+ 1507  curl https://floatingboat2013.appspot.com/rawHead/md0506 >  0506
+ 1508  curl https://floatingboat2013.appspot.com/rawHead/md0507 >  0507
+ 1509  curl https://floatingboat2013.appspot.com/rawHead/md0508 >  0508
+ 1510  curl https://floatingboat2013.appspot.com/rawHead/md0509 >  0509
+ 1511  curl https://floatingboat2013.appspot.com/rawHead/md0510 >  0510
+ 1512  curl https://floatingboat2013.appspot.com/rawHead/md0511 >  0511
+ 1513  curl https://floatingboat2013.appspot.com/rawHead/md0512 >  0512
+ 1514  curl https://floatingboat2013.appspot.com/rawHead/md0513 >  0513
+ 1515  curl https://floatingboat2013.appspot.com/rawHead/md0514 >  0514
+ 1516  curl https://floatingboat2013.appspot.com/rawHead/md0515 >  0515
+ 1517  curl https://floatingboat2013.appspot.com/rawHead/md0516 >  0516
+ 1518  curl https://floatingboat2013.appspot.com/rawHead/md0517 >  0517
+ 1519  curl https://floatingboat2013.appspot.com/rawHead/md0518 >  0518
+ 1520  curl https://floatingboat2013.appspot.com/rawHead/md0519 >  0519
+ 1521  curl https://floatingboat2013.appspot.com/rawHead/md0520 >  0520
+ 1522  curl https://floatingboat2013.appspot.com/rawHead/md0521 >  0521
+ 1523  curl https://floatingboat2013.appspot.com/rawHead/md0522 >  0522
+ 1524  curl https://floatingboat2013.appspot.com/rawHead/md0523 >  0523
+ 1525  curl https://floatingboat2013.appspot.com/rawHead/md0524 >  0524
+ 1526  curl https://floatingboat2013.appspot.com/rawHead/md0525 >  0525
+ 1527  curl https://floatingboat2013.appspot.com/rawHead/md0526 >  0526
+ 1528  curl https://floatingboat2013.appspot.com/rawHead/md0527 >  0527
+ 1529  curl https://floatingboat2013.appspot.com/rawHead/md0528 >  0528
+ 1530  curl https://floatingboat2013.appspot.com/rawHead/md0529 >  0529
+ 1531  curl https://floatingboat2013.appspot.com/rawHead/md0530 >  0530
+ 1532  curl https://floatingboat2013.appspot.com/rawHead/md0531 >  0531
+ 1533  curl https://floatingboat2013.appspot.com/rawHead/md0601 >  0601
+ 1534  curl https://floatingboat2013.appspot.com/rawHead/md0602 >  0602
+ 1535  curl https://floatingboat2013.appspot.com/rawHead/md0603 >  0603
+ 1536  curl https://floatingboat2013.appspot.com/rawHead/md0604 >  0604
+ 1537  curl https://floatingboat2013.appspot.com/rawHead/md0605 >  0605
+ 1538  curl https://floatingboat2013.appspot.com/rawHead/md0606 >  0606
+ 1539  curl https://floatingboat2013.appspot.com/rawHead/md0607 >  0607
+ 1540  curl https://floatingboat2013.appspot.com/rawHead/md0608 >  0608
+ 1541  curl https://floatingboat2013.appspot.com/rawHead/md0609 >  0609
+ 1542  curl https://floatingboat2013.appspot.com/rawHead/md0610 >  0610
+ 1543  curl https://floatingboat2013.appspot.com/rawHead/md0611 >  0611
+ 1544  curl https://floatingboat2013.appspot.com/rawHead/md0612 >  0612
+ 1545  curl https://floatingboat2013.appspot.com/rawHead/md0613 >  0613
+ 1546  curl https://floatingboat2013.appspot.com/rawHead/md0614 >  0614
+ 1547  curl https://floatingboat2013.appspot.com/rawHead/md0615 >  0615
+ 1548  curl https://floatingboat2013.appspot.com/rawHead/md0616 >  0616
+ 1549  curl https://floatingboat2013.appspot.com/rawHead/md0617 >  0617
+ 1550  curl https://floatingboat2013.appspot.com/rawHead/md0618 >  0618
+ 1551  curl https://floatingboat2013.appspot.com/rawHead/md0619 >  0619
+ 1552  curl https://floatingboat2013.appspot.com/rawHead/md0620 >  0620
+ 1553  curl https://floatingboat2013.appspot.com/rawHead/md0621 >  0621
+ 1554  curl https://floatingboat2013.appspot.com/rawHead/md0622 >  0622
+ 1555  curl https://floatingboat2013.appspot.com/rawHead/md0623 >  0623
+ 1556  curl https://floatingboat2013.appspot.com/rawHead/md0624 >  0624
+ 1557  curl https://floatingboat2013.appspot.com/rawHead/md0625 >  0625
+ 1558  curl https://floatingboat2013.appspot.com/rawHead/md0626 >  0626
+ 1559  curl https://floatingboat2013.appspot.com/rawHead/md0627 >  0627
+ 1560  curl https://floatingboat2013.appspot.com/rawHead/md0628 >  0628
+ 1561  curl https://floatingboat2013.appspot.com/rawHead/md0629 >  0629
+ 1562  curl https://floatingboat2013.appspot.com/rawHead/md0630 >  0630
+ 1563  curl https://floatingboat2013.appspot.com/rawHead/md0631 >  0631
+ 1564  curl https://floatingboat2013.appspot.com/rawHead/md0701 >  0701
+ 1565  curl https://floatingboat2013.appspot.com/rawHead/md0702 >  0702
+ 1566  curl https://floatingboat2013.appspot.com/rawHead/md0703 >  0703
+ 1567  curl https://floatingboat2013.appspot.com/rawHead/md0704 >  0704
+ 1568  curl https://floatingboat2013.appspot.com/rawHead/md0705 >  0705
+ 1569  curl https://floatingboat2013.appspot.com/rawHead/md0706 >  0706
+ 1570  curl https://floatingboat2013.appspot.com/rawHead/md0707 >  0707
+ 1571  curl https://floatingboat2013.appspot.com/rawHead/md0708 >  0708
+ 1572  curl https://floatingboat2013.appspot.com/rawHead/md0709 >  0709
+ 1573  curl https://floatingboat2013.appspot.com/rawHead/md0710 >  0710
+ 1574  curl https://floatingboat2013.appspot.com/rawHead/md0711 >  0711
+ 1575  curl https://floatingboat2013.appspot.com/rawHead/md0712 >  0712
+ 1576  curl https://floatingboat2013.appspot.com/rawHead/md0713 >  0713
+ 1577  curl https://floatingboat2013.appspot.com/rawHead/md0714 >  0714
+ 1578  curl https://floatingboat2013.appspot.com/rawHead/md0715 >  0715
+ 1579  curl https://floatingboat2013.appspot.com/rawHead/md0716 >  0716
+ 1580  curl https://floatingboat2013.appspot.com/rawHead/md0717 >  0717
+ 1581  curl https://floatingboat2013.appspot.com/rawHead/md0718 >  0718
+ 1582  curl https://floatingboat2013.appspot.com/rawHead/md0719 >  0719
+ 1583  curl https://floatingboat2013.appspot.com/rawHead/md0720 >  0720
+ 1584  curl https://floatingboat2013.appspot.com/rawHead/md0721 >  0721
+ 1585  curl https://floatingboat2013.appspot.com/rawHead/md0722 >  0722
+ 1586  curl https://floatingboat2013.appspot.com/rawHead/md0723 >  0723
+ 1587  curl https://floatingboat2013.appspot.com/rawHead/md0724 >  0724
+ 1588  curl https://floatingboat2013.appspot.com/rawHead/md0725 >  0725
+ 1589  curl https://floatingboat2013.appspot.com/rawHead/md0726 >  0726
+ 1590  curl https://floatingboat2013.appspot.com/rawHead/md0727 >  0727
+ 1591  curl https://floatingboat2013.appspot.com/rawHead/md0728 >  0728
+ 1592  curl https://floatingboat2013.appspot.com/rawHead/md0729 >  0729
+ 1593  curl https://floatingboat2013.appspot.com/rawHead/md0730 >  0730
+ 1594  curl https://floatingboat2013.appspot.com/rawHead/md0731 >  0731
+ 1595  curl https://floatingboat2013.appspot.com/rawHead/md0801 >  0801
+ 1596  curl https://floatingboat2013.appspot.com/rawHead/md0802 >  0802
+ 1597  curl https://floatingboat2013.appspot.com/rawHead/md0803 >  0803
+ 1598  curl https://floatingboat2013.appspot.com/rawHead/md0804 >  0804
+ 1599  curl https://floatingboat2013.appspot.com/rawHead/md0805 >  0805
+ 1600  curl https://floatingboat2013.appspot.com/rawHead/md0806 >  0806
+ 1601  curl https://floatingboat2013.appspot.com/rawHead/md0807 >  0807
+ 1602  curl https://floatingboat2013.appspot.com/rawHead/md0808 >  0808
+ 1603  curl https://floatingboat2013.appspot.com/rawHead/md0809 >  0809
+ 1604  curl https://floatingboat2013.appspot.com/rawHead/md0810 >  0810
+ 1605  curl https://floatingboat2013.appspot.com/rawHead/md0811 >  0811
+ 1606  curl https://floatingboat2013.appspot.com/rawHead/md0812 >  0812
+ 1607  curl https://floatingboat2013.appspot.com/rawHead/md0813 >  0813
+ 1608  curl https://floatingboat2013.appspot.com/rawHead/md0814 >  0814
+ 1609  curl https://floatingboat2013.appspot.com/rawHead/md0815 >  0815
+ 1610  curl https://floatingboat2013.appspot.com/rawHead/md0816 >  0816
+ 1611  curl https://floatingboat2013.appspot.com/rawHead/md0817 >  0817
+ 1612  curl https://floatingboat2013.appspot.com/rawHead/md0818 >  0818
+ 1613  curl https://floatingboat2013.appspot.com/rawHead/md0819 >  0819
+ 1614  curl https://floatingboat2013.appspot.com/rawHead/md0820 >  0820
+ 1615  curl https://floatingboat2013.appspot.com/rawHead/md0821 >  0821
+ 1616  curl https://floatingboat2013.appspot.com/rawHead/md0822 >  0822
+ 1617  curl https://floatingboat2013.appspot.com/rawHead/md0823 >  0823
+ 1618  curl https://floatingboat2013.appspot.com/rawHead/md0824 >  0824
+ 1619  curl https://floatingboat2013.appspot.com/rawHead/md0825 >  0825
+ 1620  curl https://floatingboat2013.appspot.com/rawHead/md0826 >  0826
+ 1621  curl https://floatingboat2013.appspot.com/rawHead/md0827 >  0827
+ 1622  curl https://floatingboat2013.appspot.com/rawHead/md0828 >  0828
+ 1623  curl https://floatingboat2013.appspot.com/rawHead/md0829 >  0829
+ 1624  curl https://floatingboat2013.appspot.com/rawHead/md0830 >  0830
+ 1625  curl https://floatingboat2013.appspot.com/rawHead/md0831 >  0831
+ 1626  curl https://floatingboat2013.appspot.com/rawHead/md0901 >  0901
+ 1627  curl https://floatingboat2013.appspot.com/rawHead/md0902 >  0902
+ 1628  curl https://floatingboat2013.appspot.com/rawHead/md0903 >  0903
+ 1629  curl https://floatingboat2013.appspot.com/rawHead/md0904 >  0904
+ 1630  curl https://floatingboat2013.appspot.com/rawHead/md0905 >  0905
+ 1631  curl https://floatingboat2013.appspot.com/rawHead/md0906 >  0906
+ 1632  curl https://floatingboat2013.appspot.com/rawHead/md0907 >  0907
+ 1633  curl https://floatingboat2013.appspot.com/rawHead/md0908 >  0908
+ 1634  curl https://floatingboat2013.appspot.com/rawHead/md0909 >  0909
+ 1635  curl https://floatingboat2013.appspot.com/rawHead/md0910 >  0910
+ 1636  curl https://floatingboat2013.appspot.com/rawHead/md0911 >  0911
+ 1637  curl https://floatingboat2013.appspot.com/rawHead/md0912 >  0912
+ 1638  curl https://floatingboat2013.appspot.com/rawHead/md0913 >  0913
+ 1639  curl https://floatingboat2013.appspot.com/rawHead/md0914 >  0914
+ 1640  curl https://floatingboat2013.appspot.com/rawHead/md0915 >  0915
+ 1641  curl https://floatingboat2013.appspot.com/rawHead/md0916 >  0916
+ 1642  curl https://floatingboat2013.appspot.com/rawHead/md0917 >  0917
+ 1643  curl https://floatingboat2013.appspot.com/rawHead/md0918 >  0918
+ 1644  curl https://floatingboat2013.appspot.com/rawHead/md0919 >  0919
+ 1645  curl https://floatingboat2013.appspot.com/rawHead/md0920 >  0920
+ 1646  curl https://floatingboat2013.appspot.com/rawHead/md0921 >  0921
+ 1647  curl https://floatingboat2013.appspot.com/rawHead/md0922 >  0922
+ 1648  curl https://floatingboat2013.appspot.com/rawHead/md0923 >  0923
+ 1649  curl https://floatingboat2013.appspot.com/rawHead/md0924 >  0924
+ 1650  curl https://floatingboat2013.appspot.com/rawHead/md0925 >  0925
+ 1651  curl https://floatingboat2013.appspot.com/rawHead/md0926 >  0926
+ 1652  curl https://floatingboat2013.appspot.com/rawHead/md0927 >  0927
+ 1653  curl https://floatingboat2013.appspot.com/rawHead/md0928 >  0928
+ 1654  curl https://floatingboat2013.appspot.com/rawHead/md0929 >  0929
+ 1655  curl https://floatingboat2013.appspot.com/rawHead/md0930 >  0930
+ 1656  curl https://floatingboat2013.appspot.com/rawHead/md0931 >  0931
+ 1657  curl https://floatingboat2013.appspot.com/rawHead/md1001 >  1001
+ 1658  curl https://floatingboat2013.appspot.com/rawHead/md1002 >  1002
+ 1659  curl https://floatingboat2013.appspot.com/rawHead/md1003 >  1003
+ 1660  curl https://floatingboat2013.appspot.com/rawHead/md1004 >  1004
+ 1661  curl https://floatingboat2013.appspot.com/rawHead/md1005 >  1005
+ 1662  curl https://floatingboat2013.appspot.com/rawHead/md1006 >  1006
+ 1663  curl https://floatingboat2013.appspot.com/rawHead/md1007 >  1007
+ 1664  curl https://floatingboat2013.appspot.com/rawHead/md1008 >  1008
+ 1665  curl https://floatingboat2013.appspot.com/rawHead/md1009 >  1009
+ 1666  curl https://floatingboat2013.appspot.com/rawHead/md1010 >  1010
+ 1667  curl https://floatingboat2013.appspot.com/rawHead/md1011 >  1011
+ 1668  curl https://floatingboat2013.appspot.com/rawHead/md1012 >  1012
+ 1669  curl https://floatingboat2013.appspot.com/rawHead/md1013 >  1013
+ 1670  curl https://floatingboat2013.appspot.com/rawHead/md1014 >  1014
+ 1671  curl https://floatingboat2013.appspot.com/rawHead/md1015 >  1015
+ 1672  curl https://floatingboat2013.appspot.com/rawHead/md1016 >  1016
+ 1673  curl https://floatingboat2013.appspot.com/rawHead/md1017 >  1017
+ 1674  curl https://floatingboat2013.appspot.com/rawHead/md1018 >  1018
+ 1675  curl https://floatingboat2013.appspot.com/rawHead/md1019 >  1019
+ 1676  curl https://floatingboat2013.appspot.com/rawHead/md1020 >  1020
+ 1677  curl https://floatingboat2013.appspot.com/rawHead/md1021 >  1021
+ 1678  curl https://floatingboat2013.appspot.com/rawHead/md1022 >  1022
+ 1679  curl https://floatingboat2013.appspot.com/rawHead/md1023 >  1023
+ 1680  curl https://floatingboat2013.appspot.com/rawHead/md1024 >  1024
+ 1681  curl https://floatingboat2013.appspot.com/rawHead/md1025 >  1025
+ 1682  curl https://floatingboat2013.appspot.com/rawHead/md1026 >  1026
+ 1683  curl https://floatingboat2013.appspot.com/rawHead/md1027 >  1027
+ 1684  curl https://floatingboat2013.appspot.com/rawHead/md1028 >  1028
+ 1685  curl https://floatingboat2013.appspot.com/rawHead/md1029 >  1029
+ 1686  curl https://floatingboat2013.appspot.com/rawHead/md1030 >  1030
+ 1687  curl https://floatingboat2013.appspot.com/rawHead/md1031 >  1031
+ 1688  curl https://floatingboat2013.appspot.com/rawHead/md1101 >  1101
+ 1689  curl https://floatingboat2013.appspot.com/rawHead/md1102 >  1102
+ 1690  curl https://floatingboat2013.appspot.com/rawHead/md1103 >  1103
+ 1691  curl https://floatingboat2013.appspot.com/rawHead/md1104 >  1104
+ 1692  curl https://floatingboat2013.appspot.com/rawHead/md1105 >  1105
+ 1693  curl https://floatingboat2013.appspot.com/rawHead/md1106 >  1106
+ 1694  curl https://floatingboat2013.appspot.com/rawHead/md1107 >  1107
+ 1695  curl https://floatingboat2013.appspot.com/rawHead/md1108 >  1108
+ 1696  curl https://floatingboat2013.appspot.com/rawHead/md1109 >  1109
+ 1697  curl https://floatingboat2013.appspot.com/rawHead/md1110 >  1110
+ 1698  curl https://floatingboat2013.appspot.com/rawHead/md1111 >  1111
+ 1699  curl https://floatingboat2013.appspot.com/rawHead/md1112 >  1112
+ 1700  curl https://floatingboat2013.appspot.com/rawHead/md1113 >  1113
+ 1701  curl https://floatingboat2013.appspot.com/rawHead/md1114 >  1114
+ 1702  curl https://floatingboat2013.appspot.com/rawHead/md1115 >  1115
+ 1703  curl https://floatingboat2013.appspot.com/rawHead/md1116 >  1116
+ 1704  curl https://floatingboat2013.appspot.com/rawHead/md1117 >  1117
+ 1705  curl https://floatingboat2013.appspot.com/rawHead/md1118 >  1118
+ 1706  curl https://floatingboat2013.appspot.com/rawHead/md1119 >  1119
+ 1707  curl https://floatingboat2013.appspot.com/rawHead/md1120 >  1120
+ 1708  curl https://floatingboat2013.appspot.com/rawHead/md1121 >  1121
+ 1709  curl https://floatingboat2013.appspot.com/rawHead/md1122 >  1122
+ 1710  curl https://floatingboat2013.appspot.com/rawHead/md1123 >  1123
+ 1711  curl https://floatingboat2013.appspot.com/rawHead/md1124 >  1124
+ 1712  curl https://floatingboat2013.appspot.com/rawHead/md1125 >  1125
+ 1713  curl https://floatingboat2013.appspot.com/rawHead/md1126 >  1126
+ 1714  curl https://floatingboat2013.appspot.com/rawHead/md1127 >  1127
+ 1715  curl https://floatingboat2013.appspot.com/rawHead/md1128 >  1128
+ 1716  curl https://floatingboat2013.appspot.com/rawHead/md1129 >  1129
+ 1717  curl https://floatingboat2013.appspot.com/rawHead/md1130 >  1130
+ 1718  curl https://floatingboat2013.appspot.com/rawHead/md1131 >  1131
+ 1719  curl https://floatingboat2013.appspot.com/rawHead/md1201 >  1201
+ 1720  curl https://floatingboat2013.appspot.com/rawHead/md1202 >  1202
+ 1721  curl https://floatingboat2013.appspot.com/rawHead/md1203 >  1203
+ 1722  curl https://floatingboat2013.appspot.com/rawHead/md1204 >  1204
+ 1723  curl https://floatingboat2013.appspot.com/rawHead/md1205 >  1205
+ 1724  curl https://floatingboat2013.appspot.com/rawHead/md1206 >  1206
+ 1725  curl https://floatingboat2013.appspot.com/rawHead/md1207 >  1207
+ 1726  curl https://floatingboat2013.appspot.com/rawHead/md1208 >  1208
+ 1727  curl https://floatingboat2013.appspot.com/rawHead/md1209 >  1209
+ 1728  curl https://floatingboat2013.appspot.com/rawHead/md1210 >  1210
+ 1729  curl https://floatingboat2013.appspot.com/rawHead/md1211 >  1211
+ 1730  curl https://floatingboat2013.appspot.com/rawHead/md1212 >  1212
+ 1731  curl https://floatingboat2013.appspot.com/rawHead/md1213 >  1213
+ 1732  curl https://floatingboat2013.appspot.com/rawHead/md1214 >  1214
+ 1733  curl https://floatingboat2013.appspot.com/rawHead/md1215 >  1215
+ 1734  curl https://floatingboat2013.appspot.com/rawHead/md1216 >  1216
+ 1735  curl https://floatingboat2013.appspot.com/rawHead/md1217 >  1217
+ 1736  curl https://floatingboat2013.appspot.com/rawHead/md1218 >  1218
+ 1737  curl https://floatingboat2013.appspot.com/rawHead/md1219 >  1219
+ 1738  curl https://floatingboat2013.appspot.com/rawHead/md1220 >  1220
+ 1739  curl https://floatingboat2013.appspot.com/rawHead/md1221 >  1221
+ 1740  curl https://floatingboat2013.appspot.com/rawHead/md1222 >  1222
+ 1741  curl https://floatingboat2013.appspot.com/rawHead/md1223 >  1223
+ 1742  curl https://floatingboat2013.appspot.com/rawHead/md1224 >  1224
+ 1743  curl https://floatingboat2013.appspot.com/rawHead/md1225 >  1225
+ 1744  curl https://floatingboat2013.appspot.com/rawHead/md1226 >  1226
+ 1745  curl https://floatingboat2013.appspot.com/rawHead/md1227 >  1227
+ 1746  curl https://floatingboat2013.appspot.com/rawHead/md1228 >  1228
+ 1747  curl https://floatingboat2013.appspot.com/rawHead/md1229 >  1229
+ 1748  curl https://floatingboat2013.appspot.com/rawHead/md1230 >  1230
+ 1749  curl https://floatingboat2013.appspot.com/rawHead/md1231 >  1231
+ 1750  ll
+ 1751  #curl https://floatingboat2013.appspot.com/rawHead/md0721 >  0721
+ 1752  hi Exc
+ 1753  grep -l Exce *
+ 1754  sha256sum 0230 0231 0424 0431 0508 0510 0511 0521 0526 0529 0602 0603 0607 0609 0611 0616 0627 0631 0704 0708 0709 0710 0715 0719 0722 0724 0727 0802 0803 0804 0807 0808 0812 0813 0814 0817 0819 0820 0823 0824 0825 0826 0901 0903 0904 0905 0907 0912 0918 0920 0922 0928 0931 1005 1017 1019 1024 1026 1027 1029 1104 1109 1111 1115 1117 1131 1203
+ 1755  #sha256sum 1203: 92088495b7cfbf5385a6c0f9f0b725155f2415936d965ce764ea7f8b2b38c5df
+ 1756  rm 0230 0231 0424 0431 0508 0510 0511 0521 0526 0529 0602 0603 0607 0609 0611 0616 0627 0631 0704 0708 0709 0710 0715 0719 0722 0724 0727 0802 0803 0804 0807 0808 0812 0813 0814 0817 0819 0820 0823 0824 0825 0826 0901 0903 0904 0905 0907 0912 0918 0920 0922 0928 0931 1005 1017 1019 1024 1026 1027 1029 1104 1109 1111 1115 1117 1131 1203
+ 1757  ll
+ 1758  ll -S
+ 1759  cd ..
+ 1760  git add md
+ 1761  gs
+ 1762  hi com
+ 1763  hi comm
+ 1764  git commit -am"+~..."
+ 1765  git push
+ 1766  l
+ 1767  gs
+ 1768  git tag
+ 1769  git help tag
+ 1770  git log
+ 1771  git tag v0 cf0d8aea8777d587edc3dcd45dd92883f4c953bb
+ 1772  git push
+ 1773  git push v0 master
+ 1774  git tag v0 master
+ 1775  git tag v1 master
+ 1776  git push
+ 1777  git push --tags
+ 1778  curl https://cdn.rawgit.com/wasserfuhr/a/v0/md/0101
+ 1779  mkdir o
+ 1780  cd o
+ 1781  curl http://www.openstreetmap.org/api/0.6/node/611990527 > 247a3bff
+ 1782  ca 247a3bff 
+ 1783  cat 247a3bff 
+ 1784  git add 247a3bff 
+ 1785  gs
+ 1786  git commit -am"git add 247a3bff"
+ 1787  git push
+ 1788  bt
+ 1789  #at2ea1978.bex2f79414 on at2ea1978.bex2f79414
+ 1790  history 
+ 1791  hi bt
+ 1792  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1793  pd
+ 1794  pwd
+ 1795  cd git/hn4j/
+ 1796  cat a/e2a90ba8e822ea124641f26c1a838f7f52f26d46a77fa200f0f8036d7df89123 
+ 1797  em index
+ 1798  em boot
+ 1799  cp index.clj in.clj
+ 1800  git add in.clj
+ 1801  git commit -am"cp index.clj in.clj"
+ 1802  em index
+ 1803  g
+ 1804  gs
+ 1805  tail -c 4k at2ea19a4.07x2f79414.OvhOneHist.txt 
+ 1806  gs
+ 1807  tail -c 4k at2e9fa26.cdx215e34e.Jet.log 
+ 1808  em index
+ 1809  tail -c 4k at2e9fa26.cdx215e34e.Jet.log 
+ 1810  em index
+ 1811  tail -c 4k at2e9fa26.cdx215e34e.Jet.log 
+ 1812  em index
+ 1813  tail -c 4k at2e9fa26.cdx215e34e.Jet.log 
+ 1814  tail -c 6k at2e9fa26.cdx215e34e.Jet.log 
+ 1815  tail -c 8k at2e9fa26.cdx215e34e.Jet.log 
+ 1816  em index
+ 1817  tail -c 8k at2e9fa26.cdx215e34e.Jet.log 
+ 1818  em index
+ 1819  gs
+ 1820  tail ad2ea
+ 1821  tail ad2ea.log 
+ 1822  em index
+ 1823  tail ad2ea.log 
+ 1824  em index
+ 1825  tail ad2ea.log 
+ 1826  tail -f ad2ea.log 
+ 1827  em index
+ 1828  history 
+ 1829  bt
+ 1830  #at2ea3390.a0xc9f9b41 on you@2003:45:4d1c:d628:7896:8c4f:b613:e0a6
+ 1831  cd git/hn4j/
+ 1832  em index
+ 1833  em boot
+ 1834  em index
+ 1835  hi tail
+ 1836  tail -f ad2ea.log 
+ 1837  em index
+ 1838  tail -f ad2ea.log 
+ 1839  em index
+ 1840  tail -f ad2ea.log 
+ 1841  em index
+ 1842  tail -f ad2ea.log 
+ 1843  cat a/8e82e18998c1f68cfa0b1c41376bcc971ea983ac735071387c7c68811d0e144c 
+ 1844  em index
+ 1845  gs
+ 1846  hi comm
+ 1847  git add a bh ua;git commit -am"git add a bh ua"
+ 1848  gs
+ 1849  git push
+ 1850  em index
+ 1851  gs
+ 1852  hi comm
+ 1853  git add a bh ua;git commit -am"git add a bh ua"
+ 1854  gs
+ 1855  git add ad2ea.log at2ea19a4.07x2f79414.OvhOneHist.txt 
+ 1856  git commit -am"git add ad2ea.log at2ea19a4.07x2f79414.OvhOneHist.txt"
+ 1857  gs
+ 1858  l btx/
+ 1859  git add btx
+ 1860  git commit -am"git add btx"
+ 1861  gs
+ 1862  ll bb
+ 1863  git add bb
+ 1864  git commit -am"git add bb"
+ 1865  gs
+ 1866  hi comm
+ 1867  git commit -am"+~..."
+ 1868  gs
+ 1869  git push
+ 1870  tail at2e9fa26.cdx215e34e.Jet.log 
+ 1871  cat job.sh 
+ 1872  cat df 
+ 1873  cat Ur.
+ 1874  cat Ur.java 
+ 1875  em index.clj 
+ 1876  em index
+ 1877  cat a/1a17620c54a58f8e233e0161d506277ca0e3815f317478e4730655903d25a45a 
+ 1878  hi ta
+ 1879  tail -f ad2ea.log 
+ 1880  tail -f ad2ea.log|grep alive
+ 1881  tail -c 64k -f ad2ea.log|grep alive
+ 1882  cat ua/4aacef1b1ca3ac90cbf2e11d9968bffe267de3214351a0bbfc81c3ed67676fff 
+ 1883  cat ua/c3e1ff5d06ae73e170b108bc484ca70c387130feb86042f9a099e7573b24a63c 
+ 1884  grep /alive ad2*
+ 1885  em index
+ 1886  grep /alive ad2*
+ 1887  em index
+ 1888  grep /alive ad2*
+ 1889  em index
+ 1890  gs
+ 1891  more at2e9fa26.cdx215e34e.Jet.log
+ 1892  ll
+ 1893  ll -S
+ 1894  gs
+ 1895  hi ali
+ 1896  tail -f ad2ea.log|grep alive
+ 1897  em index
+ 1898  gs
+ 1899  hi comm
+ 1900  git add a bh ua;git commit -am"git add a bh ua"
+ 1901  gs
+ 1902  git push
+ 1903  bt
+ 1904  #at2ea54de.86x824f2a8 off you@2003:45:4d1c:d628:7896:8c4f:b613:e0a6
+ 1905  hi bt
+ 1906  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1907  exit
+ 1908  bt
+ 1909  #at2eae379.d2xe38cdfa on you@2003:45:4d1c:d628:7896:8c4f:b613:e0a6
+ 1910  cd git/hn4j/
+ 1911  gs
+ 1912  hi comm
+ 1913  git add a bh ua;git commit -am"git add a bh ua"
+ 1914  gs
+ 1915  curl you@2003:45:4d1c:d628:7896:8c4f:b613:e0a6
+ 1916  curl https://floatingboat2013.appspot.com/eval/64335007|xxd
+ 1917  curl https://floatingboat2013.appspot.com/eval/64335007|sha256sum 
+ 1918  #curl https://floatingboat2013.appspot.com/eval/64335007 > 9fe021ad62cb41a202dcc7b8db2cd23f26dbf679e194f2806ff37d665346b58f
+ 1919  curl https://floatingboat2013.appspot.com/eval/64335007 > a/9fe021ad62cb41a202dcc7b8db2cd23f26dbf679e194f2806ff37d665346b58f
+ 1920  ll a/9fe021ad62cb41a202dcc7b8db2cd23f26dbf679e194f2806ff37d665346b58f 
+ 1921  curl https://floatingboat2013.appspot.com/raw/65135004|xxd
+ 1922  gs
+ 1923  hi ua
+ 1924  git add a bh ua;git commit -am"git add a bh ua"
+ 1925  gs
+ 1926  git add ad2eb.log at2ea5514.b7x1e9c99c.OvhOneHist.txt
+ 1927  git commit -am"git add ad2eb.log at2ea5514.b7x1e9c99c.OvhOneHist.txt"
+ 1928  gs
+ 1929  git push
+ 1930  hi ekc
+ 1931  hi eck
+ 1932  grep ekc *His*
+ 1933  #echo "Subject:HautA"|sendmail -fRaWa ekcuop@gmail.com ;date
+ 1934  echo "Subject:m.bahn.de sagt: :2015 an - kisses..."|sendmail -fRaWa ekcuop@gmail.com ;date
+ 1935  gs
+ 1936  git add a bh ua;git commit -am"git add a bh ua"
+ 1937  gs
+ 1938  grep md *j
+ 1939  grep m-d *j
+ 1940  cat bday.clj
+ 1941  grep day *j
+ 1942  grep DAY *j
+ 1943  em wdbd
+ 1944  cat wdbd.clj
+ 1945  cj wdbd
+ 1946  cat wd/0416
+ 1947  l *j
+ 1948  ll *j
+ 1949  cat WiDaRaw.clj
+ 1950  em WiDaRaw
+ 1951  cj WiDaRaw
+ 1952  grep label *j
+ 1953  grep wiki *j
+ 1954  cat ql.clj
+ 1955  cat wfn.clj
+ 1956  grep count *j
+ 1957  em refCt
+ 1958  cj refCt
+ 1959  em refCt
+ 1960  cj refCt
+ 1961  em refCt
+ 1962  cj refCt
+ 1963  em refCt 
+ 1964  cj refCt > rc0416
+ 1965  emacs rc0416 
+ 1966  sort -k 2 -nr rc0416|more
+ 1967  cat col1.clj 
+ 1968  em col1
+ 1969  sort -k 2 -nr rc0416 > r0416
+ 1970  cj col1
+ 1971  cj col1 > rc0416
+ 1972  emacs rc0416
+ 1973  em wdName
+ 1974  cj wdName
+ 1975  em wdName
+ 1976  more r0416 
+ 1977  em wdName
+ 1978  cj wdName
+ 1979  cj wdName|more
+ 1980  more q/69469
+ 1981  emacs q/69469
+ 1982  em wdName
+ 1983  cj wdName|more
+ 1984  em wdName
+ 1985  cj wdName|more
+ 1986  grep alive *
+ 1987  grep feel *
+ 1988  cat ua/f278d4a0433ee3224b880c2057da33548bdc36ad68a40e78d64fc93de49eea26 
+ 1989  cj wdName|more
+ 1990  gs
+ 1991  hi bh
+ 1992  git add a bh ua;git commit -am"git add a bh ua"
+ 1993  gs
+ 1994  bt
+ 1995  #at2eb501a.1dx13354e7 off you@2003:45:4d1c:d628:7896:8c4f:b613:e0a6
+ 1996  hi bt
+ 1997  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1998  exit
+ 1999  bt
+ 2000  #at2ec1b42.6dx426f893
+ 2001  #at2ec1b42.6dx426f893 on you@3e9ef5c5
+ 2002  cd git/hn4j/
+ 2003  em index
+ 2004  gs
+ 2005  hi ua
+ 2006  git add a bh ua;git commit -am"git add a bh ua"
+ 2007  cat Ur.java 
+ 2008  em boot
+ 2009  curl https://floatingboat2013.appspot.com/raw/58815001 > sh.clj
+ 2010  git add sh.clj
+ 2011  git commit -am"curl https://floatingboat2013.appspot.com/raw/58815001 > sh.clj"
+ 2012  git log
+ 2013  em sh
+ 2014  cat Ur.j
+ 2015  cat Ur.java
+ 2016  em sh
+ 2017  hi tail
+ 2018  gs
+ 2019  tail -c 8k at2e9fa26.cdx215e34e.Jet.log 
+ 2020  em sh
+ 2021  cat tap.clj 
+ 2022  em sh
+ 2023  tail -c 8k at2e9fa26.cdx215e34e.Jet.log 
+ 2024  em sh
+ 2025  tail -c 8k at2e9fa26.cdx215e34e.Jet.log
+ 2026  em sh
+ 2027  tail -c 8k at2e9fa26.cdx215e34e.Jet.log
+ 2028  em sh
+ 2029  tail -c 8k at2e9fa26.cdx215e34e.Jet.log
+ 2030  em sh
+ 2031  tail -c 8k at2e9fa26.cdx215e34e.Jet.log
+ 2032  em sh
+ 2033  ll a
+ 2034  em sh
+ 2035  a=`date;ls`
+ 2036  echo $a
+ 2037  em sh
+ 2038  echo`date;ls`
+ 2039  echo `date;ls`
+ 2040  em sh
+ 2041  echo `date;ls`
+ 2042  ll *j
+ 2043  cp cookie.clj exec.clj
+ 2044* ggit add exec.clj
+ 2045  git commit -am"cp cookie.clj exec.clj"
+ 2046  cat test.clj 
+ 2047  cat blk.clj 
+ 2048  grep Coo *j
+ 2049  cat blk.clj 
+ 2050  em exec
+ 2051  cat sh.clj
+ 2052  em exec
+ 2053  #chmod +x exec.sh
+ 2054  em exec
+ 2055  em boot
+ 2056  hi tai
+ 2057  tail -c 8k at2e9fa26.cdx215e34e.Jet.log
+ 2058  em exec
+ 2059  cat blk
+ 2060  cat blk.clj
+ 2061  em exec
+ 2062  tail -c 8k at2e9fa26.cdx215e34e.Jet.log
+ 2063  ll e*
+ 2064  chmod +x exec.sh
+ 2065  em sh
+ 2066  cat exec.sh 
+ 2067  gs
+ 2068  git add ad2ec.log 
+ 2069  git commit -am"git add ad2ec.log"
+ 2070  tail ad2ec.log
+ 2071  em exec
+ 2072  cat exec.sh
+ 2073  em sh
+ 2074  cat exec.sh
+ 2075  ./exec.sh
+ 2076  em exec.clj
+ 2077  em exec
+ 2078  em cookie
+ 2079  em sh
+ 2080  git help push
+ 2081  git config --global credential.helper cache
+ 2082  git push
+ 2083  gs
+ 2084  hi ua
+ 2085  git add a bh ua;git commit -am"git add a bh ua"
+ 2086  git push
+ 2087  em sh
+ 2088  em index
+ 2089  ls -l *~
+ 2090  hi ua
+ 2091  em exec
+ 2092  cat /root/.bash_history 
+ 2093  python -?
+ 2094  python -c "1+1"
+ 2095  python -c "print 1+1"
+ 2096  hi pyth
+ 2097  hi pip
+ 2098  #https://bitcoin.stackexchange.com/questions/25024/how-do-you-get-a-bitcoin-public-key-from-a-private-key
+ 2099  python -c"from pybitcoin import BitcoinPrivateKey;print 1"
+ 2100  k=c72a9d507d948a536979b3bebd7d07d5967139ceac89d07206648c9c3b1d523b;python -c"from pybitcoin import BitcoinPrivateKey;print BitcoinPrivate('$k').public_key().address()"
+ 2101  k=c72a9d507d948a536979b3bebd7d07d5967139ceac89d07206648c9c3b1d523b;python -c"from pybitcoin import BitcoinPrivateKey;print BitcoinPrivateKey('$k').public_key().address()"
+ 2102  em exec
+ 2103  cat exec.sh 
+ 2104  em sh
+ 2105  em exec
+ 2106  em sh
+ 2107  em exec
+ 2108  em sh
+ 2109  em exec
+ 2110  llsda
+ 2111  em exec
+ 2112  hi tai
+ 2113  tail -c 8k at2e9fa26.cdx215e34e.Jet.log
+ 2114  em exec
+ 2115  history 
+ 2116  git help config
+ 2117  git config user.name wasserfuhr
+ 2118  gs
+ 2119  git push
+ 2120  git config --global user.name wasserfuhr
+ 2121  git push
+ 2122  hi git
+ 2123  git config --global credential.helper cache
+ 2124  git push
+ 2125  emacs Ur.java 
+ 2126  git commit -am"~Ur.java"
+ 2127  emacs Ur.java;git commit -am"~Ur.java"
+ 2128  grep 5608 *a
+ 2129  emacs Ur.java;git commit -am"~Ur.java"
+ 2130  javac Ur.java
+ 2131  java Ur
+ 2132  cat ur2ec.log
+ 2133  hi pw
+ 2134  pw=`cat pw`
+ 2135  ll
+ 2136  ll -S
+ 2137  ps aux
+ 2138  kill -9 18273
+ 2139  hi pw
+ 2140  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 2141  gs
+ 2142  git add at2ec6046.d7x1733e87.Jet.log ur2ec.log
+ 2143  git commit -am"git add at2ec6046.d7x1733e87.Jet.log ur2ec.log"
+ 2144  gs
+ 2145  hi ua
+ 2146  grep ua at2e*log
+ 2147  grep ua at2e*
+ 2148  hi pw
+ 2149  ps aux
+ 2150  kill -9 27391
+ 2151  hi pw
+ 2152  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 2153  git push
+ 2154  curl https://app.originstamp.org/af924164-1d0e-420a-b3c4-b0ef949e1904|more
+ 2155  emacs 70se
+ 2156  sha256sum 70se
+ 2157  mv 70se a/c72a9d507d948a536979b3bebd7d07d5967139ceac89d07206648c9c3b1d523b
+ 2158  em sh
+ 2159  hi ta
+ 2160  tail -c 8k at2e9fa26.cdx215e34e.Jet.log
+ 2161  ll *log
+ 2162  tail -c8k at2ec6285.89x1733e87.Jet.log
+ 2163  em sh
+ 2164  hi ua
+ 2165  em sh
+ 2166  hi bt
+ 2167  bt
+ 2168  #at2ec71af.6exe1baf7b off you@3e9ef5c5
+ 2169  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
