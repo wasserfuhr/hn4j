@@ -1,1 +1,1 @@
-tail ad2ed.log
+git add a bh ua;git commit -am"git add a bh ua"

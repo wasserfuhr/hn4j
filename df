@@ -1,7 +1,7 @@
 Filesystem       1B-blocks       Used  Available Use% Mounted on
 udev            1018335232          0 1018335232   0% /dev
 tmpfs            204783616   21520384  183263232  11% /run
-/dev/vda1      10404290560 7989895168 2397618176  77% /
+/dev/vda1      10404290560 8669384704 1718128640  84% /
 tmpfs           1023909888          0 1023909888   0% /dev/shm
 tmpfs              5242880          0    5242880   0% /run/lock
 tmpfs           1023909888          0 1023909888   0% /sys/fs/cgroup
