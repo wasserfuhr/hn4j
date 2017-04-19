@@ -1,1 +1,1 @@
-rm tuo tur
+git add a bh ua;git commit -am"git add a bh ua"
