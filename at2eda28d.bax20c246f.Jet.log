@@ -4124,3 +4124,211 @@ java.lang.UnsupportedOperationException: Can only recur from tail position
 	at java.lang.Thread.run(Thread.java:745)
 2017-04-21 20:36:31.245:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-21 20:46:07.162:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 20:47:56.817:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 20:50:35.134:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 20:54:53.957:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 20:59:54.806:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:00:49.336:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:01:39.075:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:02:31.560:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:02:51.234:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:03:25.683:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:04:26.913:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:05:23.495:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:05:27.219:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:10:21.453:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:12:42.419:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:13:27.522:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:19:52.690:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:21:05.073:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:28:18.495:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:35:00.449:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:42:23.591:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:45:03.687:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:45:04.011:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:46:57.072:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:48:51.281:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:54:49.037:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:57:43.441:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 21:57:44.304:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:01:47.333:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:07:45.597:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:08:18.504:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:14:24.579:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:16:55.203:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:00.197:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:04.062:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:07.911:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:11.767:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:15.514:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:19.246:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:23.204:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:26.629:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:31.154:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:33.875:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:37.579:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:17:40.986:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:20:27.789:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:22:55.232:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:33:21.427:WARN:oejs.AbstractHttpConnection:/tap
+java.io.FileNotFoundException: mm3 (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at clojure.java.io$fn__9520.invokeStatic(io.clj:229)
+	at clojure.java.io$fn__9520.invoke(io.clj:229)
+	at clojure.java.io$fn__9433$G__9426__9440.invoke(io.clj:69)
+	at clojure.java.io$fn__9532.invokeStatic(io.clj:258)
+	at clojure.java.io$fn__9532.invoke(io.clj:254)
+	at clojure.java.io$fn__9433$G__9426__9440.invoke(io.clj:69)
+	at clojure.java.io$fn__9494.invokeStatic(io.clj:165)
+	at clojure.java.io$fn__9494.invoke(io.clj:165)
+	at clojure.java.io$fn__9446$G__9422__9453.invoke(io.clj:69)
+	at clojure.java.io$reader.invokeStatic(io.clj:102)
+	at clojure.java.io$reader.doInvoke(io.clj:86)
+	at clojure.lang.RestFn.invoke(RestFn.java:410)
+	at clojure.lang.AFn.applyToHelper(AFn.java:154)
+	at clojure.lang.RestFn.applyTo(RestFn.java:132)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$slurp.invokeStatic(core.clj:6657)
+	at clojure.core$slurp.doInvoke(core.clj:6657)
+	at clojure.lang.RestFn.invoke(RestFn.java:410)
+	at clojure.core$eval4908009$fn__4908010$fn__4908276.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval4908009$fn__4908010.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval4907995$fn__4907996.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval4907990$fn__4907991.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:20)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2017-04-21 22:44:43.644:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:46:47.997:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:52:25.069:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:54:28.029:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 22:58:22.545:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:04:01.419:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:09:55.812:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:13:31.329:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:16:01.239:WARN:oejs.AbstractHttpConnection:/alive/8860/
+java.lang.UnsupportedOperationException: Can only recur from tail position, compiling:(clojure/data/json.clj:82:21)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6875)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$InvokeExpr.parse(Compiler.java:3834)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6870)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$LetExpr$Parser.parse(Compiler.java:6319)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$LetExpr$Parser.parse(Compiler.java:6319)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$FnMethod.parse(Compiler.java:5380)
+	at clojure.lang.Compiler$FnExpr.parse(Compiler.java:3972)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6866)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.access$300(Compiler.java:38)
+	at clojure.lang.Compiler$DefExpr$Parser.parse(Compiler.java:589)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler.eval(Compiler.java:6931)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.RT.loadResourceScript(RT.java:372)
+	at clojure.lang.RT.loadResourceScript(RT.java:359)
+	at clojure.lang.RT.loadResourceScript(RT.java:351)
+	at Jet.handle(Jet.java:13)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: 
+java.lang.UnsupportedOperationException: Can only recur from tail position
+	at clojure.lang.Compiler$RecurExpr$Parser.parse(Compiler.java:6542)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$InvokeExpr.parse(Compiler.java:3834)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6870)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$LetExpr$Parser.parse(Compiler.java:6319)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$LetExpr$Parser.parse(Compiler.java:6319)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler$BodyExpr$Parser.parse(Compiler.java:6001)
+	at clojure.lang.Compiler$FnMethod.parse(Compiler.java:5380)
+	at clojure.lang.Compiler$FnExpr.parse(Compiler.java:3972)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6866)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6856)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.access$300(Compiler.java:38)
+	at clojure.lang.Compiler$DefExpr$Parser.parse(Compiler.java:589)
+	at clojure.lang.Compiler.analyzeSeq(Compiler.java:6868)
+	at clojure.lang.Compiler.analyze(Compiler.java:6669)
+	at clojure.lang.Compiler.analyze(Compiler.java:6625)
+	at clojure.lang.Compiler.eval(Compiler.java:6931)
+	at clojure.lang.Compiler.load(Compiler.java:7379)
+	at clojure.lang.RT.loadResourceScript(RT.java:372)
+	at clojure.lang.RT.loadResourceScript(RT.java:359)
+	at clojure.lang.RT.loadResourceScript(RT.java:351)
+	at Jet.handle(Jet.java:13)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2017-04-21 23:17:04.192:WARN:oejh.HttpGenerator:Ignoring extra content null
