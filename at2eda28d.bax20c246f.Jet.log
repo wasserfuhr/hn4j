@@ -4908,3 +4908,160 @@ java.lang.NullPointerException
 2017-04-22 18:04:43.755:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-22 18:12:42.382:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-22 18:32:21.668:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 18:43:22.392:WARN:oejs.AbstractHttpConnection:/newBlock
+java.io.IOException: Server returned HTTP response code: 502 for URL: https://blockchain.info/rawblock/00000000000000000129ac66f67ab0c76844d1ebc0edc6a4eda1a73806cf6e80?format=hex
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+	at java.net.URL.openStream(URL.java:1038)
+	at clojure.java.io$fn__9524.invokeStatic(io.clj:239)
+	at clojure.java.io$fn__9524.invoke(io.clj:235)
+	at clojure.java.io$fn__9433$G__9426__9440.invoke(io.clj:69)
+	at clojure.java.io$fn__9532.invokeStatic(io.clj:256)
+	at clojure.java.io$fn__9532.invoke(io.clj:254)
+	at clojure.java.io$fn__9433$G__9426__9440.invoke(io.clj:69)
+	at clojure.java.io$fn__9494.invokeStatic(io.clj:165)
+	at clojure.java.io$fn__9494.invoke(io.clj:165)
+	at clojure.java.io$fn__9446$G__9422__9453.invoke(io.clj:69)
+	at clojure.java.io$reader.invokeStatic(io.clj:102)
+	at clojure.java.io$reader.doInvoke(io.clj:86)
+	at clojure.lang.RestFn.invoke(RestFn.java:410)
+	at clojure.lang.AFn.applyToHelper(AFn.java:154)
+	at clojure.lang.RestFn.applyTo(RestFn.java:132)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$slurp.invokeStatic(core.clj:6657)
+	at clojure.core$slurp.doInvoke(core.clj:6657)
+	at clojure.lang.RestFn.invoke(RestFn.java:410)
+	at clojure.core$eval5696593$fn__5696594.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval5696579$fn__5696580.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval5696574$fn__5696575.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:20)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.content(AbstractHttpConnection.java:943)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:1004)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:861)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:240)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2017-04-22 18:54:51.903:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:02:00.491:WARN:oejs.AbstractHttpConnection:/newBlock
+java.io.IOException: Server returned HTTP response code: 502 for URL: https://blockchain.info/rawblock/00000000000000000120df978de707821b6e3fd031e86a140f5d4baa9622841d?format=hex
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+	at java.net.URL.openStream(URL.java:1038)
+	at clojure.java.io$fn__9524.invokeStatic(io.clj:239)
+	at clojure.java.io$fn__9524.invoke(io.clj:235)
+	at clojure.java.io$fn__9433$G__9426__9440.invoke(io.clj:69)
+	at clojure.java.io$fn__9532.invokeStatic(io.clj:256)
+	at clojure.java.io$fn__9532.invoke(io.clj:254)
+	at clojure.java.io$fn__9433$G__9426__9440.invoke(io.clj:69)
+	at clojure.java.io$fn__9494.invokeStatic(io.clj:165)
+	at clojure.java.io$fn__9494.invoke(io.clj:165)
+	at clojure.java.io$fn__9446$G__9422__9453.invoke(io.clj:69)
+	at clojure.java.io$reader.invokeStatic(io.clj:102)
+	at clojure.java.io$reader.doInvoke(io.clj:86)
+	at clojure.lang.RestFn.invoke(RestFn.java:410)
+	at clojure.lang.AFn.applyToHelper(AFn.java:154)
+	at clojure.lang.RestFn.applyTo(RestFn.java:132)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$slurp.invokeStatic(core.clj:6657)
+	at clojure.core$slurp.doInvoke(core.clj:6657)
+	at clojure.lang.RestFn.invoke(RestFn.java:410)
+	at clojure.core$eval5718834$fn__5718835.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval5718820$fn__5718821.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval5718815$fn__5718816.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:20)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.content(AbstractHttpConnection.java:943)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:1004)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:861)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:240)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2017-04-22 19:02:27.809:WARN:oejs.AbstractHttpConnection:/newBlock
+java.io.IOException: Server returned HTTP response code: 502 for URL: https://blockchain.info/rawblock/000000000000000001e22733b982f14e0304109efad47d9a4be0efd2f659ca30?format=hex
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+	at java.net.URL.openStream(URL.java:1038)
+	at clojure.java.io$fn__9524.invokeStatic(io.clj:239)
+	at clojure.java.io$fn__9524.invoke(io.clj:235)
+	at clojure.java.io$fn__9433$G__9426__9440.invoke(io.clj:69)
+	at clojure.java.io$fn__9532.invokeStatic(io.clj:256)
+	at clojure.java.io$fn__9532.invoke(io.clj:254)
+	at clojure.java.io$fn__9433$G__9426__9440.invoke(io.clj:69)
+	at clojure.java.io$fn__9494.invokeStatic(io.clj:165)
+	at clojure.java.io$fn__9494.invoke(io.clj:165)
+	at clojure.java.io$fn__9446$G__9422__9453.invoke(io.clj:69)
+	at clojure.java.io$reader.invokeStatic(io.clj:102)
+	at clojure.java.io$reader.doInvoke(io.clj:86)
+	at clojure.lang.RestFn.invoke(RestFn.java:410)
+	at clojure.lang.AFn.applyToHelper(AFn.java:154)
+	at clojure.lang.RestFn.applyTo(RestFn.java:132)
+	at clojure.core$apply.invokeStatic(core.clj:648)
+	at clojure.core$slurp.invokeStatic(core.clj:6657)
+	at clojure.core$slurp.doInvoke(core.clj:6657)
+	at clojure.lang.RestFn.invoke(RestFn.java:410)
+	at clojure.core$eval5720224$fn__5720225.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval5720210$fn__5720211.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval5720205$fn__5720206.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:20)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.content(AbstractHttpConnection.java:943)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.content(AbstractHttpConnection.java:1004)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:861)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:240)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2017-04-22 19:02:52.305:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:02:56.339:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:00.159:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:04.096:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:07.866:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:11.716:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:15.402:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:19.121:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:22.819:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:26.443:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:30.014:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:33.606:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:40.652:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:47.534:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:50.949:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:54.333:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:03:57.735:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:01.187:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:04.554:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:07.777:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:10.964:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:14.200:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:17.383:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:20.613:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:23.725:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:26.861:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:29.957:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:33.059:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:04:36.090:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:07:57.596:WARN:oejh.HttpGenerator:Ignoring extra content null
