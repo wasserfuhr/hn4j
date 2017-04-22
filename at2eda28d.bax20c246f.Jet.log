@@ -5065,3 +5065,48 @@ java.io.IOException: Server returned HTTP response code: 502 for URL: https://bl
 2017-04-22 19:04:33.059:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-22 19:04:36.090:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-04-22 19:07:57.596:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:12:12.690:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:18:07.943:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-04-22 19:18:08.391:WARN:oejs.AbstractHttpConnection:/wp-login.php
+java.lang.NullPointerException
+2017-04-22 19:18:08.847:WARN:oejs.AbstractHttpConnection:/administrator/index.php
+java.lang.NullPointerException
+2017-04-22 19:41:44.357:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:41:45.367:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:49:12.248:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 19:58:27.676:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 20:05:20.904:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 20:12:59.584:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 20:13:17.261:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 20:17:38.933:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 20:19:45.500:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 20:21:37.732:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 20:27:08.269:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 20:33:27.230:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 20:35:48.755:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 20:40:01.154:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 20:51:24.786:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:09:31.198:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:16:30.821:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:21:16.189:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:22:29.419:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:26:37.475:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:28:23.548:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:33:59.027:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:39:34.843:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:42:09.532:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:46:17.105:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:51:33.034:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 21:52:59.737:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 22:01:13.104:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 22:01:36.316:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 22:07:16.287:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 22:08:54.466:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 22:15:31.173:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 22:22:04.404:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 22:27:46.572:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 22:33:32.283:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 22:35:37.503:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 22:37:39.199:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-22 22:39:13.437:WARN:oejh.HttpGenerator:Ignoring extra content null
