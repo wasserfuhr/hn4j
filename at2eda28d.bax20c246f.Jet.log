@@ -10026,3 +10026,70 @@ java.lang.UnsupportedOperationException: Can only recur from tail position
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
 2017-04-25 15:45:06.303:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 15:51:53.937:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 15:57:48.189:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:04:04.482:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:09:58.530:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:16:41.961:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:25:06.446:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:25:34.975:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:25:37.322:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:26:16.998:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:26:20.732:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:26:28.115:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:26:31.816:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:26:35.508:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:29:54.905:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:30:20.270:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:33:15.227:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:37:17.293:WARN:oejs.AbstractHttpConnection:/alive/10de0/
+clojure.lang.ArityException: Wrong number of args (2) passed to: core/html
+	at clojure.lang.AFn.throwArity(AFn.java:429)
+	at clojure.lang.RestFn.invoke(RestFn.java:427)
+	at clojure.core$eval8601352$fn__8601353.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval8601312$fn__8601313.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval8601304$fn__8601305.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:20)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2017-04-25 16:40:32.927:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:48:15.930:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:55:29.272:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 16:55:41.380:WARN:oejs.AbstractHttpConnection:/alive/11230/
+clojure.lang.ArityException: Wrong number of args (2) passed to: core/html
+	at clojure.lang.AFn.throwArity(AFn.java:429)
+	at clojure.lang.RestFn.invoke(RestFn.java:427)
+	at clojure.core$eval8648766$fn__8648767.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval8648733$fn__8648734.invoke(NO_SOURCE_FILE:0)
+	at clojure.core$eval8648717$fn__8648718.invoke(NO_SOURCE_FILE:0)
+	at Jet.handle(Jet.java:20)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:116)
+	at org.eclipse.jetty.server.Server.handle(Server.java:368)
+	at org.eclipse.jetty.server.AbstractHttpConnection.handleRequest(AbstractHttpConnection.java:488)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handleRequest(BlockingHttpConnection.java:53)
+	at org.eclipse.jetty.server.AbstractHttpConnection.headerComplete(AbstractHttpConnection.java:932)
+	at org.eclipse.jetty.server.AbstractHttpConnection$RequestHandler.headerComplete(AbstractHttpConnection.java:994)
+	at org.eclipse.jetty.http.HttpParser.parseNext(HttpParser.java:640)
+	at org.eclipse.jetty.http.HttpParser.parseAvailable(HttpParser.java:235)
+	at org.eclipse.jetty.server.BlockingHttpConnection.handle(BlockingHttpConnection.java:72)
+	at org.eclipse.jetty.server.bio.SocketConnector$ConnectorEndPoint.run(SocketConnector.java:264)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector$SslConnectorEndPoint.run(SslSocketConnector.java:670)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
+	at java.lang.Thread.run(Thread.java:745)
+2017-04-25 17:03:46.744:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 17:06:29.237:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 17:07:11.112:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-25 17:10:33.407:WARN:oejh.HttpGenerator:Ignoring extra content null
