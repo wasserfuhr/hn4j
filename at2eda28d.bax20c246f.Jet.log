@@ -15934,3 +15934,6 @@ java.lang.UnsupportedOperationException: Can only recur from tail position
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
 2017-04-27 19:20:53.028:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-27 19:27:39.792:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-27 19:27:41.046:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-04-27 19:27:53.374:WARN:oejh.HttpGenerator:Ignoring extra content null
