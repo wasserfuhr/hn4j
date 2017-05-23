@@ -1,1 +1,1 @@
-git commit -am "..."
+git add a bh ua;git commit -am"git add a bh ua"
