@@ -23924,3 +23924,6 @@ java.lang.NumberFormatException: Invalid number: 0x<!DOCTYPE
 2017-05-27 00:12:00.014:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-05-27 00:13:29.721:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-05-27 00:13:38.039:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-05-27 00:16:42.559:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-05-27 00:22:37.721:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-05-27 00:23:04.930:WARN:oejh.HttpGenerator:Ignoring extra content null
