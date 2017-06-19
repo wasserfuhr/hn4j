@@ -3,7 +3,8 @@
     (. h update m)(.digest h)))
  f(fn[h](apply str(map #(format"%02x"(bit-and % 0xff))h)))
  c0(filter(fn[c](="1"(.getName c)))(.getCookies rq))
- c(if c0 c0(.getRequestParameter rq"c"))
+ rc(.getRequestParameter rq"c")
+ c(if rc [rc]c0)
  u(if(>(count c)0)
   (if(="693c599b0e27c7ad6dd3564ec14d5336b9b9c2b2183c0ec32ddb0d6565d55ca9"
    (f(h(.getBytes(.getValue(first c))))))"RaWa"))]
