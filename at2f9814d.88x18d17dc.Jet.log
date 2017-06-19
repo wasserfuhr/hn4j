@@ -41836,3 +41836,22 @@ java.lang.NullPointerException
 2017-06-19 08:41:45.676:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-06-19 08:52:53.943:WARN:oejh.HttpGenerator:Ignoring extra content null
 2017-06-19 08:56:31.748:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 10:12:18.682:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 10:16:25.576:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 10:33:55.457:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 10:52:20.896:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 10:53:32.885:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 11:06:14.853:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 11:15:03.889:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-06-19 11:18:53.830:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 11:23:39.842:WARN:oejs.AbstractHttpConnection:/
+java.lang.NullPointerException
+2017-06-19 11:28:11.303:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 11:31:32.876:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 11:36:24.067:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 11:45:08.701:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 11:56:23.300:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 12:07:41.476:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 12:19:17.358:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 12:20:41.940:WARN:oejh.HttpGenerator:Ignoring extra content null
