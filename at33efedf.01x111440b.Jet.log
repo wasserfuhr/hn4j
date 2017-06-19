@@ -418,3 +418,5 @@ java.lang.RuntimeException: Unmatched delimiter: ]
 	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:608)
 	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:543)
 	at java.lang.Thread.run(Thread.java:745)
+2017-06-19 15:44:47.023:WARN:oejh.HttpGenerator:Ignoring extra content null
+2017-06-19 15:48:43.693:WARN:oejh.HttpGenerator:Ignoring extra content null
