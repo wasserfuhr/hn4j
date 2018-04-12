@@ -1,0 +1,63 @@
+org.eclipse.jetty.ssl.password : 2018-03-29 23:36:07.890:WARN:oejus.Password:EXCEPTION 
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:255)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.eclipse.jetty.util.security.Password.getPassword(Password.java:226)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.setKeyStorePassword(SslContextFactory.java:778)
+	at Jet.main(Jet.java:31)
+org.eclipse.jetty.ssl.keypassword : 2018-03-29 23:36:07.891:WARN:oejus.Password:EXCEPTION 
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:255)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at java.io.FilterInputStream.read(FilterInputStream.java:107)
+	at org.eclipse.jetty.util.security.Password.getPassword(Password.java:226)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.setKeyManagerPassword(SslContextFactory.java:790)
+	at Jet.main(Jet.java:32)
+2018-03-29 23:36:07.910:INFO:oejs.Server:jetty-8.1.9.v20130131
+2018-03-29 23:36:08.048:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:80
+2018-03-29 23:36:08.137:WARN:oejuc.AbstractLifeCycle:FAILED SslContextFactory@5a2e4553(/root/keystore.jks,/root/keystore.jks): java.lang.NullPointerException
+java.lang.NullPointerException
+	at org.eclipse.jetty.util.ssl.SslContextFactory.getKeyManagers(SslContextFactory.java:1080)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.doStart(SslContextFactory.java:291)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector.doStart(SslSocketConnector.java:362)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.Server.doStart(Server.java:291)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at Jet.main(Jet.java:37)
+2018-03-29 23:36:08.139:WARN:oejuc.AbstractLifeCycle:FAILED SslSocketConnector@0.0.0.0:443: java.lang.NullPointerException
+java.lang.NullPointerException
+	at org.eclipse.jetty.util.ssl.SslContextFactory.getKeyManagers(SslContextFactory.java:1080)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.doStart(SslContextFactory.java:291)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector.doStart(SslSocketConnector.java:362)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.Server.doStart(Server.java:291)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at Jet.main(Jet.java:37)
+2018-03-29 23:36:08.142:WARN:oejuc.AbstractLifeCycle:FAILED org.eclipse.jetty.server.Server@28c97a5: java.lang.NullPointerException
+java.lang.NullPointerException
+	at org.eclipse.jetty.util.ssl.SslContextFactory.getKeyManagers(SslContextFactory.java:1080)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.doStart(SslContextFactory.java:291)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector.doStart(SslSocketConnector.java:362)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.Server.doStart(Server.java:291)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at Jet.main(Jet.java:37)
+Exception in thread "main" java.lang.NullPointerException
+	at org.eclipse.jetty.util.ssl.SslContextFactory.getKeyManagers(SslContextFactory.java:1080)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.doStart(SslContextFactory.java:291)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.ssl.SslSocketConnector.doStart(SslSocketConnector.java:362)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at org.eclipse.jetty.server.Server.doStart(Server.java:291)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:64)
+	at Jet.main(Jet.java:37)
