@@ -1,0 +1,1000 @@
+ 1007  h=462;i=463;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1008  h=463;i=464;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1009  h=464;i=465;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1010  h=465;i=466;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1011  h=466;i=467;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1012  h=467;i=468;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1013  h=468;i=469;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1014  h=469;i=46a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1015  h=46a;i=46b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1016  h=46b;i=46c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1017  h=46c;i=46d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1018  h=46d;i=46e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1019  h=46e;i=46f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1020  h=46f;i=470;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1021  a=knot-net
+ 1022  h=45f;i=460;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1023  h=460;i=461;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1024  h=461;i=462;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1025  h=462;i=463;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1026  h=463;i=464;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1027  h=464;i=465;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1028  h=465;i=466;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1029  h=466;i=467;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1030  h=467;i=468;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1031  h=468;i=469;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1032  h=469;i=46a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1033  h=46a;i=46b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1034  h=46b;i=46c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1035  h=46c;i=46d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1036  h=46d;i=46e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1037  h=46e;i=46f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1038  h=46f;i=470;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1039  l
+ 1040  ll
+ 1041  cd
+ 1042  l
+ 1043  hig df
+ 1044  hig du
+ 1045  du -b 1 -d 2 git|sort -n
+ 1046  du -b 1 -d 2 /|sort -n
+ 1047  du -b 1 -d 2 /root|sort 55-n
+ 1048  du -b 1 -d 2 /root|sort -n
+ 1049  ll fop-2.1/
+ 1050  ll fop-2.1/conf/
+ 1051  df
+ 1052  l
+ 1053  stat a0
+ 1054  ll /dev
+ 1055  n=0000
+ 1056  #mkdir 02-20
+ 1057  ls
+ 1058  mkdir rq0220
+ 1059  cd rq0220/
+ 1060  hig =
+ 1061  hig a=
+ 1062  a=dresdenlabs
+ 1063  h=46f;i=470;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1064  h=470;i=471;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1065  h=471;i=472;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1066  h=472;i=473;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1067  h=473;i=474;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1068  h=474;i=475;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1069  h=475;i=476;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1070  h=476;i=477;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1071  h=477;i=478;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1072  h=478;i=479;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1073  h=479;i=47a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1074  h=47a;i=47b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1075  h=47b;i=47c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1076  h=47c;i=47d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1077  h=47d;i=47e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1078  h=47e;i=47f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1079  h=47f;i=480;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1080  a=floatingboat2013
+ 1081  ll
+ 1082  h=46f;i=470;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1083  h=470;i=471;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1084  h=471;i=472;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1085  h=472;i=473;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1086  h=473;i=474;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1087  h=474;i=475;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1088  h=475;i=476;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1089  h=476;i=477;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1090  h=477;i=478;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1091  h=478;i=479;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1092  h=479;i=47a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1093  h=47a;i=47b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1094  h=47b;i=47c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1095  h=47c;i=47d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1096  h=47d;i=47e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1097  h=47e;i=47f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1098  h=47f;i=480;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1099  a=knot-net
+ 1100  h=46f;i=470;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1101  h=470;i=471;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1102  h=471;i=472;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1103  h=472;i=473;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1104  h=473;i=474;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1105  h=474;i=475;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1106  h=475;i=476;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1107  h=476;i=477;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1108  h=477;i=478;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1109  h=478;i=479;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1110  h=479;i=47a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1111  h=47a;i=47b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1112  h=47b;i=47c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1113  h=47c;i=47d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1114  h=47d;i=47e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1115  h=47e;i=47f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1116  h=47f;i=480;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1117  ll
+ 1118  cd
+ 1119  cd git
+ 1120  cd hn4j
+ 1121  gs
+ 1122  hig his
+ 1123  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1124  hig add
+ 1125  git add *.log;git commit -am"git add *.log";git add a bh ua/;git commit -am"git add a bh ua";git add *OvhOneHist.txt;git commit -am"git add *OvhOneHist.txt"
+ 1126  gs
+ 1127  cat df
+ 1128  gs push
+ 1129  git push
+ 1130  exit
+ 1131  l
+ 1132  mkdir rq0307
+ 1133  cd rq0307
+ 1134  n=0000
+ 1135  hig a=
+ 1136  a=dresdenlabs
+ 1137  h=47f;i=480;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1138  h=480;i=481;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1139  h=481;i=482;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1140  h=482;i=483;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1141  h=483;i=484;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1142  h=484;i=485;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1143  h=485;i=486;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1144  h=486;i=487;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1145  h=487;i=488;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1146  h=488;i=489;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1147  h=489;i=48a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1148  h=48a;i=48b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1149  h=48b;i=48c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1150  h=48c;i=48d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1151  h=48d;i=48e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1152  h=48e;i=48f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1153  h=48f;i=490;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1154  ll
+ 1155  a=floatingboat2013
+ 1156  h=47f;i=480;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1157  h=480;i=481;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1158  h=481;i=482;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1159  h=482;i=483;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1160  h=483;i=484;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1161  h=484;i=485;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1162  h=485;i=486;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1163  h=486;i=487;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1164  h=487;i=488;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1165  h=488;i=489;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1166  h=489;i=48a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1167  h=48a;i=48b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1168  h=48b;i=48c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1169  h=48c;i=48d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1170  h=48d;i=48e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1171  h=48e;i=48f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1172  h=48f;i=490;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1173  a=knot-net
+ 1174  h=47f;i=480;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1175  h=480;i=481;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1176  h=481;i=482;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1177  h=482;i=483;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1178  h=483;i=484;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1179  h=484;i=485;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1180  h=485;i=486;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1181  h=486;i=487;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1182  h=487;i=488;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1183  h=488;i=489;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1184  h=489;i=48a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1185  h=48a;i=48b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1186  h=48b;i=48c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1187  h=48c;i=48d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1188  h=48d;i=48e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1189  h=48e;i=48f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1190  h=48f;i=490;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1191  ll
+ 1192  df
+ 1193  cd ..
+ 1194  cd git
+ 1195  cd  hn4j
+ 1196  gs
+ 1197  hig add
+ 1198  hig vh
+ 1199  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1200  git add *.log;git commit -am"git add *.log";git add a bh ua/;git commit -am"git add a bh ua";git add *OvhOneHist.txt;git commit -am"git add *OvhOneHist.txt"
+ 1201  gs
+ 1202  git pul
+ 1203  git pull
+ 1204  git push
+ 1205  exit
+ 1206  n=0000
+ 1207  mkdir rq0317
+ 1208  cd rq0317
+ 1209  hig a=
+ 1210  n=0000
+ 1211  cd rq0317
+ 1212  df
+ 1213  exit
+ 1214  hig du
+ 1215  ll
+ 1216  hig du
+ 1217  du -b 1 -d 2 /root|sort -n
+ 1218  ll fop-2.1/
+ 1219  rm -Rf fop-2.1/
+ 1220  df
+ 1221  du -b 1 -d 2 /root/git|sort -n
+ 1222  ls -lS /root/git/hn4j/
+ 1223  df
+ 1224  cd rq0317
+ 1225  n=0000
+ 1226  hig a=
+ 1227  a=dresdenlabs
+ 1228  h=48f;i=490;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1229  h=490;i=491;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1230  h=491;i=492;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1231  h=492;i=493;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1232  h=493;i=494;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1233  h=494;i=495;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1234  h=495;i=496;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1235  h=496;i=497;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1236  h=497;i=498;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1237  h=498;i=499;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1238  h=499;i=49a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1239  h=49a;i=49b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1240  h=49b;i=49c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1241  h=49c;i=49d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1242  h=49d;i=49e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1243  h=49e;i=49f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1244  h=49f;i=4a0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1245  a=floatingboat2013
+ 1246  ll
+ 1247  h=48f;i=490;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1248  h=490;i=491;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1249  h=491;i=492;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1250  h=492;i=493;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1251  h=493;i=494;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1252  h=494;i=495;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1253  h=495;i=496;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1254  h=496;i=497;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1255  h=497;i=498;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1256  h=498;i=499;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1257  h=499;i=49a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1258  h=49a;i=49b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1259  h=49b;i=49c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1260  h=49c;i=49d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1261  h=49d;i=49e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1262  h=49e;i=49f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1263  h=49f;i=4a0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1264  a=knot-net
+ 1265  h=48f;i=490;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1266  h=490;i=491;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1267  h=491;i=492;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1268  h=492;i=493;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1269  h=493;i=494;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1270  h=494;i=495;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1271  h=495;i=496;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1272  h=496;i=497;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1273  h=497;i=498;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1274  h=498;i=499;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1275  h=499;i=49a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1276  h=49a;i=49b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1277  h=49b;i=49c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1278  h=49c;i=49d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1279  h=49d;i=49e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1280  h=49e;i=49f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1281  h=49f;i=4a0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1282  cd rq0317
+ 1283  ll
+ 1284  df
+ 1285  hig ssh
+ 1286  hig cert
+ 1287  cd git
+ 1288  cd hn4j/
+ 1289  history |more
+ 1290  ps aux
+ 1291  kill -9 20234
+ 1292  /root/certbot-auto auth -d sl4.eu -d i.sl4.eu;pw=`cat pw`
+ 1293  keytool -importkeystore -srckeystore keystore.pkcs12 -srcstoretype PKCS12 -destkeystore /root/keystore.jks
+ 1294  cat pw
+ 1295  keytool -importkeystore -srckeystore keystore.pkcs12 -srcstoretype PKCS12 -destkeystore /root/keystore.jks
+ 1296  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1297  tail at4a8c80d.c4x4355824.Jet.log 
+ 1298  tail -c 8k at4a8c80d.c4x4355824.Jet.log 
+ 1299  history 
+ 1300  ll keystore.pkcs12 
+ 1301  ll /root/keystore.pkcs12 
+ 1302  ps aux
+ 1303  kill -9 14546
+ 1304  /root/certbot-auto auth -d sl4.eu -d i.sl4.eu;pw=`cat pw`
+ 1305  ll
+ 1306  ll |grep Mar
+ 1307  cat Jet.java 
+ 1308  grep keystore *
+ 1309  hig openssl
+ 1310  openssl pkcs12 -export -out keystore.pkcs12 -in /etc/letsencrypt/live/sl4.eu/fullchain.pem -inkey /etc/letsencrypt/keys
+ 1311  /root/certbot-auto auth -d sl4.eu -d i.sl4.eu;pw=`cat pw`
+ 1312  history 
+ 1313  ll /etc/letsencrypt/
+ 1314  ll /etc/letsencrypt/keys/
+ 1315  openssl pkcs12 -export -out keystore.pkcs12 -in /etc/letsencrypt/live/sl4.eu/fullchain.pem -inkey /etc/letsencrypt/keys/0006_key-certbot.pem 
+ 1316  cd git
+ 1317  cd hn44
+ 1318  cd hn4j
+ 1319  cat pw
+ 1320  openssl pkcs12 -export -out keystore.pkcs12 -in /etc/letsencrypt/live/sl4.eu/fullchain.pem -inkey /etc/letsencrypt/keys/0006_key-certbot.pem 
+ 1321  history 
+ 1322  #keytool -importkeystore -srckeystore keystore.pkcs12 -srcstoretype PKCS12 -destkeystore /root/keystore.jks
+ 1323  keytool -importkeystore -srckeystore keystore.pkcs12 -srcstoretype PKCS12 -destkeystore /root/keystore.jks
+ 1324  cat pw
+ 1325  keytool -importkeystore -srckeystore keystore.pkcs12 -srcstoretype PKCS12 -destkeystore /root/keystore.jks
+ 1326  hig dre
+ 1327  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1328  tail at4b4b21c.88x1c04ecf.Jet.log 
+ 1329  ps
+ 1330  ps aux
+ 1331  kill -9 32660
+ 1332  hig pw
+ 1333  pw=`cat pw`
+ 1334  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1335  ls
+ 1336  mkdir rq0405
+ 1337  cd rq0405
+ 1338  hig n=
+ 1339  n=0000
+ 1340  hig curl
+ 1341  hig a=
+ 1342  a=dresdenlabs
+ 1343  hig curl
+ 1344  h=49f;i=4a0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1345  df
+ 1346  hig du
+ 1347  du -b 1 -d 2 /root|sort -n
+ 1348  du -b 1 -d 2 /root/git|sort -n
+ 1349  du -b 1 -d 2 /root|sort -n
+ 1350  ll
+ 1351  hig a=
+ 1352  a=floatingboat2013
+ 1353  df
+ 1354  ll
+ 1355  df
+ 1356  gunzzip 49f.dresdenlabs.rlog.gz 
+ 1357  gunzip 49f.dresdenlabs.rlog.gz 
+ 1358  df
+ 1359  du -b 1 -d 2 /root|sort -n
+ 1360  cd ../rq
+ 1361  ll
+ 1362  exit
+ 1363  history 
+ 1364  cd rq0412
+ 1365  n=0000
+ 1366  a=dresdenlabs
+ 1367  $a.rlog
+ 1368  h=4bf;i=4c0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1369  ll
+ 1370  ll ..
+ 1371  ll ../rq0317
+ 1372  ll
+ 1373  h=48f;i=490;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1374  h=49f;i=4a0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1375  cd ../rq0405/
+ 1376  ll
+ 1377  ll ../rq0412/
+ 1378  h=49f;i=4a0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1379  h=4a0;i=4a1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1380  h=4a1;i=4a2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1381  h=4a2;i=4a3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1382  h=4a3;i=4a4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1383  h=4a4;i=4a5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1384  h=4a5;i=4a6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1385  h=4a6;i=4a7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1386  h=4a7;i=4a8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1387  h=4a8;i=4a9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1388  h=4a9;i=4aa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1389  h=4aa;i=4ab;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1390  h=4ab;i=4ac;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1391  h=4ac;i=4ad;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1392  h=4ad;i=4ae;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1393  h=4ae;i=4af;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1394  h=4af;i=4b0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1395  hig a=
+ 1396  a=floatingboat2013
+ 1397  h=49f;i=4a0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1398  h=4a0;i=4a1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1399  h=4a1;i=4a2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1400  h=4a2;i=4a3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1401  h=4a3;i=4a4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1402  h=4a4;i=4a5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1403  h=4a5;i=4a6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1404  h=4a6;i=4a7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1405  h=4a7;i=4a8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1406  h=4a8;i=4a9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1407  h=4a9;i=4aa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1408  h=4aa;i=4ab;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1409  h=4ab;i=4ac;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1410  h=4ac;i=4ad;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1411  h=4ad;i=4ae;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1412  h=4ae;i=4af;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1413  h=4af;i=4b0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1414  a=knot-net
+ 1415  h=49f;i=4a0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1416  h=4a0;i=4a1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1417  h=4a1;i=4a2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1418  h=4a2;i=4a3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1419  h=4a3;i=4a4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1420  h=4a4;i=4a5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1421  h=4a5;i=4a6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1422  h=4a6;i=4a7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1423  h=4a7;i=4a8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1424  h=4a8;i=4a9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1425  h=4a9;i=4aa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1426  h=4aa;i=4ab;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1427  h=4ab;i=4ac;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1428  h=4ac;i=4ad;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1429  h=4ad;i=4ae;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1430  h=4ae;i=4af;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1431  h=4af;i=4b0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1432  ll
+ 1433  cd ..
+ 1434  cd rq0412
+ 1435  ll
+ 1436  rm 48f.dresdenlabs.rlog 49f.dresdenlabs.rlog 
+ 1437  h=4af;i=4b0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1438  h=4b0;i=4b1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1439  h=4b1;i=4b2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1440  h=4b2;i=4b3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1441  h=4b3;i=4b4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1442  h=4b4;i=4b5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1443  h=4b5;i=4b6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1444  h=4b6;i=4b7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1445  h=4b7;i=4b8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1446  h=4b8;i=4b9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1447  h=4b9;i=4ba;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1448  h=4ba;i=4bb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1449  h=4bb;i=4bc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1450  h=4bc;i=4bd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1451  h=4bd;i=4be;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1452  h=4be;i=4bf;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1453  h=4bf;i=4c0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1454  a=floatingboat2013
+ 1455  h=4af;i=4b0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1456  h=4b0;i=4b1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1457  h=4b1;i=4b2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1458  h=4b2;i=4b3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1459  h=4b3;i=4b4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1460  h=4b4;i=4b5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1461  h=4b5;i=4b6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1462  h=4b6;i=4b7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1463  h=4b7;i=4b8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1464  h=4b8;i=4b9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1465  h=4b9;i=4ba;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1466  h=4ba;i=4bb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1467  h=4bb;i=4bc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1468  h=4bc;i=4bd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1469  h=4bd;i=4be;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1470  h=4be;i=4bf;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1471  h=4bf;i=4c0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1472  ll
+ 1473  hig dre
+ 1474  a=dresdenlabs
+ 1475  h=4af;i=4b0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1476  h=4b0;i=4b1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1477  h=4b1;i=4b2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1478  h=4b2;i=4b3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1479  h=4b3;i=4b4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1480  h=4b4;i=4b5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1481  h=4b5;i=4b6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1482  h=4b6;i=4b7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1483  h=4b7;i=4b8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1484  h=4b8;i=4b9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1485  h=4b9;i=4ba;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1486  h=4ba;i=4bb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1487  h=4bb;i=4bc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1488  h=4bc;i=4bd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1489  h=4bd;i=4be;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1490  h=4be;i=4bf;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1491  h=4bf;i=4c0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1492  ll
+ 1493  df
+ 1494  cd
+ 1495  cd git
+ 1496  cd hn4j
+ 1497  gs
+ 1498  hig add
+ 1499  hig vh
+ 1500  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1501  hig add
+ 1502  git add *.log;git commit -am"git add *.log";git add a bh ua/;git commit -am"git add a bh ua";git add *OvhOneHist.txt;git commit -am"git add *OvhOneHist.txt"
+ 1503  git pull
+ 1504  git push
+ 1505  gs
+ 1506  hig tra
+ 1507  traceroute 35.186.151.8
+ 1508  df
+ 1509  exit
+ 1510  df
+ 1511  ll
+ 1512  tracert 35.186.151.8
+ 1513  traceroute 35.186.151.8
+ 1514  traceroute -?
+ 1515  traceroute -h
+ 1516  traceroute -help
+ 1517  man traceroute
+ 1518  ll
+ 1519  more a0
+ 1520  gzip a?
+ 1521  ll
+ 1522  df
+ 1523  hig du
+ 1524  du -b 1 -d 2 /root|sort -n
+ 1525  du -b 1 -d 2 /|sort -n
+ 1526  du -b 1 5-d 2 /var|sort -n
+ 1527  apt-get clean
+ 1528  df
+ 1529  du -b 1 5-d 2 /var|sort -n
+ 1530  df
+ 1531  du -b 1 5-d 2 /var|sort -n
+ 1532  du -b 1 5-d 2 /var/log|sort -n
+ 1533  ll /var/log
+ 1534  more /var/log/btmp
+ 1535  ll
+ 1536  ll /var/log
+ 1537  du -b 1 5-d 2 /var/log|sort -n
+ 1538  du -b 1 5-d 2 /var/|sort -n
+ 1539  du -b 1 -d 1 /|sort -n
+ 1540  df
+ 1541  du -b 1 -d 1 /root|sort -n
+ 1542  du -b 1 -d 1 /var|sort -n
+ 1543  du -b 1 -d 1 /root|sort -n
+ 1544  du -b 1 -d 1 /root/.primecoin/|sort -n
+ 1545  du -b 1 -d 1 /root/.primecoin/blocks/|sort -n
+ 1546  ll /root/.primecoin/blocks
+ 1547  cd /root/.primecoin/blocks
+ 1548  gzip *.dat
+ 1549  df
+ 1550  ll
+ 1551  cd
+ 1552  mkdir rq0412
+ 1553  cd rq0412
+ 1554  history 
+ 1555  cd rq0412
+ 1556  ll
+ 1557  history 
+ 1558  exit
+ 1559  df
+ 1560  mkdir rq0422
+ 1561  cd rq0422
+ 1562  n=0000
+ 1563  a=dresdenlabs
+ 1564  hig a=
+ 1565  h=4bf;i=4c0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1566  h=4c0;i=4c1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1567  h=4c1;i=4c2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1568  h=4c2;i=4c3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1569  h=4c3;i=4c4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1570  h=4c4;i=4c5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1571  h=4c5;i=4c6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1572  h=4c6;i=4c7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1573  h=4c7;i=4c8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1574  h=4c8;i=4c9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1575  h=4c9;i=4ca;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1576  h=4ca;i=4cb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1577  h=4cb;i=4cc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1578  h=4cc;i=4cd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1579  h=4cd;i=4ce;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1580  h=4ce;i=4cf;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1581  h=4cf;i=4d0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1582  a=floatingboat2013
+ 1583  h=4bf;i=4c0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1584  h=4c0;i=4c1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1585  h=4c1;i=4c2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1586  h=4c2;i=4c3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1587  h=4c3;i=4c4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1588  h=4c4;i=4c5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1589  h=4c5;i=4c6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1590  h=4c6;i=4c7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1591  h=4c7;i=4c8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1592  h=4c8;i=4c9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1593  h=4c9;i=4ca;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1594  h=4ca;i=4cb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1595  h=4cb;i=4cc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1596  h=4cc;i=4cd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1597  h=4cd;i=4ce;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1598  h=4ce;i=4cf;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1599  h=4cf;i=4d0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1600  a=knot-net
+ 1601  h=4bf;i=4c0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1602  h=4c0;i=4c1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1603  h=4c1;i=4c2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1604  h=4c2;i=4c3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1605  h=4c3;i=4c4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1606  h=4c4;i=4c5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1607  h=4c5;i=4c6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1608  h=4c6;i=4c7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1609  h=4c7;i=4c8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1610  h=4c8;i=4c9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1611  h=4c9;i=4ca;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1612  h=4ca;i=4cb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1613  h=4cb;i=4cc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1614  h=4cc;i=4cd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1615  h=4cd;i=4ce;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1616  h=4ce;i=4cf;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1617  h=4cf;i=4d0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1618  ll
+ 1619  tail 4cf.floatingboat2013.rlog 
+ 1620  hig his
+ 1621  cal 1969
+ 1622  cal 1964
+ 1623  exit
+ 1624  cd git
+ 1625  ls
+ 1626  mkdir rq0514
+ 1627  cd rq0514
+ 1628  n=0000
+ 1629  a=dresdenlabs
+ 1630  a=floatingboat2013
+ 1631  a=knot-net
+ 1632  a=new-egypt
+ 1633  a=dresdenlabs
+ 1634  h=4cf;i=4d0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1635  h=4d0;i=4d1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1636  h=4d1;i=4d2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1637  h=4d2;i=4d3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1638  h=4d3;i=4d4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1639  h=4d4;i=4d5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1640  h=4d5;i=4d6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1641  h=4d6;i=4d7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1642  h=4d7;i=4d8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1643  h=4d8;i=4d9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1644  h=4d9;i=4da;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1645  h=4da;i=4db;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1646  h=4db;i=4dc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1647  h=4dc;i=4dd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1648  h=4dd;i=4de;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1649  h=4de;i=4df;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1650  h=4df;i=4e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1651  hig a=
+ 1652  ll
+ 1653  df
+ 1654  a=floatingboat2013
+ 1655  h=4cf;i=4d0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1656  h=4d0;i=4d1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1657  h=4d1;i=4d2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1658  h=4d2;i=4d3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1659  h=4d3;i=4d4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1660  h=4d4;i=4d5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1661  h=4d5;i=4d6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1662  h=4d6;i=4d7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1663  h=4d7;i=4d8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1664  h=4d8;i=4d9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1665  h=4d9;i=4da;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1666  h=4da;i=4db;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1667  h=4db;i=4dc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1668  h=4dc;i=4dd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1669  h=4dd;i=4de;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1670  h=4de;i=4df;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1671  h=4df;i=4e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1672  a=knot-net
+ 1673  h=4cf;i=4d0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1674  h=4d0;i=4d1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1675  h=4d1;i=4d2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1676  h=4d2;i=4d3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1677  h=4d3;i=4d4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1678  h=4d4;i=4d5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1679  h=4d5;i=4d6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1680  h=4d6;i=4d7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1681  h=4d7;i=4d8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1682  h=4d8;i=4d9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1683  h=4d9;i=4da;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1684  h=4da;i=4db;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1685  h=4db;i=4dc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1686  h=4dc;i=4dd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1687  h=4dd;i=4de;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1688  h=4de;i=4df;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1689  h=4df;i=4e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1690  ll
+ 1691  h=4f0;i=4f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n 
+ 1692  cd ..
+ 1693  gs
+ 1694  cd git
+ 1695  cd hn4j
+ 1696  gs
+ 1697  hig git
+ 1698  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1699  git add *.log;git commit -am"git add *.log";git add a bh ua/;git commit -am"git add a bh ua";git add *OvhOneHist.txt;git commit -am"git add *OvhOneHist.txt"
+ 1700  gs
+ 1701  git pull
+ 1702  git push
+ 1703  df
+ 1704  exit
+ 1705  df
+ 1706  ls
+ 1707  ls rq0422
+ 1708  ls rq0514
+ 1709  mkdir rq45eb
+ 1710  cd  rq45eb
+ 1711  n=0000
+ 1712  hig a=
+ 1713  a=dresdenlabs
+ 1714  h=4df;i=4e0;curl https://$a.appspot.com/log?s=$h$n&e=$i$n >$h.$a.rlog 
+ 1715  h=4e0;i=4e1;curl https://$a.appspot.com/log?s=$h$n&e=$i$n >$h.$a.rlog 
+ 1716  h=4e1;i=4e2;curl https://$a.appspot.com/log?s=$h$n&e=$i$n >$h.$a.rlog 
+ 1717  l
+ 1718  ll
+ 1719  4df;i=4e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1720  h=4e0;i=4e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1721  ll
+ 1722  more 4e1.dresdenlabs.rlog 
+ 1723  h=4e0;i=4e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1724  ll
+ 1725  ls ..
+ 1726  ll ../rq0514/
+ 1727  hig a=
+ 1728  ll
+ 1729  h=4df;i=4e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1730  ll
+ 1731  ll ../rq0514/
+ 1732  h=4df;i=4e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1733  h=4e0;i=4e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1734  h=4e1;i=4e2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1735  h=4e2;i=4e3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1736  h=4e3;i=4e4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1737  h=4e4;i=4e5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1738  h=4e5;i=4e6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1739  h=4e6;i=4e7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1740  h=4e7;i=4e8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1741  h=4e8;i=4e9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1742  h=4e9;i=4ea;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1743  h=4ea;i=4eb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1744  h=4eb;i=4ec;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1745  h=4ec;i=4ed;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1746  h=4ed;i=4ee;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1747  h=4ee;i=4ef;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1748  h=4ef;i=4f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1749  hig a=
+ 1750  a=floatingboat2013
+ 1751  ll
+ 1752  h=4df;i=4e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1753  h=4e0;i=4e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1754  h=4e1;i=4e2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1755  h=4e2;i=4e3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1756  h=4e3;i=4e4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1757  h=4e4;i=4e5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1758  h=4e5;i=4e6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1759  h=4e6;i=4e7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1760  h=4e7;i=4e8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1761  h=4e8;i=4e9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1762  h=4e9;i=4ea;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1763  h=4ea;i=4eb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1764  h=4eb;i=4ec;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1765  h=4ec;i=4ed;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1766  h=4ed;i=4ee;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1767  h=4ee;i=4ef;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1768  h=4ef;i=4f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1769  a=knot-net
+ 1770  h=4df;i=4e0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1771  h=4e0;i=4e1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1772  h=4e1;i=4e2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1773  h=4e2;i=4e3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1774  h=4e3;i=4e4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1775  h=4e4;i=4e5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1776  h=4e5;i=4e6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1777  h=4e6;i=4e7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1778  h=4e7;i=4e8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1779  h=4e8;i=4e9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1780  h=4e9;i=4ea;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1781  h=4ea;i=4eb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1782  h=4eb;i=4ec;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1783  h=4ec;i=4ed;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1784  h=4ed;i=4ee;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1785  h=4ee;i=4ef;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1786  h=4ef;i=4f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog 
+ 1787  ll
+ 1788  df
+ 1789  mkdir rq45f1
+ 1790  cd rq45f1
+ 1791  n=0000
+ 1792  hig a=
+ 1793  a=dresdenlabs
+ 1794  ll
+ 1795  h=4ef;i=4f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1796  h=4f0;i=4f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1797  h=4f1;i=4f2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1798  h=4f2;i=4f3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1799  h=4f3;i=4f4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1800  h=4f4;i=4f5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1801  h=4f5;i=4f6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1802  h=4f6;i=4f7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1803  h=4f7;i=4f8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1804  h=4f8;i=4f9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1805  h=4f9;i=4fa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1806  h=4fa;i=4fb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1807  h=4fb;i=4fc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1808  h=4fc;i=4fd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1809  h=4fd;i=4fe;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1810  h=4fe;i=4ff;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1811  h=4ff;i=500;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1812  ll
+ 1813  a=floatingboat2013
+ 1814  h=4ef;i=4f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1815  h=4f0;i=4f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1816  h=4f1;i=4f2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1817  h=4f2;i=4f3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1818  h=4f3;i=4f4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1819  h=4f4;i=4f5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1820  h=4f5;i=4f6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1821  h=4f6;i=4f7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1822  h=4f7;i=4f8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1823  h=4f8;i=4f9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1824  h=4f9;i=4fa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1825  h=4fa;i=4fb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1826  h=4fb;i=4fc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1827  h=4fc;i=4fd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1828  h=4fd;i=4fe;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1829  h=4fe;i=4ff;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1830  h=4ff;i=500;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1831  a=knot-net
+ 1832  h=4ef;i=4f0;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1833  h=4f0;i=4f1;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1834  h=4f1;i=4f2;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1835  h=4f2;i=4f3;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1836  h=4f3;i=4f4;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1837  h=4f4;i=4f5;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1838  h=4f5;i=4f6;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1839  h=4f6;i=4f7;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1840  h=4f7;i=4f8;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1841  h=4f8;i=4f9;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1842  h=4f9;i=4fa;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1843  h=4fa;i=4fb;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1844  h=4fb;i=4fc;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1845  h=4fc;i=4fd;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1846  h=4fd;i=4fe;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1847  h=4fe;i=4ff;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1848  h=4ff;i=500;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1849  ll
+ 1850  hig his
+ 1851  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1852  ls
+ 1853  hig etty
+ 1854  cd git
+ 1855  cd hn4j
+ 1856  hig pw
+ 1857  pw=`cat pw`
+ 1858  df
+ 1859  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;nohup java -Dpw=$pw -cp jetty-all-8.1.9.v20130131.jar:data.json-0.2.6.jar:clojure-1.8.0.jar:hiccup-2.0.0-alpha1.jar:javax.servlet-api-3.1.0.jar:. Jet > $a.Jet.log &
+ 1860  cat at51874a1.c3x15dcfaf.Jet.log 
+ 1861  ll
+ 1862  mkdir rq45fd
+ 1863  cd rq45fd
+ 1864  hig n
+ 1865  hig 00
+ 1866  n=0000
+ 1867  hig a=
+ 1868  a=dresdenlabs
+ 1869  h=4ff;i=500;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1870  h=500;i=501;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1871  h=501;i=502;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1872  h=502;i=503;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1873  h=503;i=504;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1874  h=504;i=505;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1875  h=505;i=506;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1876  h=506;i=507;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1877  h=507;i=508;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1878  h=508;i=509;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1879  h=509;i=50a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1880  h=50a;i=50b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1881  h=50b;i=50c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1882  h=50c;i=50d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1883  h=50d;i=50e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1884  h=50e;i=50f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1885  h=50f;i=510;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1886  ll
+ 1887  a=floatingboat2013
+ 1888  h=4ff;i=500;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1889  h=500;i=501;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1890  h=501;i=502;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1891  h=502;i=503;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1892  h=503;i=504;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1893  h=504;i=505;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1894  h=505;i=506;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1895  h=506;i=507;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1896  h=507;i=508;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1897  h=508;i=509;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1898  h=509;i=50a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1899  h=50a;i=50b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1900  h=50b;i=50c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1901  h=50c;i=50d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1902  h=50d;i=50e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1903  h=50e;i=50f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1904  h=50f;i=510;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1905  a=knot-net
+ 1906  h=4ff;i=500;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1907  h=500;i=501;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1908  h=501;i=502;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1909  h=502;i=503;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1910  h=503;i=504;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1911  h=504;i=505;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1912  h=505;i=506;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1913  h=506;i=507;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1914  h=507;i=508;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1915  h=508;i=509;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1916  h=509;i=50a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1917  h=50a;i=50b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1918  h=50b;i=50c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1919  h=50c;i=50d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1920  h=50d;i=50e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1921  h=50e;i=50f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1922  h=50f;i=510;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1923  ll
+ 1924  df
+ 1925  cd .
+ 1926  cd ..
+ 1927  cd git
+ 1928  cd hn4j
+ 1929  hig gs
+ 1930  hig am
+ 1931  hig Hi
+ 1932  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
+ 1933  git add *.log;git commit -am"git add *.log";git add a bh ua/;git commit -am"git add a bh ua";git add *OvhOneHist.txt;git commit -am"git add *OvhOneHist.txt"
+ 1934  git pull
+ 1935  git push
+ 1936  gs
+ 1937  exit
+ 1938  hig 000
+ 1939  n=0000
+ 1940  hig a=
+ 1941  a=dresdenlabs
+ 1942  mkdir rq4602
+ 1943  cd rq4602
+ 1944  h=50f;i=510;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1945  h=510;i=511;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1946  h=511;i=512;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1947  h=512;i=513;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1948  h=513;i=514;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1949  h=514;i=515;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1950  h=515;i=516;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1951  h=516;i=517;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1952  h=517;i=518;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1953  h=518;i=519;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1954  h=519;i=51a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1955  h=51a;i=51b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1956  h=51b;i=51c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1957  h=51c;i=51d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1958  h=51d;i=51e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1959  h=51e;i=51f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1960  h=51f;i=520;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1961  hig a=
+ 1962  a=floatingboat2013
+ 1963  h=50f;i=510;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1964  h=510;i=511;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1965  h=511;i=512;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1966  h=512;i=513;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1967  h=513;i=514;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1968  h=514;i=515;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1969  h=515;i=516;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1970  h=516;i=517;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1971  h=517;i=518;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1972  h=518;i=519;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1973  h=519;i=51a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1974  h=51a;i=51b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1975  h=51b;i=51c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1976  h=51c;i=51d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1977  h=51d;i=51e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1978  h=51e;i=51f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1979  h=51f;i=520;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1980  a=knot-net
+ 1981  h=50f;i=510;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1982  h=510;i=511;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1983  h=511;i=512;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1984  h=512;i=513;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1985  h=513;i=514;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1986  h=514;i=515;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1987  h=515;i=516;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1988  h=516;i=517;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1989  h=517;i=518;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1990  h=518;i=519;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1991  h=519;i=51a;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1992  h=51a;i=51b;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1993  h=51b;i=51c;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1994  h=51c;i=51d;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1995  h=51d;i=51e;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1996  h=51e;i=51f;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1997  h=51f;i=520;curl https://$a.appspot.com/log?s=$h$n\&e=$i$n >$h.$a.rlog
+ 1998  ll
+ 1999  cd ..
+ 2000  ll
+ 2001  df
+ 2002  cd git
+ 2003  cd hn4j
+ 2004  hig com
+ 2005  hig time
+ 2006  a=`curl https://dresdenlabs.appspot.com/btime`;echo $a;history > ~/git/hn4j/$a.OvhOneHist.txt
