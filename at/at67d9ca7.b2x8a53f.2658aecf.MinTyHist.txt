@@ -1,0 +1,1000 @@
+ 1075  unzip -l sqlite-tools-linux-x86-3270100.zip 
+ 1076  unzip  sqlite-tools-linux-x86-3270100.zip 
+ 1077  sqlite-tools-linux-x86-3270100/sqlite3
+ 1078  sqlite-tools-linux-x86-3270100/sqlite3 db
+ 1079  #testdisk 
+ 1080  df
+ 1081  ls /media/xyz/6492-27AB/
+ 1082  ls /media/xyz/6492-27AB/DCIM/
+ 1083  ls /media/xyz/6492-27AB/DCIM/100MEDIA/
+ 1084  ls ~/LinOne/
+ 1085  ls -l ~/LinOne/X
+ 1086  ls -l ~/LinOne/X*
+ 1087  cp -p /media/xyz/6492-27AB/DCIM/100MEDIA/* ~/LinOne
+ 1088  testdisk
+ 1089  photorec
+ 1090  mount -l
+ 1091  umount /dev/sdc1
+ 1092  umount /dev/sdd1
+ 1093  umount /dev/sdd2
+ 1094  mail
+ 1095  ls .thunderbird/plv5x4xe.default/
+ 1096  ls -l .thunderbird/plv5x4xe.default/
+ 1097  mv  .thunderbird/plv5x4xe.default/ thunderTMP
+ 1098  #at6565ea0.f8x89497.1121b882.33.cast
+ 1099  his
+ 1100  ls
+ 1101  ls 107apple/
+ 1102  sha256sum 107apple/*
+ 1103  hi cas
+ 1104  cd Downloads/
+ 1105  sha256sum *cast*
+ 1106  ls
+ 1107  ls|more
+ 1108  ls *p|more
+ 1109  cd ..
+ 1110  ls
+ 1111  ls -l /media/xyz/ToShiEx1/as/*zip
+ 1112  ls -sl /media/xyz/ToShiEx1/as/*zip
+ 1113  ls -Sl /media/xyz/ToShiEx1/as/*zip
+ 1114  unzip l /media/xyz/ToShiEx1/as/she82cae46_*
+ 1115  unzip -l /media/xyz/ToShiEx1/as/she82cae46_*q
+ 1116  unzip -l /media/xyz/ToShiEx1/as/sh386*
+ 1117  unzip -l /media/xyz/ToShiEx1/as/sh386edd6a_1220_fdeb28827661d0f5419cbbf96a9db627a6f73ee2308629053112b644.zip 
+ 1118  ls -Sl /media/xyz/ToShiEx1/as/*zi
+ 1119  unzip -l /media/xyz/ToShiEx1/as/shf0a5504f_1220_d3e20efd02f0e62d8502fa7b3912e01069ac764adeeea560e07cbbbe.zip 
+ 1120  ls -l /media/xyz/ToShiEx1/as/shf0a5504f_1220_d3e20efd02f0e62d8502fa7b3912e01069ac764adeeea560e07cbbbe.zip 
+ 1121  ls -l /media/xyz/ToShiEx1/as/she82*
+ 1122  ls
+ 1123  ls -l
+ 1124  ls r0
+ 1125  ls x
+ 1126  ls sh
+ 1127  ls -l sh
+ 1128  curl https://floatingboat2013.appspot.com/raw/274735003 > sh781406d.BlFbAd655.txt
+ 1129  sha256sum sh781406d.BlFbAd655.txt 
+ 1130  mv sh781406d.BlFbAd655.txt sh
+ 1131  ll sh/sh781406d.BlFbAd655.txt 
+ 1132  cd sh
+ 1133  mv sh781406d.BlFbAd655.txt sh781406d4.BlFbAd655.txt 
+ 1134  curl https://floatingboat2013.appspot.com/rh/WorkChain > sh690453dd.WorkChain.txt
+ 1135  sha256sum *
+ 1136  ll
+ 1137  curl https://floatingboat2013.appspot.com/rh/BlFbAh656b > sha023f32a.BlFbAh656b.txt
+ 1138  ll
+ 1139  mount -l
+ 1140  ls /media/xyz/ToShiEx1
+ 1141  mkdir /media/xyz/ToShiEx1/sh
+ 1142  man cp
+ 1143  #cp -p * /media/xyz/ToShiEx1/sh
+ 1144  ls
+ 1145  ll
+ 1146  ls -l
+ 1147  ls ..
+ 1148  his
+ 1149  #cp -p * /media/xyz/ToShiEx1/as/shf0a5504f_1220_d3e20efd02f0e62d8502fa7b3912e01069ac764adeeea560e07cbbbe.zip .a
+ 1150  cp -p * /media/xyz/ToShiEx1/as/shf0a5504f_1220_d3e20efd02f0e62d8502fa7b3912e01069ac764adeeea560e07cbbbe.zip shf0a5504f.MindZip.zip
+ 1151  cp -p /media/xyz/ToShiEx1/as/shf0a5504f_1220_d3e20efd02f0e62d8502fa7b3912e01069ac764adeeea560e07cbbbe.zip shf0a5504f.MindZip.zip
+ 1152  ll
+ 1153  cp -p /media/xyz/ToShiEx1/as/she82cae46_1220_d540ad3b4d069da0f4c293d14b08c5d119e9ad09a2b2b60980eaf45c.zip she82cae46.UnWiki.zip
+ 1154  ll
+ 1155  curl https://floatingboat2013.appspot.com/rh//* > sh0a137f39.Sa023f32a.BlFbAh656b.txt
+ 1156  mv sh0a137f39.Sa023f32a.BlFbAh656b.txt sh0a137f39.SlashStar.txt
+ 1157  hi sh
+ 1158  sha256sum *
+ 1159  curl https://floatingboat2013.appspot.com/rh//edit > sh351fdc89.WebEditor.txt
+ 1160  hi scr
+ 1161  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/$a.MinTyShot.png -d 3
+ 1162  mount -l
+ 1163  umount /dev/sdd2
+ 1164  umount /dev/sdd1
+ 1165  #at656f137.47x894d4.cb633ba4.23.cast
+ 1166  his
+ 1167  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw65/$a.MinTyShot.png -d 3
+ 1168  ll
+ 1169  du sh0a137f39.SlashStar.txt
+ 1170  echo "">a
+ 1171  du a
+ 1172  du -?
+ 1173  du --help
+ 1174  du -b a
+ 1175  ll
+ 1176  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw65/$a.MinTyShot.png -d 6
+ 1177  #at657a024.46x89519.221ad861
+ 1178  hi Hi
+ 1179  a=`curl https://floatingboat2013.appspot.com/atime`;echo $a;history > ~/aw65/$a.MinTyHist.txt
+ 1180  hi xxd
+ 1181  hi scr
+ 1182  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw65/$a.MinTyShot.png -d 3
+ 1183  #at658fe8c.ffx895b1.2ca0b6f9.13.cast
+ 1184  his
+ 1185  ll
+ 1186  mkdir b
+ 1187  du -1 b
+ 1188  du -b1 b
+ 1189  du -B1 b
+ 1190  mv a b
+ 1191  du -B1 b
+ 1192  cp b/a b/b
+ 1193  du -B1 b
+ 1194  ll b
+ 1195  rm b/a b/b
+ 1196  rmdir b
+ 1197  ll
+ 1198  unzip -l shf0a5504f.MindZip.zip|grep Bomb
+ 1199  unzip -l shf0a5504f.MindZip.zip|grep Bom
+ 1200  unzip -l shf0a5504f.MindZip.zip|grep Dresd
+ 1201  ls
+ 1202  ll
+ 1203  hi Ssl
+ 1204  hi Py
+ 1205  ls
+ 1206  cp ../zero .
+ 1207  cat shf0a5504f*>>TheFile;./zero 4d>>TheFile
+ 1208  ll
+ 1209  cat sh8faa93a8*>>TheFile;./zero 1c8>>TheFile
+ 1210  cat she82cae46*>>TheFile;./zero 2d>>TheFile
+ 1211  cat sh781406d4*>>TheFile;./zero 11d>>TheFile
+ 1212  cat sh690453dd*>>TheFile;./zero 1a>>TheFile
+ 1213  cat sha023f32a*>>TheFile;./zero 147>>TheFile
+ 1214  cat sh0a137f39*>>TheFile;./zero 191>>TheFile
+ 1215  cat sh351fdc89*>>TheFile;./zero 90>>TheFile
+ 1216  cat shc23b2ad4*>>TheFile;./zero 144>>TheFile
+ 1217  ll
+ 1218  ./zero 147|wc
+ 1219  mv TheFile TMPTheFile
+ 1220  cat sha023f32a*>>TheFile;./zero 147>>TheFile
+ 1221  cat sha023f32a*>>TheFile
+ 1222  ./zero 147>>TheFile
+ 1223  ll
+ 1224  ./zero 147>>TheFile
+ 1225  ll TheFile 
+ 1226  ./zero 90>>TheFile
+ 1227  ./zero 9>>TheFile
+ 1228  ./zero 0>>TheFile
+ 1229  ./zero 0|wc
+ 1230  ./zero 1110|wc
+ 1231  ./zero 100000|wc
+ 1232  ./zero 1000000
+ 1233  ./zero 0 >>TheFile
+ 1234  ./zero 0>>TheFile
+ 1235  ./zero 0 >>TheFile
+ 1236  rm TheFile
+ 1237  ll
+ 1238  cat shf0a5504f*>>TheFile;./zero 4d >>TheFile
+ 1239  cat sh8faa93a8*>>TheFile;./zero 1c8 >>TheFile
+ 1240  cat she82cae46*>>TheFile;./zero 2d >>TheFile
+ 1241  cat sh781406d4*>>TheFile;./zero 11d >>TheFile
+ 1242  cat sh690453dd*>>TheFile;./zero 1a >>TheFile
+ 1243  cat sha023f32a*>>TheFile;./zero 147 >>TheFile
+ 1244  cat sh0a137f39*>>TheFile;./zero 191 >>TheFile
+ 1245  cat sh351fdc89*>>TheFile;./zero 90 >>TheFile
+ 1246  cat shc23b2ad4*>>TheFile;./zero 144 >>TheFile
+ 1247  curl https://floatingboat2013.appspot.com/rh//wiki|sha256sum 
+ 1248  curl https://floatingboat2013.appspot.com/rh//wiki > shc23b2ad4.SlashWiki.txt
+ 1249  ll
+ 1250  rm TMPTheFile 
+ 1251  ll
+ 1252  rm TheFile
+ 1253  cat shf0a5504f*>>TheFile;./zero 4d >>TheFile
+ 1254  cat sh8faa93a8*>>TheFile;./zero 1c8 >>TheFile
+ 1255  cat she82cae46*>>TheFile;./zero 2d >>TheFile
+ 1256  cat sh781406d4*>>TheFile;./zero 11d >>TheFile
+ 1257  cat sh690453dd*>>TheFile;./zero 1a >>TheFile
+ 1258  cat sha023f32a*>>TheFile;./zero 147 >>TheFile
+ 1259  cat sh0a137f39*>>TheFile;./zero 191 >>TheFile
+ 1260  cat sh351fdc89*>>TheFile;./zero 90 >>TheFile
+ 1261  cat shc23b2ad4*>>TheFile;./zero 144 >>TheFile
+ 1262  ll
+ 1263  sha256sum *
+ 1264  curl https://floatingboat2013.appspot.com/head/BlFbAd658
+ 1265  curl https://floatingboat2013.appspot.com/head/BlFbAd657
+ 1266  curl https://floatingboat2013.appspot.com/head/BlFbAd656
+ 1267  curl https://floatingboat2013.appspot.com/head/BlFbAd655
+ 1268  curl https://floatingboat2013.appspot.com/head/BlFbAd654
+ 1269  curl https://floatingboat2013.appspot.com/head/BlFbAd653
+ 1270  curl https://floatingboat2013.appspot.com/head/BlFbAd652
+ 1271  curl https://floatingboat2013.appspot.com/head/BlFbAd651
+ 1272  curl https://floatingboat2013.appspot.com/head/BlFbAd650
+ 1273  curl https://floatingboat2013.appspot.com/head/BlFbAd64f
+ 1274  curl https://floatingboat2013.appspot.com/head/BlFbAd64e
+ 1275  curl https://floatingboat2013.appspot.com/head/BlFbAd64d
+ 1276  curl https://floatingboat2013.appspot.com/head/BlFbAd64c
+ 1277  curl https://floatingboat2013.appspot.com/head/BlFbAd64b
+ 1278  curl https://floatingboat2013.appspot.com/head/BlFbAd64a
+ 1279  curl https://floatingboat2013.appspot.com/head/BlFbAd649
+ 1280  curl https://floatingboat2013.appspot.com/head/BlFbAd648
+ 1281  curl https://floatingboat2013.appspot.com/head/BlFbAd647
+ 1282  curl https://floatingboat2013.appspot.com/head/BlFbAd646
+ 1283  curl https://floatingboat2013.appspot.com/head/BlFbAd645
+ 1284  curl https://floatingboat2013.appspot.com/head/BlFbAd644
+ 1285  curl https://floatingboat2013.appspot.com/head/BlFbAd643
+ 1286  curl https://floatingboat2013.appspot.com/head/BlFbAd642
+ 1287  curl https://floatingboat2013.appspot.com/head/BlFbAd641
+ 1288  curl https://floatingboat2013.appspot.com/head/BlFbAd640
+ 1289  curl https://floatingboat2013.appspot.com/head/BlFbAd63f
+ 1290  curl https://floatingboat2013.appspot.com/head/BlFbAd63e
+ 1291  curl https://floatingboat2013.appspot.com/head/BlFbAd63d
+ 1292  curl https://floatingboat2013.appspot.com/head/BlFbAd63c
+ 1293  curl https://floatingboat2013.appspot.com/head/BlFbAd63b
+ 1294  curl https://floatingboat2013.appspot.com/head/BlFbAd63a
+ 1295  curl https://floatingboat2013.appspot.com/head/BlFbAd639
+ 1296  curl https://floatingboat2013.appspot.com/head/BlFbAd638
+ 1297  curl https://floatingboat2013.appspot.com/head/BlFbAd637
+ 1298  curl https://floatingboat2013.appspot.com/head/BlFbAd636
+ 1299  curl https://floatingboat2013.appspot.com/head/BlFbAd635
+ 1300  curl https://floatingboat2013.appspot.com/head/BlFbAd634
+ 1301  curl https://floatingboat2013.appspot.com/head/BlFbAd632
+ 1302  curl https://floatingboat2013.appspot.com/head/BlFbAd630
+ 1303  curl https://floatingboat2013.appspot.com/head/BlFbAd62f
+ 1304  curl https://floatingboat2013.appspot.com/head/BlFbAd62d
+ 1305  curl https://floatingboat2013.appspot.com/head/BlFbAd62c
+ 1306  curl https://floatingboat2013.appspot.com/head/BlFbAd62b
+ 1307  hi cut
+ 1308  curl https://floatingboat2013.appspot.com/raw/274795004
+ 1309  curl https://floatingboat2013.appspot.com/raw/274795004|cut -f 9
+ 1310  curl https://floatingboat2013.appspot.com/raw/274795004|cut -f 1
+ 1311  man cut
+ 1312  curl https://floatingboat2013.appspot.com/raw/274795004|cut -N 6
+ 1313  curl https://floatingboat2013.appspot.com/raw/274795004|cut -N6
+ 1314  man cut
+ 1315  man cut|more
+ 1316  curl https://floatingboat2013.appspot.com/raw/274795004|cut -c -N6
+ 1317  curl https://floatingboat2013.appspot.com/raw/274795004|cut -c-6
+ 1318  curl https://floatingboat2013.appspot.com/raw/274795004|cut -c-10
+ 1319  curl https://floatingboat2013.appspot.com/raw/274795004|cut -c-9
+ 1320  #curl https://floatingboat2013.appspot.com/raw/274795004|cut -c-9
+ 1321  hi zip
+ 1322  hi scr
+ 1323  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw65/$a.MinTyShot.png -d 3
+ 1324  ls
+ 1325  hi gcc
+ 1326  #at659fdbe.3bx8961b.242c619a
+ 1327  #at65a099e.a8x8961e.26d06a8c.03.cast
+ 1328  his
+ 1329  hi Hi
+ 1330  a=`curl https://floatingboat2013.appspot.com/atime`;echo $a;history > ~/aw65/$a.MinTyHist.txt
+ 1331  ll
+ 1332  cd ..
+ 1333  ll
+ 1334  mv -i WebApp.py* aw64
+ 1335  mv -i xa* aw65
+ 1336  ll zora
+ 1337  cd zora/
+ 1338  mv -i at62* ../aw62/ 
+ 1339  ll
+ 1340  ll bohm
+ 1341  ll rar
+ 1342  rmdir rar
+ 1343  ll wenk
+ 1344  sha256sum wenk/sh*
+ 1345  more wenk/sh*
+ 1346  #at65a099e.a8x8961e.26d06a8c.03.cast
+ 1347  mv wenk/sh1c632e14.newsticker.rdf.xml ../sh/
+ 1348  cd wenk/
+ 1349  mv she81ca3154.newsticker.rdf.xml she81ca315.newsticker.rdf.xml 
+ 1350  mv she81ca315.newsticker.rdf.xml ../../sh/
+ 1351  ll|more
+ 1352  l
+ 1353  cd ..
+ 1354  mv wenk ..
+ 1355  l
+ 1356  ll
+ 1357  mv bohm ..
+ 1358  more fb256055006.html
+ 1359  l
+ 1360  ll
+ 1361  mv -i * ../aw62
+ 1362  cd ..
+ 1363  rmdir zora
+ 1364  ll
+ 1365  ll wav
+ 1366  l x
+ 1367  ll x
+ 1368  mv -i x/* aw63
+ 1369  rmdir x
+ 1370  ll
+ 1371  ll wsock/
+ 1372  ll|more
+ 1373  ll aw60|more
+ 1374  ll aw61|more
+ 1375  ll aw62|more
+ 1376  ll aw63|more
+ 1377  ll aw64|more
+ 1378  ll aw65|more
+ 1379  hi tim
+ 1380  a=`curl https://sl4.eu/atime`;echo $a
+ 1381  #at65b5f9e.6ax8969d.1064e7ed.92.cast
+ 1382  his
+ 1383  l
+ 1384  ./zero 200|wc
+ 1385  ./zero 200|sha256sum 
+ 1386  ./zero 200 > sh/sh076a27c7.zeros.bin
+ 1387  cd sh
+ 1388  ll
+ 1389  cat sh076a27c7.zeros.bin TheFile > tf 
+ 1390  ll
+ 1391  mv tf TheFile
+ 1392  hi sp
+ 1393  hi spl
+ 1394  his
+ 1395  bi bz
+ 1396  vi eval
+ 1397  hi eval
+ 1398  ll
+ 1399  hi scr
+ 1400  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw65/$a.MinTyShot.png -d 3
+ 1401  hi clj
+ 1402  ll
+ 1403  ll|sort
+ 1404  ll|sort -c 7
+ 1405  ll|sort -c7
+ 1406  ll|sort -k7
+ 1407  ll|sort -k9
+ 1408  ll|sort -k9|cut -f5
+ 1409  ll|sort -k9|cut -f 5
+ 1410  hi cut
+ 1411  ll|sort -k9|cut -f 5
+ 1412  ll|sort -k9|cut -f 2
+ 1413  ll|sort -k9|cut -f2
+ 1414  ll|sort -k9
+ 1415  hi cut
+ 1416  ll|sort -k9
+ 1417  ll|sort -k8
+ 1418  ll|sort -k9|cut -f 1
+ 1419  ll|sort -k9|cut -f1
+ 1420  man cut
+ 1421  ll|cut -f 1
+ 1422  ls -l|cut -f 1
+ 1423  man cut
+ 1424  ls -l|cut -f=1
+ 1425  ls -l|cut -f1
+ 1426  man cut
+ 1427  ls -l|cut -f1-3
+ 1428  ls -l|cut f1-3
+ 1429  ls -l|cut f 1-3
+ 1430  cut --he
+ 1431  tail TheFile 
+ 1432  ls ~/wenk|more
+ 1433  ll ~/wenk|more
+ 1434  ls -lS ~/wenk|more
+ 1435  cat ~/wenk/20180628-Kanada\ Fahrplan-2217.html 
+ 1436  ll
+ 1437  cat sh2e100750*>>TheFile;./zero 90 >>TheFile
+ 1438  cat she8617115*>>TheFile;./zero 194 >>TheFile
+ 1439  #cat sh46082a34*>>TheFile;./zero 75 >>TheFile
+ 1440  his
+ 1441  ll
+ 1442  ls -l
+ 1443  his|tail
+ 1444  tail TheFile 
+ 1445  ##cp ~/blfb/311065002.txt 
+ 1446  ll ~/blfb/
+ 1447  mv ~/blfb/sh2e100750.BlFbAd659.txt .
+ 1448  hi splt
+ 1449  hi html
+ 1450  #mv ~/blfb/sh2e100750.BlFbAd659.txt .h
+ 1451  hi eval
+ 1452  hi cut
+ 1453  ll
+ 1454  hi spl
+ 1455  ./splt 000200 44efb3|sha256sum
+ 1456  ./splt 000000 000200|sha256sum
+ 1457  ./splt 000200 44efb3|sha256sum
+ 1458  ./splt 000000 000200|sha256sum >>TheHash
+ 1459  ./splt 000200 44efb3|sha256sum >>TheHash
+ 1460  ./splt 44f200 039038|sha256sum >>TheHash
+ 1461  cat TheHash 
+ 1462  ./splt 488400 b8b7d3|sha256sum
+ 1463  ./splt 488400 b8b7d3|sha256sum >>TheHash
+ 1464  cat TheHash
+ 1465  ./splt 1013c00 0020e3|sha256sum 
+ 1466  curl https://floatingboat2013.appspot.com/eval/307225005|sort -k2
+ 1467  ./splt 1013c00 0020e3|xxdsha256sum 
+ 1468  ./splt 200 200|xxd -ps
+ 1469  xxd -?
+ 1470  ./splt 200 200|xxd -ps -c 64
+ 1471  ./splt 200 200|xxd -ps -c 32
+ 1472  hi gcc
+ 1473  #https://stackoverflow.com/questions/36092559/open-file-by-inode
+ 1474  hi TheH
+ 1475  hi spl
+ 1476  ./splt 1013c00 0020e3|sha256sum 
+ 1477  ./splt 048a600 00020e3|sha256sum 
+ 1478  ./splt 1013c00 00020e3|sha256sum 
+ 1479  ll
+ 1480  ./splt 1015e00 00005e6|sha256sum 
+ 1481  ./splt 1016400 00020b9|sha256sum 
+ 1482  ./splt 1018600 0001a6f|sha256sum 
+ 1483  ./splt 101a200 0001970|sha256sum 
+ 1484  ./splt 101a000 0001970|sha256sum 
+ 1485  ./splt 101a000 0001970|hexdump -C|more
+ 1486  ./splt 101a200 0001970|hexdump -C|more
+ 1487  ll
+ 1488  ./splt 101a200 0001970|more
+ 1489  ll
+ 1490  sha256sum sh351fdc89.WebEditor.txt 
+ 1491  mv sh351fdc89.WebEditor.txt sh2d467ea8.WebEditor.txt
+ 1492  ./splt 101bc00 00014bc|sha256sum 
+ 1493  ./splt 101d299 0001d70|sha256sum 
+ 1494  ./splt 101d200 0001d70|sha256sum 
+ 1495  ./splt 101d200 0001d70|hexdump -C|more
+ 1496  ll
+ 1497  ./splt 101d200 0001a6d|sha256sum 
+ 1498  ll
+ 1499  ./splt 101d200 0001a6c|sha256sum 
+ 1500  ./splt 101ee00 0002d8b|hexdump -C|more
+ 1501  ll TheFile 
+ 1502  ../zero 194|wc
+ 1503  ../zero 194 >>TheFile
+ 1504  ll TheFile 
+ 1505  sha256sum TheFile
+ 1506  hi scp
+ 1507  hi ssh
+ 1508  #scp TheFile  rawa@212.48.117.118
+ 1509  his
+ 1510  ./splt 101d200 0001a6d|sha256sum 
+ 1511  ll
+ 1512  hi spl
+ 1513  ./splt 101d200 0001a6d|sha256sum 
+ 1514  ll
+ 1515  ./splt 101bc00 00014bc|sha256sum 
+ 1516  sha256sum *
+ 1517  hi spl
+ 1518  ./splt 101d200 0001d70|hexdump -C|more
+ 1519  ./splt 101d200 0001d70|sha256sum 
+ 1520  ll
+ 1521  ./splt 101d200 0001d70|sha256sum 
+ 1522  ./splt 101d200 0001d70|tail
+ 1523  ./splt 101d200 0001a6c|tail
+ 1524  ./splt 101d200 0001a6c|sha256sum 
+ 1525  ll
+ 1526  curl https://floatingboat2013.appspot.com/raw/301335005|sha256sum 
+ 1527  #curl https://floatingboat2013.appspot.com/raw/301335005 >sh97fc3024.LenTabAh65bf.txt
+ 1528  his
+ 1529  curl https://floatingboat2013.appspot.com/raw/301335005 >sh97fc3024.LenTabAh65bf.txt
+ 1530  sha256sum sh9*
+ 1531  ll sh9*
+ 1532  curl https://floatingboat2013.appspot.com/rh/LenTab >shbb37a1ff.LenTab.txt
+ 1533  ll shbb37a1ff*
+ 1534  hi zer
+ 1535  cat shc23b2ad4*>>TheFile;./zero 144 >>TheFile
+ 1536  ll TheFile 
+ 1537  hi split
+ 1538  split -b16903680 TheFile 
+ 1539  ll
+ 1540  sha256sum xaa
+ 1541  mv xaa TheFile
+ 1542  sha256sum xab
+ 1543  rm xab
+ 1544  #cat sh97fc3024.LenTabAh65bf.txt >>TheFile;./zero 144 >>TheFile
+ 1545  ll sh97fc3024.LenTabAh65bf.txt 
+ 1546  cat sh97fc3024.LenTabAh65bf.txt >>TheFile;../zero 1fc >>TheFile
+ 1547  ll TheFile 
+ 1548  hi scp
+ 1549  #scp TheFile  rawa@212.48.117.118
+ 1550  scp TheFile rawa@212.48.117.118:/home/rawa/
+ 1551  md5 TheFile 
+ 1552  md5sum TheFile 
+ 1553  ll TheHash
+ 1554  more TheHash
+ 1555  more sh97fc3024.LenTabAh65bf.txt 
+ 1556  #https://stackoverflow.com/questions/4881930/remove-the-last-line-from-a-file-in-bash
+ 1557  his
+ 1558  cd ..
+ 1559  mkdir ar
+ 1560  cd ar
+ 1561  unzip ~/Downloads/1744-1759.archive.zip 
+ 1562  sha256sum *
+ 1563  unzip ~/Downloads/LinOn6c.zip
+ 1564  ll
+ 1565  hi py
+ 1566  curl https://sl4.eu/rh/HalPy|python
+ 1567  unzip ~/Downloads/LinOn6b.zip
+ 1568  curl https://sl4.eu/rh/HalPy|python|sort -k2
+ 1569  sort
+ 1570  sort -?
+ 1571  sort --h
+ 1572  sort --he
+ 1573  curl https://sl4.eu/rh/HalPy|python|sort -kr2
+ 1574  curl https://sl4.eu/rh/HalPy|python|sort -rk2
+ 1575  curl https://sl4.eu/rh/HalPy|python|sort -r -k2
+ 1576  #at65ce9e9.a9x8975e.b6ce7b4e.82.cast
+ 1577  his
+ 1578  hi Hi
+ 1579  a=`curl https://floatingboat2013.appspot.com/atime`;echo $a;history > ~/aw65/$a.MinTyHist.txt
+ 1580  ll ~
+ 1581  ll ~/Downloads/
+ 1582  ll ~/Downloads/*3
+ 1583  hi dd
+ 1584  #at65e19d6.73x897cd.1388a769.72.cast
+ 1585  his
+ 1586  #at65f283d.88x8982e.eb775bd0.62.cast
+ 1587  his
+ 1588  hi zero
+ 1589  nslookup ze.tt
+ 1590  nslookup sl4.eu
+ 1591  nslookup
+ 1592  nslookup sl4.eu ze.tt
+ 1593  nslookup sl4.eu,ze.tt
+ 1594  nslookup sl4.eu|tail
+ 1595  tail -?
+ 1596  tail --h
+ 1597  nslookup sl4.eu|tail -2
+ 1598  nslookup sl4.eu|tail -2|head 1
+ 1599  nslookup sl4.eu|tail -2|head -1
+ 1600  md5sum ~/Downloads/md5_SchellBach1838_2c46454f18819e0c7c916af9b797fffe.jpg 
+ 1601  sha256sum ~/Downloads/md5_SchellBach1838_2c46454f18819e0c7c916af9b797fffe.jpg 
+ 1602  cp ~/Downloads/md5_SchellBach1838_2c46454f18819e0c7c916af9b797fffe.jpg ../sh/shf532cadd.SchellBach1838.jpg
+ 1603  ll ~/Downloads/md5_SchellBach1838_2c46454f18819e0c7c916af9b797fffe.jpg 
+ 1604  cd ~/Downloads/
+ 1605  sha256sum at65*cast*
+ 1606  sha256sum at65*cast.webm
+ 1607  ll at65*cast.webm
+ 1608  hi spl
+ 1609  ./splt 101d200 0001a6c|sha256sum 
+ 1610  ./splt 101ee00 0001a6c
+ 1611  cd
+ 1612  cd sh
+ 1613  ./splt 101ee00 0001a6c
+ 1614  hi LenTab
+ 1615  ./splt 101ee00 204
+ 1616  ./splt 101ee00 205
+ 1617  ./splt 101ee00 206
+ 1618  ./splt 101ee00 20a
+ 1619  ./splt 101ee00 20a|hexdump
+ 1620  ./splt 101ee00 204|hexdump
+ 1621  ll
+ 1622  cat TheHash 
+ 1623  ./splt 101ee00 204
+ 1624  sha256sum splt 
+ 1625  cp splt shd6b72b14.splt.exe
+ 1626  ll
+ 1627  ./fold
+ 1628  sha256sum fold 
+ 1629  mv fold sh6cfb0ea8.fold.exe
+ 1630  sha256sum ../zero 
+ 1631  cp -p ../zero she8b22b2f.zero.exe
+ 1632  ll
+ 1633  hi spl
+ 1634  ./splt 101ee00 204|hexdump
+ 1635  ./splt 101ee00 204
+ 1636  ll
+ 1637  hi TheF
+ 1638  #cat shc23b2ad4*>>TheFile;./zero 144 >>TheFile
+ 1639  ll
+ 1640  cat shd6b72b14.splt.exe >>TheFile;./zero 1c >>TheFile
+ 1641  ll
+ 1642  ../zero 1c >>TheFile
+ 1643  ll
+ 1644  hi scr
+ 1645  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw65/$a.MinTyShot.png -d 3
+ 1646  hi bz
+ 1647  cd ~/Downloads/
+ 1648  sha256sum at65*cast.webm
+ 1649  ll at65*cast.webm
+ 1650  hi scr
+ 1651  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw65/$a.MinTyShot.png -d 3
+ 1652  ll at60*webm
+ 1653  mv -i at60533b0.31x87107.ac67d558.webm at60533b0.31x87107.ac67d558.cast.webm 
+ 1654  mv at608edc8.a4x87266.4a0caa04.webm at608edc8.a4x87266.4a0caa04.cast.webm 
+ 1655  mv -i at608f08e.f3x87266.4a0caa04.webm at608f08e.f3x87266.4a0caa04.cast.webm 
+ 1656  mv -i at60dfe91.ebx87474.239831ec.webm at60dfe91.ebx87474.239831ec.cast.webm 
+ 1657  #mv -i at60e0218.6fx87475.13d44a7c.cast.webm 
+ 1658  mv -i at60e1009.1cx8747a.4e56317d.webm at60e1009.1cx8747a.4e56317d.cast.webm 
+ 1659  ll at60*webm
+ 1660  mv -i at60e6a5c.70x87499.196a27e8.webm at60e6a5c.70x87499.196a27e8.cast.webm 
+ 1661  #mv at60e6dc7.eex8749b.123faffc.cast.webm 
+ 1662  mv at60e7235.40x8749b.123faffc.webm at60e7235.40x8749b.123faffc.cast.webm 
+ 1663  ll at60*webm
+ 1664  ll at61*webm
+ 1665  hi scr
+ 1666  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw65/$a.MinTyShot.png -d 3
+ 1667  #at6609134.f0x898dc.2a1bb4c3
+ 1668  ll at60+cast.webm
+ 1669  ll at60*cast.webm
+ 1670  hi scr
+ 1671  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw65/$a.MinTyShot.png -d 3
+ 1672  ll at60*cast.webm
+ 1673  ll at61*cast.webm
+ 1674  ll at60*cast.webm
+ 1675  ll at61*cast.webm
+ 1676  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw65/$a.MinTyShot.png -d 3
+ 1677  #at660e6db.56x89906.1db7ad97
+ 1678  cd ..
+ 1679  l
+ 1680  mkdir rq46f3
+ 1681  cd rq46f3
+ 1682  n=0000
+ 1683  a=dresdenlabs
+ 1684  h=64f;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1685  h=650;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1686  h=651;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1687  h=652;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1688  h=653;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1689  h=654;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1690  h=655;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1691  h=656;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1692  h=657;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1693  h=658;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1694  h=659;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1695  h=65a;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1696  h=65b;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1697  h=65c;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1698  h=65d;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1699  h=65e;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1700  h=65f;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1701  ll
+ 1702  a=floatingboat2013
+ 1703  h=64f;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1704  h=650;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1705  h=651;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1706  h=652;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1707  h=653;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1708  h=654;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1709  h=655;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1710  h=656;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1711  h=657;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1712  h=658;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1713  h=659;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1714  h=65a;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1715  h=65b;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1716  h=65c;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1717  h=65d;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1718  h=65e;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1719  h=65f;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1720  a=knot-net
+ 1721  ll
+ 1722  h=64f;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1723  h=650;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1724  h=651;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1725  h=652;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1726  h=653;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1727  h=654;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1728  h=655;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1729  h=656;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1730  h=657;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1731  h=658;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1732  h=659;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1733  h=65a;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1734  h=65b;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1735  h=65c;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1736  h=65d;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1737  h=65e;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1738  h=65f;curl https://$a.appspot.com/log?s=$h$n >$h.$a.rlog
+ 1739  ll
+ 1740  cd
+ 1741  cd Downloads/
+ 1742  his
+ 1743  hi aw
+ 1744  ll at60*cast.webm
+ 1745  ll at602*.webm
+ 1746  mv at60238c9.18x86fed.adcf8fac.DbWb1.webm at60238c9.18x86fed.adcf8fac.DbWb1.cast.webm 
+ 1747  ll at61*.webm
+ 1748  ll at62*.webm
+ 1749  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw66/$a.MinTyShot.png -d 3
+ 1750  ls ~/aw66
+ 1751  mkdir ~/aw66
+ 1752  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw66/$a.MinTyShot.png -d 3
+ 1753  ll at63*.webm
+ 1754  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw66/$a.MinTyShot.png -d 3
+ 1755  hi cast
+ 1756  #at66126a7.8bx89929.1d6d68e1.52.cast
+ 1757  his
+ 1758  ll at64*.webm
+ 1759  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw66/$a.MinTyShot.png -d 3
+ 1760  ll at65*.webm
+ 1761  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw66/$a.MinTyShot.png -d 3
+ 1762  #wget https://github.com/janet-lang/janet/releases/download/0.3.0/janet-0.3.0-linux.tar.gz
+ 1763  cd
+ 1764  mkdir janet
+ 1765  cd janet/
+ 1766  wget https://github.com/janet-lang/janet/releases/download/0.3.0/janet-0.3.0-linux.tar.gz
+ 1767  tar xf janet-0.3.0-linux.tar.gz 
+ 1768  ll
+ 1769  l build/
+ 1770  build/janet
+ 1771  make
+ 1772  ls
+ 1773  ls src/
+ 1774  wget https://github.com/janet-lang/janet/archive/0.3.0.zip
+ 1775  ls
+ 1776  unzip 0.3.0.zip 
+ 1777  cd janet-0.3.0/
+ 1778  ls
+ 1779  make
+ 1780  make test
+ 1781  ls
+ 1782  ls build
+ 1783  build/janet 
+ 1784  #at6620236.19x8998f.dbf5eedf.42.cast
+ 1785  his
+ 1786  #at66236dd.a3x899a6.28785fff.32.cast
+ 1787  ls
+ 1788  ll
+ 1789  ll build
+ 1790  ping web.de
+ 1791  hi sys
+ 1792  hi 118
+ 1793  traceroute 212.48.117.118 
+ 1794  ping 212.48.117.118 
+ 1795  traceroute 212.48.117.118 
+ 1796  ls
+ 1797  hexdump janet-installer.nsi 
+ 1798  hexdump -C janet-installer.nsi 
+ 1799  more janet-installer.nsi 
+ 1800  ll
+ 1801  more appveyor.yml 
+ 1802  traceroute 212.48.117.118 
+ 1803  ll
+ 1804  more CONTRIBUTING.md 
+ 1805  ll
+ 1806  ll tools/
+ 1807  more tools/xxd.c 
+ 1808  ll
+ 1809  ll ctest/
+ 1810  ll .builds/
+ 1811  ll assets/
+ 1812  traceroute 212.48.117.118 
+ 1813  #at66342e1.e6x89a26.17ca66c5.22.cast
+ 1814  his
+ 1815  hi Hi
+ 1816  #at66342e1.e6x89a26.17ca66c5.22.cast
+ 1817  a=`curl https://floatingboat2013.appspot.com/atime`;echo $a;history > ~/aw66/$a.MinTyHist.txt
+ 1818  ls
+ 1819  ll
+ 1820  hi ssh
+ 1821  #at663540d.62x89a2a.25517f60
+ 1822  #PreHibernate
+ 1823  mv ~/aw65/at6635e06.fbx89a2c.b68e2581.MinTyHist.txt ~/aw66/
+ 1824  cal 2019
+ 1825  hiscr
+ 1826  hi scr
+ 1827  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw66/$a.MinTyShot.png -d 3
+ 1828  #at664de87.69x89ac5.20ed41c3.12.cast
+ 1829  his
+ 1830  #at6650238.1ax89ad9.f6d10463.02.cast
+ 1831  his
+ 1832  hi scr
+ 1833  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw66/$a.MinTyShot.png -d 3
+ 1834  #at6653960.07x89aec.210b89a5.91.cast
+ 1835  his
+ 1836  hi ss
+ 1837  #at665da05.94x89b29.14329532.81.cast
+ 1838  his
+ 1839  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw66/$a.MinTyShot.png -d 3
+ 1840  hi sys
+ 1841  ll /media/xyz/
+ 1842  ll /media/xyz/6492-27AB/
+ 1843  ll /media/xyz/6492-27AB/DCIM/
+ 1844  ll /media/xyz/6492-27AB/DCIM/100BURST/
+ 1845  ll /media/xyz/6492-27AB/DCIM/100BURST/002/IMAG000*
+ 1846  cp -ip /media/xyz/6492-27AB/DCIM/100BURST/002/IMAG000* ~/LinOne/
+ 1847  cp -ip /media/xyz/6492-27AB/DCIM/100MEDIA/* ~/LinOne/
+ 1848  ll ~/LinOne/
+ 1849  ll ~/LinOne/|more
+ 1850  ll /media/xyz/6492-27AB/DCIM/100MEDIA/|more
+ 1851  cd
+ 1852  mkdir LinTwo
+ 1853  cd LinTwo/
+ 1854  cp -pi /media/xyz/6492-27AB/DCIM/100MEDIA/* .
+ 1855  df
+ 1856  ll /media/xyz/6492-27AB/
+ 1857  ll /media/xyz/6492-27AB/Pictures/
+ 1858  ll /media/xyz/6492-27AB/Pictures/Screenshots/
+ 1859  cp -pi /media/xyz/6492-27AB/Pictures/Screenshots/ .
+ 1860  cp -pi /media/xyz/6492-27AB/Pictures/Screenshots/* .
+ 1861  ll /media/xyz/6492-27AB/
+ 1862  ll /media/xyz/6492-27AB/Download/
+ 1863  cp -pi /media/xyz/6492-27AB/Download/IM* .
+ 1864  ll /media/xyz/6492-27AB/
+ 1865  ll /media/xyz/6492-27AB/My\ Documents/
+ 1866  ll /media/xyz/6492-27AB/My\ Documents/My\ Recordings/
+ 1867  cp -ip /media/xyz/6492-27AB/My\ Documents/My\ Recordings/ .
+ 1868  cp -ip /media/xyz/6492-27AB/My\ Documents/My\ Recordings/* .
+ 1869  ll /media/xyz/6492-27AB/My\ Documents/Footprints/
+ 1870  rmdir /media/xyz/6492-27AB/My\ Documents/Footprints/
+ 1871  ll /media/xyz/6492-27AB/My\ Documents/Trips/
+ 1872  rmdir /media/xyz/6492-27AB/My\ Documents/Trips/
+ 1873  ll /media/xyz/6492-27AB/My\ Documents/My\ Recordings/
+ 1874  ll /media/xyz/6492-27AB/bugreports/bugreport-2019-02-10-15-21-08.txt 
+ 1875  ll /media/xyz/6492-27AB/
+ 1876  ll /media/xyz/6492-27AB/Pictures/
+ 1877  ll /media/xyz/6492-27AB/PiRecTiny/
+ 1878  ll /media/xyz/HTC\ STORAGE/
+ 1879  ll /media/xyz/HTC\ STORAGE/DCIM/
+ 1880  ll /media/xyz/HTC\ STORAGE/DCIM/100MEDIA/
+ 1881  ll /media/xyz/HTC\ STORAGE/DCIM/100MEDIA/|more
+ 1882  cp -pi /media/xyz/HTC\ STORAGE/DCIM/100MEDIA/* .
+ 1883  ll /media/xyz/HTC\ STORAGE/DCIM/100MEDIA/|more
+ 1884  cp -pi /media/xyz/HTC\ STORAGE/DCIM/100MEDIA/* .
+ 1885  cd ..
+ 1886  mkdir LinDre
+ 1887  cd LinDre
+ 1888  cp -pi /media/xyz/HTC\ STORAGE/DCIM/100MEDIA/* .
+ 1889  ll /media/xyz/HTC\ STORAGE/Android/
+ 1890  cp -piR /media/xyz/HTC\ STORAGE/Android/data/com.htc.album/.thumbnails/ .
+ 1891  ll
+ 1892  #mv .thumbnails/* .
+ 1893  ll .thumbnails/
+ 1894  mv .thumbnails/* .
+ 1895  mv -i ??/* .
+ 1896  ll
+ 1897  rmdir .thumbnails/
+ 1898  rmdir ??
+ 1899  ll
+ 1900  ll|more
+ 1901  hi scr
+ 1902  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw66/$a.MinTyShot.png -d 3
+ 1903  cd ..
+ 1904  mkdir epad
+ 1905  cd epad
+ 1906  ll /media/xyz/
+ 1907  mount -l
+ 1908  ll
+ 1909  ll /media/xyz/Volume/107APPLE/IMG_7*
+ 1910  ll /media/xyz/Volume/
+ 1911  ll /media/xyz/Volume/102APPLE/
+ 1912  ll /media/xyz/Volume/101APPLE/
+ 1913  ll /media/xyz/Volume/101APPLE/175*
+ 1914  ll /media/xyz/Volume/101APPLE/IMG_175*
+ 1915  ll /media/xyz/Volume/101APPLE/IMG_17*
+ 1916  ll /media/xyz/Volume/101APPLE/
+ 1917  ll /media/xyz/Volume/100APPLE/
+ 1918  his
+ 1919  ls
+ 1920  echo -n 'Azimuth and Ecliptic are live. The ownership registry is now out of Tlon'\''s hands.' | shasum -a 256
+ 1921  #at66675e2.7ex89b60.1e27c513.71.cast
+ 1922  his
+ 1923  hi tra
+ 1924  traceroute 212.48.117.118 
+ 1925  #at6673bd9.58x89bbb.1c2aff92.61.cast
+ 1926  his
+ 1927  echo -n 'Azimuth and Ecliptic are live. The ownership registry is now out of Tlon'\''s hands.' | shasum
+ 1928  shasum
+ 1929  shasum -?
+ 1930  shasum -h
+ 1931  echo -n 'Azimuth and Ecliptic are live. The ownership registry is now out of Tlon'\''s hands.' | shasum
+ 1932  ls
+ 1933  sha256sum *
+ 1934  hi scr
+ 1935  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw66/$a.MinTyShot.png -d 3
+ 1936  #at667ce96.d9x89bfd.1a141495.51.cast
+ 1937  his
+ 1938  a=`curl https://floatingboat2013.appspot.com/atime`;echo $a;history > ~/aw66/$a.MinTyHist.txt
+ 1939  #at667eba3.31x89c0f.25c49c5e.41.cast
+ 1940  his
+ 1941  a=`curl https://dresdenlabs.appspot.com/atime`;echo $a;gnome-screenshot -f ~/aw66/$a.MinTyShot.png -d 3
+ 1942  #at6689966.e8x89c56.2d469b62.31.cast
+ 1943  his
+ 1944  ls /aw66
+ 1945  ls ~/aw66
+ 1946  cd ~/aw66
+ 1947  ll
+ 1948  mv 6689e21.-cf04cc.ShotPy.png at6689e21.cf04cc.ShotPy.png 
+ 1949  mv 6689e62.-6a9788.ShotPy.png at6689e62.6a9788.ShotPy.png 
+ 1950  ll
+ 1951  diff at6689f24.ef9b20.ShotPy.png at6689f13.f233dc.ShotPy.png 
+ 1952  sha256sum at6689f24.ef9b20.ShotPy.png at6689f13.f233dc.ShotPy.png 
+ 1953  ll
+ 1954  sha256sum at66*
+ 1955  cd ..
+ 1956  mkdir eye
+ 1957  cd eye
+ 1958  wget https://raw.githubusercontent.com/wasserfuhr/AllHashes/master/Eye.java
+ 1959  javac Eye.java
+ 1960  java Eye
+ 1961  java Eye /home/xyz/aw66/at668b0e3.c57554.ShotPy.png
+ 1962  curl https://floatingboat2013.appspot.com/rh/EyeJava>Eye.java
+ 1963  javac Eye.java
+ 1964  curl https://floatingboat2013.appspot.com/rh/EyeJava>Eye.java
+ 1965  javac Eye.java
+ 1966  java Eye
+ 1967  his
+ 1968  java Eye /home/xyz/aw66/at668b0e3.c57554.ShotPy.png
+ 1969  his
+ 1970  curl https://floatingboat2013.appspot.com/rh/EyeJava>Eye.java;javac Eye.java
+ 1971  java Eye /home/xyz/aw66/at668b0e3.c57554.ShotPy.png 20 20
+ 1972  cd ..
+ 1973  cd aw66
+ 1974  ll
+ 1975  df
+ 1976  #at668ce73.83x89c77.1489e72b.21.cast
+ 1977  his
+ 1978  curl https://floatingboat2013.appspot.com/rh/EyeJava>Eye.java;javac Eye.java
+ 1979  java Eye /home/xyz/aw66/at668b0e3.c57554.ShotPy.png 20 20
+ 1980  java Eye /home/xyz/aw66/at668b0e3.c57554.ShotPy.png
+ 1981  java Eye /home/xyz/aw66/at668b0e3.c57554.ShotPy.png 0 0
+ 1982  cd eye
+ 1983  java Eye /home/xyz/aw66/at668b0e3.c57554.ShotPy.png 0 0
+ 1984  #at669ee4a.e5x89ce7.d27619a1.11.cast
+ 1985  #java Eye /home/xyz/aw66/at668b0e3.c57554.ShotPy.png 0 0
+ 1986  hi ssh
+ 1987  grep ssh ~/*MinTyH*
+ 1988  grep ssh ~/aw66/*MinTyH*
+ 1989  #ssh rawa@212.48.117.118
+ 1990  ssh rawa@212.48.117.118
+ 1991  #at66a7133.4cx89d1a.49a67da8.01.cast
+ 1992  his
+ 1993  hi sy
+ 1994  grep sys ~/aw66/*MinTyH*
+ 1995  tail -f /var/log/syslog
+ 1996  exit
+ 1997  tail -f /var/log/syslog
+ 1998  exit
+ 1999  tail -f /var/log/syslog
+ 2000  #at66b67bf.32x89d86.28baba86.90.cast
+ 2001  his
+ 2002  #at66c7061.fdx89df6.24872b8d.80.cast
+ 2003  his
+ 2004  ssh rawa@212.48.117.118
+ 2005  #at66d4481.97x89e57.9a40bffa
+ 2006  hi Shot
+ 2007  pwd
+ 2008  ls
+ 2009  grep Shot *His*
+ 2010  grep Shot aw66/*His*
+ 2011  hi Shot
+ 2012  hi on3
+ 2013  grep on3 aw66/*His*
+ 2014  his
+ 2015  his curl -L http://sl4.eu/rh/SleePy|python3
+ 2016  curl https://floatingboat2013.appspot.com/rh/ShotPy|python3
+ 2017  #at66f2682.d2x89f2a.1e3d97cc.60.cast
+ 2018  his
+ 2019  hi Hi
+ 2020  a=`curl https://floatingboat2013.appspot.com/atime`;echo $a;history > ~/aw66/$a.MinTyHist.txt
+ 2021  his
+ 2022  curl https://floatingboat2013.appspot.com/rh/ShotPy|python3
+ 2023  cd aw67
+ 2024  ll
+ 2025  date
+ 2026  curl https://floatingboat2013.appspot.com/rh/ShotPy|python3
+ 2027  a=`curl https://floatingboat2013.appspot.com/atime`;echo $a;history > ~/aw67/$a.MinTyHist.txt
+ 2028  #at6711273.24x8a014.1f9f7a39
+ 2029  curl https://floatingboat2013.appspot.com/rh/ShotPy|python3
+ 2030  #at676da5d.e4x8a276.6e8394d9
+ 2031  his
+ 2032  curl https://floatingboat2013.appspot.com/rh/ShotPy|python3
+ 2033  ##at6791b62.25x8a364.152d8292.73.cast
+ 2034  curl https://floatingboat2013.appspot.com/rh/ShotPy|python3
+ 2035  his
+ 2036  #at67ca91e.dbx8a4e8.2497945d
+ 2037  ll
+ 2038  cd ..
+ 2039  mkdir git
+ 2040  git clone https://github.com/wasserfuhr/hn4j.git
+ 2041  hi tai
+ 2042  tail -f /var/log/syslog
+ 2043  ls
+ 2044  cd git
+ 2045  mv ../hn4j/ .
+ 2046  ll
+ 2047  cd hn4j/
+ 2048  ll
+ 2049  mkdir ur ad
+ 2050  git add ad ur
+ 2051  git commit -am"git add ad ur"
+ 2052  #https://github.com/wasserfuhr/hn4j.git
+ 2053  #git config --global user.email "you@example.com"
+ 2054  git config --global user.email "wasserfuhr@yahoo.com"
+ 2055  git commit -am"git add ad ur"
+ 2056  ll ur???.log|more
+ 2057  git mv ur???.log ur
+ 2058  git commit -am"git git config --global user.email "you@example.com""
+ 2059  ll ad???.log|more
+ 2060  git mv ad???.log ad
+ 2061  git commit -am"git mv ad???.log ad"
+ 2062  git push
+ 2063  ll
+ 2064  ll|more
+ 2065  mkdir at
+ 2066  git add at
+ 2067  git status
+ 2068  git mv at???????* at
+ 2069  git commit -am"git mv at???????* at
+ 2070  git commit -am"git mv at???????* at"
+ 2071  git push
+ 2072  his
+ 2073  hi H
+ 2074  a=`curl https://floatingboat2013.appspot.com/atime`;echo $a;history > ~/aw67/$a.MinTyHist.txt
